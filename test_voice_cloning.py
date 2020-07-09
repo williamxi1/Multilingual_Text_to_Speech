@@ -1,7 +1,7 @@
 import sys
 import os
-import IPython
-from IPython.display import Audio
+#import IPython
+#from IPython.display import Audio
 
 
 inputs = [
@@ -49,9 +49,10 @@ waveforms = [generate(model, s, hp.voc_gen_batched, hp.voc_target, hp.voc_overla
 from scipy.io.wavfile import write
 import numpy as np
 
+os.chdir(os.path.join(os.path.expanduser("~"), "audiofiles"))
 for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
   write('test.wav', hp.sample_rate, w_scaled)
-  IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))
+  #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))
