@@ -19,7 +19,6 @@ if "utils" in sys.modules:
 
 from synthesize import synthesize
 from utils import build_model
-os.chdir(os.path.join(os.getcwd(), tacotron_dir))
 model = build_model(os.path.join(os.path.join(os.path.dirname(os.getcwd()), "checkpoints"), tacotron_chpt))
 model.eval()
 
