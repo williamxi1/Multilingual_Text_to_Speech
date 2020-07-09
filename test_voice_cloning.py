@@ -26,7 +26,7 @@ model.eval()
 spectrograms = [synthesize(model, "|" + i) for i in inputs]
 #print(spectrograms[0].shape)
 
-os.chdir(os.path.join(os.path.join(os.path.dirname(os.getcwd()), wavernn_dir))
+os.chdir(os.path.join(os.path.join(os.path.dirname(os.getcwd()), wavernn_dir)))
 if "utils" in sys.modules:
     del sys.modules["utils"]
 
