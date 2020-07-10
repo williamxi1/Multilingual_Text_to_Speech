@@ -81,6 +81,7 @@ class TextToSpeechDataset(torch.utils.data.Dataset):
         self.unique_speakers = known_unique_speakers.copy()
         unique_speakers_set = set(self.unique_speakers)
         self.items = []
+
         with open(meta_file, 'r', encoding='utf-8') as f:
             for line in f:
                 line_tokens = line[:-1].split('|')

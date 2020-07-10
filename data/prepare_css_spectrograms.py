@@ -30,14 +30,14 @@ if __name__ == '__main__':
     hp.num_fft = args.num_fft
 
     files_to_solve = [
-        (args.css10_directory, "train.txt"),
-        (args.css10_directory, "val.txt"),
-        (args.css_comvoi_directory, "train.txt"),
-        (args.css_comvoi_directory, "val.txt"),
+        (args.css10_directory, "newtrain.txt"),
+        (args.css10_directory, "newval.txt"),
+        #(args.css_comvoi_directory, "train.txt"),
+        #(args.css_comvoi_directory, "val.txt"),
     ]
 
-    spectrogram_dirs = [os.path.join(args.comvoi_directory, 'spectrograms'), 
-                        os.path.join(args.comvoi_directory, 'linear_spectrograms'),
+    spectrogram_dirs = [#os.path.join(args.comvoi_directory, 'spectrograms'),
+                        #os.path.join(args.comvoi_directory, 'linear_spectrograms'),
                         os.path.join(args.css10_directory, 'spectrograms'), 
                         os.path.join(args.css10_directory, 'linear_spectrograms')]
     for x in spectrogram_dirs:
@@ -47,10 +47,6 @@ if __name__ == '__main__':
     for d, fs in files_to_solve:
         with open(os.path.join(d,fs), 'r', encoding='utf-8') as f:
             metadata.append((d, fs, [line.rstrip().split('|') for line in f]))
-    print("metadata len: ", len(metadata[0][2]))
-    print("metadata len: ", len(metadata[1][2]))
-    print("metadata len: ", len(metadata[2][2]))
-    print("metadata len: ", len(metadata[3][2]))
 
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:  
