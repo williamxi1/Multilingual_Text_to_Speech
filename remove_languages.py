@@ -23,7 +23,7 @@ for d, fs in files_to_append:
         cntr = 0
         for line in f:
             line = line.rstrip().split('|')
-            new_stuff = ["0" + str(70000+cntr), "english", "english", "english/wav/" + line[0] + ".wav", "", "", line[2], ""]
+            new_stuff = ["0" + str(70000+cntr), "english", "english", "english/wavs/" + line[0] + ".wav", "", "", line[2], ""]
             cntr += 1
             if(cntr % 204 == 0):
                 metadata[1][2].append(new_stuff)

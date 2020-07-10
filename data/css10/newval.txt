@@ -318,67 +318,67 @@
 001864|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0048.wav|||ránér yuányīn yě zǒng kěyǐ suànzuò yīgè yuányīn。 wǒ de chóu māo， shì hé zhè dàdà liǎngyáng de。|
 002793|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0977.wav|||dàn bùdà hējǐu le， yě hěnshǎo yǒu gōngfū tánxiántiān。 tā bànshì， jiān jiàoshū， shízài qínkuài dé kěyǐ。|
 001317|chinese|chinese|chinese/call_to_arms/call_to_arms_1317.wav|||fēi tè xìucái yīnwèi shàngchéng qù bàoguān， bèi bùhǎo de gémìngdǎng jiǎn le biànzǐ， érqiě yòu pòfèi le èrshí qiān de shǎngqián， suǒyǐ quánjiā yě hàotáo le。|
-070203|english|english|english/wav/LJ002-0018.wav|||The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,|
-070407|english|english|english/wav/LJ002-0223.wav|||The principle of "chummage" prevailed as in the King's Bench,|
-070611|english|english|english/wav/LJ003-0089.wav|||Occasionally the transports made themselves so useful in the jail that they were passed over.|
-070815|english|english|english/wav/LJ003-0294.wav|||This committee made its report in September the following year, and an excellent report it is, so far as its recommendations are concerned.|
-071019|english|english|english/wav/LJ004-0150.wav|||Matters were on much the same footing at St. Albans.|
-071223|english|english|english/wav/LJ005-0105.wav|||It was long before the many jurisdictions imitated the few.|
-071427|english|english|english/wav/LJ006-0009.wav|||backed up by the evidence of several influential witnesses.|
-071631|english|english|english/wav/LJ006-0214.wav|||but no steps were taken to prevent any prisoner from obtaining more if he could pay for it.|
-071835|english|english|english/wav/LJ007-0110.wav|||The rest were detained for more than a month, it being considered that they were the most guilty, as being either professional agents, who advised the others to abscond,|
-072039|english|english|english/wav/LJ008-0071.wav|||In the few years which elapsed between the establishment of the gallows at Newgate|
-072243|english|english|english/wav/LJ008-0276.wav|||Neither in town or country were cases entirely taken on their own merits.|
-072447|english|english|english/wav/LJ009-0161.wav|||capital punishment was abolished for forgery, except in cases of forging or altering wills or powers of attorney to transfer stock.|
-072651|english|english|english/wav/LJ010-0061.wav|||That some thirty or more needy men should hope to revolutionize England is a sufficient proof of the absurdity of their attempt.|
-072855|english|english|english/wav/LJ010-0265.wav|||and on his information handbills were circulated, giving the exact description of the deformed youth, who had a hump-back,|
-073059|english|english|english/wav/LJ011-0152.wav|||The elder brother,|
-073263|english|english|english/wav/LJ012-0063.wav|||By-and-by the turnkeys, sobered by their loss, returned to Newgate alone, and pleaded in excuse that they had been drugged.|
-073467|english|english|english/wav/LJ012-0267.wav|||but his despair must have been great, as was evident from his attempt to strangle himself in the station-house.|
-073671|english|english|english/wav/LJ013-0175.wav|||Upstairs in the bedroom a rouleaux box for sovereigns had been broken open,|
-073875|english|english|english/wav/LJ014-0111.wav|||At the second exact information was obtained of Mrs. Manning's movements. She had gone to Edinburgh.|
-074079|english|english|english/wav/LJ014-0318.wav|||Another set of frauds, which resembled those of Pries in principle, although not in practice, were soon afterwards discovered.|
-074283|english|english|english/wav/LJ015-0183.wav|||His manner was generally self-possessed, but his face was marked with "uneasy earnestness,"|
-074487|english|english|english/wav/LJ016-0073.wav|||Mr. Cope, the governor of Newgate, having been communicated with, proceeded to Winchester, where he at once identified Williams.|
-074691|english|english|english/wav/LJ016-0280.wav|||"There were well-dressed and ill-dressed, old men and lads, women and girls."|
-074895|english|english|english/wav/LJ017-0041.wav|||was thus brought to the Central Criminal Court from Exeter assizes, and that of the Stauntons from Maidstone.|
-075099|english|english|english/wav/LJ017-0245.wav|||On the second October they sighted land, ten miles distant;|
-075303|english|english|english/wav/LJ018-0167.wav|||Nothing was found in Buncher's premises in Strutton Ground, which were thoroughly searched,|
-075507|english|english|english/wav/LJ018-0371.wav|||A case reproducing many of the features of the 'Flowery Land' occurred twelve years later, when the crew of the 'Lennie'|
-075711|english|english|english/wav/LJ019-0177.wav|||A scheme for heating the whole prison with hot-water pipes, after the system now generally adopted elsewhere, was considered,|
-075915|english|english|english/wav/LJ019-0381.wav|||in another there was half-heartedness, even apathy and an almost complete contempt for the provisions of the act.|
-076119|english|english|english/wav/LJ021-0079.wav|||Nevertheless the gains of trade and industry, as a whole, have been substantial.|
-076323|english|english|english/wav/LJ022-0073.wav|||Our problem is to put to work three and one-half million employable persons now on the relief rolls.|
-076527|english|english|english/wav/LJ023-0074.wav|||But a little later the Court itself admitted|
-076731|english|english|english/wav/LJ024-0137.wav|||and unwilling to assert legislative powers by writing into it their own political and economic policies.|
-076935|english|english|english/wav/LJ026-0022.wav|||if chlorophyll is absent, carbon is obtained from sugar or some similar compound,|
-077139|english|english|english/wav/LJ027-0060.wav|||All vertebrates, and none other, have a number of their anterior vertebral joints enlarged and consolidated into a box to form the skull,|
-077343|english|english|english/wav/LJ028-0085.wav|||The eyes are suggestive of the Semitic; the nose is of the Greek type;|
-077547|english|english|english/wav/LJ028-0290.wav|||he came in this plight before Darius.|
-077751|english|english|english/wav/LJ028-0494.wav|||Between the several sections were wide spaces where foot soldiers and charioteers might fight.|
-077955|english|english|english/wav/LJ029-0179.wav|||Although there were critical editorials and letters to the editors, the news stories reflected the desire of Dallas officials to welcome the President with dignity and courtesy.|
-078159|english|english|english/wav/LJ030-0170.wav|||Governor Connally testified that he recognized the first noise as a rifle shot|
-078363|english|english|english/wav/LJ031-0119.wav|||The fracture was set, and a cast was applied with some traction utilized.|
-078567|english|english|english/wav/LJ032-0090.wav|||This, too, was a forgery. The signature of "A. J. Hideel" was in the handwriting of Lee Harvey Oswald.|
-078771|english|english|english/wav/LJ033-0019.wav|||According to the testimony of Frazier, Marina Oswald, and Ruth Paine, it appears that Oswald never returned to Irving in midweek|
-078975|english|english|english/wav/LJ034-0009.wav|||Palmprints and Fingerprints on Cartons and Paper Bag|
-079179|english|english|english/wav/LJ034-0214.wav|||Investigation has established that Altgens' picture was taken approximately two seconds after the firing of the shot|
-079383|english|english|english/wav/LJ035-0199.wav|||but it was probably no earlier than one:twenty-two p.m., the time when the rifle was found.|
-079587|english|english|english/wav/LJ036-0193.wav|||Description of Shooting|
-079791|english|english|english/wav/LJ037-0179.wav|||was discarded along with the others as Oswald left the scene.|
-079995|english|english|english/wav/LJ038-0114.wav|||Her testimony was fully supported by a photography expert who testified that in his opinion the pictures were not composites.|
-080199|english|english|english/wav/LJ039-0014.wav|||Marina Oswald appeared before the Commission again on June eleven, nineteen sixty-four,|
-080403|english|english|english/wav/LJ039-0218.wav|||Simmons described it as, quote, quite accurate, end quote, in fact, as accurate as current military rifles.|
-080607|english|english|english/wav/LJ040-0174.wav|||Lee confirmed some of those observations by saying that he felt almost as if there were a veil between him and other people|
-080811|english|english|english/wav/LJ041-0138.wav|||and that she could not think of any reason why Oswald would want to kill President Kennedy.|
-081015|english|english|english/wav/LJ042-0140.wav|||She said that, quote, immediately after coming to the United States, Lee changed. I did not know him as such a man in Russia, end quote.|
-081219|english|english|english/wav/LJ043-0094.wav|||This was at least in part because of the close physical confines in which some of the work had to be done.|
-081423|english|english|english/wav/LJ044-0111.wav|||for anybody who is concerned about developments in Cuba, end quote,|
-081627|english|english|english/wav/LJ045-0077.wav|||because of insufficient postage, which apparently resulted from an increase in postal rates of which his wife had been unaware.|
-081831|english|english|english/wav/LJ046-0031.wav|||The protective task is further complicated by the reluctance of Presidents to take security precautions which might interfere with the performance of their duties,|
-082035|english|english|english/wav/LJ046-0235.wav|||Except for its special "trip index" file of four hundred names,|
-082239|english|english|english/wav/LJ047-0185.wav|||I had now established that Lee Oswald was not employed in a sensitive industry.|
-082443|english|english|english/wav/LJ048-0140.wav|||Agent Lawson's advance planning called for the deployment of almost six hundred members of the Dallas Police Department,|
-082647|english|english|english/wav/LJ049-0055.wav|||All agents are so instructed.|
-082851|english|english|english/wav/LJ050-0030.wav|||The Commission also recommends|
-083055|english|english|english/wav/LJ050-0234.wav|||It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.|
+070203|english|english|english/wavs/LJ002-0018.wav|||The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,|
+070407|english|english|english/wavs/LJ002-0223.wav|||The principle of "chummage" prevailed as in the King's Bench,|
+070611|english|english|english/wavs/LJ003-0089.wav|||Occasionally the transports made themselves so useful in the jail that they were passed over.|
+070815|english|english|english/wavs/LJ003-0294.wav|||This committee made its report in September the following year, and an excellent report it is, so far as its recommendations are concerned.|
+071019|english|english|english/wavs/LJ004-0150.wav|||Matters were on much the same footing at St. Albans.|
+071223|english|english|english/wavs/LJ005-0105.wav|||It was long before the many jurisdictions imitated the few.|
+071427|english|english|english/wavs/LJ006-0009.wav|||backed up by the evidence of several influential witnesses.|
+071631|english|english|english/wavs/LJ006-0214.wav|||but no steps were taken to prevent any prisoner from obtaining more if he could pay for it.|
+071835|english|english|english/wavs/LJ007-0110.wav|||The rest were detained for more than a month, it being considered that they were the most guilty, as being either professional agents, who advised the others to abscond,|
+072039|english|english|english/wavs/LJ008-0071.wav|||In the few years which elapsed between the establishment of the gallows at Newgate|
+072243|english|english|english/wavs/LJ008-0276.wav|||Neither in town or country were cases entirely taken on their own merits.|
+072447|english|english|english/wavs/LJ009-0161.wav|||capital punishment was abolished for forgery, except in cases of forging or altering wills or powers of attorney to transfer stock.|
+072651|english|english|english/wavs/LJ010-0061.wav|||That some thirty or more needy men should hope to revolutionize England is a sufficient proof of the absurdity of their attempt.|
+072855|english|english|english/wavs/LJ010-0265.wav|||and on his information handbills were circulated, giving the exact description of the deformed youth, who had a hump-back,|
+073059|english|english|english/wavs/LJ011-0152.wav|||The elder brother,|
+073263|english|english|english/wavs/LJ012-0063.wav|||By-and-by the turnkeys, sobered by their loss, returned to Newgate alone, and pleaded in excuse that they had been drugged.|
+073467|english|english|english/wavs/LJ012-0267.wav|||but his despair must have been great, as was evident from his attempt to strangle himself in the station-house.|
+073671|english|english|english/wavs/LJ013-0175.wav|||Upstairs in the bedroom a rouleaux box for sovereigns had been broken open,|
+073875|english|english|english/wavs/LJ014-0111.wav|||At the second exact information was obtained of Mrs. Manning's movements. She had gone to Edinburgh.|
+074079|english|english|english/wavs/LJ014-0318.wav|||Another set of frauds, which resembled those of Pries in principle, although not in practice, were soon afterwards discovered.|
+074283|english|english|english/wavs/LJ015-0183.wav|||His manner was generally self-possessed, but his face was marked with "uneasy earnestness,"|
+074487|english|english|english/wavs/LJ016-0073.wav|||Mr. Cope, the governor of Newgate, having been communicated with, proceeded to Winchester, where he at once identified Williams.|
+074691|english|english|english/wavs/LJ016-0280.wav|||"There were well-dressed and ill-dressed, old men and lads, women and girls."|
+074895|english|english|english/wavs/LJ017-0041.wav|||was thus brought to the Central Criminal Court from Exeter assizes, and that of the Stauntons from Maidstone.|
+075099|english|english|english/wavs/LJ017-0245.wav|||On the second October they sighted land, ten miles distant;|
+075303|english|english|english/wavs/LJ018-0167.wav|||Nothing was found in Buncher's premises in Strutton Ground, which were thoroughly searched,|
+075507|english|english|english/wavs/LJ018-0371.wav|||A case reproducing many of the features of the 'Flowery Land' occurred twelve years later, when the crew of the 'Lennie'|
+075711|english|english|english/wavs/LJ019-0177.wav|||A scheme for heating the whole prison with hot-water pipes, after the system now generally adopted elsewhere, was considered,|
+075915|english|english|english/wavs/LJ019-0381.wav|||in another there was half-heartedness, even apathy and an almost complete contempt for the provisions of the act.|
+076119|english|english|english/wavs/LJ021-0079.wav|||Nevertheless the gains of trade and industry, as a whole, have been substantial.|
+076323|english|english|english/wavs/LJ022-0073.wav|||Our problem is to put to work three and one-half million employable persons now on the relief rolls.|
+076527|english|english|english/wavs/LJ023-0074.wav|||But a little later the Court itself admitted|
+076731|english|english|english/wavs/LJ024-0137.wav|||and unwilling to assert legislative powers by writing into it their own political and economic policies.|
+076935|english|english|english/wavs/LJ026-0022.wav|||if chlorophyll is absent, carbon is obtained from sugar or some similar compound,|
+077139|english|english|english/wavs/LJ027-0060.wav|||All vertebrates, and none other, have a number of their anterior vertebral joints enlarged and consolidated into a box to form the skull,|
+077343|english|english|english/wavs/LJ028-0085.wav|||The eyes are suggestive of the Semitic; the nose is of the Greek type;|
+077547|english|english|english/wavs/LJ028-0290.wav|||he came in this plight before Darius.|
+077751|english|english|english/wavs/LJ028-0494.wav|||Between the several sections were wide spaces where foot soldiers and charioteers might fight.|
+077955|english|english|english/wavs/LJ029-0179.wav|||Although there were critical editorials and letters to the editors, the news stories reflected the desire of Dallas officials to welcome the President with dignity and courtesy.|
+078159|english|english|english/wavs/LJ030-0170.wav|||Governor Connally testified that he recognized the first noise as a rifle shot|
+078363|english|english|english/wavs/LJ031-0119.wav|||The fracture was set, and a cast was applied with some traction utilized.|
+078567|english|english|english/wavs/LJ032-0090.wav|||This, too, was a forgery. The signature of "A. J. Hideel" was in the handwriting of Lee Harvey Oswald.|
+078771|english|english|english/wavs/LJ033-0019.wav|||According to the testimony of Frazier, Marina Oswald, and Ruth Paine, it appears that Oswald never returned to Irving in midweek|
+078975|english|english|english/wavs/LJ034-0009.wav|||Palmprints and Fingerprints on Cartons and Paper Bag|
+079179|english|english|english/wavs/LJ034-0214.wav|||Investigation has established that Altgens' picture was taken approximately two seconds after the firing of the shot|
+079383|english|english|english/wavs/LJ035-0199.wav|||but it was probably no earlier than one:twenty-two p.m., the time when the rifle was found.|
+079587|english|english|english/wavs/LJ036-0193.wav|||Description of Shooting|
+079791|english|english|english/wavs/LJ037-0179.wav|||was discarded along with the others as Oswald left the scene.|
+079995|english|english|english/wavs/LJ038-0114.wav|||Her testimony was fully supported by a photography expert who testified that in his opinion the pictures were not composites.|
+080199|english|english|english/wavs/LJ039-0014.wav|||Marina Oswald appeared before the Commission again on June eleven, nineteen sixty-four,|
+080403|english|english|english/wavs/LJ039-0218.wav|||Simmons described it as, quote, quite accurate, end quote, in fact, as accurate as current military rifles.|
+080607|english|english|english/wavs/LJ040-0174.wav|||Lee confirmed some of those observations by saying that he felt almost as if there were a veil between him and other people|
+080811|english|english|english/wavs/LJ041-0138.wav|||and that she could not think of any reason why Oswald would want to kill President Kennedy.|
+081015|english|english|english/wavs/LJ042-0140.wav|||She said that, quote, immediately after coming to the United States, Lee changed. I did not know him as such a man in Russia, end quote.|
+081219|english|english|english/wavs/LJ043-0094.wav|||This was at least in part because of the close physical confines in which some of the work had to be done.|
+081423|english|english|english/wavs/LJ044-0111.wav|||for anybody who is concerned about developments in Cuba, end quote,|
+081627|english|english|english/wavs/LJ045-0077.wav|||because of insufficient postage, which apparently resulted from an increase in postal rates of which his wife had been unaware.|
+081831|english|english|english/wavs/LJ046-0031.wav|||The protective task is further complicated by the reluctance of Presidents to take security precautions which might interfere with the performance of their duties,|
+082035|english|english|english/wavs/LJ046-0235.wav|||Except for its special "trip index" file of four hundred names,|
+082239|english|english|english/wavs/LJ047-0185.wav|||I had now established that Lee Oswald was not employed in a sensitive industry.|
+082443|english|english|english/wavs/LJ048-0140.wav|||Agent Lawson's advance planning called for the deployment of almost six hundred members of the Dallas Police Department,|
+082647|english|english|english/wavs/LJ049-0055.wav|||All agents are so instructed.|
+082851|english|english|english/wavs/LJ050-0030.wav|||The Commission also recommends|
+083055|english|english|english/wavs/LJ050-0234.wav|||It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.|
