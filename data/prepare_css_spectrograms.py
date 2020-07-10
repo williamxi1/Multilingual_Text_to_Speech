@@ -30,7 +30,7 @@ if __name__ == '__main__':
     hp.num_fft = args.num_fft
 
     files_to_solve = [
-        (args.css10_directory, "train.txt"),
+        (args.css10_directory, "train5.txt"),
         (args.css10_directory, "val.txt"),
         (args.css_comvoi_directory, "train.txt"),
         (args.css_comvoi_directory, "val.txt"),
