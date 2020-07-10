@@ -31,7 +31,7 @@ def vctk(root_path, meta_files=None):
 
 def mailabs(root_path, meta_files=None):
     """Load M-AILABS sound and meta files."""
-    if meta_files is None: meta_files = glob(f"{root_path}/*/*/*/*/metadata.csv", recursive=True)
+    if meta_files is None: meta_files = glob(f"{root_path}/*/*/*/*/metadata.txt", recursive=True)
     meta_files.sort()
     items = []
     for meta_file in meta_files:
@@ -98,7 +98,7 @@ def my_blizzard(root_path, meta_files=None):
 
 def ljspeech(root_path, meta_file=None):
     """Load the LJ Speech audios and meta files"""
-    if meta_file is None: txt_file = os.path.join(root_path, "metadata.csv")
+    if meta_file is None: txt_file = os.path.join(root_path, "metadata.txt")
     assert os.path.isfile(txt_file), (f'Dataset meta-file not found: given given {txt_file}')  
     items = []
     speaker_name = ""
