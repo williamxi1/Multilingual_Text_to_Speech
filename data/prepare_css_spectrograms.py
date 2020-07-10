@@ -58,6 +58,7 @@ if __name__ == '__main__':
                 spec_name = idx + '.npy'      
                 audio_path = os.path.join(d, a)       
                 audio_data = audio.load(audio_path)
+                print(idx, l, a)
 
                 splitted_a = a.split("/")
                 if splitted_a[0] == "..":
