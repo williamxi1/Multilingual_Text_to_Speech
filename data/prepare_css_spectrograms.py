@@ -47,7 +47,7 @@ if __name__ == '__main__':
     for d, fs in files_to_solve:
         with open(os.path.join(d,fs), 'r', encoding='utf-8') as f:
             metadata.append((d, fs, [line.rstrip().split('|') for line in f]))
-    print(metadata[0])
+    print("metadata len: ", len(metadata))
 
     print(f'Please wait, this may take a very long time.')
     for d, fs, m in metadata:  
