@@ -9,7 +9,7 @@ class Params:
     **************** PARAMETERS OF TRAINING LOOP ****************
     """
     
-    epochs = 300                         # training epochs
+    epochs = 6                         # training epochs
     batch_size = 52                      # batch size during training (is parallelization is True, each GPU has batch_size // num_gpus examples)
                                          # if using encoder_type 'convolutional' or 'generated', should be divisible by the number of languages 
     learning_rate = 1e-3                 # starting learning rate
@@ -30,7 +30,7 @@ class Params:
     teacher_forcing = 1.0                # ratio of ground-truth frames, used if constant_teacher_forcing is True
     teacher_forcing_steps = 100000       # used if constant_teacher_forcing is False, cosine decay spans this number of trainig steps starting at teacher_forcing_start_steps
     teacher_forcing_start_steps = 50000  # number of training steps after which the teacher forcing decay starts 
-    checkpoint_each_epochs = 10          # save a checkpoint every this number epochs
+    checkpoint_each_epochs = 3         # save a checkpoint every this number epochs
     parallelization = True               # if True, DataParallel (parallel batch) is used, supports any number of GPUs
 
     """
