@@ -45,7 +45,10 @@ for d, fs, m in metadata:
             if l in valid_lang:
                 valid_data.append([idx, s, l, a, raw_text, ph])
         #valid_data.sort(key = lambda x:int(x[0]))
+        cntr = 1
         for data in valid_data:
             idx, s, l, a, raw_text, ph = data
-            print(f'{idx}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            if(cntr % 4 != 0 or (l == "chinese" and fs == "train.txt")):
+                print(f'{idx}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            cntr += 1
 

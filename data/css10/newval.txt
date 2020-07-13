@@ -1,256 +1,192 @@
 015685|french|french|french/lesmis/lesmis_1379.wav|||sans faire de brèche praticable, avait assez largement échancré le milieu de la redoute; là,|
 022830|french|french|french/lupincontresholme/lupincontresholme_3029.wav|||Sholmès se courba vivement et couvrit son visage de ses deux mains afin de masquer sa rougeur.|
 015405|french|french|french/lesmis/lesmis_1099.wav|||Quand Jean Valjean fut seul avec Javert, il défit la corde qui assujettissait le prisonnier par le milieu du corps, et dont le noeud était sous la table.|
-017257|french|french|french/lesmis/lesmis_2951.wav|||le laissa sur la table, et sortit du poste. La porte vitrée et grillée retomba derrière lui.|
 017474|french|french|french/lesmis/lesmis_3168.wav|||d'André Chénier qui a été égorgé par les scélér.par les géants de quatre-vingt-treize.|
 017746|french|french|french/lesmis/lesmis_3440.wav|||aucune des impressions humaines, ni les impressions plaisantes, ni les impressions|
 020194|french|french|french/lupincontresholme/lupincontresholme_0393.wav|||Jamais Ganimard n'oserait violer la demeure d'un citoyen français. Nous aurions le temps de faire un excellent bridge.|
-014432|french|french|french/lesmis/lesmis_0126.wav|||Barthélemy, maigre, chétif, pâle, taciturne,|
 018512|french|french|french/lesmis/lesmis_4206.wav|||ni à faire taire quelqu'un qui me parle bas quand je suis seul. C'est pourquoi je suis venu vous avouer tout ce matin. Tout, ou à peu près tout.|
 021568|french|french|french/lupincontresholme/lupincontresholme_1767.wav|||dans le but de lui ravir le diamant bleu, et vous l'avez tué. De nouveau elle murmura, brisée, réduite à la prière:|
 016084|french|french|french/lesmis/lesmis_1778.wav|||y flottait dans l'ombre et achevait de s'y déchiqueter. Bruneseau approcha sa lanterne et examina ce lambeau.|
-014623|french|french|french/lesmis/lesmis_0317.wav|||Alors, remués par la parole de Combeferre, ébranlés par l'ordre d'Enjolras, émus par la prière de Marius,|
 015801|french|french|french/lesmis/lesmis_1495.wav|||Grâce à lui, partout présent dans le carnage comme une providence, ceux qui tombaient étaient relevés, transportés dans la salle basse, et pansés.|
 016477|french|french|french/lesmis/lesmis_2171.wav|||Il sentait entre ses jambes le glissement rapide des rats. Un d'eux fut effaré au point de le mordre.|
 020583|french|french|french/lupincontresholme/lupincontresholme_0782.wav|||Je ne puis croire une pareille erreur est inadmissible Monsieur d'Hautrec, vous reconnaissez bien Antoinette Bréhat?|
-020766|french|french|french/lupincontresholme/lupincontresholme_0965.wav|||Il me manque les éléments, les indices sur lesquels j'ai l'habitude d'appuyer mes enquêtes.|
 016766|french|french|french/lesmis/lesmis_2460.wav|||Tu as bien fait. Plus Thénardier était loquace, plus Jean Valjean était muet,|
 020713|french|french|french/lupincontresholme/lupincontresholme_0912.wav|||nous sortons? Non non - Qu'allez-vous faire? Le mieux serait d'agir franchement|
 020042|french|french|french/lupincontresholme/lupincontresholme_0241.wav|||deux heures, les mille billets de mille francs lui furent délivrés. Tandis qu'il les feuilletait un à un, en tremblant|
-015451|french|french|french/lesmis/lesmis_1145.wav|||le souffle des masses armées mises en mouvement dans des rues qu'on ne voyait pas, le galop intermittent de la cavalerie,|
 021571|french|french|french/lupincontresholme/lupincontresholme_1770.wav|||En l'absence de cette personne, il a dû se jeter sur vous, et c'est au cours de la lutte, pour défendre votre vie, que vous l'avez frappé.|
 016482|french|french|french/lesmis/lesmis_2176.wav|||deux autres galeries souterraines, celle de la rue de Provence et celle de l'Abattoir, viennent faire un carrefour.|
 019309|french|french|french/lesmis/lesmis_5003.wav|||Ancien ambassadeur, et une note que nous transcrivons également:|
-015701|french|french|french/lesmis/lesmis_1395.wav|||Mais Enjolras et Marius, et sept ou huit ralliés autour d'eux, s'étaient élancés et les protégeaient. Enjolras avait crié aux soldats: N'avancez pas!|
 014969|french|french|french/lesmis/lesmis_0663.wav|||Un silence provincial régnait. Aucun volet n'était poussé. La loge du portier était fermée.|
 014795|french|french|french/lesmis/lesmis_0489.wav|||Il y eut un tressaillement dans les entrailles de ces vieilles rues paisibles, percées et bâties pour la circulation féconde des intérêts et des idées,|
 015581|french|french|french/lesmis/lesmis_1275.wav|||La génuflexion devant l'idole ou devant l'écu atrophie le muscle qui marche et la volonté qui va.|
-019405|french|french|french/lesmis/lesmis_5099.wav|||car c'était bien lui, était étrangement surpris; il eût été troublé s'il avait pu l'être.|
 019336|french|french|french/lesmis/lesmis_5030.wav|||au centre une cour intérieure où sont les provisions et les munitions, pas de fenêtres, des meurtrières, pas de porte, des échelles,|
 019720|french|french|french/lesmis/lesmis_5414.wav|||C'est plus joli, meilleur, et moins cher. Vous comprenez tout l'argent qu'on peut gagner. La fortune de Cosette est donc bien à elle.|
 015124|french|french|french/lesmis/lesmis_0818.wav|||Une provision de cartouches pour la barricade. La fumée était dans la rue comme un brouillard.|
-016181|french|french|french/lesmis/lesmis_1875.wav|||après avoir, disons-nous, construit la ligne d'égouts de la barrière Blanche au chemin d'Aubervilliers,|
 019267|french|french|french/lesmis/lesmis_4961.wav|||Cet individu vous conserne. Je tiens le secret à votre disposition désirant avoir l'honneur de vous être hutile.|
 016232|french|french|french/lesmis/lesmis_1926.wav|||le plongeur peut y disparaítre. La transition était inouíe. Au milieu même de la ville,|
 017589|french|french|french/lesmis/lesmis_3283.wav|||L'homme aperçu un soir une première fois par Boulatruelle, c'était Jean Valjean. Plus tard,|
-020792|french|french|french/lupincontresholme/lupincontresholme_0991.wav|||Maintenant, parlons du diamant bleu. Aviez-vous essayé de vous l'approprier depuis que le Baron d'Hautrec le possédait? Non.|
 020287|french|french|french/lupincontresholme/lupincontresholme_0486.wav|||Il n'avait pas repoussé la grille que, frappé par le grand air, le visage rafraíchi par la pluie, il s'arrêta.|
 016987|french|french|french/lesmis/lesmis_2681.wav|||toute sa face prit en un instant les angles terreux d'une tête de squelette, ses bras tombèrent pendants comme si un ressort s'y fût brisé,|
 015028|french|french|french/lesmis/lesmis_0722.wav|||Or, il avait sous le bras un volume des mémoires du duc de Saint-Simon.|
-018546|french|french|french/lesmis/lesmis_4240.wav|||C'est moi qui me barre à moi-même le passage, et je me traíne, et je me pousse, et je m'arrête,|
 019341|french|french|french/lesmis/lesmis_5035.wav|||c'est que ce pays est dangereux; il est plein d'anthropophages. Alors pourquoi y va-t-on? c'est que ce pays est merveilleux;|
 015092|french|french|french/lesmis/lesmis_0786.wav|||Quand on est amoureux comme un tigre, c'est bien le moins qu'on se batte comme un lion. C'est une façon de nous venger des traits que nous font mesdames nos grisettes.|
 019919|french|french|french/lupincontresholme/lupincontresholme_0118.wav|||Toute la presse se rua chez Maítre Detinan,|
-020100|french|french|french/lupincontresholme/lupincontresholme_0299.wav|||Et Suzanne? Où est ma fille? Arsène Lupin ferma la porte soigneusement|
 016628|french|french|french/lesmis/lesmis_2322.wav|||qui n'ont pu être vaincus que par un enrochement sur béton, et des couches glaiseuses infectées de gaz du quartier des Martyrs,|
 014848|french|french|french/lesmis/lesmis_0542.wav|||Les conjectures troubles et maladives qui s'étaient ébauchées dans l'esprit de Marius se dissipèrent. Connaissait-il les opinions de monsieur Fauchelevent?|
 022090|french|french|french/lupincontresholme/lupincontresholme_2289.wav|||Un cab passa, un autre cab. Wilson en inscrivit les numéros sur son calepin. Sait-on jamais?|
-016327|french|french|french/lesmis/lesmis_2021.wav|||et s'il trouvait l'ouverture qui s'offrait moins large que le corridor où il était, il n'entrait pas et continuait sa route,|
 021128|french|french|french/lupincontresholme/lupincontresholme_1327.wav|||Victoire! Victoire! s'écria Sholmès, je tiens une extrémité du fil. De quel fil? Celui qui me mènera au but!|
 021705|french|french|french/lupincontresholme/lupincontresholme_1904.wav|||Mais elles sont inutiles. D'accord. Cependant vous ne m'en voudrez pas de les prendre. C'est votre devoir.|
 022660|french|french|french/lupincontresholme/lupincontresholme_2859.wav|||ils ont frété un superbe canot, un vrai navire de guerre, et les voilà qui font force rames. Avant cinq minutes, ce sera l'abordage et je suis perdu.|
-018075|french|french|french/lesmis/lesmis_3769.wav|||après avoir signé sur les registres à la municipalité et à la sacristie,|
 019080|french|french|french/lesmis/lesmis_4774.wav|||Pendant les derniers mois du printemps et les premiers mois de l'été de trente-trois, les passants clairsemés du Marais, les marchands des boutiques,|
 015143|french|french|french/lesmis/lesmis_0837.wav|||Je ne suis pas notaire, C'est la faute à Voltaire, Je suis petit oiseau, C'est la faute à Rousseau.|
 014889|french|french|french/lesmis/lesmis_0583.wav|||Voilà un fusil qui ne fait rien. l'ordre donné par Enjolras, il se leva.|
-014838|french|french|french/lesmis/lesmis_0532.wav|||Gavroche n'était point sans quelque remords à l'endroit de cette lettre. Dans sa hâte de revenir à la barricade, il s'en était défait plutôt qu'il ne l'avait remise.|
 019499|french|french|french/lesmis/lesmis_5193.wav|||Je dis assassinat et vol, monsieur le baron. Et je répète que je parle de faits actuels.|
 020049|french|french|french/lupincontresholme/lupincontresholme_0248.wav|||sinon bonsoir: il rejoint Lupin au rendez-vous qu'ils ont dû fixer,|
 020151|french|french|french/lupincontresholme/lupincontresholme_0350.wav|||qui plus est, cultive au fond de son âme une passion inavouée, aurait refusé de conquérir sa dot!|
-017134|french|french|french/lesmis/lesmis_2828.wav|||Il se faisait en lui une révélation sentimentale, entièrement distincte de l'affirmation légale, son unique mesure jusqu'alors.|
 015597|french|french|french/lesmis/lesmis_1291.wav|||Il ne faut pas, sous prétexte de retour à la raison, aller trop avant dans la descente. La matière existe, la minute existe,|
 020819|french|french|french/lupincontresholme/lupincontresholme_1018.wav|||Il n'y a pas d'obstacle invincible, Monsieur Lupin. Le regard qu'ils échangèrent fut profond,|
 014471|french|french|french/lesmis/lesmis_0165.wav|||On avait trouvé dans la cave une quinzaine de bouteilles pleines, hermétiquement cachetées. Enjolras et Combeferre les examinèrent.|
-019129|french|french|french/lesmis/lesmis_4823.wav|||il avait eu, sans les chercher, de mystérieux renseignements qu'il n'avait pu, à la vérité, approfondir,|
 064256|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_4561.wav|||Estás salvada. escóndete allí. pasa a tu alcoba. Déjame recoger estos vasos de valor, estos candelabros de plata.|
 056465|spanish|spanish|spanish/bailen/bailen_0010.wav|||Doña María, al escuchar esto, palideció, y luego las centellas de la ira brillaron en sus ojos.|
 062780|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3085.wav|||¡Pedir perdón, pedirle perdón! Antes morir|
-059199|spanish|spanish|spanish/bailen/bailen_2744.wav|||Aunque no lo merezcas yo te lo concedo. Llegamos a un punto en que se distinguía un cuerpo tendido boca abajo sobre el suelo.|
 056194|spanish|spanish|spanish/19demarzo/19demarzo_3012.wav|||la guardia polaca llamada noble, y los famosos mamelucos cayeron a sablazos sobre el pueblo,|
 053550|spanish|spanish|spanish/19demarzo/19demarzo_0368.wav|||El piquete de guardias de a caballo trató de conducir al Príncipe al cuartel,|
 057234|spanish|spanish|spanish/bailen/bailen_0779.wav|||Aquella y esta eran de las que tienen el privilegio de no ser nunca olvidadas, pues su curva nariz, sus cabellos entrecanos,|
-053705|spanish|spanish|spanish/19demarzo/19demarzo_0523.wav|||Pero en resumen -dijo al fin- ¿qué es lo que mi señor sacristán espera? ¿Cuenta, sin duda, con ordenarse de menores para|
 058946|spanish|spanish|spanish/bailen/bailen_2491.wav|||entramos en Portugal, y aunque al poco tiempo tuvimos que volvernos, porque el inglés se nos puso por delante, se dieron unas batallas.|
 054932|spanish|spanish|spanish/19demarzo/19demarzo_1750.wav|||Por aquella vez Dios apartó del camino de mi vida el cadalso o el presidio.|
 059641|spanish|spanish|spanish/bailen/bailen_3186.wav|||Mi regimiento fue colocado en la entrada oriental del pueblo. Sería poco más de la una cuando los franceses de Vedel, sin aguardar a que les contestara Dupont,|
-063608|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3913.wav|||Hasta entonces cuantos hombres traté, o se burlaban de mí o no me comprendían.|
 060967|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1272.wav|||A casa, a casa. Te mandaré mañana con un regalito para el señor Molichard. Dame tu carta.|
 053234|spanish|spanish|spanish/19demarzo/19demarzo_0052.wav|||y muchos de los que se alojaban en las casas de aquella calle debieron la vida a la tenacidad con que sus patronos les impidieron la salida.|
 061430|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1735.wav|||Ven al instante, trazado en caracteres que reconocí al momento.|
-060915|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1220.wav|||Bien decía mistress Mitchell, que este animal no sirve para nada. A mí, sin embargo, me pareció digno del carro de Faetonte.|
 061810|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2115.wav|||Todas las noches se reúnen allí y están bien armados.|
 063402|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3707.wav|||Sonó el tiroteo por diversos puntos; las columnas marcharon en silencio.|
 062777|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3082.wav|||Aquélla era la ocasión más propia para confiarle mis deseos. Después de repetir que no le abandonaría, díjele que debía reconciliarse con mi madre.|
-059811|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_0116.wav|||estoy decidida a ir a la corte.|
 054561|spanish|spanish|spanish/19demarzo/19demarzo_1379.wav|||si sigues trabajando, a vuelta de diez años tendrás reunidos sesenta duros, y si siempre persistes en tan buenas ideas, llegarás al fin de tu vida.|
 056797|spanish|spanish|spanish/bailen/bailen_0342.wav|||Habían pasado quinientos noventa y seis años. La coincidencia del lugar y la fecha nos inflamaba más,|
 054831|spanish|spanish|spanish/19demarzo/19demarzo_1649.wav|||y Dios sabe que hasta hoy no he salido de pobre. Mucho romper de zapatos para andar en las actuaciones y nada más.|
-054627|spanish|spanish|spanish/19demarzo/19demarzo_1445.wav|||quedeme asombrado contemplándola, y hasta se me figuró que la había visto en alguna parte; ¿dónde? ¡qué sé yo! sin duda dentro de mí mismo.|
 057663|spanish|spanish|spanish/bailen/bailen_1208.wav|||¡Y yo también! Pero corro a comunicar esta nueva a nuestros amigos -dijo el marqués levantándose. Aguarda -le indicó su hermana-.|
 059257|spanish|spanish|spanish/bailen/bailen_2802.wav|||Sin embargo, yo recibí las que esperaba, y aquí estoy al fin, deseando, como los demás, que tropecemos con los franceses.|
 062065|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2370.wav|||arde en el deseo fogoso de una vida grandiosa, de lucha, de peligro, y no quiere asociar su existencia a la menguada medianía de un hogar pacífico,|
-060333|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_0638.wav|||cosas ambas bonísimas, y a las cuales deberemos el triunfo al fin y a la postre.|
 062430|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2735.wav|||ni daba ella al viento la cabellera, cual llama de fuego simbolizando el pensamiento,|
 053588|spanish|spanish|spanish/19demarzo/19demarzo_0406.wav|||aquí no servís más que de estorbo. Idos a jugar. Vaya, para que os quitéis de en medio, os permito que toquéis un poquito las campanas, picarones.|
 057219|spanish|spanish|spanish/bailen/bailen_0764.wav|||las dos ventanas angreladas junto a un mirador moderno; el farol sostenido por pesada armadura de hierro dulce, en cuyo centro se retorcían algunas letras iniciales|
-062751|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3056.wav|||Entonces formé mi proyecto, aunque no le dije nada, esperando que el dominio que ejercía sobre él llegase al último grado. ¿Qué proyecto?|
 061634|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1939.wav|||Yo he visto en alguna parte esta nariz insolente y esta boca infernal que se abre hasta las orejas para reír con desvergüenza y descaro.|
 059528|spanish|spanish|spanish/bailen/bailen_3073.wav|||Al mover la mano me lastimé un dedo|
 059455|spanish|spanish|spanish/bailen/bailen_3000.wav|||¡Dios mío! ¡Esas mujeres que pasan corriendo! Sin duda los muy tunantes intentan deshonrarlas. Me voy.|
-057618|spanish|spanish|spanish/bailen/bailen_1163.wav|||y como el ruido no me dejaba pensar, busqué la soledad de aquel lugar recogido y pacífico,|
 057132|spanish|spanish|spanish/bailen/bailen_0677.wav|||Para concertarse de nuevo y formar otra vez sus columnas tuvieron que retroceder al otro lado del puente del Herrumblar.|
 060344|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_0649.wav|||y al fin entre los más brillantes soldados escoceses, ingleses y españoles,|
 059936|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_0241.wav|||Me dormí, y no se crea que ahora van a salir fantasmas, ni que los rotos artesonados o vetustas paredes de la histórica casa, ogaño palacio y hoy venta,|
-056800|spanish|spanish|spanish/bailen/bailen_0345.wav|||¡Oh, qué desengaño! Estábamos muertos de hambre y cansancio, y se nos dijo que no había más que un tercio de ración.|
 059523|spanish|spanish|spanish/bailen/bailen_3068.wav|||me preguntó con perplejidad. Yo haré lo que deba, Inesilla.|
 061816|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2121.wav|||Te lo regalaré con albarda y todo. mas no busques ya nada en ella. Lo que merezcas te lo daré cuando nos hallemos sin peligro fuera de las puertas de la ciudad|
 064138|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_4443.wav|||El dominio de aquella hermosa y excelente criatura sobre su padre era tan grande que Santorcaz pareció creerlo todo tal como ella lo decía.|
-054363|spanish|spanish|spanish/19demarzo/19demarzo_1181.wav|||cuando estamos perplejos sin saber qué dirección tomar, si el cuerpo se abandona a su instinto, se inclinará hacia la derecha,|
 059127|spanish|spanish|spanish/bailen/bailen_2672.wav|||Al volver, he encontrado a esta gente un poco menos atrasada. Parece que hay aquí cierta disposición a las cosas atrevidas y nuevas.|
 059314|spanish|spanish|spanish/bailen/bailen_2859.wav|||Las señoras de Alcolea, las de Carmona, Lora del Río y otros pueblos|
 058191|spanish|spanish|spanish/bailen/bailen_1736.wav|||todos los generales corrieron hacia la izquierda del camino, y los jefes de los batallones aguardaban órdenes decisivas del estado mayor.|
-053738|spanish|spanish|spanish/19demarzo/19demarzo_0556.wav|||para que refrescando en ella nos contemos nuestras vidas. Lopito era un chicuelo de esos que prematuramente se quieren hacer pasar por hombres,|
 057825|spanish|spanish|spanish/bailen/bailen_1370.wav|||Estas conversaciones me enamoran -dijo el condesito de Rumblar-. Me estaría toda la noche oyendo a este hombre, sin cansarme.|
 061800|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2105.wav|||Excelencia, la mesonera me dijo que estabais aquí, y he venido a deciros. ¿Qué?|
 055968|spanish|spanish|spanish/19demarzo/19demarzo_2786.wav|||También conozco a dos oficiales franceses. ¿Podrán hacer algo por ella? Vamos: las diez. ¡Ay! ¿No oíste una descarga?|
-055670|spanish|spanish|spanish/19demarzo/19demarzo_2488.wav|||de todos aquellos que no eran mayorazgos ni se sentían inclinados al claustro; la idea de adquirir una plaza en la administración.|
 062344|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2649.wav|||Lord Wellington mandó atacar los fuertes por mera conveniencia moral y por infundir aliento a los soldados, que no habían combatido desde Arroyo Molinos.|
 058149|spanish|spanish|spanish/bailen/bailen_1694.wav|||aún le parecía que el buen momio de la corona duraría bastante tiempo.|
 058798|spanish|spanish|spanish/bailen/bailen_2343.wav|||las cuales personas eran los vecinos más adictos a la simpática persona del Gran Capitán, y además entusiastas creyentes de sus noticias,|
-054157|spanish|spanish|spanish/19demarzo/19demarzo_0975.wav|||y la longanimidad de los Requejos. Pero sigamos la descripción de la casa.|
 060135|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_0440.wav|||No había acabado el capítulo hermosísimo que se titula, Descripción de la miseria humana y origen de su fragilidad, cuando sentí un calofrío muy intenso en todo mi cuerpo,|
 057655|spanish|spanish|spanish/bailen/bailen_1200.wav|||Dictábalas el entusiasmo y las devoraba la credulidad, y como nadie las discutía, el efecto era inmenso. Según la Gaceta Ministerial,|
 056988|spanish|spanish|spanish/bailen/bailen_0533.wav|||y más nos lo hacía creer lacircunstancia de que varios oficiales pasaron frecuentemente de un campo a otro, trayendo y llevando despachos.|
-060976|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1281.wav|||El refrán dice: Aquí caerá Sansón; pero yo digo: Aquí caerá Marmont y cuantos con él son.|
 061954|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2259.wav|||¡Tunante! grité desenvainando-. Voy a enseñarte cómo se habla con las señoras. El marquesito ha sacado el asador -dijo el primero-.|
 062627|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_2932.wav|||Llamando a mi asistente que estaba en la calle, le di orden de que proporcionase a Inés cuanto fuese preciso y existiera en el lugar.|
 061156|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_1461.wav|||Uno, dos, tres, cuatro. allí traen otro. Son cinco. Y esa tierra, mi sargento, ¿para qué es? No he visto un animal semejante.|
-063907|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_4212.wav|||Padre -dijo Inés sin dar gran importancia al frenesí del anciano-. ¿No me has dicho que esta casa es mía? ¿No me has entregado las llaves?|
 001904|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0088.wav|||tīngshuō xīyáng shì bù hěn xǐhuān hēimāo de， bù zhīdào kěquè;|
 002641|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0825.wav|||dōngjīng yě wúfēi shì zhèyáng。 shàngyě de yīnghuā lànmàn de shíjié， wàngqù què yě xiàng fēihóng de qīngyún，|
 000907|chinese|chinese|chinese/call_to_arms/call_to_arms_0907.wav|||nà háizǐ què hàixīu， jǐnjǐn de zhǐ tiē zài tā bèihòu。 tā jìushì shǔishēng? dìwǔgè?|
-001706|chinese|chinese|chinese/call_to_arms/call_to_arms_1706.wav|||qícì biànshì yītóng qù fàngníu， dàn huòzhě yīnwèi gāoděngdòngwù le de yuángù bà， huángníu shǔiníu dū qīshēng， gǎnyú qīwǔ wǒ，|
 001619|chinese|chinese|chinese/call_to_arms/call_to_arms_1619.wav|||cóng zhè héchí lǐ， sūirán cónglái méiyǒu jiàn guòyǎng chūbànduǒ héhuā lái， ránér yǎng xiāmá què shízài shì yīgè jí héshì de chùsuǒ。|
 000146|chinese|chinese|chinese/call_to_arms/call_to_arms_0146.wav|||tāmen zhèqúnrén， yòu xiǎng chī rén， yòu shì gǔigǔisùisùi， xiǎngfǎzǐ zhēyǎn， bùgǎn zhíjié xiàshǒu， zhēnyào lìng wǒ xiào sǐ。|
 000169|chinese|chinese|chinese/call_to_arms/call_to_arms_0169.wav|||fǒuzé liángxià yōuchóu sǐ le， sūizé lvè shòu， yě huán kěyǐ shǒukěn jīxià。 tāmen shì zhǐhùi chī sǐ ròu de!|
-001263|chinese|chinese|chinese/call_to_arms/call_to_arms_1263.wav|||tǔgǔcí lǐ gèng qīhēi; tāguān hǎo dàmén， mōjìn zìjǐ de wūzǐlǐ。 tā tǎng le hǎo yīhùi， zhècáidìng le shén，|
 001655|chinese|chinese|chinese/call_to_arms/call_to_arms_1655.wav|||ránér tā nà zuòbǎn bǐ wǒ de shàng tǔi yào xiádào sìfēnzhīsān， tā de jiǎo bǐ wǒ de xià tǔi yào chángguò sānfēnzhīèr。|
 001550|chinese|chinese|chinese/call_to_arms/call_to_arms_1550.wav|||dàyuē xiǎotù shì shēng xiàlái yòu dū sǐ diào le， yīnwèi cí de yīpǐ de nǎi fēicháng duō， què bìng bùjiàn yǒu jìnqù bǔyǎng háizǐ de xíngjī。|
 001279|chinese|chinese|chinese/call_to_arms/call_to_arms_1279.wav|||zhāobà! chángshān rénwù yě dàshēng shuō。 wǒ běnlái yàolái tóu|
-000339|chinese|chinese|chinese/call_to_arms/call_to_arms_0339.wav|||tā biàn tùi le jībù， xún dào yījiā guānzháo mén de pūzǐ， biéjìn yánxià， kàoménlì zhù le。|
 002294|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0478.wav|||fányǒu yīchù dìfāng， rúguǒ chū le wénshì xuézhě huò mínglíu， tā jiāng bǐtóu yīnǐu， jìu hěn róngyì biànchéng mófànxiàn。|
 002868|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_1052.wav|||cáoé de tóujiāng mìfù， yānsǐ hòu bàofù shīchū， shì zài zài zhèngshǐ， hěn yǒu xǔduō rén zhīdào de。|
 002649|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0833.wav|||rúhé ní? wǒ jìu wǎng xiāntái de yìxué zhuānmén xuéxiào qù。|
-002781|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0965.wav|||lián huǒchē shàng de zuòwèi， tāmen yě yào fēnchū zūnbēi lái。 zìjǐ bù zhùyì， yěxǔ yòu yáo le yáotóu。|
 002195|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0379.wav|||xiànzài kànkàn táoānmèng yì， juédé nàshí de sàihùi， zhēnshì háoshē jíle，|
 000911|chinese|chinese|chinese/call_to_arms/call_to_arms_0911.wav|||dōngtiān méiyǒu shíyāo dōngxī le。 zhè yīdiǎn gān qīngdòu dǎo shì zìjiā shài zài nàlǐ de， qǐng lǎoyé wǒ wènwèn tā de jǐngkuàng。|
 002027|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0211.wav|||ránér wǒ yǒu yīshí yě dùi tā fāshēng guò kōngqián de jìngyì。 tā chángcháng dùiwǒjiǎng chángmáo。|
-000676|chinese|chinese|chinese/call_to_arms/call_to_arms_0676.wav|||nv̌rén háizǐ men dū zài zìjǐ ménkǒu de tǔ chángshàng bōxiē shǔi， fàngxià xiǎozhuōzǐ hé ǎidèng;|
 002528|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0712.wav|||yúshì tíqǐ tā jìu bùyòng zūnchēng le， gěi tā lìngwài qǐ le yīgè chuòhào， jiàozuò dùzǐténg。 yǎn tàitài què juébù rúcǐ。|
 000245|chinese|chinese|chinese/call_to_arms/call_to_arms_0245.wav|||zhèshì èrshíduōnián qián de shì， xiànzài měiwǎn yàozhǎng dào shíwén，-kào gùiwài zhàn zháo， rèrè de hē le xīuxī;|
 000647|chinese|chinese|chinese/call_to_arms/call_to_arms_0647.wav|||zhèwèi bóshì shì bù dǒng zhōngguó hé mǎláiyǔ de， rénwèn tā， nǐ bù dǒng huà， zěnyāo zǒulù ní?|
-001920|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0104.wav|||xiǎnglái cǎoxí dìng yǐ wēiliáng， tǎng zháo yě bùzhìyú fándé fānláifùqù le。|
 001179|chinese|chinese|chinese/call_to_arms/call_to_arms_1179.wav|||chuán de shǐmìng， zhàojiā běnlái shì hěn mìmì de，|
 001618|chinese|chinese|chinese/call_to_arms/call_to_arms_1618.wav|||kuānyǒu èrchǐ， shì zhòngmì suǒjué， yǐzhǒng héhuā de héchí。|
 000053|chinese|chinese|chinese/call_to_arms/call_to_arms_0053.wav|||xǔduōnián， wǒ biàn yù zài zhè wūlǐ chāogǔbēi。 kèzhōngshǎo yǒurén lái， gǔbēi zhōng yě yùbùdào shíyāo wèntí hé zhǔyì，|
-001153|chinese|chinese|chinese/call_to_arms/call_to_arms_1153.wav|||cā! wánghúliáng dé yī tiào， tóngshí diànguāngshíhuǒ sìde gǎnkuài suō le tóu， ér tīng de rén yòu dū sǒngrán érqiě xīnrán le。|
 002100|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0284.wav|||tǎngruò wúyì zhōngjìng yǐ zhuàng shàng le， nà jìu jíkè diēxiàlái bà。 ránér zài diēxiàlái de zhōngtú， dāng huán wèi dào dì zhīqián， huányào shuō yībiàn:|
 001353|chinese|chinese|chinese/call_to_arms/call_to_arms_1353.wav|||zhào lǎolì sūirán yě kěyǐ jiào tàitài dàn tā yòu bù yuànyì tàishǒu jìu， yúshì jìu fāmíng le yīgè wèi zì。 tàitài dùi tā què lián wèi zì yě méiyǒu，|
 002619|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0803.wav|||èr tāmen juédé kāi méikuàng bìng bùnán。|
-002054|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0238.wav|||huányǒu xǔduō míngmù hěnshēng de shūjí。 wǒ nàshí zùi àikàn de shì huājìng， shàngmiàn yǒu xǔduō tú。|
 001923|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0107.wav|||zǔmǔ tāmen sūirán chánghèn shǔzǐmen nièpò le xiānggùi， tōuchī le dōngxī， wǒ què yǐwèi zhè yě suànbùdé shíyāo dàzùi， yě hé wǒ bùxiānggān，|
 001201|chinese|chinese|chinese/call_to_arms/call_to_arms_1201.wav|||zōuqīsǎo de nv̌ér guò jīnián zàishuō。 jiǎyánggǔizǐ de lǎopó hùi hé méiyǒu biànzǐ de nánrén shùijué， xià， bùshì hǎo dōngxī!|
 001298|chinese|chinese|chinese/call_to_arms/call_to_arms_1298.wav|||dàn tā tūrán juédào le: zhè qǐ bùshì qù shātóu yāo?|
-002164|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0348.wav|||hūn wàngrén yě bìxū shuō tā jiāng érzǐ kǔn zài shùshàng， shǐ tā zhūibùshàng lái cái kěn xiēshǒu。|
 002603|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0787.wav|||báizhǐ shíyìn de yīhòuběn， jià wǔbǎiwén zhèng。 fānkāi yīkàn， shì xiě dé hěn hǎo de zì， kāishǒu biàn dào:|
 001311|chinese|chinese|chinese/call_to_arms/call_to_arms_1311.wav|||sìnián zhīqián， tā céng zài shānjiǎoxià yùjiàn yīzhǐ èláng， yǒngshì bùjìn bùyuǎn de gēndìng tā， yào chī tā de ròu。 tā nàshí xià dé jīhū yàosǐ，|
 001425|chinese|chinese|chinese/call_to_arms/call_to_arms_1425.wav|||fāng tàitài jiàn tā qiánghéng dào chūhū qínglǐ zhīwài le， yě zànshí kāi bùdé kǒu。|
-002146|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0330.wav|||zìrán， bìxū bùgù xìngmìng， zhècái xiàogǎn shénmíng， hùi yǒu chūhūyìliào zhīwài de qíjī，|
 000963|chinese|chinese|chinese/call_to_arms/call_to_arms_0963.wav|||zhào tàiyé tiàoguòqù， gěi le tā yīgè zǔibā。 nǐ zěnyāo hùixìng zhào! - nǐ nàlǐ pèixìng zhào!|
 001832|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0016.wav|||fán zhèxiē， dū shì jíqí xiānměi kěkǒu de; dū céng shì shǐ wǒ sīxiāng de gǔhuò。 hòulái， wǒ zài jǐubié zhīhòu chángdàole， yě bùguòrúcǐ;|
 000595|chinese|chinese|chinese/call_to_arms/call_to_arms_0595.wav|||érqiě tā dùiyú wǒ， jiànjiàn de yòu jīhū biànchéng yīzhǒng wēiyā， shénér zhìyú yào zhàchū pípáo xiàmiàn cáng zháo de xiǎo lái。|
-001071|chinese|chinese|chinese/call_to_arms/call_to_arms_1071.wav|||tǎngzài biéjiā， chī guò wǎnfàn běn kěyǐ húiqù de le，|
 001457|chinese|chinese|chinese/call_to_arms/call_to_arms_1457.wav|||zhǐ shèngxià yīdūi sùipiàn le。 tā bù zìjué de xuánzhuǎn le juédé huànsàn le shēnqū， wǎngwǎng de zǒuxiàng gūijiā de lù。|
 000539|chinese|chinese|chinese/call_to_arms/call_to_arms_0539.wav|||dàn dānsì sǎozǐ dài tā de bǎoér， shízài yǐjīng jǐn le xīn， zài méiyǒu shíyāo quēxiàn。|
 001209|chinese|chinese|chinese/call_to_arms/call_to_arms_1209.wav|||dàn ān mén zhǐ kāi le yītiáo féng， bìng wú hēigǒu cóngzhōng chōngchū， wàng jìnqù zhǐyǒu yīgè lǎo nígū。|
-001426|chinese|chinese|chinese/call_to_arms/call_to_arms_1426.wav|||wǒ xiǎng， zhè móyáng shì nào bù xiàqù de， jiānglái zǒngdé xiǎngdiǎnfǎ， zuòdiǎn shíyāo biéde shì yī zhōngyú xúndào le biéde lù， shuō。|
 002397|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0581.wav|||yě yǒu báijiá de zhāng fēiniǎo， xìngzǐ hěnzào， yǎng bù guòyè de。 zhèshì rùntǔ de fùqīn suǒ chuánshòu de fāngfǎ，|
 002378|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0562.wav|||dáyìng zháo， sìmiàn kànshí， què jiàn yīgè měinv̌ de liǎnlù zài qiángtóu shàng， xiàng tā yīxiào， yǐnqù le。 tā hěn gāoxīng;|
 000964|chinese|chinese|chinese/call_to_arms/call_to_arms_0964.wav|||tǎngshǐ tā hào yuè tíng， huòzhě zài bāyuè jiān zuò guòshēngrì， nà yīdìng shì āgùi le; ér tā jì méiyǒu hào-yěxǔ yǒu hào， zhǐshì méiyǒu rén zhīdào tā，|
-001970|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0154.wav|||qíshí bìngfēi bèi māo suǒhài， dǎo shì tā yuán zháo cháng māmā de tǔi yào páshàngqù， bèi tā yī jiǎotà sǐ le。|
 002541|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0725.wav|||huài de shì méiyǒu yàocā， huán tiān jīgè lìzáo hé yītōng mà。|
 002159|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0343.wav|||shījué shòu xiàozǐ chuán yún，|
 000453|chinese|chinese|chinese/call_to_arms/call_to_arms_0453.wav|||nǐ rúguǒ zhēn zài zhèlǐ， tīngdào wǒ dehuà，-biànjiào zhè wūyā fēishàng nǐ de fén dǐng， gěi wǒ kàn bà。|
-002093|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0277.wav|||néng shǐ quán zhōngguó huàchéng yīgè máhú， fányǒu háizǐ dū sǐ zài tā dùzǐ lǐ。|
 001194|chinese|chinese|chinese/call_to_arms/call_to_arms_1194.wav|||zhào báiyǎn húijiā， biàn cóng yāojiān chě xià dā liánlái， jiāogěi tā nv̌rén cáng zài xiāngdǐ lǐ。|
 001088|chinese|chinese|chinese/call_to_arms/call_to_arms_1088.wav|||zhèshí tā měngránjiān kànjiàn zhào dàyé xiàng tā bēn lái， érqiě shǒulǐ niē zháo yīzhī dà zhúgāng。|
 000174|chinese|chinese|chinese/call_to_arms/call_to_arms_0174.wav|||zùi kělián de shì wǒ de dàgē， tā yě shì rén， héyǐ háobù hàipà; érqiě héhuǒ chī wǒ ní? huánshì lìlái guàn le， bù yǐwèi fēi ní?|
-001989|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0173.wav|||wǒ de mǔqīn hé xǔduō biéde rén dū zhèyáng chēnghū tā， sìhū lvèdài xiē kèqì de yìsī。 zhǐyǒu zǔmǔ jiào tā ācháng。|
 002789|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0973.wav|||shíyāo tiělù gǔdōng shì xíngzhèng sīcháng， qiándiàn zhǎnggùi shì jūnxiè sīcháng。 zhè jūnzhèngfǔ yě dàodǐ bù chángjǐu， jīgè shǎonián yīrǎng，|
 001864|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0048.wav|||ránér yuányīn yě zǒng kěyǐ suànzuò yīgè yuányīn。 wǒ de chóu māo， shì hé zhè dàdà liǎngyáng de。|
 002793|chinese|chinese|chinese/chao_hua_si_she/chao_hua_si_she_0977.wav|||dàn bùdà hējǐu le， yě hěnshǎo yǒu gōngfū tánxiántiān。 tā bànshì， jiān jiàoshū， shízài qínkuài dé kěyǐ。|
-001317|chinese|chinese|chinese/call_to_arms/call_to_arms_1317.wav|||fēi tè xìucái yīnwèi shàngchéng qù bàoguān， bèi bùhǎo de gémìngdǎng jiǎn le biànzǐ， érqiě yòu pòfèi le èrshí qiān de shǎngqián， suǒyǐ quánjiā yě hàotáo le。|
 070203|english|english|english/wavs/LJ002-0018.wav|||The inadequacy of the jail was noticed and reported upon again and again by the grand juries of the city of London,|
 070407|english|english|english/wavs/LJ002-0223.wav|||The principle of "chummage" prevailed as in the King's Bench,|
 070611|english|english|english/wavs/LJ003-0089.wav|||Occasionally the transports made themselves so useful in the jail that they were passed over.|
-070815|english|english|english/wavs/LJ003-0294.wav|||This committee made its report in September the following year, and an excellent report it is, so far as its recommendations are concerned.|
 071019|english|english|english/wavs/LJ004-0150.wav|||Matters were on much the same footing at St. Albans.|
 071223|english|english|english/wavs/LJ005-0105.wav|||It was long before the many jurisdictions imitated the few.|
 071427|english|english|english/wavs/LJ006-0009.wav|||backed up by the evidence of several influential witnesses.|
-071631|english|english|english/wavs/LJ006-0214.wav|||but no steps were taken to prevent any prisoner from obtaining more if he could pay for it.|
 071835|english|english|english/wavs/LJ007-0110.wav|||The rest were detained for more than a month, it being considered that they were the most guilty, as being either professional agents, who advised the others to abscond,|
 072039|english|english|english/wavs/LJ008-0071.wav|||In the few years which elapsed between the establishment of the gallows at Newgate|
 072243|english|english|english/wavs/LJ008-0276.wav|||Neither in town or country were cases entirely taken on their own merits.|
-072447|english|english|english/wavs/LJ009-0161.wav|||capital punishment was abolished for forgery, except in cases of forging or altering wills or powers of attorney to transfer stock.|
 072651|english|english|english/wavs/LJ010-0061.wav|||That some thirty or more needy men should hope to revolutionize England is a sufficient proof of the absurdity of their attempt.|
 072855|english|english|english/wavs/LJ010-0265.wav|||and on his information handbills were circulated, giving the exact description of the deformed youth, who had a hump-back,|
 073059|english|english|english/wavs/LJ011-0152.wav|||The elder brother,|
-073263|english|english|english/wavs/LJ012-0063.wav|||By-and-by the turnkeys, sobered by their loss, returned to Newgate alone, and pleaded in excuse that they had been drugged.|
 073467|english|english|english/wavs/LJ012-0267.wav|||but his despair must have been great, as was evident from his attempt to strangle himself in the station-house.|
 073671|english|english|english/wavs/LJ013-0175.wav|||Upstairs in the bedroom a rouleaux box for sovereigns had been broken open,|
 073875|english|english|english/wavs/LJ014-0111.wav|||At the second exact information was obtained of Mrs. Manning's movements. She had gone to Edinburgh.|
-074079|english|english|english/wavs/LJ014-0318.wav|||Another set of frauds, which resembled those of Pries in principle, although not in practice, were soon afterwards discovered.|
 074283|english|english|english/wavs/LJ015-0183.wav|||His manner was generally self-possessed, but his face was marked with "uneasy earnestness,"|
 074487|english|english|english/wavs/LJ016-0073.wav|||Mr. Cope, the governor of Newgate, having been communicated with, proceeded to Winchester, where he at once identified Williams.|
 074691|english|english|english/wavs/LJ016-0280.wav|||"There were well-dressed and ill-dressed, old men and lads, women and girls."|
-074895|english|english|english/wavs/LJ017-0041.wav|||was thus brought to the Central Criminal Court from Exeter assizes, and that of the Stauntons from Maidstone.|
 075099|english|english|english/wavs/LJ017-0245.wav|||On the second October they sighted land, ten miles distant;|
 075303|english|english|english/wavs/LJ018-0167.wav|||Nothing was found in Buncher's premises in Strutton Ground, which were thoroughly searched,|
 075507|english|english|english/wavs/LJ018-0371.wav|||A case reproducing many of the features of the 'Flowery Land' occurred twelve years later, when the crew of the 'Lennie'|
-075711|english|english|english/wavs/LJ019-0177.wav|||A scheme for heating the whole prison with hot-water pipes, after the system now generally adopted elsewhere, was considered,|
 075915|english|english|english/wavs/LJ019-0381.wav|||in another there was half-heartedness, even apathy and an almost complete contempt for the provisions of the act.|
 076119|english|english|english/wavs/LJ021-0079.wav|||Nevertheless the gains of trade and industry, as a whole, have been substantial.|
 076323|english|english|english/wavs/LJ022-0073.wav|||Our problem is to put to work three and one-half million employable persons now on the relief rolls.|
-076527|english|english|english/wavs/LJ023-0074.wav|||But a little later the Court itself admitted|
 076731|english|english|english/wavs/LJ024-0137.wav|||and unwilling to assert legislative powers by writing into it their own political and economic policies.|
 076935|english|english|english/wavs/LJ026-0022.wav|||if chlorophyll is absent, carbon is obtained from sugar or some similar compound,|
 077139|english|english|english/wavs/LJ027-0060.wav|||All vertebrates, and none other, have a number of their anterior vertebral joints enlarged and consolidated into a box to form the skull,|
-077343|english|english|english/wavs/LJ028-0085.wav|||The eyes are suggestive of the Semitic; the nose is of the Greek type;|
 077547|english|english|english/wavs/LJ028-0290.wav|||he came in this plight before Darius.|
 077751|english|english|english/wavs/LJ028-0494.wav|||Between the several sections were wide spaces where foot soldiers and charioteers might fight.|
 077955|english|english|english/wavs/LJ029-0179.wav|||Although there were critical editorials and letters to the editors, the news stories reflected the desire of Dallas officials to welcome the President with dignity and courtesy.|
-078159|english|english|english/wavs/LJ030-0170.wav|||Governor Connally testified that he recognized the first noise as a rifle shot|
 078363|english|english|english/wavs/LJ031-0119.wav|||The fracture was set, and a cast was applied with some traction utilized.|
 078567|english|english|english/wavs/LJ032-0090.wav|||This, too, was a forgery. The signature of "A. J. Hideel" was in the handwriting of Lee Harvey Oswald.|
 078771|english|english|english/wavs/LJ033-0019.wav|||According to the testimony of Frazier, Marina Oswald, and Ruth Paine, it appears that Oswald never returned to Irving in midweek|
-078975|english|english|english/wavs/LJ034-0009.wav|||Palmprints and Fingerprints on Cartons and Paper Bag|
 079179|english|english|english/wavs/LJ034-0214.wav|||Investigation has established that Altgens' picture was taken approximately two seconds after the firing of the shot|
 079383|english|english|english/wavs/LJ035-0199.wav|||but it was probably no earlier than one:twenty-two p.m., the time when the rifle was found.|
 079587|english|english|english/wavs/LJ036-0193.wav|||Description of Shooting|
-079791|english|english|english/wavs/LJ037-0179.wav|||was discarded along with the others as Oswald left the scene.|
 079995|english|english|english/wavs/LJ038-0114.wav|||Her testimony was fully supported by a photography expert who testified that in his opinion the pictures were not composites.|
 080199|english|english|english/wavs/LJ039-0014.wav|||Marina Oswald appeared before the Commission again on June eleven, nineteen sixty-four,|
 080403|english|english|english/wavs/LJ039-0218.wav|||Simmons described it as, quote, quite accurate, end quote, in fact, as accurate as current military rifles.|
-080607|english|english|english/wavs/LJ040-0174.wav|||Lee confirmed some of those observations by saying that he felt almost as if there were a veil between him and other people|
 080811|english|english|english/wavs/LJ041-0138.wav|||and that she could not think of any reason why Oswald would want to kill President Kennedy.|
 081015|english|english|english/wavs/LJ042-0140.wav|||She said that, quote, immediately after coming to the United States, Lee changed. I did not know him as such a man in Russia, end quote.|
 081219|english|english|english/wavs/LJ043-0094.wav|||This was at least in part because of the close physical confines in which some of the work had to be done.|
-081423|english|english|english/wavs/LJ044-0111.wav|||for anybody who is concerned about developments in Cuba, end quote,|
 081627|english|english|english/wavs/LJ045-0077.wav|||because of insufficient postage, which apparently resulted from an increase in postal rates of which his wife had been unaware.|
 081831|english|english|english/wavs/LJ046-0031.wav|||The protective task is further complicated by the reluctance of Presidents to take security precautions which might interfere with the performance of their duties,|
 082035|english|english|english/wavs/LJ046-0235.wav|||Except for its special "trip index" file of four hundred names,|
-082239|english|english|english/wavs/LJ047-0185.wav|||I had now established that Lee Oswald was not employed in a sensitive industry.|
 082443|english|english|english/wavs/LJ048-0140.wav|||Agent Lawson's advance planning called for the deployment of almost six hundred members of the Dallas Police Department,|
 082647|english|english|english/wavs/LJ049-0055.wav|||All agents are so instructed.|
 082851|english|english|english/wavs/LJ050-0030.wav|||The Commission also recommends|
-083055|english|english|english/wavs/LJ050-0234.wav|||It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.|
