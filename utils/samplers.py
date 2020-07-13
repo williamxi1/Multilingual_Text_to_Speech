@@ -73,8 +73,7 @@ class PerfectBatchSampler(Sampler):
             'Batch size must be divisible by number of languages times the number of data parallel devices (if enabled).')
 
         label_indices = {}
-        print(len(data_source.items))
-        for idx in range(len(data_source.items)):
+        for idx in range(len(data_source)):
             label = data_source.items[idx]['language']
             if label not in label_indices: label_indices[label] = []
             label_indices[label].append(idx)
