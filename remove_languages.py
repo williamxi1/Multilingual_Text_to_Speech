@@ -34,7 +34,7 @@ print(f'Please wait, this may take a very long time.')
 random.shuffle(metadata[0][2])
 #random.shuffle(metadata[1][2])
 
-valid_lang = ["chinese", "english", "russian", "spanish", "french", "german"]
+valid_lang = ["chinese", "english", "spanish", "french"]
 
 for d, fs, m in metadata:
     print(f'Creating spectrograms for: {fs}')
