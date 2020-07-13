@@ -220,6 +220,7 @@ if __name__ == '__main__':
         hp.load(hp_path)
 
     # load dataset
+    print("Loading Dataset...")
     dataset = TextToSpeechDatasetCollection(os.path.join(args.data_root, hp.dataset))
 
     if hp.multi_language and hp.balanced_sampling and hp.perfect_sampling:
@@ -250,13 +251,17 @@ if __name__ == '__main__':
             hp.lin_normalize_mean, hp.lin_normalize_variance = dataset.train.get_normalization_constants(False)   
 
     # instantiate model
-    if torch.cuda.is_available(): 
+    if torch.cuda.is_available():
+        print("Using GPU")
         model = Tacotron().cuda()
         if hp.parallelization and args.max_gpus > 1 and torch.cuda.device_count() > 1:
             model = DataParallelPassthrough(model, device_ids=list(range(args.max_gpus)))
-    else: model = Tacotron()
+    else:
+        print("Using CPU")
+        model = Tacotron()
 
     # instantiate optimizer and scheduler
+    print("Creating Optimizer")
     optimizer = torch.optim.Adam(model.parameters(), lr=hp.learning_rate, weight_decay=hp.weight_decay)
     if hp.encoder_optimizer:
         encoder_params = list(model._encoder.parameters())
@@ -286,12 +291,15 @@ if __name__ == '__main__':
         criterion.load_state_dict(checkpoint_state['criterion'])
 
     # initialize logger
+    print("Initializing Logger")
     log_dir = os.path.join(args.base_directory, "logs", f'{hp.version}-{datetime.datetime.now().strftime("%Y-%m-%d_%H%M%S")}')
     Logger.initialize(log_dir, args.flush_seconds)
 
     # training loop
     best_eval = float('inf')
+    print("Beginning Training...")
     for epoch in range(initial_epoch, hp.epochs):
+        print("Epoch: ", epoch)
         train(args.logging_start, epoch, train_data, model, criterion, optimizer)  
         if hp.learning_rate_decay_start - hp.learning_rate_decay_each < epoch * len(train_data):
             scheduler.step()
