@@ -32,6 +32,7 @@ class TextToSpeechDatasetCollection():
         train_full_path = os.path.join(dataset_root_dir, training_file)
         if not os.path.exists(train_full_path):
             raise IOError(f'The training set meta-file not found, given: {train_full_path}')
+        print(train_full_path)
         self.train = TextToSpeechDataset(train_full_path, dataset_root_dir)
         
         # create validation set
