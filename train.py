@@ -47,7 +47,7 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
 
     # loop through epoch batches
     for i, batch in enumerate(data):
-        if(i % 50 == 0) print("Finished ", i, "batches")
+        if(i % 50 == 0): print("Finished ", i, "batches")
         global_step = done + epoch * len(data)
         optimizer.zero_grad()
 
