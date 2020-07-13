@@ -46,10 +46,10 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
     done, start_time = 0, time.time()
 
     # loop through epoch batches
-    for i, batch in enumerate(data):     
-
+    for i, batch in enumerate(data):
+        if(i % 1000 == 0) print("Finished ", i, "batches")
         global_step = done + epoch * len(data)
-        optimizer.zero_grad() 
+        optimizer.zero_grad()
 
         # parse batch
         batch = list(map(to_gpu, batch))
@@ -61,17 +61,17 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
 
         # run the model
         post_pred, pre_pred, stop_pred, alignment, spkrs_pred, enc_output = model(src, src_len, trg_mel, trg_len, spkrs, langs, tf)
-        
+
         # evaluate loss function
         post_trg = trg_lin if hp.predict_linear else trg_mel
         classifier = model._reversal_classifier if hp.reversal_classifier else None
-        loss, batch_losses = criterion(src_len, trg_len, pre_pred, trg_mel, post_pred, post_trg, stop_pred, stop_trg, alignment, 
+        loss, batch_losses = criterion(src_len, trg_len, pre_pred, trg_mel, post_pred, post_trg, stop_pred, stop_trg, alignment,
                                        spkrs, spkrs_pred, enc_output, classifier)
 
         # evaluate adversarial classifier accuracy, if present
         if hp.reversal_classifier:
             input_mask = lengths_to_mask(src_len)
-            trg_spkrs = torch.zeros_like(input_mask, dtype=torch.int64)     
+            trg_spkrs = torch.zeros_like(input_mask, dtype=torch.int64)
             for s in range(hp.speaker_number):
                 speaker_mask = (spkrs == s)
                 trg_spkrs[speaker_mask] = s
@@ -80,19 +80,19 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
             cla = torch.sum(matches).item() / torch.sum(input_mask).item()
 
         # comptute gradients and make a step
-        loss.backward()      
+        loss.backward()
         gradient = torch.nn.utils.clip_grad_norm_(model.parameters(), hp.gradient_clipping)
-        optimizer.step()   
-        
+        optimizer.step()
+
         # log training progress
         if epoch >= logging_start_epoch:
-            Logger.training(global_step, batch_losses, gradient, learning_rate, time.time() - start_time, cla) 
+            Logger.training(global_step, batch_losses, gradient, learning_rate, time.time() - start_time, cla)
 
         # update criterion states (params and decay of the loss and so on ...)
         criterion.update_states()
 
         start_time = time.time()
-        done += 1 
+        done += 1
     
 
 def evaluate(epoch, data, model, criterion):  
