@@ -46,12 +46,14 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
     done, start_time = 0, time.time()
 
     # loop through epoch batches
+    print(len(data))
     for i, batch in enumerate(data):
         if(i % 3 == 0): print("Finished ", i, "batches")
         global_step = done + epoch * len(data)
         optimizer.zero_grad()
 
         # parse batch
+        print("     Parsing Batch...")
         batch = list(map(to_gpu, batch))
         src, src_len, trg_mel, trg_lin, trg_len, stop_trg, spkrs, langs = batch
 
@@ -60,9 +62,11 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
         else: tf = cos_decay(max(global_step - hp.teacher_forcing_start_steps, 0), hp.teacher_forcing_steps)
 
         # run the model
+        print("     Running Model...")
         post_pred, pre_pred, stop_pred, alignment, spkrs_pred, enc_output = model(src, src_len, trg_mel, trg_len, spkrs, langs, tf)
 
         # evaluate loss function
+        print("     Calculating Loss...")
         post_trg = trg_lin if hp.predict_linear else trg_mel
         classifier = model._reversal_classifier if hp.reversal_classifier else None
         loss, batch_losses = criterion(src_len, trg_len, pre_pred, trg_mel, post_pred, post_trg, stop_pred, stop_trg, alignment,
@@ -80,6 +84,7 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
             cla = torch.sum(matches).item() / torch.sum(input_mask).item()
 
         # comptute gradients and make a step
+        print("     Backpropagation...")
         loss.backward()
         gradient = torch.nn.utils.clip_grad_norm_(model.parameters(), hp.gradient_clipping)
         optimizer.step()
@@ -89,6 +94,7 @@ def train(logging_start_epoch, epoch, data, model, criterion, optimizer):
             Logger.training(global_step, batch_losses, gradient, learning_rate, time.time() - start_time, cla)
 
         # update criterion states (params and decay of the loss and so on ...)
+        print("     Updating States...")
         criterion.update_states()
 
         start_time = time.time()

@@ -1,0 +1,31 @@
+from resemblyzer import VoiceEncoder, preprocess_wav
+from pathlib import Path
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+
+print(os.getcwd())
+fpaths =  []
+for i in range(4):
+    fpaths.append(Path("/mnt/c/Users/william.xi/PycharmProjects/audiodata/william" + str(i+1) + ".wav"))
+    fpaths.append(Path("/mnt/c/Users/william.xi/PycharmProjects/audiodata/julia" + str(i + 1) + ".wav"))
+
+
+wavs = []
+for i in range(8):
+    wavs.append(preprocess_wav(fpaths[i]))
+
+
+encoder = VoiceEncoder()
+embeds = []
+for i in range(8):
+    embeds.append(encoder.embed_utterance(wavs[i]))
+    embeds[i] = embeds[i].reshape((16,16))
+
+
+
+np.set_printoptions(precision=3, suppress=True)
+for i in range(8):
+    plt.subplot(4,2,i+1)
+    plt.imshow(embeds[i], cmap='hot', interpolation='nearest')
+plt.show()
