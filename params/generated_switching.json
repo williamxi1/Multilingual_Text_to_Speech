@@ -7,7 +7,7 @@
 	"dataset": "css10",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
-	"epochs": 6,
+	"epochs": 100,
 	"generator_bottleneck_dim": 4,
 	"generator_dim": 10,
 	"languages": ["french", "chinese", "spanish", "english"],
