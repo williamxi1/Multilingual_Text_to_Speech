@@ -9,7 +9,7 @@ inputs = [
 ]
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "generated_switching.pyt"
+tacotron_chpt = "GENERATED-SWITCHING_loss-99-.132"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -19,7 +19,7 @@ if "utils" in sys.modules:
 
 from synthesize import synthesize
 from utils import build_model
-model = build_model(os.path.join(os.path.join(os.path.dirname(os.getcwd()), "checkpoints"), tacotron_chpt))
+model = build_model(os.path.join(os.path.join(os.getcwd(), "checkpoints"), tacotron_chpt))
 model.eval()
 
 spectrograms = [synthesize(model, "|" + i) for i in inputs]
