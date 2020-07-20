@@ -5,11 +5,11 @@ import os
 
 
 inputs = [
-    "The cat is on the hat eating the bat|00-zh|zh",
+    "xuéshēng kěyǐ huòqǔ jìsuànjīkēxué hé jìzhú de běnkē xuéwèi|chinese|chinese",
 ]
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-99-.132"
+tacotron_chpt = "GENERATED-SWITCHING_loss-99-0.132"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
