@@ -5,7 +5,7 @@ import os
 
 
 inputs = [
-    "xuéshēng kěyǐ huòqǔ jìsuànjīkēxué hé jìzhú de běnkē xuéwèi|chinese|chinese",
+    "Hello there I am very happy to see this work|english|english",
 ]
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
