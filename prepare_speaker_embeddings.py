@@ -37,7 +37,7 @@ if __name__ == '__main__':
     speakerEmbeddings = getSpeakerEmbeddings(speaker_ids)
     np.set_printoptions(suppress=True)
     #speakerEmbeddings = np.asarray(speakerEmbeddings)
-    #for embedding in speakerEmbeddings:
+    for embedding in speakerEmbeddings:
         print(len(embedding))
     np.save('speakerEmbeddings.npy', speakerEmbeddings)
 
