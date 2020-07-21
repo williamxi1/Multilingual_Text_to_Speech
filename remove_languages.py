@@ -70,12 +70,12 @@ random.shuffle(metadata[0][2])
 #random.shuffle(metadata[1][2])
 
 
-
+cntr = 0
 for d, fs, m in metadata:
     valid_data = []
     with open(os.path.join(d, "new"+fs), 'w', encoding='utf-8') as f:
         for i in m:
-            if len(i) != 8: print(i)
             idx, s, l, a, _, _, raw_text, ph = i
-            print(f'{idx}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            cntr += 1
 
