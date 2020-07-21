@@ -11,7 +11,7 @@ from modules.cbhg import PostnetCBHG
 from modules.classifier import ReversalClassifier, CosineSimilarityClassifier
 from params.params import Params as hp
 
-from data.prepare_speaker_embeddings import getSpeakerEmbeddings
+#from data.prepare_speaker_embeddings import getSpeakerEmbeddings
 
 class Prenet(torch.nn.Module):
     """Decoder pre-net module.
