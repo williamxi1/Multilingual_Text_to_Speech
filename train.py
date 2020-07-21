@@ -305,21 +305,21 @@ if __name__ == '__main__':
     best_eval = float('inf')
     print("Beginning Training...")
     print(hp.unique_speakers)
-    # for epoch in tqdm(range(initial_epoch, hp.epochs)):
-    #     #print("Epoch: ", epoch)
-    #     train(args.logging_start, epoch, train_data, model, criterion, optimizer)
-    #     if hp.learning_rate_decay_start - hp.learning_rate_decay_each < epoch * len(train_data):
-    #         scheduler.step()
-    #     eval_loss = evaluate(epoch, eval_data, model, criterion)
-    #     if (epoch + 1) % hp.checkpoint_each_epochs == 0:
-    #         # save checkpoint together with hyper-parameters, optimizer and scheduler states
-    #         checkpoint_file = f'{checkpoint_dir}/{hp.version}_loss-{epoch}-{eval_loss:2.3f}'
-    #         state_dict = {
-    #             'epoch': epoch,
-    #             'model': model.state_dict(),
-    #             'optimizer': optimizer.state_dict(),
-    #             'scheduler': scheduler.state_dict(),
-    #             'parameters': hp.state_dict(),
-    #             'criterion': criterion.state_dict()
-    #         }
-    #         torch.save(state_dict, checkpoint_file)
+    for epoch in tqdm(range(initial_epoch, hp.epochs)):
+        #print("Epoch: ", epoch)
+        train(args.logging_start, epoch, train_data, model, criterion, optimizer)
+        if hp.learning_rate_decay_start - hp.learning_rate_decay_each < epoch * len(train_data):
+            scheduler.step()
+        eval_loss = evaluate(epoch, eval_data, model, criterion)
+        if (epoch + 1) % hp.checkpoint_each_epochs == 0:
+            # save checkpoint together with hyper-parameters, optimizer and scheduler states
+            checkpoint_file = f'{checkpoint_dir}/{hp.version}_loss-{epoch}-{eval_loss:2.3f}'
+            state_dict = {
+                'epoch': epoch,
+                'model': model.state_dict(),
+                'optimizer': optimizer.state_dict(),
+                'scheduler': scheduler.state_dict(),
+                'parameters': hp.state_dict(),
+                'criterion': criterion.state_dict()
+            }
+            torch.save(state_dict, checkpoint_file)
