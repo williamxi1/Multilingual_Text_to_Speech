@@ -13,7 +13,7 @@ def getSpeakerEmbeddings(speaker_ids):
             speaker = line[1]
             if speaker in speaker_ids:
                 speaker_index = speaker_ids.index(speaker)
-                if len(speakerUtterances[speaker_index]) < 250:
+                if len(speakerUtterances[speaker_index]) < 50:
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
 
@@ -31,6 +31,7 @@ def getSpeakerEmbeddings(speaker_ids):
             speakerEmbeddings[i] += np.asarray(encoder.embed_utterance(wav))
         speakerEmbeddings[i] /= len(speaker_wavs)
     speakerEmbeddings = np.asarray(speakerEmbeddings)
+    speakerEmbeddings = torch.tensor(speakerEmbeddings)
     return speakerEmbeddings
 
 
