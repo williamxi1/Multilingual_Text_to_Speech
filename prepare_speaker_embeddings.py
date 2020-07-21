@@ -27,9 +27,9 @@ def getSpeakerEmbeddings(speaker_ids):
 
     for i, speaker_wavs in enumerate(wavs):
         for wav in speaker_wavs:
-            speakerEmbeddings[i] += encoder.embed_utterance(wav)
+            speakerEmbeddings[i] += np.asarray(encoder.embed_utterance(wav))
         speakerEmbeddings /= len(speaker_wavs)
-
+    speakerEmbeddings = np.asarray(speakerEmbeddings)
     return speakerEmbeddings
 
 
