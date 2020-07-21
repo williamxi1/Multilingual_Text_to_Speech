@@ -31,7 +31,7 @@ def getSpeakerEmbeddings(speaker_ids):
             speakerEmbeddings[i] += np.asarray(encoder.embed_utterance(wav))
         speakerEmbeddings[i] /= len(speaker_wavs)
     speakerEmbeddings = np.asarray(speakerEmbeddings)
-    speakerEmbeddings = torch.tensor(speakerEmbeddings)
+    speakerEmbeddings = torch.tensor(speakerEmbeddings, dtype = torch.float)
     return speakerEmbeddings
 
 

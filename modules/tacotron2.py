@@ -146,7 +146,6 @@ class Decoder(torch.nn.Module):
     def _add_conditional_embedding(self, encoded, layer, condition):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
         embedded = layer(encoded if condition is None else condition)
-        print(embedded[0][0])
         return torch.cat((encoded, embedded), dim=-1)
 
     def _decode(self, encoded_input, mask, target, teacher_forcing_ratio, speaker, language):
