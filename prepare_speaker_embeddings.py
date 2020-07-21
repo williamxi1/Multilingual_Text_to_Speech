@@ -5,7 +5,7 @@ import torch
 
 def getSpeakerEmbeddings(speaker_ids):
     numSpeakers = len(speaker_ids)
-    speakerEmbeddings = [[] for i in range(numSpeakers)]
+    speakerEmbeddings = [np.zeros(256) for i in range(numSpeakers)]
     speakerUtterances = [[] for i in range(numSpeakers)]
     with open(os.path.join("data/css10", "newtrain.txt"), 'r', encoding='utf-8') as f:
         for line in f:
@@ -27,7 +27,8 @@ def getSpeakerEmbeddings(speaker_ids):
 
     for i, speaker_wavs in enumerate(wavs):
         for wav in speaker_wavs:
-            speakerEmbeddings[i].append(encoder.embed_utterance(wav))
+            speakerEmbeddings[i] += encoder.embed_utterance(wav)
+        speakerEmbeddings /= len(speaker_wavs)
 
     return speakerEmbeddings
 
