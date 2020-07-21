@@ -5,7 +5,7 @@ import torch
 
 def getSpeakerEmbeddings(speaker_ids):
     numSpeakers = len(speaker_ids)
-    speakerEmbeddings = [None for i in range(numSpeakers)]
+    speakerEmbeddings = [[] for i in range(numSpeakers)]
     speakerUtterances = [[] for i in range(numSpeakers)]
     with open(os.path.join("data/css10", "newtrain.txt"), 'r', encoding='utf-8') as f:
         for line in f:
@@ -13,7 +13,7 @@ def getSpeakerEmbeddings(speaker_ids):
             speaker = line[1]
             if speaker in speaker_ids:
                 speaker_index = speaker_ids.index(speaker)
-                if len(speakerUtterances[speaker_index]) < 1:
+                if len(speakerUtterances[speaker_index]) < 5:
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
 
@@ -27,7 +27,7 @@ def getSpeakerEmbeddings(speaker_ids):
 
     for i, speaker_wavs in enumerate(wavs):
         for wav in speaker_wavs:
-            speakerEmbeddings[i] = encoder.embed_utterance(wav)
+            speakerEmbeddings[i].append(encoder.embed_utterance(wav))
 
     return speakerEmbeddings
 
@@ -36,9 +36,9 @@ if __name__ == '__main__':
     speaker_ids = ["00-zh", "00-en", "00-fr", "00-sp"]
     speakerEmbeddings = getSpeakerEmbeddings(speaker_ids)
     np.set_printoptions(suppress=True)
-    speakerEmbeddings = np.asarray(speakerEmbeddings)
-    for embedding in speakerEmbeddings:
-        print(embedding)
+    #speakerEmbeddings = np.asarray(speakerEmbeddings)
+    #for embedding in speakerEmbeddings:
+        print(len(embedding))
     np.save('speakerEmbeddings.npy', speakerEmbeddings)
 
 
