@@ -1,5 +1,6 @@
 from resemblyzer import VoiceEncoder, preprocess_wav
 import os
+import numpy as np
 import torch
 
 def getSpeakerEmbeddings(speaker_ids):
