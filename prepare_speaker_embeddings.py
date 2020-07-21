@@ -19,14 +19,15 @@ def getSpeakerEmbeddings(speaker_ids):
 
     wavs = [[] for i in range(numSpeakers)]
     for i, speaker in enumerate(speaker_ids):
-
         for utterance in speakerUtterances[i]:
+            print("Preprocessing ", utterance)
             wavs[i].append(preprocess_wav(os.path.join(os.path.join(os.getcwd(), "data/css10"), utterance)))
 
     encoder = VoiceEncoder()
 
     for i, speaker_wavs in enumerate(wavs):
-        for wav in speaker_wavs:
+        for j, wav in enumerate(speaker_wavs):
+            print("Embedding ", i, j)
             speakerEmbeddings[i] += np.asarray(encoder.embed_utterance(wav))
         speakerEmbeddings[i] /= len(speaker_wavs)
     speakerEmbeddings = np.asarray(speakerEmbeddings)
