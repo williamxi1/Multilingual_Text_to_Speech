@@ -11,6 +11,7 @@ from modules.cbhg import PostnetCBHG
 from modules.classifier import ReversalClassifier, CosineSimilarityClassifier
 from params.params import Params as hp
 
+from data.prepare_speaker_embeddings import getSpeakerEmbeddings
 
 class Prenet(torch.nn.Module):
     """Decoder pre-net module.
@@ -119,6 +120,8 @@ class Decoder(torch.nn.Module):
             self._language_embedding = self._get_embedding(hp.language_embedding_dimension, len(hp.languages))
 
     def _get_embedding(self, embedding_dimension, size=None):
+        #speakerEmbeddings = getSpeakerEmbeddings(hp.unique_speakers)
+        #embedding = Embedding.from_pretrained(speakerEmbeddings)
         embedding = Embedding(size, embedding_dimension)
         torch.nn.init.xavier_uniform_(embedding.weight)
         return embedding
@@ -143,7 +146,8 @@ class Decoder(torch.nn.Module):
     def _add_conditional_embedding(self, encoded, layer, condition):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
         embedded = layer(encoded if condition is None else condition)
-        return torch.cat((encoded, embedded), dim=-1) 
+        print(embedded[0][0])
+        return torch.cat((encoded, embedded), dim=-1)
 
     def _decode(self, encoded_input, mask, target, teacher_forcing_ratio, speaker, language):
         """Perform decoding of the encoded input sequence."""
