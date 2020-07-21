@@ -13,7 +13,7 @@ def getSpeakerEmbeddings(speaker_ids):
             speaker = line[1]
             if speaker in speaker_ids:
                 speaker_index = speaker_ids.index(speaker)
-                if len(speakerUtterances[speaker_index]) < 10:
+                if len(speakerUtterances[speaker_index]) < 1000:
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
 

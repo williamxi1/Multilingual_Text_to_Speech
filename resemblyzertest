@@ -18,17 +18,14 @@ import os
 #
 # encoder = VoiceEncoder()
 embeds = np.load('speakerEmbeddings.npy')
-newembeds = [[] for i in range(len(embeds))]
+newembeds = [None for i in range(len(embeds))]
 for i in range(len(embeds)):
-    #print(embeds[i].shape)
-    for j in range(len(embeds[i])):
-        newembeds[i].append(embeds[i][j].reshape((16,16)))
+     newembeds[i] = embeds[i].reshape((16,16))
 
 
 
 np.set_printoptions(precision=3, suppress=True)
 for i in range(len(embeds)):
-    for j in range(len(embeds[i])):
-        plt.subplot(4,10,i*len(embeds[i]) + j +1)
-        plt.imshow(newembeds[i][j], cmap='hot', interpolation='nearest')
+    plt.subplot(4,1,i+1)
+    plt.imshow(newembeds[i], cmap='hot', interpolation='nearest')
 plt.show()
