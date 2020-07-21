@@ -57,10 +57,8 @@ for d, fs in comvoi:
             line = line.rstrip().split('|')
             if line[2] in id_to_lang:
                 cntr += 1
-                wavpath = line[3].split('/')
-                wavpath[0] = id_to_lang[wavpath[0]]
-                wavpath = "/".join(wavpath)
-                new_stuff = [line[0], line[1] + "-" + line[2], line[2], wavpath, "", "", line[4], ""]
+                line[3] = id_to_lang[line[2]] + "/" + line[3]
+                new_stuff = [line[0], line[1] + "-" + line[2], line[2], line[3], "", "", line[4], ""]
                 if(cntr % 100 == 0):
                     metadata[1][2].append(new_stuff)
                 else:

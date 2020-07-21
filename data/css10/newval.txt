@@ -258,47 +258,47 @@
 037845|00-en|en|english/wavs/LJ049-0079.wav|||Many changes have already been made and others are contemplated, some of them in response to the Commission's questions and informal suggestions.|
 037846|00-en|en|english/wavs/LJ050-0042.wav|||its inability to process large amounts of data, and its failure to provide specific descriptions of the kind of information it sought.|
 037847|00-en|en|english/wavs/LJ050-0234.wav|||It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.|
-037848|02-fr|fr|french/wavs/02/common_voice_fr_18814368.wav|||six rue des Imbergères, quatre-vingt-douze mille trois cent trente Sceaux|
-037849|04-fr|fr|french/wavs/04/common_voice_fr_18573287.wav|||C'est ce qu'on appelle l'apostrophe de Mirabeau.|
-037850|04-fr|fr|french/wavs/04/common_voice_fr_18576258.wav|||Pierre Leroux et Michel Chrestien revendiquèrent le droit de lire un programme de réformes.|
-037851|04-fr|fr|french/wavs/04/common_voice_fr_18576391.wav|||Le long des magasins, une bande affolée creusa les rangs à l'inverse.|
-037852|04-fr|fr|french/wavs/04/common_voice_fr_18576693.wav|||Une andouille a tort de penser à la plupart des oligarques accoutumés au luxe.|
-037853|04-fr|fr|french/wavs/04/common_voice_fr_18602425.wav|||Elle était sur la place, contre la grille qu'empoignaient ses gants rouges.|
-037854|04-fr|fr|french/wavs/04/common_voice_fr_18602833.wav|||Sa face aquiline laurée de grosses mèches grises aspirait l'odeur du triomphe.|
-037855|04-fr|fr|french/wavs/04/common_voice_fr_18603238.wav|||Je lui ai fait part de ma proposition.|
-037856|04-fr|fr|french/wavs/04/common_voice_fr_18603370.wav|||Elles ne grognent pas.|
-037857|05-fr|fr|french/wavs/05/common_voice_fr_18444699.wav|||Dubourg continuait à vivre en maítre dans son hôtel vendu.|
-037858|06-fr|fr|french/wavs/06/common_voice_fr_18863914.wav|||Léopardin sort par la droite, troisième plan.|
-037859|07-fr|fr|french/wavs/07/common_voice_fr_18084791.wav|||un chemin du Moulin de Razès-Bas, quatre-vingt-sept mille six cent quarante Razès|
-037860|07-fr|fr|french/wavs/07/common_voice_fr_18085063.wav|||Le voisin ne rentre jamais avant onze heures.|
-037861|08-fr|fr|french/wavs/08/common_voice_fr_18648481.wav|||Il y a trop de touristes de nos jours.|
-037862|09-fr|fr|french/wavs/09/common_voice_fr_18652940.wav|||Les mentalistes impatients grimpent étrangement sur les sonorités en Suisse.|
-037863|09-fr|fr|french/wavs/09/common_voice_fr_18653084.wav|||Plus il tentait de surveiller ses arrières, plus il se persuadait être suivi.|
-037864|09-fr|fr|french/wavs/09/common_voice_fr_18653219.wav|||Il est bien gentil, mais il est un peu trop dans les nuages.|
-037865|10-fr|fr|french/wavs/10/common_voice_fr_18877970.wav|||Je reconnus que c'étaient des yeux.|
-037866|11-fr|fr|french/wavs/11/common_voice_fr_17861557.wav|||Rue du Rivraud au numéro vingt-trois|
-037867|11-fr|fr|french/wavs/11/common_voice_fr_17861658.wav|||Je partage évidemment l'avis du rapporteur et du garde des sceaux.|
-037868|11-fr|fr|french/wavs/11/common_voice_fr_17863373.wav|||L'Océan Pacifique.|
-037869|11-fr|fr|french/wavs/11/common_voice_fr_17872480.wav|||Au ministre de la guerre.|
-037870|14-fr|fr|french/wavs/14/common_voice_fr_18197093.wav|||cinq rue du Pousadou, zéro neuf, trois cent cinquante à Campagne-sur-Arize|
-037871|15-fr|fr|french/wavs/15/common_voice_fr_17747549.wav|||C'est ce qui, finalement, nous différencie.|
-037872|16-fr|fr|french/wavs/16/common_voice_fr_18143612.wav|||Je le conçois.|
-037873|16-fr|fr|french/wavs/16/common_voice_fr_18143885.wav|||C'est cela, les petits salariés dont vous parlez.|
-037874|17-fr|fr|french/wavs/17/common_voice_fr_18130661.wav|||La parole est à Monsieur Dominique Tian, pour soutenir l'amendement numéro cent trente-quatre.|
-037875|19-fr|fr|french/wavs/19/common_voice_fr_18088578.wav|||Cet également a également été rédigé par notre collègue Bernard Accoyer.|
-037876|19-fr|fr|french/wavs/19/common_voice_fr_18096575.wav|||Quel est le code du secteur?|
-037877|19-fr|fr|french/wavs/19/common_voice_fr_18103636.wav|||Quelle bavarde!|
-037878|20-fr|fr|french/wavs/20/common_voice_fr_17778478.wav|||Moi. Défends-toi, Cadio.|
-037879|20-fr|fr|french/wavs/20/common_voice_fr_17778708.wav|||Sa maison de Châtillon fut prise et pillée.|
-037880|21-fr|fr|french/wavs/21/common_voice_fr_18239818.wav|||Ton oncle a refusé de le voir. et il a bien fait.|
-037881|21-fr|fr|french/wavs/21/common_voice_fr_18240216.wav|||Nous avons bien cru au narwal de monsieur.|
-037882|21-fr|fr|french/wavs/21/common_voice_fr_18240434.wav|||De l'éther! vite, apporte de l’éther!|
-037883|22-fr|fr|french/wavs/22/common_voice_fr_18771293.wav|||Prends garde! jenny et GABRIELLE.|
-037884|25-fr|fr|french/wavs/25/common_voice_fr_18493698.wav|||Je vais à table.|
-037885|26-fr|fr|french/wavs/26/common_voice_fr_18408560.wav|||Disons que vous serez encore plus liée demain.|
-037886|02-zh|zh|chinese/wavs/02/common_voice_zh-CN_18594850.wav|||wǒ yě bù zhīdào zài nǎlǐ|
-037887|03-zh|zh|chinese/wavs/03/common_voice_zh-CN_18650547.wav|||shèng luòlúnzuǒ shì wèiyú měiguó jiālìfúníyàzhōu ālāmǐ dáxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|
-037888|03-zh|zh|chinese/wavs/03/common_voice_zh-CN_18660163.wav|||línquánmǐn， zì。|
-037889|06-zh|zh|chinese/wavs/06/common_voice_zh-CN_18848613.wav|||cècí jí bù fù。|
-037890|06-zh|zh|chinese/wavs/06/common_voice_zh-CN_18849212.wav|||yīncǐ， qí zhíyèshēngyá zhǔyào zhuānzhù yú xùnliàn hé dùi wàiguó gǎngkǒu de yǒuhǎofǎngwèn。|
-037891|07-zh|zh|chinese/wavs/07/common_voice_zh-CN_18776291.wav|||yětián zhūměi， rìběn zúqíu yùndòngyuán， rìběn guójiā nv̌zǐ zúqíudùi chéngyuán。|
+037848|02-fr|fr|french/fr/wavs/02/common_voice_fr_18814368.wav|||six rue des Imbergères, quatre-vingt-douze mille trois cent trente Sceaux|
+037849|04-fr|fr|french/fr/wavs/04/common_voice_fr_18573287.wav|||C'est ce qu'on appelle l'apostrophe de Mirabeau.|
+037850|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576258.wav|||Pierre Leroux et Michel Chrestien revendiquèrent le droit de lire un programme de réformes.|
+037851|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576391.wav|||Le long des magasins, une bande affolée creusa les rangs à l'inverse.|
+037852|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576693.wav|||Une andouille a tort de penser à la plupart des oligarques accoutumés au luxe.|
+037853|04-fr|fr|french/fr/wavs/04/common_voice_fr_18602425.wav|||Elle était sur la place, contre la grille qu'empoignaient ses gants rouges.|
+037854|04-fr|fr|french/fr/wavs/04/common_voice_fr_18602833.wav|||Sa face aquiline laurée de grosses mèches grises aspirait l'odeur du triomphe.|
+037855|04-fr|fr|french/fr/wavs/04/common_voice_fr_18603238.wav|||Je lui ai fait part de ma proposition.|
+037856|04-fr|fr|french/fr/wavs/04/common_voice_fr_18603370.wav|||Elles ne grognent pas.|
+037857|05-fr|fr|french/fr/wavs/05/common_voice_fr_18444699.wav|||Dubourg continuait à vivre en maítre dans son hôtel vendu.|
+037858|06-fr|fr|french/fr/wavs/06/common_voice_fr_18863914.wav|||Léopardin sort par la droite, troisième plan.|
+037859|07-fr|fr|french/fr/wavs/07/common_voice_fr_18084791.wav|||un chemin du Moulin de Razès-Bas, quatre-vingt-sept mille six cent quarante Razès|
+037860|07-fr|fr|french/fr/wavs/07/common_voice_fr_18085063.wav|||Le voisin ne rentre jamais avant onze heures.|
+037861|08-fr|fr|french/fr/wavs/08/common_voice_fr_18648481.wav|||Il y a trop de touristes de nos jours.|
+037862|09-fr|fr|french/fr/wavs/09/common_voice_fr_18652940.wav|||Les mentalistes impatients grimpent étrangement sur les sonorités en Suisse.|
+037863|09-fr|fr|french/fr/wavs/09/common_voice_fr_18653084.wav|||Plus il tentait de surveiller ses arrières, plus il se persuadait être suivi.|
+037864|09-fr|fr|french/fr/wavs/09/common_voice_fr_18653219.wav|||Il est bien gentil, mais il est un peu trop dans les nuages.|
+037865|10-fr|fr|french/fr/wavs/10/common_voice_fr_18877970.wav|||Je reconnus que c'étaient des yeux.|
+037866|11-fr|fr|french/fr/wavs/11/common_voice_fr_17861557.wav|||Rue du Rivraud au numéro vingt-trois|
+037867|11-fr|fr|french/fr/wavs/11/common_voice_fr_17861658.wav|||Je partage évidemment l'avis du rapporteur et du garde des sceaux.|
+037868|11-fr|fr|french/fr/wavs/11/common_voice_fr_17863373.wav|||L'Océan Pacifique.|
+037869|11-fr|fr|french/fr/wavs/11/common_voice_fr_17872480.wav|||Au ministre de la guerre.|
+037870|14-fr|fr|french/fr/wavs/14/common_voice_fr_18197093.wav|||cinq rue du Pousadou, zéro neuf, trois cent cinquante à Campagne-sur-Arize|
+037871|15-fr|fr|french/fr/wavs/15/common_voice_fr_17747549.wav|||C'est ce qui, finalement, nous différencie.|
+037872|16-fr|fr|french/fr/wavs/16/common_voice_fr_18143612.wav|||Je le conçois.|
+037873|16-fr|fr|french/fr/wavs/16/common_voice_fr_18143885.wav|||C'est cela, les petits salariés dont vous parlez.|
+037874|17-fr|fr|french/fr/wavs/17/common_voice_fr_18130661.wav|||La parole est à Monsieur Dominique Tian, pour soutenir l'amendement numéro cent trente-quatre.|
+037875|19-fr|fr|french/fr/wavs/19/common_voice_fr_18088578.wav|||Cet également a également été rédigé par notre collègue Bernard Accoyer.|
+037876|19-fr|fr|french/fr/wavs/19/common_voice_fr_18096575.wav|||Quel est le code du secteur?|
+037877|19-fr|fr|french/fr/wavs/19/common_voice_fr_18103636.wav|||Quelle bavarde!|
+037878|20-fr|fr|french/fr/wavs/20/common_voice_fr_17778478.wav|||Moi. Défends-toi, Cadio.|
+037879|20-fr|fr|french/fr/wavs/20/common_voice_fr_17778708.wav|||Sa maison de Châtillon fut prise et pillée.|
+037880|21-fr|fr|french/fr/wavs/21/common_voice_fr_18239818.wav|||Ton oncle a refusé de le voir. et il a bien fait.|
+037881|21-fr|fr|french/fr/wavs/21/common_voice_fr_18240216.wav|||Nous avons bien cru au narwal de monsieur.|
+037882|21-fr|fr|french/fr/wavs/21/common_voice_fr_18240434.wav|||De l'éther! vite, apporte de l’éther!|
+037883|22-fr|fr|french/fr/wavs/22/common_voice_fr_18771293.wav|||Prends garde! jenny et GABRIELLE.|
+037884|25-fr|fr|french/fr/wavs/25/common_voice_fr_18493698.wav|||Je vais à table.|
+037885|26-fr|fr|french/fr/wavs/26/common_voice_fr_18408560.wav|||Disons que vous serez encore plus liée demain.|
+037886|02-zh|zh|chinese/zh/wavs/02/common_voice_zh-CN_18594850.wav|||wǒ yě bù zhīdào zài nǎlǐ|
+037887|03-zh|zh|chinese/zh/wavs/03/common_voice_zh-CN_18650547.wav|||shèng luòlúnzuǒ shì wèiyú měiguó jiālìfúníyàzhōu ālāmǐ dáxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|
+037888|03-zh|zh|chinese/zh/wavs/03/common_voice_zh-CN_18660163.wav|||línquánmǐn， zì。|
+037889|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18848613.wav|||cècí jí bù fù。|
+037890|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18849212.wav|||yīncǐ， qí zhíyèshēngyá zhǔyào zhuānzhù yú xùnliàn hé dùi wàiguó gǎngkǒu de yǒuhǎofǎngwèn。|
+037891|07-zh|zh|chinese/zh/wavs/07/common_voice_zh-CN_18776291.wav|||yětián zhūměi， rìběn zúqíu yùndòngyuán， rìběn guójiā nv̌zǐ zúqíudùi chéngyuán。|
