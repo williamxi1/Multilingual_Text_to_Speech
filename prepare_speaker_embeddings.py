@@ -34,6 +34,7 @@ def getSpeakerEmbeddings(speaker_ids):
 if __name__ == '__main__':
     speaker_ids = ["00-zh", "00-en", "00-fr", "00-sp"]
     speakerEmbeddings = getSpeakerEmbeddings(speaker_ids)
+    np.set_printoptions(suppress=True)
     for embedding in speakerEmbeddings:
         print(embedding)
 
