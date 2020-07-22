@@ -4,6 +4,11 @@ import numpy as np
 import torch
 
 def getSpeakerEmbeddings(speaker_ids):
+
+    if os.path.exists('speakerEmbeddings.npy'):
+        speakerEmbeddings = np.load('speakerEmbeddings.npy')
+        return speakerEmbeddings
+
     numSpeakers = len(speaker_ids)
     speakerEmbeddings = [np.zeros(256) for i in range(numSpeakers)]
     speakerUtterances = [[] for i in range(numSpeakers)]
