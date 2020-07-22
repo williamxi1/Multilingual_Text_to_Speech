@@ -5,7 +5,7 @@ import os
 
 
 inputs = [
-    "There is a time and place for everything|english|english",
+    "There is a time and place for everything|00-en|en",
 ]
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
