@@ -32,6 +32,7 @@ def getSpeakerEmbeddings(speaker_ids):
         speakerEmbeddings[i] /= len(speaker_wavs)
     speakerEmbeddings = np.asarray(speakerEmbeddings)
     speakerEmbeddings = torch.tensor(speakerEmbeddings, dtype = torch.float)
+    np.save('speakerEmbeddings.npy', speakerEmbeddings)
     return speakerEmbeddings
 
 
