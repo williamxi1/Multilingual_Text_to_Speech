@@ -7,6 +7,7 @@ def getSpeakerEmbeddings(speaker_ids):
 
     if os.path.exists('speakerEmbeddings.npy'):
         speakerEmbeddings = np.load('speakerEmbeddings.npy')
+        speakerEmbeddings = torch.tensor(speakerEmbeddings, dtype = torch.float)
         return speakerEmbeddings
 
     numSpeakers = len(speaker_ids)
