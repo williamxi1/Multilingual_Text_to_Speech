@@ -5,13 +5,20 @@ import os
 
 
 inputs = [
-    "There is a time and place for everything|00-en|en",
-    "There is a time and place for everything|00-fr|en",
-    "There is a time and place for everything|00-zh|en",
-    "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-zh|zh",
-    "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-fr|zh",
-    "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-en|zh"
+    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-sp|sp",
+    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-fr|sp",
+    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|sp",
+    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
 ]
+
+# inputs = [
+#     "There is a time and place for everything|00-en|en",
+#     "There is a time and place for everything|00-fr|en",
+#     "There is a time and place for everything|00-zh|en",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-zh|zh",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-fr|zh",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-en|zh"
+# ]
 # inputs = [
 #     "There is a time and place for everything|english|english",
 #     "There is a time and place for everything|french|english",
@@ -23,7 +30,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "tacotronv2_59"
+tacotron_chpt = "tacotronv2_79"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -68,5 +75,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+1) + '.wav', hp.sample_rate, w_scaled)
+  write('test' + str(idx+1) + '_sp.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))
