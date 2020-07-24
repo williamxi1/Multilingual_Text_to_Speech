@@ -13,3 +13,4 @@ with open('zhtranscript.txt', 'w', encoding='utf-8') as f:
                 for line in rf:
                     print((file.split('.')[0] + '|' + line).rstrip(), file=f)
                     break
+            subprocess.call(['rm', file])
