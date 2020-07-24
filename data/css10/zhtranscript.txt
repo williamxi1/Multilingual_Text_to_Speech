@@ -1,0 +1,5 @@
+metadata|LJ001-0001|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition|Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition
+newtrain|000000|00-en|en|english/wavs/LJ001-0001.wav|||Printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the Exhibition|
+newval|054119|00-en|en|english/wavs/LJ002-0006.wav|||but it was almost always in excess of the accommodation available, and there were times when the place was full to overflowing.|
+train|062735|spanish|spanish|spanish/batalla_arapiles/batalla_arapiles_3040.wav|||Poco a poco fui perdiéndole el miedo: me causaba cierto respeto; pero amarle. ¡eso imposible!|
+val|026555|german|german|german/meisterfloh/meisterfloh_0972.wav|||Was aber der schärfste Verstand nicht zu ersinnen vermochte, das führte die Gunst des Zufalls von selbst herbei. Meines Magiers Freund|

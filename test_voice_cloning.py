@@ -10,10 +10,20 @@ inputs = [
     "There is a time and place for everything|00-zh|en",
     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-zh|zh",
     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-fr|zh",
+    "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-en|zh"
 ]
+# inputs = [
+#     "There is a time and place for everything|english|english",
+#     "There is a time and place for everything|french|english",
+#     "There is a time and place for everything|chinese|english",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|chinese|chinese",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|french|chinese",
+#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|english|chinese"
+# ]
+
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-0-0.384"
+tacotron_chpt = "tacotronv2_59"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
