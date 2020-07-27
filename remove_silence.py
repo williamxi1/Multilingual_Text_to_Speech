@@ -34,7 +34,7 @@ for wav in wavs:
     print("Trimming: ", wav)
     sound = AudioSegment.from_file(wav, format="wav")
     remove_silence(sound)
-    trimmed_sound.export(os.path.dirname(os.getcwd(), "wavsfemale"), format="wav")
+    trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), "wavsfemale", wav), format="wav")
 
 
 os.chdir('data/css10/spanish/slr72/wavsmaleuntrimmed')
@@ -44,5 +44,5 @@ for wav in wavs:
     print("Trimming: ", wav)
     sound = AudioSegment.from_file(wav, format="wav")
     remove_silence(sound)
-    trimmed_sound.export(os.path.dirname(os.getcwd(), "wavsmale"), format="wav")
+    trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), "wavsmale", wav), format="wav")
 
