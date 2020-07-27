@@ -94,7 +94,7 @@ for d, fs in entranscript:
                 speaker_id += 1
                 en_speakers[speaker] = str(speaker_id).zfill(2)
             new_stuff = [0, en_speakers[speaker] + "-en", "en", "english/VCTK-Corpus/wavs/" + speaker + \
-                         "/" + line[0].split('.')[0] + ".wav", "", "", line[1], ""]
+                         "/" + line[0].split('.')[0] + "r.wav", "", "", line[1], ""]
             if cntr % 100 == 0:
                 metadata[1][2].append(new_stuff)
             else:
