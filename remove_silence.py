@@ -27,7 +27,10 @@ def remove_silence(sound, silence_threshold=-50.0, chunk_size=50):
 
     return trimmed_sound
 
-os.chdir('data/css10/spanish/slr72/wavsfemaleuntrimmed')
+os.chdir('data/css10/spanish/slr72')
+
+os.mkdir('wavsfemale')
+os.chdir('wavsfemaleuntrimmed')
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
 for wav in wavs:
@@ -37,7 +40,9 @@ for wav in wavs:
     trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), "wavsfemale", wav), format="wav")
 
 
-os.chdir('data/css10/spanish/slr72/wavsmaleuntrimmed')
+os.chdir(os.path.dirname(os.getcwd()))
+os.mkdir('wavsmale')
+os.chdir('wavsmaleuntrimmed')
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
 for wav in wavs:
