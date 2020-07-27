@@ -27,7 +27,7 @@ def remove_silence(sound, silence_threshold=-50.0, chunk_size=50):
 
     return trimmed_sound
 
-os.chdir('/data/css10/english/VCTK-Corpus/wavs')
+os.chdir('data/css10/english/VCTK-Corpus/wavs')
 
 speakers = str(subprocess.check_output(['ls']))
 speakers = speakers[2:-3].split('\\n')
