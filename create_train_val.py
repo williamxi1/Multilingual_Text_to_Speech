@@ -113,7 +113,7 @@ for d, fs in zhtranscript:
             if speaker not in zh_speakers:
                 speaker_id += 1
                 zh_speakers[speaker] = str(speaker_id).zfill(2)
-            new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/data_thchs30/data" + speaker + "/" + line[0] + ".wav", "", "", pinyin.get(line[1]), ""]
+            new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/data_thchs30/data" + speaker + "/" + line[0] + "r.wav", "", "", pinyin.get(line[1]), ""]
             if cntr % 100 == 0:
                 metadata[1][2].append(new_stuff)
             else:
@@ -140,7 +140,7 @@ for d, fs in slr72:
             slr_speakers[line[0] + line[1]] = str(speaker_id).zfill(2)
         #print(slr_speakers[line[0] + line[1]] + '|' + line[0] + "_" + line[1] + "_" +line[2] + "|" + line[3])
         cntr += 1
-        wav_path = "spanish/slr72/wavs" + gender + "/" + line[0] + "_" + line[1] + "_" + line[2] + ".wav"
+        wav_path = "spanish/slr72/wavs" + gender + "/" + line[0] + "_" + line[1] + "_" + line[2] + "r.wav"
         new_stuff = [0,   slr_speakers[line[0] + line[1]] + "-es", "es", wav_path, "", "", line[3], ""]
         if cntr % 100 == 0:
             metadata[1][2].append(new_stuff)
