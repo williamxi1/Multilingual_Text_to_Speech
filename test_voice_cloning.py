@@ -12,12 +12,16 @@ inputs = [
 ]
 
 # inputs = [
-#     "There is a time and place for everything|00-en|en",
-#     "There is a time and place for everything|00-fr|en",
-#     "There is a time and place for everything|00-zh|en",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-zh|zh",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-fr|zh",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|00-en|zh"
+#     "Quiero respirar tu cuello despacito|00-en|sp",
+#     "Quiero respirar tu cuello despacito|00-fr|sp",
+#     "Quiero respirar tu cuello despacito|00-zh|sp",
+#     "Quiero respirar tu cuello despacito|00-sp|sp"]
+#
+#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-zh|zh",
+#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-fr|zh",
+#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-en|zh",
+#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-sp|zh"
+#
 # ]
 # inputs = [
 #     "There is a time and place for everything|english|english",
@@ -30,7 +34,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "tacotronv2_79"
+tacotron_chpt = "tacotronv2_99"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -75,5 +79,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+1) + '_sp.wav', hp.sample_rate, w_scaled)
+  write('test' + str(idx+1) + '_v2.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))
