@@ -78,7 +78,6 @@ def synthesize(model, input_data, force_cpu=False):
 
     s = model.inference(t, speaker=s, language=l).cpu().detach().numpy()
     s = audio.denormalize_spectrogram(s, not hp.predict_linear)
-
     return s
 
 

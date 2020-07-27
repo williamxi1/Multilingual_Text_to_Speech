@@ -3,34 +3,32 @@ import os
 #import IPython
 #from IPython.display import Audio
 
+#
+# inputs = [
+#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-sp|sp",
+#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-fr|sp",
+#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|sp",
+#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
+# ]
 
 inputs = [
-    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-sp|sp",
-    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-fr|sp",
-    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|sp",
-    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
+    #"Quiero respirar tu cuello despacito|00-sp|sp",
+    # "Quiero respirar tu cuello despacito|00-fr|sp",
+    # "Quiero respirar tu cuello despacito|00-zh|sp",
+    # "Quiero respirar tu cuello despacito|00-sp|sp",
+     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-zh|zh",
+    # "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-fr|zh",
+    # "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-en|zh",
+    #"Madame Pinglet sort en lui tirant la langue|00-zh|fr"
 ]
-
-# inputs = [
-#     "Quiero respirar tu cuello despacito|00-en|sp",
-#     "Quiero respirar tu cuello despacito|00-fr|sp",
-#     "Quiero respirar tu cuello despacito|00-zh|sp",
-#     "Quiero respirar tu cuello despacito|00-sp|sp"]
-#
-#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-zh|zh",
-#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-fr|zh",
-#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-en|zh",
-#     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-sp|zh"
-#
-# ]
-# inputs = [
-#     "There is a time and place for everything|english|english",
-#     "There is a time and place for everything|french|english",
-#     "There is a time and place for everything|chinese|english",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|chinese|chinese",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|french|chinese",
-#     "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|english|chinese"
-# ]
+#inputs = [
+    # "There is a time and place for everything|english|english",
+    # "There is a time and place for everything|french|english",
+    # "There is a time and place for everything|chinese|english",
+    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|chinese|chinese",
+    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|french|chinese",
+    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|english|chinese"
+#]
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
@@ -46,6 +44,7 @@ from synthesize import synthesize
 from utils import build_model
 model = build_model(os.path.join(os.path.join(os.getcwd(), "checkpoints"), tacotron_chpt))
 model.eval()
+
 
 spectrograms = [synthesize(model, "|" + i) for i in inputs]
 #print(spectrograms[0].shape)
@@ -79,5 +78,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+1) + '_v2.wav', hp.sample_rate, w_scaled)
+  write('test' + str(idx+1) + '_v3.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))

@@ -1,5 +1,6 @@
 import math
 import torch
+import numpy as np
 from torch.nn import functional as F
 from torch.nn import Sequential, ModuleList, Linear, ReLU, Dropout, LSTM, Embedding
 
@@ -120,10 +121,10 @@ class Decoder(torch.nn.Module):
             self._language_embedding = self._get_embedding(hp.language_embedding_dimension, len(hp.languages))
 
     def _get_embedding(self, embedding_dimension, size=None):
-        # speakerEmbeddings = getSpeakerEmbeddings(hp.unique_speakers)
-        # embedding = Embedding.from_pretrained(speakerEmbeddings)
-        embedding = Embedding(size, embedding_dimension)
-        torch.nn.init.xavier_uniform_(embedding.weight)
+        speakerEmbeddings = getSpeakerEmbeddings(hp.unique_speakers)
+        embedding = Embedding.from_pretrained(speakerEmbeddings)
+        # embedding = Embedding(size, embedding_dimension)
+        # torch.nn.init.xavier_uniform_(embedding.weight)
         return embedding
 
     def _target_init(self, target, batch_size):
@@ -145,7 +146,17 @@ class Decoder(torch.nn.Module):
 
     def _add_conditional_embedding(self, encoded, layer, condition):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
-        embedded = layer(encoded if condition is None else condition)
+        print(encoded.shape)
+        embedded = torch.tensor(np.load('williamxi.npy'))
+        print(embedded)
+        embedded = torch.reshape(embedded, (1,1,256))
+        embedded = embedded.repeat(1, encoded.shape[1],1)
+        print(embedded)
+        print(encoded.shape, embedded.shape)
+        # embedded = layer(encoded if condition is None else condition)
+        # print(embedded)
+        print(embedded.shape)
+
         return torch.cat((encoded, embedded), dim=-1)
 
     def _decode(self, encoded_input, mask, target, teacher_forcing_ratio, speaker, language):
