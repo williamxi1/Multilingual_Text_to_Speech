@@ -257,14 +257,14 @@ if __name__ == '__main__':
             hp.lin_normalize_mean, hp.lin_normalize_variance = dataset.train.get_normalization_constants(False)   
 
     # instantiate model
-    if torch.cuda.is_available():
-        print("Using GPU")
-        model = Tacotron().cuda()
-        if hp.parallelization and args.max_gpus > 1 and torch.cuda.device_count() > 1:
-            model = DataParallelPassthrough(model, device_ids=list(range(args.max_gpus)))
-    else:
-        print("Using CPU")
-        model = Tacotron()
+    # if torch.cuda.is_available():
+    #     print("Using GPU")
+    #     model = Tacotron().cuda()
+    #     if hp.parallelization and args.max_gpus > 1 and torch.cuda.device_count() > 1:
+    #         model = DataParallelPassthrough(model, device_ids=list(range(args.max_gpus)))
+    # else:
+    print("Using CPU")
+    model = Tacotron()
 
     # instantiate optimizer and scheduler
     print("Creating Optimizer")
