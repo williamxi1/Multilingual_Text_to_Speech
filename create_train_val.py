@@ -162,6 +162,7 @@ for d, fs, m in metadata:
     with open(os.path.join(d, "new"+fs), 'w', encoding='utf-8') as f:
         for i in m:
             idx, s, l, a, _, _, raw_text, ph = i
-            print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            if(cntr % 3 != 2):
+                print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
             cntr += 1
 
