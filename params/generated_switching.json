@@ -1,9 +1,9 @@
 {
 	"balanced_sampling": true,
-	"batch_size": 40,
+	"batch_size": 32,
 	"case_sensitive": false,
 	"characters": " abcdefghijklmnopqrstuvwxyzçèéßäöōǎǐíǒàáǔüèéìūòóùúāēěīâêôûñőűё",
-	"checkpoint_each_epochs": 40,
+	"checkpoint_each_epochs": 10,
 	"dataset": "css10",
 	"encoder_dimension": 256,
 	"encoder_type": "generated",
