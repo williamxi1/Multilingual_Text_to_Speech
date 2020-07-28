@@ -113,7 +113,7 @@ for d, fs in zhtranscript:
             if speaker not in zh_speakers:
                 speaker_id += 1
                 zh_speakers[speaker] = str(speaker_id).zfill(2)
-            new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/data_thchs30/data" + speaker + "/" + line[0] + "r.wav", "", "", pinyin.get(line[1]), ""]
+            new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/data_thchs30/data" + "/" + line[0] + "r.wav", "", "", pinyin.get(line[1]), ""]
             if cntr % 100 == 0:
                 metadata[1][2].append(new_stuff)
             else:

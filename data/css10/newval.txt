@@ -479,136 +479,136 @@
 069044|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18848613.wav|||cècí jí bù fù。|
 069045|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18849212.wav|||yīncǐ， qí zhíyèshēngyá zhǔyào zhuānzhù yú xùnliàn hé dùi wàiguó gǎngkǒu de yǒuhǎofǎngwèn。|
 069046|07-zh|zh|chinese/zh/wavs/07/common_voice_zh-CN_18776291.wav|||yětián zhūměi， rìběn zúqíu yùndòngyuán， rìběn guójiā nv̌zǐ zúqíudùi chéngyuán。|
-069047|08-zh|zh|chinese/data_thchs30/data11/A11_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
-069048|08-zh|zh|chinese/data_thchs30/data11/A11_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
-069049|08-zh|zh|chinese/data_thchs30/data11/B11_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
-069050|08-zh|zh|chinese/data_thchs30/data11/B11_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
-069051|08-zh|zh|chinese/data_thchs30/data11/B11_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
-069052|08-zh|zh|chinese/data_thchs30/data11/D11_756r.wav|||xuǎn yīběn hǎoshū shǐ nǐ lí xiǎo yàng ér dùn yù chù nìjìng ér bù něi chāng rú xiàhuā chūncǎo shèng ruò jǐnduàn lièhuǒ|
-069053|08-zh|zh|chinese/data_thchs30/data11/D11_857r.wav|||tándào dìèrjiēduàn táotàisài wáng dàyǒng xīwàng xiān pèng rùi fǎ dé děng ōuzhōu dùi yīnwèi tā hěn shúxī zhèxiē dùi|
-069054|08-zh|zh|chinese/data_thchs30/data11/D11_957r.wav|||xiāngchuán jìn zhāo sōngjiāng rén zhānghàn zài luòyáng zuòguān yīn xiǎngniàn jiāxiāng jùn wù gū cài chún gēng lúyú kuài ér gàolǎohuánxiāng|
-069055|09-zh|zh|chinese/data_thchs30/data12/A12_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
-069056|09-zh|zh|chinese/data_thchs30/data12/A12_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
-069057|09-zh|zh|chinese/data_thchs30/data12/B12_317r.wav|||sūn cǎiyún súijí yàoqíu jiāng hénggān shēngdào sì mǐ èrqī yěshì yī cì qǐtiào chénggōng bāěr tuō wá wèinéng guò gān|
-069058|09-zh|zh|chinese/data_thchs30/data12/B12_417r.wav|||dìfāng yìng yǔ bùdùi liánhé jǔbàn yīxiē zhuānyè wényì réncái de péixùn yǐ péiyǎng gèngduō de wényì réncái|
-069059|09-zh|zh|chinese/data_thchs30/data12/C12_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
-069060|09-zh|zh|chinese/data_thchs30/data12/C12_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
-069061|09-zh|zh|chinese/data_thchs30/data12/D12_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
-069062|09-zh|zh|chinese/data_thchs30/data12/D12_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
-069063|10-zh|zh|chinese/data_thchs30/data13/A13_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
-069064|10-zh|zh|chinese/data_thchs30/data13/A13_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
-069065|10-zh|zh|chinese/data_thchs30/data13/C13_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
-069066|10-zh|zh|chinese/data_thchs30/data13/C13_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
-069067|10-zh|zh|chinese/data_thchs30/data13/C13_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
-069068|10-zh|zh|chinese/data_thchs30/data13/D13_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
-069069|10-zh|zh|chinese/data_thchs30/data13/D13_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
-069070|10-zh|zh|chinese/data_thchs30/data13/D13_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
-069071|11-zh|zh|chinese/data_thchs30/data14/A14_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
-069072|11-zh|zh|chinese/data_thchs30/data14/A14_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
-069073|11-zh|zh|chinese/data_thchs30/data14/A14_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
-069074|11-zh|zh|chinese/data_thchs30/data14/C14_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
-069075|11-zh|zh|chinese/data_thchs30/data14/C14_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
-069076|12-zh|zh|chinese/data_thchs30/data19/A19_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
-069077|12-zh|zh|chinese/data_thchs30/data19/A19_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
-069078|12-zh|zh|chinese/data_thchs30/data19/C19_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
-069079|12-zh|zh|chinese/data_thchs30/data19/C19_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
-069080|12-zh|zh|chinese/data_thchs30/data19/C19_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
-069081|13-zh|zh|chinese/data_thchs30/data22/A22_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
-069082|13-zh|zh|chinese/data_thchs30/data22/A22_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
-069083|13-zh|zh|chinese/data_thchs30/data22/A22_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
-069084|13-zh|zh|chinese/data_thchs30/data22/B22_298r.wav|||yītiān yèlǐ pīngpāng luàn xiǎng hòu wū yījiǎo shǔi rú kuáng pù wǒ jiēlián cóng chuāngkǒu wǎng wài qīng dǎochū shíjī tǒng yǔshǔi|
-069085|13-zh|zh|chinese/data_thchs30/data22/B22_398r.wav|||shuōdào èrmáo qǐyè yìnggāi xiàng èrmáo nàyáng yǒu zījīn yǒu jìzhú yǒu yuánliào bǎozhèng yǒu xiāoshòuqúdào yǒu qǐyèxíngxiàng|
-069086|13-zh|zh|chinese/data_thchs30/data22/B22_498r.wav|||zhōngwén wénběn wàiwén wénběn fāshēng qíyì shí yǐ zhōngwén wénběn wèizhǔn|
-069087|13-zh|zh|chinese/data_thchs30/data22/C22_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
-069088|13-zh|zh|chinese/data_thchs30/data22/C22_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
-069089|14-zh|zh|chinese/data_thchs30/data23/A23_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
-069090|14-zh|zh|chinese/data_thchs30/data23/A23_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
-069091|14-zh|zh|chinese/data_thchs30/data23/C23_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
-069092|14-zh|zh|chinese/data_thchs30/data23/C23_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
-069093|14-zh|zh|chinese/data_thchs30/data23/C23_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
-069094|15-zh|zh|chinese/data_thchs30/data2/A2_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
-069095|15-zh|zh|chinese/data_thchs30/data2/A2_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
-069096|15-zh|zh|chinese/data_thchs30/data2/B2_348r.wav|||ránhòu sījī kànzháo xīnniáng gěi tā cā liǎn tā gǎndào bùkěsīyì de shì xīnniáng gěi tā cā liǎn de dòngzuò wèihé yě rúcǐ wēnróu|
-069097|15-zh|zh|chinese/data_thchs30/data2/B2_448r.wav|||guówài yǒuguān zhuānjiā diàochá le sānbǎi duōmíng chángshòu zhě rènwèi qínyú yòng nǎo kě yánhuǎn shuāilǎo ér lǎnduò kě shǐrén zǎoshuāi|
-069098|16-zh|zh|chinese/data_thchs30/data32/A32_0r.wav|||lv̀ shì yángchūn yān jǐng dàkuài wénzhāng de dǐsè sìyuè de lín luán gèngshì lv̀ dé xiānhuó xìumèi shīyì àngrán|
-069099|16-zh|zh|chinese/data_thchs30/data32/A32_189r.wav|||gēnjù cūn gūi mín yuē ōudǎ nvèdài lǎorén de wángmǒu érxí bèi chù èrbǎi yuán fákuǎn bìng jiāo yìliáofèi wǔbǎi yuán|
-069100|16-zh|zh|chinese/data_thchs30/data32/A32_54r.wav|||zhèzhǒng wěi háng pái diànzǐ miè wényíng dēng cǎiyòng mǒuzhǒng guāngpǔ néng de guāng xiàoyìng yòushā wényíng hé fēichóng dùi réntǐ wúhài|
-069101|16-zh|zh|chinese/data_thchs30/data32/B32_349r.wav|||zǒngsuàn nǐ yùnqìhǎo wǒ zuótiān gānggāng bǎ huò mài le fǒuzé kǒngpà yīwén qián yě jiè bù chūlái ní|
-069102|16-zh|zh|chinese/data_thchs30/data32/B32_449r.wav|||nánguài měiguó zhùmíng zuòjiā suōluō yào bǎ wǎ ěr téng húpàn de xīnxiān kōngqì zhuāng jìn píngzǐ màigěi nàxiē shùi zǎo jué de rén le|
-069103|16-zh|zh|chinese/data_thchs30/data32/C32_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
-069104|16-zh|zh|chinese/data_thchs30/data32/C32_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
-069105|16-zh|zh|chinese/data_thchs30/data32/D32_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
-069106|16-zh|zh|chinese/data_thchs30/data32/D32_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
-069107|17-zh|zh|chinese/data_thchs30/data33/A33_45r.wav|||lìngwài jiāgōng xīulǐ hé xīupèi yèwù bù shǔyú yíngyèshùi de yìng shùi láowù bù jiǎonà yíngyèshùi|
-069108|17-zh|zh|chinese/data_thchs30/data33/B33_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
-069109|17-zh|zh|chinese/data_thchs30/data33/B33_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
-069110|17-zh|zh|chinese/data_thchs30/data33/B33_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
-069111|18-zh|zh|chinese/data_thchs30/data34/A34_134r.wav|||fǎ jì zànchéng běiyuē dōngkuò yòu tóngyì jiāqiáng ōu ān zǔzhī de zuòyòng cóngér hé měiguó yǒusuǒ qūbié|
-069112|18-zh|zh|chinese/data_thchs30/data34/A34_225r.wav|||xiěyè xúnhuánxìtǒng yǒu yánzhòng zhàngài tè biéshì nàxiē yóuyú nǎoxiěguǎn biàn zhǎi ér jīngcháng tóuyūn tóuhūn de rén|
-069113|18-zh|zh|chinese/data_thchs30/data34/A34_91r.wav|||xī āndōng nán běichéng ménqián yǒuxǔduō xuānchuánpái guà yīkuài pái yīnián yào huā liǎng wànyuán wǒmen yě guà le yīkuài|
-069114|20-zh|zh|chinese/data_thchs30/data36/A36_174r.wav|||liándùi zhǐ líuxià yīmíng zhíbānyuán chūishìyuán sìyǎngyuán wèishēngyuán děng yě lièdùi pǎobù gǎnwǎng zāiqū|
-069115|20-zh|zh|chinese/data_thchs30/data36/A36_4r.wav|||tā kànkàn yè jǐ hěn shēn báitiān de yánrè yǐ gěi yè liáng chūisàn fēnfù dàjiā gèzì ānxī míngtiān jìxù wánlè|
-069116|21-zh|zh|chinese/data_thchs30/data4/A4_129r.wav|||tā huànyǒu fēngshī xìng yāoténg bìng yī nián cháoshī láolèi jìu téngtòng nánrěn dàn zhuāng jǐngkǒu yòu bìxū wānyāo gōng bèi zuànjìn mǎn shì níshǔi de zuàn tái xiàbiān gānhuó|
-069117|21-zh|zh|chinese/data_thchs30/data4/A4_219r.wav|||zhè péngyǒu yě xiàng tánliànài yīyáng dé jiǎng yuánfèn yǒu yuánfèn shì bùyòng kèyì qù zhūiqíu de|
-069118|21-zh|zh|chinese/data_thchs30/data4/A4_85r.wav|||húyàobāng yǔ yángyǒng què xì díqīn yí biǎoxiōngdì yàobāng de mǔqīn líu mínglún yǔ yángyǒng de mǔqīn líu shìzhēn shì tóngbāo jiěmèi|
-069119|21-zh|zh|chinese/data_thchs30/data4/B4_342r.wav|||xióng xiā xìngxiàn dāngnián chéngshú jí yǔ cí xiā jiāopèi cí xiā xìngxiàn chéngshú jiào chí suǒyǐ yào dào dìèrnián cáinéng huáiyùn chǎn zǐ|
-069120|21-zh|zh|chinese/data_thchs30/data4/B4_442r.wav|||qí ěr kē xiānshēng wūkèlán zú nián jiè qīxún yòu sì yínsī mǎntóu jīngshén juéshuò mùguāng níngzhòng ānxiáng|
-069121|21-zh|zh|chinese/data_thchs30/data4/C4_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
-069122|21-zh|zh|chinese/data_thchs30/data4/C4_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
-069123|21-zh|zh|chinese/data_thchs30/data4/C4_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
-069124|21-zh|zh|chinese/data_thchs30/data4/D4_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
-069125|21-zh|zh|chinese/data_thchs30/data4/D4_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
-069126|21-zh|zh|chinese/data_thchs30/data4/D4_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
-069127|23-zh|zh|chinese/data_thchs30/data6/A6_17r.wav|||wǔyuè èrshíjǐurì yèwǎn àodàlìyà shǒudū kānpéilā de huángjiā jùyuàn rèliè ér chōngmǎn zháo zhēnqíng|
-069128|23-zh|zh|chinese/data_thchs30/data6/A6_35r.wav|||dàole yǒu qìng tí zháo yī lán cǎo húilái shàngxué yě kuài chí dàole jímáng wǎng zǔilǐ sāi yīwǎn fàn biān jiáo biān wǎng chénglǐ pǎo|
-069129|23-zh|zh|chinese/data_thchs30/data6/B6_292r.wav|||zhè piàn zhǒngzhí qū de zhǒngzǐ shì dàtóng tángchǎng fāshòu de yòu dìng le hétóng wèi càinóng fúwù yěshì dàtóng tángchǎng zuò de|
-069130|23-zh|zh|chinese/data_thchs30/data6/B6_394r.wav|||hé nǐ liànài yǔ hé biéde rén liànài dùiyú tā láishuō yǒu shíyāo qūbié nǐ piē piēzǔi èdú dì zhèyáng xiǎng|
-069131|23-zh|zh|chinese/data_thchs30/data6/B6_494r.wav|||dànshì mòníqiǎ yàoqíu luōmǎlǐào měiyuè xiàng tā zhīfù wǔwànwǔqiānwǔbǎiwǔshíwǔ měiyuán de shēnghuó fèiyòng|
-069132|23-zh|zh|chinese/data_thchs30/data6/C6_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
-069133|23-zh|zh|chinese/data_thchs30/data6/C6_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
-069134|23-zh|zh|chinese/data_thchs30/data6/D6_810r.wav|||duǎntú kèchē hé bùfēn wòpū bù mǎnyuán yě bù děngyú tiělù yùnlì bùzài jǐnzhāng tiělù jiànshè bùfá sīháo bùkě fàngmàn|
-069135|23-zh|zh|chinese/data_thchs30/data6/D6_910r.wav|||zài hénánshěng línyǐngxiàn tíqǐ xiàn gōngānjú júcháng nǐu sùi cháng rénmen wú bù chēngzàn ér fànzùifēnzǐ zé wénfēngsāngdǎn|
-069136|24-zh|zh|chinese/data_thchs30/data7/A7_124r.wav|||lìngwài nv̌dān zhōngguódùi huányǒu hánjīng nuó hé yáo yàn àoyùn páimíng dìlìu qīwèi yě kě yǔ gāoshǒu yī bó|
-069137|24-zh|zh|chinese/data_thchs30/data7/A7_214r.wav|||jīntiān péi yǐ méng zhǎo féng bāng zhǎo dé yòu lèi yòu è dàn kànjiàn yǐ méng nà fù zháojí yáng wǒ yīdiǎn yě chībùxià|
-069138|24-zh|zh|chinese/data_thchs30/data7/A7_81r.wav|||yìnggǔtóu lìu lián lìrèn zhǔguǎn zhàndǒu yīngxióng hé zhuǎnyè tùiwǔ gānbù zhànshì dàibiǎo yìngyāo zuò zài jiābīn xí shàng|
-069139|24-zh|zh|chinese/data_thchs30/data7/B7_344r.wav|||tā yǒuyīgè fāngfǎ ào táng nàiěr yòng yī zhǒng jìngyǎng de kǒuqì shuō xiǎnrán tā zìjǐ cónglái méi xiǎngchū guò shíyāo fāngfǎ|
-069140|24-zh|zh|chinese/data_thchs30/data7/B7_444r.wav|||qīn yīng de běiàiěrlán xīn jiàopài wǔzhuāng shíèrrì wǎn fābiǎo shēngmíng wēixié yào bàofù àiěrlán gònghé jūn|
-069141|24-zh|zh|chinese/data_thchs30/data7/C7_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
-069142|24-zh|zh|chinese/data_thchs30/data7/C7_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
-069143|24-zh|zh|chinese/data_thchs30/data7/C7_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
-069144|24-zh|zh|chinese/data_thchs30/data7/D7_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
-069145|24-zh|zh|chinese/data_thchs30/data7/D7_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
-069146|24-zh|zh|chinese/data_thchs30/data7/D7_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
-069147|25-zh|zh|chinese/data_thchs30/data8/A8_170r.wav|||jù yìndù guānyuán tòulù shuāngfāng tǎolùn le yìndù kòngzhì de kèshímǐěr dìqū mùqián de jǐnzhāng júshì wèntí|
-069148|25-zh|zh|chinese/data_thchs30/data8/A8_36r.wav|||dài yèwǎn jiàn shēn yuè chūyú dōngshān róngróng yuèhuá cāliàng xiǎohú yìngrù shǔizhōng de yuè hūi rúyù pán xiǎohú biàn xiàng jìng yuè|
-069149|25-zh|zh|chinese/data_thchs30/data8/B8_295r.wav|||ā pǒ rùitè kànzháo hēiàn jiàng línle zhè sāo chuán tīngjiàn nà yáoyuǎn ér róuhé de yuánzǐ fādòngjī de gūlū shēng tūrán tíngzhǐ|
-069150|25-zh|zh|chinese/data_thchs30/data8/B8_395r.wav|||zhèng zāo rìwěi sǎodàng de guómíndǎng wán jūn hán déqín pàirén yǔ wǒ liánxì yàoqíu lv̀ qí bùdùi zhuǎn yídào wǒ huáiān gēnjùdì|
-069151|25-zh|zh|chinese/data_thchs30/data8/B8_495r.wav|||cǐwài běiyuē huán biǎoshìzhīchí é zài ōuzhōu ānquán zǔzhī fànwéi nèi tǎolùn èrshíyīshìjì ōuzhōu jí quánqíu ānquánmóshì de tíyì|
-069152|25-zh|zh|chinese/data_thchs30/data8/C8_556r.wav|||yīngxióng céng zhào gāng wúkùiyú zhè guāngróng de chēnghào wúkùiyú wǒmen de shídài|
-069153|25-zh|zh|chinese/data_thchs30/data8/C8_656r.wav|||tā qīng rú ěryǔ dì wèn tā shìfǒu yǒukōng néngbùnéng qūzūn péi tā shàngjiē mǎi xiē pípá wàimiàn hēi tā pà yùshàng dǎirén|
-069154|25-zh|zh|chinese/data_thchs30/data8/D8_811r.wav|||yùnyòng zhèzhǒng yíqì xīnhuáyìyuàn yòu qiǎngjìu le liǎng lì wèiái hé shíèrzhǐcháng kùiyáng dàliàng yǒng xiě bìngrén jūn huòdé chénggōng|
-069155|25-zh|zh|chinese/data_thchs30/data8/D8_911r.wav|||gēwǔjù yuèyá wǔgèng bèi zhuānjiā men yùwèi yìzhú jīngpǐn shòudào guónèiwài guānzhòng qīnglài jǐu yǎn bùshuāi|
-069156|27-zh|zh|chinese/data_thchs30/data15/B15_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
-069157|27-zh|zh|chinese/data_thchs30/data15/B15_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
-069158|27-zh|zh|chinese/data_thchs30/data15/B15_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
-069159|28-zh|zh|chinese/data_thchs30/data21/C21_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
-069160|28-zh|zh|chinese/data_thchs30/data21/C21_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
-069161|28-zh|zh|chinese/data_thchs30/data21/C21_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
-069162|28-zh|zh|chinese/data_thchs30/data21/D21_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
-069163|28-zh|zh|chinese/data_thchs30/data21/D21_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
-069164|29-zh|zh|chinese/data_thchs30/data31/B31_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
-069165|29-zh|zh|chinese/data_thchs30/data31/B31_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
-069166|29-zh|zh|chinese/data_thchs30/data31/B31_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
-069167|29-zh|zh|chinese/data_thchs30/data31/C31_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
-069168|29-zh|zh|chinese/data_thchs30/data31/C31_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
-069169|29-zh|zh|chinese/data_thchs30/data31/C31_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
-069170|29-zh|zh|chinese/data_thchs30/data31/D31_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
-069171|29-zh|zh|chinese/data_thchs30/data31/D31_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
-069172|29-zh|zh|chinese/data_thchs30/data31/D31_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
-069173|30-zh|zh|chinese/data_thchs30/data17/C17_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
-069174|30-zh|zh|chinese/data_thchs30/data17/C17_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
-069175|30-zh|zh|chinese/data_thchs30/data17/C17_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
-069176|31-zh|zh|chinese/data_thchs30/data18/C18_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
-069177|31-zh|zh|chinese/data_thchs30/data18/C18_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
-069178|32-zh|zh|chinese/data_thchs30/data20/C20_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
-069179|32-zh|zh|chinese/data_thchs30/data20/C20_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069047|08-zh|zh|chinese/data_thchs30/data/A11_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069048|08-zh|zh|chinese/data_thchs30/data/A11_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069049|08-zh|zh|chinese/data_thchs30/data/B11_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
+069050|08-zh|zh|chinese/data_thchs30/data/B11_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
+069051|08-zh|zh|chinese/data_thchs30/data/B11_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
+069052|08-zh|zh|chinese/data_thchs30/data/D11_756r.wav|||xuǎn yīběn hǎoshū shǐ nǐ lí xiǎo yàng ér dùn yù chù nìjìng ér bù něi chāng rú xiàhuā chūncǎo shèng ruò jǐnduàn lièhuǒ|
+069053|08-zh|zh|chinese/data_thchs30/data/D11_857r.wav|||tándào dìèrjiēduàn táotàisài wáng dàyǒng xīwàng xiān pèng rùi fǎ dé děng ōuzhōu dùi yīnwèi tā hěn shúxī zhèxiē dùi|
+069054|08-zh|zh|chinese/data_thchs30/data/D11_957r.wav|||xiāngchuán jìn zhāo sōngjiāng rén zhānghàn zài luòyáng zuòguān yīn xiǎngniàn jiāxiāng jùn wù gū cài chún gēng lúyú kuài ér gàolǎohuánxiāng|
+069055|09-zh|zh|chinese/data_thchs30/data/A12_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069056|09-zh|zh|chinese/data_thchs30/data/A12_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069057|09-zh|zh|chinese/data_thchs30/data/B12_317r.wav|||sūn cǎiyún súijí yàoqíu jiāng hénggān shēngdào sì mǐ èrqī yěshì yī cì qǐtiào chénggōng bāěr tuō wá wèinéng guò gān|
+069058|09-zh|zh|chinese/data_thchs30/data/B12_417r.wav|||dìfāng yìng yǔ bùdùi liánhé jǔbàn yīxiē zhuānyè wényì réncái de péixùn yǐ péiyǎng gèngduō de wényì réncái|
+069059|09-zh|zh|chinese/data_thchs30/data/C12_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069060|09-zh|zh|chinese/data_thchs30/data/C12_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069061|09-zh|zh|chinese/data_thchs30/data/D12_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069062|09-zh|zh|chinese/data_thchs30/data/D12_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069063|10-zh|zh|chinese/data_thchs30/data/A13_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069064|10-zh|zh|chinese/data_thchs30/data/A13_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069065|10-zh|zh|chinese/data_thchs30/data/C13_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069066|10-zh|zh|chinese/data_thchs30/data/C13_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069067|10-zh|zh|chinese/data_thchs30/data/C13_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069068|10-zh|zh|chinese/data_thchs30/data/D13_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
+069069|10-zh|zh|chinese/data_thchs30/data/D13_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
+069070|10-zh|zh|chinese/data_thchs30/data/D13_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
+069071|11-zh|zh|chinese/data_thchs30/data/A14_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069072|11-zh|zh|chinese/data_thchs30/data/A14_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069073|11-zh|zh|chinese/data_thchs30/data/A14_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069074|11-zh|zh|chinese/data_thchs30/data/C14_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069075|11-zh|zh|chinese/data_thchs30/data/C14_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069076|12-zh|zh|chinese/data_thchs30/data/A19_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069077|12-zh|zh|chinese/data_thchs30/data/A19_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069078|12-zh|zh|chinese/data_thchs30/data/C19_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069079|12-zh|zh|chinese/data_thchs30/data/C19_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069080|12-zh|zh|chinese/data_thchs30/data/C19_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069081|13-zh|zh|chinese/data_thchs30/data/A22_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069082|13-zh|zh|chinese/data_thchs30/data/A22_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069083|13-zh|zh|chinese/data_thchs30/data/A22_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069084|13-zh|zh|chinese/data_thchs30/data/B22_298r.wav|||yītiān yèlǐ pīngpāng luàn xiǎng hòu wū yījiǎo shǔi rú kuáng pù wǒ jiēlián cóng chuāngkǒu wǎng wài qīng dǎochū shíjī tǒng yǔshǔi|
+069085|13-zh|zh|chinese/data_thchs30/data/B22_398r.wav|||shuōdào èrmáo qǐyè yìnggāi xiàng èrmáo nàyáng yǒu zījīn yǒu jìzhú yǒu yuánliào bǎozhèng yǒu xiāoshòuqúdào yǒu qǐyèxíngxiàng|
+069086|13-zh|zh|chinese/data_thchs30/data/B22_498r.wav|||zhōngwén wénběn wàiwén wénběn fāshēng qíyì shí yǐ zhōngwén wénběn wèizhǔn|
+069087|13-zh|zh|chinese/data_thchs30/data/C22_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069088|13-zh|zh|chinese/data_thchs30/data/C22_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069089|14-zh|zh|chinese/data_thchs30/data/A23_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069090|14-zh|zh|chinese/data_thchs30/data/A23_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069091|14-zh|zh|chinese/data_thchs30/data/C23_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069092|14-zh|zh|chinese/data_thchs30/data/C23_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069093|14-zh|zh|chinese/data_thchs30/data/C23_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069094|15-zh|zh|chinese/data_thchs30/data/A2_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069095|15-zh|zh|chinese/data_thchs30/data/A2_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069096|15-zh|zh|chinese/data_thchs30/data/B2_348r.wav|||ránhòu sījī kànzháo xīnniáng gěi tā cā liǎn tā gǎndào bùkěsīyì de shì xīnniáng gěi tā cā liǎn de dòngzuò wèihé yě rúcǐ wēnróu|
+069097|15-zh|zh|chinese/data_thchs30/data/B2_448r.wav|||guówài yǒuguān zhuānjiā diàochá le sānbǎi duōmíng chángshòu zhě rènwèi qínyú yòng nǎo kě yánhuǎn shuāilǎo ér lǎnduò kě shǐrén zǎoshuāi|
+069098|16-zh|zh|chinese/data_thchs30/data/A32_0r.wav|||lv̀ shì yángchūn yān jǐng dàkuài wénzhāng de dǐsè sìyuè de lín luán gèngshì lv̀ dé xiānhuó xìumèi shīyì àngrán|
+069099|16-zh|zh|chinese/data_thchs30/data/A32_189r.wav|||gēnjù cūn gūi mín yuē ōudǎ nvèdài lǎorén de wángmǒu érxí bèi chù èrbǎi yuán fákuǎn bìng jiāo yìliáofèi wǔbǎi yuán|
+069100|16-zh|zh|chinese/data_thchs30/data/A32_54r.wav|||zhèzhǒng wěi háng pái diànzǐ miè wényíng dēng cǎiyòng mǒuzhǒng guāngpǔ néng de guāng xiàoyìng yòushā wényíng hé fēichóng dùi réntǐ wúhài|
+069101|16-zh|zh|chinese/data_thchs30/data/B32_349r.wav|||zǒngsuàn nǐ yùnqìhǎo wǒ zuótiān gānggāng bǎ huò mài le fǒuzé kǒngpà yīwén qián yě jiè bù chūlái ní|
+069102|16-zh|zh|chinese/data_thchs30/data/B32_449r.wav|||nánguài měiguó zhùmíng zuòjiā suōluō yào bǎ wǎ ěr téng húpàn de xīnxiān kōngqì zhuāng jìn píngzǐ màigěi nàxiē shùi zǎo jué de rén le|
+069103|16-zh|zh|chinese/data_thchs30/data/C32_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
+069104|16-zh|zh|chinese/data_thchs30/data/C32_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
+069105|16-zh|zh|chinese/data_thchs30/data/D32_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069106|16-zh|zh|chinese/data_thchs30/data/D32_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069107|17-zh|zh|chinese/data_thchs30/data/A33_45r.wav|||lìngwài jiāgōng xīulǐ hé xīupèi yèwù bù shǔyú yíngyèshùi de yìng shùi láowù bù jiǎonà yíngyèshùi|
+069108|17-zh|zh|chinese/data_thchs30/data/B33_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
+069109|17-zh|zh|chinese/data_thchs30/data/B33_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
+069110|17-zh|zh|chinese/data_thchs30/data/B33_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
+069111|18-zh|zh|chinese/data_thchs30/data/A34_134r.wav|||fǎ jì zànchéng běiyuē dōngkuò yòu tóngyì jiāqiáng ōu ān zǔzhī de zuòyòng cóngér hé měiguó yǒusuǒ qūbié|
+069112|18-zh|zh|chinese/data_thchs30/data/A34_225r.wav|||xiěyè xúnhuánxìtǒng yǒu yánzhòng zhàngài tè biéshì nàxiē yóuyú nǎoxiěguǎn biàn zhǎi ér jīngcháng tóuyūn tóuhūn de rén|
+069113|18-zh|zh|chinese/data_thchs30/data/A34_91r.wav|||xī āndōng nán běichéng ménqián yǒuxǔduō xuānchuánpái guà yīkuài pái yīnián yào huā liǎng wànyuán wǒmen yě guà le yīkuài|
+069114|20-zh|zh|chinese/data_thchs30/data/A36_174r.wav|||liándùi zhǐ líuxià yīmíng zhíbānyuán chūishìyuán sìyǎngyuán wèishēngyuán děng yě lièdùi pǎobù gǎnwǎng zāiqū|
+069115|20-zh|zh|chinese/data_thchs30/data/A36_4r.wav|||tā kànkàn yè jǐ hěn shēn báitiān de yánrè yǐ gěi yè liáng chūisàn fēnfù dàjiā gèzì ānxī míngtiān jìxù wánlè|
+069116|21-zh|zh|chinese/data_thchs30/data/A4_129r.wav|||tā huànyǒu fēngshī xìng yāoténg bìng yī nián cháoshī láolèi jìu téngtòng nánrěn dàn zhuāng jǐngkǒu yòu bìxū wānyāo gōng bèi zuànjìn mǎn shì níshǔi de zuàn tái xiàbiān gānhuó|
+069117|21-zh|zh|chinese/data_thchs30/data/A4_219r.wav|||zhè péngyǒu yě xiàng tánliànài yīyáng dé jiǎng yuánfèn yǒu yuánfèn shì bùyòng kèyì qù zhūiqíu de|
+069118|21-zh|zh|chinese/data_thchs30/data/A4_85r.wav|||húyàobāng yǔ yángyǒng què xì díqīn yí biǎoxiōngdì yàobāng de mǔqīn líu mínglún yǔ yángyǒng de mǔqīn líu shìzhēn shì tóngbāo jiěmèi|
+069119|21-zh|zh|chinese/data_thchs30/data/B4_342r.wav|||xióng xiā xìngxiàn dāngnián chéngshú jí yǔ cí xiā jiāopèi cí xiā xìngxiàn chéngshú jiào chí suǒyǐ yào dào dìèrnián cáinéng huáiyùn chǎn zǐ|
+069120|21-zh|zh|chinese/data_thchs30/data/B4_442r.wav|||qí ěr kē xiānshēng wūkèlán zú nián jiè qīxún yòu sì yínsī mǎntóu jīngshén juéshuò mùguāng níngzhòng ānxiáng|
+069121|21-zh|zh|chinese/data_thchs30/data/C4_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069122|21-zh|zh|chinese/data_thchs30/data/C4_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069123|21-zh|zh|chinese/data_thchs30/data/C4_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069124|21-zh|zh|chinese/data_thchs30/data/D4_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
+069125|21-zh|zh|chinese/data_thchs30/data/D4_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
+069126|21-zh|zh|chinese/data_thchs30/data/D4_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
+069127|23-zh|zh|chinese/data_thchs30/data/A6_17r.wav|||wǔyuè èrshíjǐurì yèwǎn àodàlìyà shǒudū kānpéilā de huángjiā jùyuàn rèliè ér chōngmǎn zháo zhēnqíng|
+069128|23-zh|zh|chinese/data_thchs30/data/A6_35r.wav|||dàole yǒu qìng tí zháo yī lán cǎo húilái shàngxué yě kuài chí dàole jímáng wǎng zǔilǐ sāi yīwǎn fàn biān jiáo biān wǎng chénglǐ pǎo|
+069129|23-zh|zh|chinese/data_thchs30/data/B6_292r.wav|||zhè piàn zhǒngzhí qū de zhǒngzǐ shì dàtóng tángchǎng fāshòu de yòu dìng le hétóng wèi càinóng fúwù yěshì dàtóng tángchǎng zuò de|
+069130|23-zh|zh|chinese/data_thchs30/data/B6_394r.wav|||hé nǐ liànài yǔ hé biéde rén liànài dùiyú tā láishuō yǒu shíyāo qūbié nǐ piē piēzǔi èdú dì zhèyáng xiǎng|
+069131|23-zh|zh|chinese/data_thchs30/data/B6_494r.wav|||dànshì mòníqiǎ yàoqíu luōmǎlǐào měiyuè xiàng tā zhīfù wǔwànwǔqiānwǔbǎiwǔshíwǔ měiyuán de shēnghuó fèiyòng|
+069132|23-zh|zh|chinese/data_thchs30/data/C6_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
+069133|23-zh|zh|chinese/data_thchs30/data/C6_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
+069134|23-zh|zh|chinese/data_thchs30/data/D6_810r.wav|||duǎntú kèchē hé bùfēn wòpū bù mǎnyuán yě bù děngyú tiělù yùnlì bùzài jǐnzhāng tiělù jiànshè bùfá sīháo bùkě fàngmàn|
+069135|23-zh|zh|chinese/data_thchs30/data/D6_910r.wav|||zài hénánshěng línyǐngxiàn tíqǐ xiàn gōngānjú júcháng nǐu sùi cháng rénmen wú bù chēngzàn ér fànzùifēnzǐ zé wénfēngsāngdǎn|
+069136|24-zh|zh|chinese/data_thchs30/data/A7_124r.wav|||lìngwài nv̌dān zhōngguódùi huányǒu hánjīng nuó hé yáo yàn àoyùn páimíng dìlìu qīwèi yě kě yǔ gāoshǒu yī bó|
+069137|24-zh|zh|chinese/data_thchs30/data/A7_214r.wav|||jīntiān péi yǐ méng zhǎo féng bāng zhǎo dé yòu lèi yòu è dàn kànjiàn yǐ méng nà fù zháojí yáng wǒ yīdiǎn yě chībùxià|
+069138|24-zh|zh|chinese/data_thchs30/data/A7_81r.wav|||yìnggǔtóu lìu lián lìrèn zhǔguǎn zhàndǒu yīngxióng hé zhuǎnyè tùiwǔ gānbù zhànshì dàibiǎo yìngyāo zuò zài jiābīn xí shàng|
+069139|24-zh|zh|chinese/data_thchs30/data/B7_344r.wav|||tā yǒuyīgè fāngfǎ ào táng nàiěr yòng yī zhǒng jìngyǎng de kǒuqì shuō xiǎnrán tā zìjǐ cónglái méi xiǎngchū guò shíyāo fāngfǎ|
+069140|24-zh|zh|chinese/data_thchs30/data/B7_444r.wav|||qīn yīng de běiàiěrlán xīn jiàopài wǔzhuāng shíèrrì wǎn fābiǎo shēngmíng wēixié yào bàofù àiěrlán gònghé jūn|
+069141|24-zh|zh|chinese/data_thchs30/data/C7_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069142|24-zh|zh|chinese/data_thchs30/data/C7_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069143|24-zh|zh|chinese/data_thchs30/data/C7_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069144|24-zh|zh|chinese/data_thchs30/data/D7_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
+069145|24-zh|zh|chinese/data_thchs30/data/D7_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
+069146|24-zh|zh|chinese/data_thchs30/data/D7_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
+069147|25-zh|zh|chinese/data_thchs30/data/A8_170r.wav|||jù yìndù guānyuán tòulù shuāngfāng tǎolùn le yìndù kòngzhì de kèshímǐěr dìqū mùqián de jǐnzhāng júshì wèntí|
+069148|25-zh|zh|chinese/data_thchs30/data/A8_36r.wav|||dài yèwǎn jiàn shēn yuè chūyú dōngshān róngróng yuèhuá cāliàng xiǎohú yìngrù shǔizhōng de yuè hūi rúyù pán xiǎohú biàn xiàng jìng yuè|
+069149|25-zh|zh|chinese/data_thchs30/data/B8_295r.wav|||ā pǒ rùitè kànzháo hēiàn jiàng línle zhè sāo chuán tīngjiàn nà yáoyuǎn ér róuhé de yuánzǐ fādòngjī de gūlū shēng tūrán tíngzhǐ|
+069150|25-zh|zh|chinese/data_thchs30/data/B8_395r.wav|||zhèng zāo rìwěi sǎodàng de guómíndǎng wán jūn hán déqín pàirén yǔ wǒ liánxì yàoqíu lv̀ qí bùdùi zhuǎn yídào wǒ huáiān gēnjùdì|
+069151|25-zh|zh|chinese/data_thchs30/data/B8_495r.wav|||cǐwài běiyuē huán biǎoshìzhīchí é zài ōuzhōu ānquán zǔzhī fànwéi nèi tǎolùn èrshíyīshìjì ōuzhōu jí quánqíu ānquánmóshì de tíyì|
+069152|25-zh|zh|chinese/data_thchs30/data/C8_556r.wav|||yīngxióng céng zhào gāng wúkùiyú zhè guāngróng de chēnghào wúkùiyú wǒmen de shídài|
+069153|25-zh|zh|chinese/data_thchs30/data/C8_656r.wav|||tā qīng rú ěryǔ dì wèn tā shìfǒu yǒukōng néngbùnéng qūzūn péi tā shàngjiē mǎi xiē pípá wàimiàn hēi tā pà yùshàng dǎirén|
+069154|25-zh|zh|chinese/data_thchs30/data/D8_811r.wav|||yùnyòng zhèzhǒng yíqì xīnhuáyìyuàn yòu qiǎngjìu le liǎng lì wèiái hé shíèrzhǐcháng kùiyáng dàliàng yǒng xiě bìngrén jūn huòdé chénggōng|
+069155|25-zh|zh|chinese/data_thchs30/data/D8_911r.wav|||gēwǔjù yuèyá wǔgèng bèi zhuānjiā men yùwèi yìzhú jīngpǐn shòudào guónèiwài guānzhòng qīnglài jǐu yǎn bùshuāi|
+069156|27-zh|zh|chinese/data_thchs30/data/B15_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
+069157|27-zh|zh|chinese/data_thchs30/data/B15_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
+069158|27-zh|zh|chinese/data_thchs30/data/B15_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
+069159|28-zh|zh|chinese/data_thchs30/data/C21_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069160|28-zh|zh|chinese/data_thchs30/data/C21_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069161|28-zh|zh|chinese/data_thchs30/data/C21_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069162|28-zh|zh|chinese/data_thchs30/data/D21_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069163|28-zh|zh|chinese/data_thchs30/data/D21_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069164|29-zh|zh|chinese/data_thchs30/data/B31_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
+069165|29-zh|zh|chinese/data_thchs30/data/B31_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
+069166|29-zh|zh|chinese/data_thchs30/data/B31_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
+069167|29-zh|zh|chinese/data_thchs30/data/C31_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069168|29-zh|zh|chinese/data_thchs30/data/C31_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069169|29-zh|zh|chinese/data_thchs30/data/C31_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069170|29-zh|zh|chinese/data_thchs30/data/D31_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
+069171|29-zh|zh|chinese/data_thchs30/data/D31_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
+069172|29-zh|zh|chinese/data_thchs30/data/D31_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
+069173|30-zh|zh|chinese/data_thchs30/data/C17_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069174|30-zh|zh|chinese/data_thchs30/data/C17_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069175|30-zh|zh|chinese/data_thchs30/data/C17_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069176|31-zh|zh|chinese/data_thchs30/data/C18_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069177|31-zh|zh|chinese/data_thchs30/data/C18_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069178|32-zh|zh|chinese/data_thchs30/data/C20_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069179|32-zh|zh|chinese/data_thchs30/data/C20_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
