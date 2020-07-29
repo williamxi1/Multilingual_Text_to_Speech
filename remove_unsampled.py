@@ -14,3 +14,4 @@ for speaker in speakers:
    # subprocess.run(['find . -name "*.bak" -type f -delete'])
     for i in range(10):
         subprocess.run(['find', '.', '-name', '*' + str(i) + '.wav', '-type', 'f', '-delete'])
+    os.chdir('..')
