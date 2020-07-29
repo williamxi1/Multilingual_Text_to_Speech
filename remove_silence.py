@@ -3,7 +3,7 @@ import os
 import subprocess
 
 
-def remove_silence(sound, silence_threshold=-50.0, chunk_size=50):
+def remove_silence(sound, silence_threshold=-40.0, chunk_size=50):
     '''
     sound is a pydub.AudioSegment
     silence_threshold in dB
@@ -11,7 +11,7 @@ def remove_silence(sound, silence_threshold=-50.0, chunk_size=50):
 
     iterate over chunks until you find the first one with sound
     '''
-    trim_ms = 0 # ms
+    trim_ms = chunk_size # ms
 
     assert chunk_size > 0 # to avoid infinite loop
 
@@ -27,19 +27,25 @@ def remove_silence(sound, silence_threshold=-50.0, chunk_size=50):
 
     return trimmed_sound
 
-os.chdir('data/css10/english/VCTK-Corpus/wavs')
+#os.chdir('data/css10/english/VCTK-Corpus/wavs')
+os.chdir('/mnt/c/Users/william.xi/Desktop')
 
-speakers = str(subprocess.check_output(['ls']))
-speakers = speakers[2:-3].split('\\n')
-for speaker in speakers:
-    os.chdir(speaker)
-    wavs = str(subprocess.check_output(['ls']))
-    wavs = wavs[2:-3].split('\\n')
-    for wav in wavs:
-        print("Trimming: ", wav)
-        sound = AudioSegment.from_file(wav, format="wav")
-        trimmed_sound = remove_silence(sound)
-        trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
-    os.chdir(os.path.dirname(os.getcwd()))
+wav = 'p226_001.wav'
+sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
+trimmed_sound = remove_silence(sound)
+trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
+
+# speakers = str(subprocess.check_output(['ls']))
+# speakers = speakers[2:-3].split('\\n')
+# for speaker in speakers:
+#     os.chdir(speaker)
+#     wavs = str(subprocess.check_output(['ls']))
+#     wavs = wavs[2:-3].split('\\n')
+#     for wav in wavs:
+#         print("Trimming: ", wav)
+#         sound = AudioSegment.from_file(wav, format="wav")
+#         trimmed_sound = remove_silence(sound)
+#         trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
+#     os.chdir(os.path.dirname(os.getcwd()))
 
 

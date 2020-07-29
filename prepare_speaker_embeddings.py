@@ -51,10 +51,10 @@ if __name__ == '__main__':
     #     print(len(embedding))
     # np.save('speakerEmbeddings.npy', speakerEmbeddings)
     print(os.path.dirname(os.getcwd()))
-    wav = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/william1.wav"))
+    wav = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/obama2.wav"))
     encoder = VoiceEncoder()
     speakerEmbeddings = encoder.embed_utterance(wav)
-    np.save('williamxi.npy', speakerEmbeddings)
+    np.save('obama.npy', speakerEmbeddings)
 
 
 

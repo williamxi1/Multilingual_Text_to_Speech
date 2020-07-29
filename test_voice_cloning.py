@@ -4,23 +4,27 @@ import os
 #from IPython.display import Audio
 
 #
-# inputs = [
-#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-sp|sp",
-#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-fr|sp",
-#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|sp",
+inputs = [
+#      "Ese fuego por dentro me está enloqueciendo, me va saturando|00-es|es",
+ #    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
+#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
 #     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
-# ]
+]
 
 inputs = [
-    #"Quiero respirar tu cuello despacito|00-sp|sp",
+    # "Quiero respirar tu cuello despacito|00-es|es"
     # "Quiero respirar tu cuello despacito|00-fr|sp",
     # "Quiero respirar tu cuello despacito|00-zh|sp",
     # "Quiero respirar tu cuello despacito|00-sp|sp",
-     "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-zh|zh",
-    # "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-fr|zh",
-    # "Jǔtóu wàng míngyuè. Dītóu sī gùxiāng|00-en|zh",
-    #"Madame Pinglet sort en lui tirant la langue|00-zh|fr"
+     # "But what I appreciate the most is that you have never.|00-fr|en",
+     "I am the president of the world|01-zh|en"
+    #"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|04-en|zh",
+    #I do not know if there is food in the room.|03-zh|en"
 ]
+
+
+
+
 #inputs = [
     # "There is a time and place for everything|english|english",
     # "There is a time and place for everything|french|english",
@@ -32,7 +36,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "tacotronv2_99"
+tacotron_chpt = "GENERATED-SWITCHING_loss-19-0.152"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -78,5 +82,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+1) + '_v3.wav', hp.sample_rate, w_scaled)
+  write('test' + str(idx+1) + '_v4.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))

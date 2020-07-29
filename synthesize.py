@@ -37,7 +37,7 @@ from modules.tacotron2 import Tacotron
 
 
 def synthesize(model, input_data, force_cpu=False):
-
+    print(hp.unique_speakers)
     item = input_data.split('|')
     clean_text = item[1]
 
