@@ -7,19 +7,19 @@ import os
 inputs = [
 #      "Ese fuego por dentro me está enloqueciendo, me va saturando|00-es|es",
  #    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
-#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
+ #    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
 #     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
 ]
 
 inputs = [
-    # "Quiero respirar tu cuello despacito|00-es|es"
+     #"The fact that I am speaking english does not mean anything to me|00-zh|en"
     # "Quiero respirar tu cuello despacito|00-fr|sp",
     # "Quiero respirar tu cuello despacito|00-zh|sp",
     # "Quiero respirar tu cuello despacito|00-sp|sp",
      # "But what I appreciate the most is that you have never.|00-fr|en",
-     "I am the president of the world|01-zh|en"
-    #"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|04-en|zh",
-    #I do not know if there is food in the room.|03-zh|en"
+     #"Quiero respirar tu cuello despacito.|00-zh|es"
+    "wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|02-en|zh",
+    #"I do not know if there is food in the room.|00-zh|en"
 ]
 
 
@@ -36,7 +36,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-19-0.152"
+tacotron_chpt = "GENERATED-SWITCHING_loss-39-0.140"
 wavernn_chpt = "wavernn_weight.pyt"
 
 

@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-os.chdir('data/css10/chinese/data_thchs30/data')
+os.chdir('../../Desktop/es_co_female')
 
 print("REMOVING")
 # subprocess.run(['find . -name "*.bak" -type f -delete'])
