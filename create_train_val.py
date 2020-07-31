@@ -162,7 +162,12 @@ for d, fs, m in metadata:
     with open(os.path.join(d, "new"+fs), 'w', encoding='utf-8') as f:
         for i in m:
             idx, s, l, a, _, _, raw_text, ph = i
-            if(cntr % 7 < 5):
+            if(s[0:2] == '00' and cntr % 7 < 4 and l != 'zh' and l != 'en'):
                 print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            elif((s[0:2] != '00' and l != 'en') or (l == 'zh' and cntr % 7 < 5)):
+                print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            elif(l == 'en' and cntr % 7 < 4):
+                print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+
             cntr += 1
 
