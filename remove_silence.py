@@ -11,7 +11,7 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
 
     iterate over chunks until you find the first one with sound
     '''
-    trim_ms = chunk_size # ms
+    trim_ms = 0 # ms
 
     assert chunk_size > 0 # to avoid infinite loop
 
@@ -28,21 +28,22 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
             if first:
                 trimmed_sound += sound[min(0, trim_ms - chunk_size):trim_ms]
                 first = False
-            trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
-            good = True
-            numgood = 3
+            else:
+                trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
+                good = True
+                numgood = 3
 
-        elif good == True:
-            trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
-            numgood -= 1
-            if numgood == 0:
-                good = False
+       # elif good == True:
+       #     trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
+        #    numgood -= 1
+         #   if numgood == 0:
+          #      good = False
         trim_ms += chunk_size
 
     return trimmed_sound
 
 
-#os.chdir('/mnt/c/Users/william.xi/Desktop/es_co_female')
+os.chdir('/mnt/c/Users/william.xi/Desktop/p227')
 
 
 # wavs = str(subprocess.check_output(['ls']))
@@ -57,7 +58,7 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
 #os.chdir('data/css10/english/VCTK-Corpus/wavs')
 
 
-os.chdir('data/css10/spanish/slr72/wavsfemale')
+#os.chdir('data/css10/spanish/slr72/wavsfemale')
 
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
@@ -66,4 +67,5 @@ for wav in wavs:
     sound = AudioSegment.from_file(wav, format="wav")
     trimmed_sound = remove_silence(sound)
     trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
+    print(len(sound), len(trimmed_sound))
 
