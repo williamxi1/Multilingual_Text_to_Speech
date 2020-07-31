@@ -43,18 +43,20 @@ def getSpeakerEmbeddings(speaker_ids):
 
 
 if __name__ == '__main__':
-    # speaker_ids = ["00-zh", "00-en", "00-fr", "00-sp"]
-    # speakerEmbeddings = getSpeakerEmbeddings(speaker_ids)
+    speaker_ids = ["00-zh", "00-en", "00-fr", "00-sp"]
+    speakerEmbeddings = getSpeakerEmbeddings(speaker_ids)
     # np.set_printoptions(suppress=True)
-    # #speakerEmbeddings = np.asarray(speakerEmbeddings)
+    speakerEmbeddings = np.asarray(speakerEmbeddings)
     # for embedding in speakerEmbeddings:
     #     print(len(embedding))
     # np.save('speakerEmbeddings.npy', speakerEmbeddings)
-    print(os.path.dirname(os.getcwd()))
-    wav = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/obama2.wav"))
-    encoder = VoiceEncoder()
-    speakerEmbeddings = encoder.embed_utterance(wav)
-    np.save('obama.npy', speakerEmbeddings)
+    print(speakerEmbeddings[4])
+
+    # print(os.path.dirname(os.getcwd()))
+    # wav = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/obama2.wav"))
+    # encoder = VoiceEncoder()
+    # speakerEmbeddings = encoder.embed_utterance(wav)
+    # np.save('obama.npy', speakerEmbeddings)
 
 
 
