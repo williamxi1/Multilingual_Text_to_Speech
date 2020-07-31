@@ -24,41 +24,43 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
     numgood = 0
     first = True
     while trim_ms < len(sound):
+        #print(sound[trim_ms:trim_ms + chunk_size].dBFS)
         if(sound[trim_ms:trim_ms + chunk_size].dBFS > silence_threshold):
             if first:
-                trimmed_sound += sound[min(0, trim_ms - chunk_size):trim_ms]
+                trimmed_sound += sound[max(0, trim_ms - 2*chunk_size):trim_ms]
                 first = False
-            else:
-                trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
-                good = True
-                numgood = 3
 
-       # elif good == True:
-       #     trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
-        #    numgood -= 1
-         #   if numgood == 0:
-          #      good = False
+            trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
+            good = True
+            numgood = 2
+
+        elif good == True:
+           trimmed_sound += sound[trim_ms:trim_ms + chunk_size]
+           numgood -= 1
+           if numgood == 0:
+               good = False
         trim_ms += chunk_size
 
     return trimmed_sound
 
 
-os.chdir('/mnt/c/Users/william.xi/Desktop/p227')
+#os.chdir('/mnt/c/Users/william.xi/Desktop/p316')
+os.chdir('data/css10/english/VCTK-Corpus/wavs')
 
+speakers = str(subprocess.check_output(['ls']))
+speakers = speakers[2:-3].split('\\n')
+for speaker in speakers:
+    os.chdir(speaker)
+    wavs = str(subprocess.check_output(['ls']))
+    wavs = wavs[2:-3].split('\\n')
+    for wav in wavs:
+        print("Trimming: ", wav)
+        sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
+        trimmed_sound = remove_silence(sound)
+        trimmed_sound.export(wav, format="wav")
+        print(len(sound), len(trimmed_sound))
+    os.chdir('..')
 
-# wavs = str(subprocess.check_output(['ls']))
-# wavs = wavs[2:-3].split('\\n')
-# for wav in wavs:
-#     print("Trimming: ", wav)
-#     sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
-#     trimmed_sound = remove_silence(sound)
-#     trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), 'wavsfemale2', wav), format="wav")
-#     print(len(sound), len(trimmed_sound))
-
-#os.chdir('data/css10/english/VCTK-Corpus/wavs')
-
-
-#os.chdir('data/css10/spanish/slr72/wavsfemale')
 
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
@@ -66,6 +68,20 @@ for wav in wavs:
     print("Trimming: ", wav)
     sound = AudioSegment.from_file(wav, format="wav")
     trimmed_sound = remove_silence(sound)
-    trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
+    trimmed_sound.export(wav, format = "wav")
     print(len(sound), len(trimmed_sound))
+
+os.chdir('../wavsmale')
+
+wavs = str(subprocess.check_output(['ls']))
+wavs = wavs[2:-3].split('\\n')
+for wav in wavs:
+    print("Trimming: ", wav)
+    sound = AudioSegment.from_file(wav, format="wav")
+    trimmed_sound = remove_silence(sound)
+    trimmed_sound.export(wav, format="wav")
+    print(len(sound), len(trimmed_sound))
+
+
+
 
