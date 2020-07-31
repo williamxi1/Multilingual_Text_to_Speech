@@ -41,30 +41,50 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
 
     return trimmed_sound
 
-#os.chdir('data/css10/english/VCTK-Corpus/wavs')
-os.chdir('/mnt/c/Users/william.xi/Desktop/es_co_female')
 
+#os.chdir('/mnt/c/Users/william.xi/Desktop/es_co_female')
+
+
+# wavs = str(subprocess.check_output(['ls']))
+# wavs = wavs[2:-3].split('\\n')
+# for wav in wavs:
+#     print("Trimming: ", wav)
+#     sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
+#     trimmed_sound = remove_silence(sound)
+#     trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), 'wavsfemale2', wav), format="wav")
+#     print(len(sound), len(trimmed_sound))
+
+os.chdir('data/css10/english/VCTK-Corpus/wavs')
+speakers = str(subprocess.check_output(['ls']))
+speakers = speakers[2:-3].split('\\n')
+for speaker in speakers:
+    os.chdir(speaker)
+    wavs = str(subprocess.check_output(['ls']))
+    wavs = wavs[2:-3].split('\\n')
+    for wav in wavs:
+        print("Trimming: ", wav)
+        sound = AudioSegment.from_file(wav, format="wav")
+        trimmed_sound = remove_silence(sound)
+        trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
+    os.chdir(os.path.dirname(os.getcwd()))
+
+os.chdir('../../../spanish/slr72/wavsfemale')
 
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
 for wav in wavs:
     print("Trimming: ", wav)
-    sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
+    sound = AudioSegment.from_file(wav, format="wav")
     trimmed_sound = remove_silence(sound)
-    trimmed_sound.export(os.path.join(os.path.dirname(os.getcwd()), 'wavsfemale2', wav), format="wav")
-    print(len(sound), len(trimmed_sound))
+    trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
 
-# speakers = str(subprocess.check_output(['ls']))
-# speakers = speakers[2:-3].split('\\n')
-# for speaker in speakers:
-#     os.chdir(speaker)
-#     wavs = str(subprocess.check_output(['ls']))
-#     wavs = wavs[2:-3].split('\\n')
-#     for wav in wavs:
-#         print("Trimming: ", wav)
-#         sound = AudioSegment.from_file(wav, format="wav")
-#         trimmed_sound = remove_silence(sound)
-#         trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
-#     os.chdir(os.path.dirname(os.getcwd()))
+os.chdir('../wavsmale')
 
+wavs = str(subprocess.check_output(['ls']))
+wavs = wavs[2:-3].split('\\n')
+for wav in wavs:
+    print("Trimming: ", wav)
+    sound = AudioSegment.from_file(wav, format="wav")
+    trimmed_sound = remove_silence(sound)
+    trimmed_sound.export(os.path.join(os.getcwd(), wav), format="wav")
 
