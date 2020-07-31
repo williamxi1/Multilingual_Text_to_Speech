@@ -11,7 +11,7 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
 
     iterate over chunks until you find the first one with sound
     '''
-    trim_ms = 0 # ms
+    trim_ms = chunk_size # ms
 
     assert chunk_size > 0 # to avoid infinite loop
 
