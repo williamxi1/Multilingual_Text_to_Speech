@@ -55,13 +55,14 @@ for speaker in speakers:
     wavs = wavs[2:-3].split('\\n')
     for wav in wavs:
         print("Trimming: ", wav)
-        sound = AudioSegment.from_file(os.path.join(os.getcwd(),wav), format="wav")
+        sound = AudioSegment.from_file(wav, format="wav")
         trimmed_sound = remove_silence(sound)
         trimmed_sound.export(wav, format="wav")
         print(len(sound), len(trimmed_sound))
     os.chdir('..')
 
 
+os.chdir('../../../spanish/slr72/wavsfemale')
 wavs = str(subprocess.check_output(['ls']))
 wavs = wavs[2:-3].split('\\n')
 for wav in wavs:
