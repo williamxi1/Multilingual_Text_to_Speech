@@ -149,7 +149,7 @@ class Decoder(torch.nn.Module):
         # print(encoded.shape)
         #embedded = torch.tensor(np.load('speaker_embeds/obama.npy'))
         # print(embedded)
-        ##embedded = torch.reshape(embedded, (1,1,256))
+        #embedded = torch.reshape(embedded, (1,1,256))
         #embedded = embedded.repeat(1, encoded.shape[1], 1)
         # print(embedded)
         # print(encoded.shape, embedded.shape)

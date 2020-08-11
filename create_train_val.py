@@ -19,8 +19,8 @@ css10 = [
 ]
 
 slr72 = [
-    ("data/css10", "line_index_female.tsv"),
-    ("data/css10", "line_index_male.tsv")
+    ("data/css10", "line_index_female_co.tsv"),
+    ("data/css10", "line_index_male_co.tsv")
 ]
 
 zhtranscript = [

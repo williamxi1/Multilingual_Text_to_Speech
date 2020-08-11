@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-os.chdir('data/css10')
+os.chdir('../data/css10')
 
 with open('zhtranscript.txt', 'w', encoding='utf-8') as f:
     os.chdir('chinese/data_thchs30/data')

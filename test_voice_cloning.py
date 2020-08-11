@@ -3,24 +3,36 @@ import os
 #import IPython
 #from IPython.display import Audio
 
-#
-inputs = [
-#      "Ese fuego por dentro me está enloqueciendo, me va saturando|00-es|es",
- #    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
- #    "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
-#     "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|sp"
-]
 
 inputs = [
-     #"The fact that I am speaking english does not mean anything to me|00-zh|en"
-    # "Quiero respirar tu cuello despacito|00-fr|sp",
-    # "Quiero respirar tu cuello despacito|00-zh|sp",
+  #"Tā zhù zài gōngyuán pángbiān de jiē shàng|00-zh|zh",
+   "wǒ xiànzài bù dǎsuàn cānjiā hěnduō xuǎnjǔ yīnwèi wǒ bù bì zàicì jìng xuǎn gōng zhí |02-zh|zh",
+   # "Hello I am speaking very good words|00-zh|en",
+  #"|02-zh|fr" #No me gusta comer en un lugar con mucha gente.
+]
+#inputs = [
+     #"The fact that I am speaking english does not mean anything to me|02-en|en"
+    #"Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
+     #"Quiero respirar tu cuello despacito|00-en|es",
     # "Quiero respirar tu cuello despacito|00-sp|sp",
      # "But what I appreciate the most is that you have never.|00-fr|en",
      #"Quiero respirar tu cuello despacito.|00-zh|es"
-    "wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|02-en|zh",
-    #"I do not know if there is food in the room.|00-zh|en"
-]
+    #"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh",
+    #"One two three four.|00-zh|en",
+  #"The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied.|00-en|en"
+     # "Ese fuego por dentro me está enloqueciendo, me va saturando|00-es|es",
+    #"The bars at the end of the street are quite loud and unfriendly.|00-en|en",
+#"The bars at the end of the street are quite loud and unfriendly.|05-en|en",
+#"The bars at the end of the street are quite loud and unfriendly.|00-es|en",
+#"I used to be president of the united states|00-es|en",
+#"The bars at the end of the street are quite loud and unfriendly.|00-zh|en",
+#"The bars at the end of the street are quite loud and unfriendly.|02-zh|en",
+     # "wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh",
+  #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
+   #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
+   #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es"
+#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh"
+#]
 
 
 
@@ -36,7 +48,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-39-0.140"
+tacotron_chpt = "GENERATED-SWITCHING_loss-194-0.139"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -82,5 +94,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+1) + '_v4.wav', hp.sample_rate, w_scaled)
+  write('test' + str(idx+2) + '_194.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))
