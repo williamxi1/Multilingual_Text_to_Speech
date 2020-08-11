@@ -20,7 +20,7 @@ with open('entranscript.txt', 'w', encoding='utf-8') as f:
             with open(file, 'r', encoding='utf-8') as rf:
                 for line in rf:
                     print((file + '|' + line).rstrip(), file=f)
-        os.chdir('../..')
+        os.chdir('..')
 
 # os.chdir('../wavs')
 #
