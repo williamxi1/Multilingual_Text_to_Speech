@@ -2,7 +2,7 @@ import os
 import subprocess
 
 
-os.chdir('../data/css10/spanish/slr73')
+os.chdir('../data/css10/spanish/slr75')
 
 speakers = str(subprocess.check_output(['ls']))
 speakers = speakers[2:-3].split('\\n')
