@@ -143,347 +143,347 @@
 215680|020-en|en|english/VCTK-Corpus/wavs/p246/p246_100r.wav|||That would be unlawful.|
 215681|020-en|en|english/VCTK-Corpus/wavs/p246/p246_200r.wav|||We're not seeing an image of the person, he said.|
 215682|020-en|en|english/VCTK-Corpus/wavs/p246/p246_301r.wav|||What has altered?|
-215683|022-en|en|english/VCTK-Corpus/wavs/p248/p248_042r.wav|||I was scared.|
-215684|022-en|en|english/VCTK-Corpus/wavs/p248/p248_142r.wav|||He sees a difference in the style of the two teams.|
-215685|022-en|en|english/VCTK-Corpus/wavs/p248/p248_242r.wav|||I was ready to shoot the day I read the screenplay.|
-215686|022-en|en|english/VCTK-Corpus/wavs/p248/p248_342r.wav|||Rangers can expect a physical battle in the national stadium tonight.|
-215687|023-en|en|english/VCTK-Corpus/wavs/p249/p249_068r.wav|||I've spent a lot of time on buses.|
-215688|023-en|en|english/VCTK-Corpus/wavs/p249/p249_172r.wav|||Tell it like it was?|
-215689|023-en|en|english/VCTK-Corpus/wavs/p249/p249_281r.wav|||Russian officials have not determined the cause of the accident.|
-215690|024-en|en|english/VCTK-Corpus/wavs/p250/p250_032r.wav|||Nonetheless, the overall picture is healthy.|
-215691|024-en|en|english/VCTK-Corpus/wavs/p250/p250_135r.wav|||We have a team to reach the final.|
-215692|024-en|en|english/VCTK-Corpus/wavs/p250/p250_238r.wav|||I wouldn't even respond to that question.|
-215693|024-en|en|english/VCTK-Corpus/wavs/p250/p250_343r.wav|||I'm not making any specific attempt on the world record.|
-215694|024-en|en|english/VCTK-Corpus/wavs/p250/p250_445r.wav|||Everything in golf is a balance.|
-215695|025-en|en|english/VCTK-Corpus/wavs/p251/p251_051r.wav|||He had no enemies.|
-215696|025-en|en|english/VCTK-Corpus/wavs/p251/p251_152r.wav|||He seemed to lose his focus.|
-215697|025-en|en|english/VCTK-Corpus/wavs/p251/p251_253r.wav|||He also launched a new strategy for the agency.|
-215698|025-en|en|english/VCTK-Corpus/wavs/p251/p251_356r.wav|||In the early days, I was obsessed with working in the theatre.|
-215699|026-en|en|english/VCTK-Corpus/wavs/p252/p252_089r.wav|||It was exactly four months away.|
-215700|026-en|en|english/VCTK-Corpus/wavs/p252/p252_193r.wav|||We knew their goalkeeper would take a chance.|
-215701|026-en|en|english/VCTK-Corpus/wavs/p252/p252_299r.wav|||He followed the Italian route.|
-215702|026-en|en|english/VCTK-Corpus/wavs/p252/p252_402r.wav|||So what happens next ?|
-215703|027-en|en|english/VCTK-Corpus/wavs/p253/p253_096r.wav|||He's been hit by it.|
-215704|027-en|en|english/VCTK-Corpus/wavs/p253/p253_205r.wav|||We have an election in eight days.|
-215705|027-en|en|english/VCTK-Corpus/wavs/p253/p253_313r.wav|||We are in the end game.|
-215706|028-en|en|english/VCTK-Corpus/wavs/p254/p254_016r.wav|||The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.|
-215707|028-en|en|english/VCTK-Corpus/wavs/p254/p254_118r.wav|||Tony Blair's spokesman insisted the decision came from Dublin.|
-215708|028-en|en|english/VCTK-Corpus/wavs/p254/p254_219r.wav|||We played them off the pitch.|
-215709|028-en|en|english/VCTK-Corpus/wavs/p254/p254_320r.wav|||It was no secret that I wanted to sign him.|
-215710|029-en|en|english/VCTK-Corpus/wavs/p255/p255_019r.wav|||Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.|
-215711|029-en|en|english/VCTK-Corpus/wavs/p255/p255_120r.wav|||An announcement on his replacement is expected within three weeks.|
-215712|029-en|en|english/VCTK-Corpus/wavs/p255/p255_220r.wav|||It's been a good year.|
-215713|029-en|en|english/VCTK-Corpus/wavs/p255/p255_321r.wav|||There was some merit in that.|
-215714|030-en|en|english/VCTK-Corpus/wavs/p256/p256_040r.wav|||Two other men, including the taxi driver, were wounded in the attack.|
-215715|030-en|en|english/VCTK-Corpus/wavs/p256/p256_140r.wav|||It was very frightened and dirty.|
-215716|030-en|en|english/VCTK-Corpus/wavs/p256/p256_240r.wav|||He claimed the government had lost the plot.|
-215717|031-en|en|english/VCTK-Corpus/wavs/p257/p257_021r.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
-215718|031-en|en|english/VCTK-Corpus/wavs/p257/p257_121r.wav|||This is the first big idea of the Scottish Parliament election.|
-215719|031-en|en|english/VCTK-Corpus/wavs/p257/p257_221r.wav|||She really suffered for her art.|
-215720|031-en|en|english/VCTK-Corpus/wavs/p257/p257_321r.wav|||Three years ago he would have been.|
-215721|031-en|en|english/VCTK-Corpus/wavs/p257/p257_421r.wav|||It is marvellous.|
-215722|032-en|en|english/VCTK-Corpus/wavs/p258/p258_087r.wav|||Two other men, including the taxi driver, were wounded in the attack.|
-215723|032-en|en|english/VCTK-Corpus/wavs/p258/p258_187r.wav|||The procedure is the same in all cases.|
-215724|032-en|en|english/VCTK-Corpus/wavs/p258/p258_287r.wav|||The death toll included five children.|
-215725|032-en|en|english/VCTK-Corpus/wavs/p258/p258_387r.wav|||That's the name of the game, though.|
-215726|033-en|en|english/VCTK-Corpus/wavs/p260/p260_073r.wav|||Chris Smith, the culture secretary, said he was satisfied with the decision.|
-215727|033-en|en|english/VCTK-Corpus/wavs/p260/p260_173r.wav|||I've been in two finals, and I've got a medal.|
-215728|033-en|en|english/VCTK-Corpus/wavs/p260/p260_273r.wav|||His place in central defence was taken by John Anderson.|
-215729|034-en|en|english/VCTK-Corpus/wavs/p261/p261_017r.wav|||Others have tried to explain the phenomenon physically.|
-215730|034-en|en|english/VCTK-Corpus/wavs/p261/p261_117r.wav|||It's not a quick fix.|
-215731|034-en|en|english/VCTK-Corpus/wavs/p261/p261_217r.wav|||It was far from business as usual.|
-215732|034-en|en|english/VCTK-Corpus/wavs/p261/p261_317r.wav|||Holland won by five wickets.|
-215733|034-en|en|english/VCTK-Corpus/wavs/p261/p261_417r.wav|||Ms McNeill was killed on impact.|
-215734|035-en|en|english/VCTK-Corpus/wavs/p262/p262_043r.wav|||It's a crucial award.|
-215735|035-en|en|english/VCTK-Corpus/wavs/p262/p262_143r.wav|||Last night he was due to hold talks with Arafat.|
-215736|035-en|en|english/VCTK-Corpus/wavs/p262/p262_243r.wav|||Jock Brown is appointed as general manager.|
-215737|035-en|en|english/VCTK-Corpus/wavs/p262/p262_343r.wav|||It will be very, very tight.|
-215738|036-en|en|english/VCTK-Corpus/wavs/p263/p263_049r.wav|||I didn't think any player was a success on Saturday.|
-215739|036-en|en|english/VCTK-Corpus/wavs/p263/p263_149r.wav|||And the Farmer is worried about another aspect of farming life.|
-215740|036-en|en|english/VCTK-Corpus/wavs/p263/p263_250r.wav|||What was the matter for concern ?|
-215741|036-en|en|english/VCTK-Corpus/wavs/p263/p263_351r.wav|||Overall, we are very pleased.|
-215742|036-en|en|english/VCTK-Corpus/wavs/p263/p263_451r.wav|||It is a tough game but we have a chance.|
-215743|037-en|en|english/VCTK-Corpus/wavs/p265/p265_081r.wav|||Yesterday, he continued to keep a low profile.|
-215744|037-en|en|english/VCTK-Corpus/wavs/p265/p265_181r.wav|||Suddenly, the rugby world had changed.|
-215745|037-en|en|english/VCTK-Corpus/wavs/p265/p265_282r.wav|||Who did the recruiting?|
-215746|038-en|en|english/VCTK-Corpus/wavs/p266/p266_030r.wav|||They did not replace it with a conviction for culpable homicide.|
-215747|038-en|en|english/VCTK-Corpus/wavs/p266/p266_130r.wav|||We work well together.|
-215748|038-en|en|english/VCTK-Corpus/wavs/p266/p266_231r.wav|||It's quite nice.|
-215749|038-en|en|english/VCTK-Corpus/wavs/p266/p266_331r.wav|||Finally, he paid for the movie.|
-215750|039-en|en|english/VCTK-Corpus/wavs/p267/p267_008r.wav|||These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.|
-215751|039-en|en|english/VCTK-Corpus/wavs/p267/p267_109r.wav|||We have a training class.|
-215752|039-en|en|english/VCTK-Corpus/wavs/p267/p267_209r.wav|||I had relied on him.|
-215753|039-en|en|english/VCTK-Corpus/wavs/p267/p267_310r.wav|||It is a road of death.|
-215754|039-en|en|english/VCTK-Corpus/wavs/p267/p267_412r.wav|||My aim is a top six finish.|
-215755|040-en|en|english/VCTK-Corpus/wavs/p268/p268_093r.wav|||Final proposals will be published in February.|
-215756|040-en|en|english/VCTK-Corpus/wavs/p268/p268_195r.wav|||The Yugoslav army will still be there.|
-215757|040-en|en|english/VCTK-Corpus/wavs/p268/p268_296r.wav|||They need to be involved.|
-215758|040-en|en|english/VCTK-Corpus/wavs/p268/p268_396r.wav|||Defensive stocks attracted some interest.|
-215759|041-en|en|english/VCTK-Corpus/wavs/p269/p269_085r.wav|||That's the principal difference between an artist and a dog.|
-215760|041-en|en|english/VCTK-Corpus/wavs/p269/p269_188r.wav|||Four policemen were wounded.|
-215761|041-en|en|english/VCTK-Corpus/wavs/p269/p269_290r.wav|||You've got to have both sides.|
-215762|041-en|en|english/VCTK-Corpus/wavs/p269/p269_392r.wav|||In Scotland, we keep the faith.|
-215763|042-en|en|english/VCTK-Corpus/wavs/p270/p270_089r.wav|||They must be on commission.|
-215764|042-en|en|english/VCTK-Corpus/wavs/p270/p270_189r.wav|||They bought the property four years ago.|
-215765|042-en|en|english/VCTK-Corpus/wavs/p270/p270_289r.wav|||The manager's position was obviously included in that review.|
-215766|042-en|en|english/VCTK-Corpus/wavs/p270/p270_389r.wav|||The parties include the Scottish Executive.|
-215767|043-en|en|english/VCTK-Corpus/wavs/p271/p271_027r.wav|||Several other countries are also reported to be interested in the format.|
-215768|043-en|en|english/VCTK-Corpus/wavs/p271/p271_127r.wav|||The proposals are to be debated on Monday by city councillors.|
-215769|043-en|en|english/VCTK-Corpus/wavs/p271/p271_227r.wav|||Clearly, the stakes are high.|
-215770|043-en|en|english/VCTK-Corpus/wavs/p271/p271_327r.wav|||There was no time scale.|
-215771|043-en|en|english/VCTK-Corpus/wavs/p271/p271_427r.wav|||I'm very grateful.|
-215772|044-en|en|english/VCTK-Corpus/wavs/p272/p272_074r.wav|||But I've won both ways.|
-215773|044-en|en|english/VCTK-Corpus/wavs/p272/p272_174r.wav|||They might be broken, but they are not defeated.|
-215774|044-en|en|english/VCTK-Corpus/wavs/p272/p272_274r.wav|||There was a final revealing detail about the broadcast.|
-215775|044-en|en|english/VCTK-Corpus/wavs/p272/p272_374r.wav|||The Cabinet is split over the issue.|
-215776|045-en|en|english/VCTK-Corpus/wavs/p273/p273_063r.wav|||The spirit in the dressing room is tremendous.|
-215777|045-en|en|english/VCTK-Corpus/wavs/p273/p273_163r.wav|||For example, I supported the government on Afghanistan and Kosovo.|
-215778|045-en|en|english/VCTK-Corpus/wavs/p273/p273_264r.wav|||This will look at consumer attitudes.|
-215779|045-en|en|english/VCTK-Corpus/wavs/p273/p273_365r.wav|||That is a crazy situation.|
-215780|046-en|en|english/VCTK-Corpus/wavs/p275/p275_031r.wav|||There's a story, too.|
-215781|046-en|en|english/VCTK-Corpus/wavs/p275/p275_132r.wav|||I am now unemployed.|
-215782|046-en|en|english/VCTK-Corpus/wavs/p275/p275_236r.wav|||It would still have been a good film, but very different.|
-215783|046-en|en|english/VCTK-Corpus/wavs/p275/p275_340r.wav|||This is a friendly match?|
-215784|047-en|en|english/VCTK-Corpus/wavs/p276/p276_014r.wav|||To the Hebrews it was a token that there would be no more universal floods.|
-215785|047-en|en|english/VCTK-Corpus/wavs/p276/p276_114r.wav|||It is sometimes like that.|
-215786|047-en|en|english/VCTK-Corpus/wavs/p276/p276_214r.wav|||We did what we had to do.|
-215787|047-en|en|english/VCTK-Corpus/wavs/p276/p276_315r.wav|||It was horrible, that musical apartheid.|
-215788|047-en|en|english/VCTK-Corpus/wavs/p276/p276_416r.wav|||A succession of managers in the opera company resigned.|
-215789|048-en|en|english/VCTK-Corpus/wavs/p277/p277_052r.wav|||They said she was stable.|
-215790|048-en|en|english/VCTK-Corpus/wavs/p277/p277_152r.wav|||It will include the Black Watch, the Royal Highland regiment.|
-215791|048-en|en|english/VCTK-Corpus/wavs/p277/p277_254r.wav|||They want to shut the Scottish Office.|
-215792|048-en|en|english/VCTK-Corpus/wavs/p277/p277_355r.wav|||He could make it.|
-215793|048-en|en|english/VCTK-Corpus/wavs/p277/p277_455r.wav|||We're hopefully going to act as a catalyst for that.|
-215794|049-en|en|english/VCTK-Corpus/wavs/p278/p278_093r.wav|||It was some time before she found out he was safe.|
-215795|049-en|en|english/VCTK-Corpus/wavs/p278/p278_193r.wav|||But there's an upturn in the sector.|
-215796|049-en|en|english/VCTK-Corpus/wavs/p278/p278_293r.wav|||Similar measures are expected in England and Wales.|
-215797|049-en|en|english/VCTK-Corpus/wavs/p278/p278_393r.wav|||The marshall at the turn was great.|
-215798|050-en|en|english/VCTK-Corpus/wavs/p279/p279_084r.wav|||Is there a new way forward?|
-215799|050-en|en|english/VCTK-Corpus/wavs/p279/p279_184r.wav|||We knew nothing about it.|
-215800|050-en|en|english/VCTK-Corpus/wavs/p279/p279_284r.wav|||The attacker died in the crash.|
-215801|050-en|en|english/VCTK-Corpus/wavs/p279/p279_384r.wav|||I can lead by example.|
-215802|051-en|en|english/VCTK-Corpus/wavs/p280/p280_078r.wav|||The key to the whole project will be environmental concern.|
-215803|051-en|en|english/VCTK-Corpus/wavs/p280/p280_178r.wav|||Therefore, this type of aircraft is completely safe.|
-215804|051-en|en|english/VCTK-Corpus/wavs/p280/p280_278r.wav|||One letter from a teacher arrived at Christmas.|
-215805|051-en|en|english/VCTK-Corpus/wavs/p280/p280_378r.wav|||He had got himself into trouble with money and needed money.|
-215806|052-en|en|english/VCTK-Corpus/wavs/p281/p281_069r.wav|||He had been a singer.|
-215807|052-en|en|english/VCTK-Corpus/wavs/p281/p281_169r.wav|||Our position remains the same.|
-215808|052-en|en|english/VCTK-Corpus/wavs/p281/p281_269r.wav|||The capital costs are modest.|
-215809|052-en|en|english/VCTK-Corpus/wavs/p281/p281_369r.wav|||She said they would appeal.|
-215810|053-en|en|english/VCTK-Corpus/wavs/p282/p282_010r.wav|||People look, but no one ever finds it.|
-215811|053-en|en|english/VCTK-Corpus/wavs/p282/p282_111r.wav|||I was fighting for my life, I thought.|
-215812|053-en|en|english/VCTK-Corpus/wavs/p282/p282_211r.wav|||Work has started.|
-215813|053-en|en|english/VCTK-Corpus/wavs/p282/p282_311r.wav|||You may have a short memory.|
-215814|054-en|en|english/VCTK-Corpus/wavs/p283/p283_041r.wav|||She hopes to study in Britain one day.|
-215815|054-en|en|english/VCTK-Corpus/wavs/p283/p283_141r.wav|||But it is different in different regions.|
-215816|054-en|en|english/VCTK-Corpus/wavs/p283/p283_241r.wav|||The proposals are to be debated on Monday by city councillors.|
-215817|054-en|en|english/VCTK-Corpus/wavs/p283/p283_342r.wav|||The capital costs are modest.|
-215818|054-en|en|english/VCTK-Corpus/wavs/p283/p283_443r.wav|||I can almost pretend to be Scottish.|
-215819|055-en|en|english/VCTK-Corpus/wavs/p284/p284_072r.wav|||It was magic.|
-215820|055-en|en|english/VCTK-Corpus/wavs/p284/p284_172r.wav|||It is not either national standards or local control.|
-215821|055-en|en|english/VCTK-Corpus/wavs/p284/p284_272r.wav|||She looked so young.|
-215822|055-en|en|english/VCTK-Corpus/wavs/p284/p284_372r.wav|||For one veteran, the memories remain vivid.|
-215823|056-en|en|english/VCTK-Corpus/wavs/p285/p285_047r.wav|||No-one has appeared in court in relation to her death.|
-215824|056-en|en|english/VCTK-Corpus/wavs/p285/p285_147r.wav|||Crucially, though, United were still alive.|
-215825|056-en|en|english/VCTK-Corpus/wavs/p285/p285_247r.wav|||Now, suddenly, we have this new landscape.|
-215826|056-en|en|english/VCTK-Corpus/wavs/p285/p285_347r.wav|||There may be reasons for it.|
-215827|057-en|en|english/VCTK-Corpus/wavs/p286/p286_044r.wav|||Her body was found about four miles from the car.|
-215828|057-en|en|english/VCTK-Corpus/wavs/p286/p286_144r.wav|||The first half was depressing.|
-215829|057-en|en|english/VCTK-Corpus/wavs/p286/p286_244r.wav|||The output price index in December was unchanged on November.|
-215830|057-en|en|english/VCTK-Corpus/wavs/p286/p286_344r.wav|||It looks as though the issue with The Scotsman is too sensitive.|
-215831|057-en|en|english/VCTK-Corpus/wavs/p286/p286_444r.wav|||It's hard to make these decisions at my age.|
-215832|058-en|en|english/VCTK-Corpus/wavs/p287/p287_076r.wav|||By then, he was walking on water.|
-215833|058-en|en|english/VCTK-Corpus/wavs/p287/p287_176r.wav|||He is believed to live in Britain.|
-215834|058-en|en|english/VCTK-Corpus/wavs/p287/p287_276r.wav|||Is it in the right place ?|
-215835|058-en|en|english/VCTK-Corpus/wavs/p287/p287_376r.wav|||The hill farm is owned by the father of the young man.|
-215836|059-en|en|english/VCTK-Corpus/wavs/p288/p288_052r.wav|||Sadly, it can't.|
-215837|059-en|en|english/VCTK-Corpus/wavs/p288/p288_152r.wav|||Councillors are expected to take a decision within the next few weeks.|
-215838|059-en|en|english/VCTK-Corpus/wavs/p288/p288_252r.wav|||It's a source of deep concern.|
-215839|059-en|en|english/VCTK-Corpus/wavs/p288/p288_352r.wav|||That's the principal difference between an artist and a dog.|
-215840|060-en|en|english/VCTK-Corpus/wavs/p292/p292_053r.wav|||Fewer people are being killed in accidents.|
-215841|060-en|en|english/VCTK-Corpus/wavs/p292/p292_153r.wav|||Other forces were, however, at work.|
-215842|060-en|en|english/VCTK-Corpus/wavs/p292/p292_253r.wav|||He is an excellent defender, strong and quick.|
-215843|060-en|en|english/VCTK-Corpus/wavs/p292/p292_353r.wav|||Glasgow is about to enter a new era.|
-215844|061-en|en|english/VCTK-Corpus/wavs/p293/p293_030r.wav|||I couldn't really work outside Edinburgh.|
-215845|061-en|en|english/VCTK-Corpus/wavs/p293/p293_131r.wav|||Well, it was part of our ongoing discussions.|
-215846|061-en|en|english/VCTK-Corpus/wavs/p293/p293_231r.wav|||I think in three dimensions.|
-215847|061-en|en|english/VCTK-Corpus/wavs/p293/p293_332r.wav|||Detectives are waiting to interview the men.|
-215848|062-en|en|english/VCTK-Corpus/wavs/p294/p294_033r.wav|||The airport was even different.|
-215849|062-en|en|english/VCTK-Corpus/wavs/p294/p294_133r.wav|||I can lead by example.|
-215850|062-en|en|english/VCTK-Corpus/wavs/p294/p294_233r.wav|||We have seen the future, and it is different.|
-215851|062-en|en|english/VCTK-Corpus/wavs/p294/p294_334r.wav|||It's hard, but we have had so much to do.|
-215852|063-en|en|english/VCTK-Corpus/wavs/p295/p295_010r.wav|||People look, but no one ever finds it.|
-215853|063-en|en|english/VCTK-Corpus/wavs/p295/p295_113r.wav|||It offers a different viewpoint.|
-215854|063-en|en|english/VCTK-Corpus/wavs/p295/p295_214r.wav|||What happened in this instance is serious misconduct.|
-215855|063-en|en|english/VCTK-Corpus/wavs/p295/p295_315r.wav|||This year it will be Billy Crystal.|
-215856|063-en|en|english/VCTK-Corpus/wavs/p295/p295_416r.wav|||There is too much at stake for that.|
-215857|064-en|en|english/VCTK-Corpus/wavs/p297/p297_097r.wav|||I was doing well at the hustings.|
-215858|064-en|en|english/VCTK-Corpus/wavs/p297/p297_197r.wav|||Blood samples were taken.|
-215859|064-en|en|english/VCTK-Corpus/wavs/p297/p297_300r.wav|||However, they continued in their pursuit of victory.|
-215860|064-en|en|english/VCTK-Corpus/wavs/p297/p297_400r.wav|||She now lives in London.|
-215861|065-en|en|english/VCTK-Corpus/wavs/p298/p298_076r.wav|||It will be very useful for us.|
-215862|065-en|en|english/VCTK-Corpus/wavs/p298/p298_176r.wav|||A wide range of restrictions are in place.|
-215863|065-en|en|english/VCTK-Corpus/wavs/p298/p298_276r.wav|||Drugs and housebreaking are linked.|
-215864|065-en|en|english/VCTK-Corpus/wavs/p298/p298_376r.wav|||Charles Kennedy had an effective outing.|
-215865|066-en|en|english/VCTK-Corpus/wavs/p299/p299_071r.wav|||Both of those promises have already been honoured.|
-215866|066-en|en|english/VCTK-Corpus/wavs/p299/p299_171r.wav|||Was it a foul?|
-215867|066-en|en|english/VCTK-Corpus/wavs/p299/p299_271r.wav|||We do things in an appropriate way.|
-215868|066-en|en|english/VCTK-Corpus/wavs/p299/p299_371r.wav|||The plane was in flames|
-215869|067-en|en|english/VCTK-Corpus/wavs/p300/p300_066r.wav|||He also does not get along with Christina.|
-215870|067-en|en|english/VCTK-Corpus/wavs/p300/p300_166r.wav|||Running costs are not subsidised by public money.|
-215871|067-en|en|english/VCTK-Corpus/wavs/p300/p300_266r.wav|||His expulsion would not solve the problem.|
-215872|067-en|en|english/VCTK-Corpus/wavs/p300/p300_367r.wav|||They are also exploited by the markets.|
-215873|068-en|en|english/VCTK-Corpus/wavs/p301/p301_067r.wav|||I want my country to be a republic, not an empire.|
-215874|068-en|en|english/VCTK-Corpus/wavs/p301/p301_167r.wav|||Shyness has rarely sold in boxing terms.|
-215875|068-en|en|english/VCTK-Corpus/wavs/p301/p301_267r.wav|||I do not own the vessel in question.|
-215876|068-en|en|english/VCTK-Corpus/wavs/p301/p301_367r.wav|||Stock markets will be watching closely.|
-215877|069-en|en|english/VCTK-Corpus/wavs/p302/p302_057r.wav|||I wouldn't want to miss that chance.|
-215878|069-en|en|english/VCTK-Corpus/wavs/p302/p302_158r.wav|||A hospital spokeswoman described his condition as stable.|
-215879|069-en|en|english/VCTK-Corpus/wavs/p302/p302_260r.wav|||I started on a fire a couple of times.|
-215880|070-en|en|english/VCTK-Corpus/wavs/p303/p303_045r.wav|||Our dispute is with the company, not the travelling public.|
-215881|070-en|en|english/VCTK-Corpus/wavs/p303/p303_145r.wav|||But, clearly, it is crucial to understand that point.|
-215882|070-en|en|english/VCTK-Corpus/wavs/p303/p303_245r.wav|||She has a wonderful mind.|
-215883|070-en|en|english/VCTK-Corpus/wavs/p303/p303_346r.wav|||I can't blame the fans for getting frustrated.|
-215884|071-en|en|english/VCTK-Corpus/wavs/p304/p304_093r.wav|||But we are losing that connection.|
-215885|071-en|en|english/VCTK-Corpus/wavs/p304/p304_194r.wav|||Journalists should make him.|
-215886|071-en|en|english/VCTK-Corpus/wavs/p304/p304_294r.wav|||He met his wife and married in England.|
-215887|071-en|en|english/VCTK-Corpus/wavs/p304/p304_394r.wav|||He just attracted people.|
-215888|072-en|en|english/VCTK-Corpus/wavs/p305/p305_070r.wav|||However, consumers may take a different view.|
-215889|072-en|en|english/VCTK-Corpus/wavs/p305/p305_170r.wav|||I got off to a great start.|
-215890|072-en|en|english/VCTK-Corpus/wavs/p305/p305_270r.wav|||The breakdown was much later in her life.|
-215891|072-en|en|english/VCTK-Corpus/wavs/p305/p305_370r.wav|||There has been a big change in defence.|
-215892|073-en|en|english/VCTK-Corpus/wavs/p306/p306_048r.wav|||But all forms of the illness are treatable.|
-215893|073-en|en|english/VCTK-Corpus/wavs/p306/p306_150r.wav|||Again and again, at every level, he delivered the goods.|
-215894|073-en|en|english/VCTK-Corpus/wavs/p306/p306_253r.wav|||A management agreement, however, was conceded.|
-215895|073-en|en|english/VCTK-Corpus/wavs/p306/p306_357r.wav|||I've only met him three times.|
-215896|074-en|en|english/VCTK-Corpus/wavs/p307/p307_098r.wav|||Of course, on Tuesday, United were beaten despite this.|
-215897|074-en|en|english/VCTK-Corpus/wavs/p307/p307_198r.wav|||Her condition last night was described as critical.|
-215898|074-en|en|english/VCTK-Corpus/wavs/p307/p307_298r.wav|||We are aware of the tribunal case.|
-215899|074-en|en|english/VCTK-Corpus/wavs/p307/p307_399r.wav|||This is usually done by the space shuttle.|
-215900|075-en|en|english/VCTK-Corpus/wavs/p308/p308_077r.wav|||It is simple, really.|
-215901|075-en|en|english/VCTK-Corpus/wavs/p308/p308_177r.wav|||His name is Michael Owen.|
-215902|075-en|en|english/VCTK-Corpus/wavs/p308/p308_277r.wav|||This is not, however, a General Election reshuffle.|
-215903|075-en|en|english/VCTK-Corpus/wavs/p308/p308_377r.wav|||The Shadow Chancellor is away on holiday.|
-215904|076-en|en|english/VCTK-Corpus/wavs/p310/p310_054r.wav|||They were not defeated.|
-215905|076-en|en|english/VCTK-Corpus/wavs/p310/p310_154r.wav|||I felt the head was very like me.|
-215906|076-en|en|english/VCTK-Corpus/wavs/p310/p310_255r.wav|||We went on to become very successful.|
-215907|076-en|en|english/VCTK-Corpus/wavs/p310/p310_355r.wav|||Now it is measuring it in dollars.|
-215908|077-en|en|english/VCTK-Corpus/wavs/p311/p311_031r.wav|||Miller was every bit as happy.|
-215909|077-en|en|english/VCTK-Corpus/wavs/p311/p311_131r.wav|||Planning is a key issue.|
-215910|077-en|en|english/VCTK-Corpus/wavs/p311/p311_231r.wav|||They are just trying to cover up.|
-215911|077-en|en|english/VCTK-Corpus/wavs/p311/p311_331r.wav|||That is why we are here.|
-215912|078-en|en|english/VCTK-Corpus/wavs/p312/p312_009r.wav|||There is , according to legend, a boiling pot of gold at one end.|
-215913|078-en|en|english/VCTK-Corpus/wavs/p312/p312_109r.wav|||Hopefully, he will get a lucky break.|
-215914|078-en|en|english/VCTK-Corpus/wavs/p312/p312_209r.wav|||Of course he was right!|
-215915|078-en|en|english/VCTK-Corpus/wavs/p312/p312_309r.wav|||The casting of her husband was an accident.|
-215916|078-en|en|english/VCTK-Corpus/wavs/p312/p312_410r.wav|||He supported the decision to review the decision.|
-215917|079-en|en|english/VCTK-Corpus/wavs/p313/p313_091r.wav|||It's a very, very special day.|
-215918|079-en|en|english/VCTK-Corpus/wavs/p313/p313_191r.wav|||We have understood the problems for some time.|
-215919|079-en|en|english/VCTK-Corpus/wavs/p313/p313_291r.wav|||It's never over until it's over.|
-215920|079-en|en|english/VCTK-Corpus/wavs/p313/p313_393r.wav|||This is the last thing we ever expected.|
-215921|080-en|en|english/VCTK-Corpus/wavs/p314/p314_070r.wav|||These findings would be made public.|
-215922|080-en|en|english/VCTK-Corpus/wavs/p314/p314_170r.wav|||They've got to get better.|
-215923|080-en|en|english/VCTK-Corpus/wavs/p314/p314_270r.wav|||I'm not talking about his career.|
-215924|080-en|en|english/VCTK-Corpus/wavs/p314/p314_370r.wav|||This means a great deal to the families.|
-215925|081-en|en|english/VCTK-Corpus/wavs/p316/p316_048r.wav|||And they removed a Borderer.|
-215926|081-en|en|english/VCTK-Corpus/wavs/p316/p316_148r.wav|||Feel for five seconds.|
-215927|081-en|en|english/VCTK-Corpus/wavs/p316/p316_249r.wav|||We're just waiting for her reaction.|
-215928|081-en|en|english/VCTK-Corpus/wavs/p316/p316_349r.wav|||We have to open up.|
-215929|082-en|en|english/VCTK-Corpus/wavs/p317/p317_026r.wav|||There was a fine line to tread.|
-215930|082-en|en|english/VCTK-Corpus/wavs/p317/p317_126r.wav|||A decision is expected shortly.|
-215931|082-en|en|english/VCTK-Corpus/wavs/p317/p317_226r.wav|||Clubs can only do so much.|
-215932|082-en|en|english/VCTK-Corpus/wavs/p317/p317_326r.wav|||Scotland is one of the favourites, with Glasgow to the fore.|
-215933|083-en|en|english/VCTK-Corpus/wavs/p318/p318_005r.wav|||She can scoop these things into three red bags, and we can go meet her Wednesday at the train station.|
-215934|083-en|en|english/VCTK-Corpus/wavs/p318/p318_105r.wav|||The quality of work is very impressive.|
-215935|083-en|en|english/VCTK-Corpus/wavs/p318/p318_205r.wav|||So she told him.|
-215936|083-en|en|english/VCTK-Corpus/wavs/p318/p318_305r.wav|||SO now we know the secret.|
-215937|083-en|en|english/VCTK-Corpus/wavs/p318/p318_405r.wav|||The Open champion is back.|
-215938|084-en|en|english/VCTK-Corpus/wavs/p323/p323_081r.wav|||General, You didn't get a modified.|
-215939|084-en|en|english/VCTK-Corpus/wavs/p323/p323_181r.wav|||This is a mental challenge.|
-215940|084-en|en|english/VCTK-Corpus/wavs/p323/p323_281r.wav|||We all like to see forgiveness and redemption.|
-215941|084-en|en|english/VCTK-Corpus/wavs/p323/p323_381r.wav|||They could not ignore the will of parliament, he claimed.|
-215942|085-en|en|english/VCTK-Corpus/wavs/p326/p326_057r.wav|||You can feel at home in China.|
-215943|085-en|en|english/VCTK-Corpus/wavs/p326/p326_157r.wav|||I felt he was excellent.|
-215944|085-en|en|english/VCTK-Corpus/wavs/p326/p326_257r.wav|||We would expect it to disappear in time.|
-215945|085-en|en|english/VCTK-Corpus/wavs/p326/p326_357r.wav|||My husband was born in Zimbabwe.|
-215946|086-en|en|english/VCTK-Corpus/wavs/p329/p329_058r.wav|||I have had no social life at all.|
-215947|086-en|en|english/VCTK-Corpus/wavs/p329/p329_158r.wav|||His track record is not promising.|
-215948|086-en|en|english/VCTK-Corpus/wavs/p329/p329_258r.wav|||In the event, it proved a largely uplifting experience.|
-215949|086-en|en|english/VCTK-Corpus/wavs/p329/p329_358r.wav|||Just don't go looking to be shocked.|
-215950|087-en|en|english/VCTK-Corpus/wavs/p330/p330_034r.wav|||They could move in at any moment.|
-215951|087-en|en|english/VCTK-Corpus/wavs/p330/p330_134r.wav|||She goes to the opening of an envelope.|
-215952|087-en|en|english/VCTK-Corpus/wavs/p330/p330_234r.wav|||To a level which we consider appropriate.|
-215953|087-en|en|english/VCTK-Corpus/wavs/p330/p330_334r.wav|||What are you waiting for?|
-215954|088-en|en|english/VCTK-Corpus/wavs/p333/p333_011r.wav|||When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.|
-215955|088-en|en|english/VCTK-Corpus/wavs/p333/p333_112r.wav|||It is a serious offence of reckless conduct.|
-215956|088-en|en|english/VCTK-Corpus/wavs/p333/p333_212r.wav|||We still don't know.|
-215957|088-en|en|english/VCTK-Corpus/wavs/p333/p333_313r.wav|||I'm not blaming audiences.|
-215958|088-en|en|english/VCTK-Corpus/wavs/p333/p333_414r.wav|||A judicial review is also being considered.|
-215959|089-en|en|english/VCTK-Corpus/wavs/p334/p334_090r.wav|||Mr Miller is married with three children.|
-215960|089-en|en|english/VCTK-Corpus/wavs/p334/p334_191r.wav|||His English counterpart agreed.|
-215961|089-en|en|english/VCTK-Corpus/wavs/p334/p334_291r.wav|||We haven't actually considered it down here.|
-215962|089-en|en|english/VCTK-Corpus/wavs/p334/p334_391r.wav|||Golf is an expensive game for beginners.|
-215963|090-en|en|english/VCTK-Corpus/wavs/p335/p335_068r.wav|||I am delighted to hear this wonderful news.|
-215964|090-en|en|english/VCTK-Corpus/wavs/p335/p335_168r.wav|||However, Dundee deserved to win this game.|
-215965|090-en|en|english/VCTK-Corpus/wavs/p335/p335_268r.wav|||I have good memories of Glasgow.|
-215966|090-en|en|english/VCTK-Corpus/wavs/p335/p335_368r.wav|||Its people are inventive, talented and diligent.|
-215967|091-en|en|english/VCTK-Corpus/wavs/p336/p336_045r.wav|||That, though, was just the start of it.|
-215968|091-en|en|english/VCTK-Corpus/wavs/p336/p336_145r.wav|||He has been banned from the Salmon Inn.|
-215969|091-en|en|english/VCTK-Corpus/wavs/p336/p336_246r.wav|||It's time to say enough is enough.|
-215970|091-en|en|english/VCTK-Corpus/wavs/p336/p336_349r.wav|||People want to learn.|
-215971|092-en|en|english/VCTK-Corpus/wavs/p339/p339_027r.wav|||Glasgow is far from overload.|
-215972|092-en|en|english/VCTK-Corpus/wavs/p339/p339_128r.wav|||But it was not just the land.|
-215973|092-en|en|english/VCTK-Corpus/wavs/p339/p339_228r.wav|||I see it as my job.|
-215974|092-en|en|english/VCTK-Corpus/wavs/p339/p339_328r.wav|||Words are not enough.|
-215975|093-en|en|english/VCTK-Corpus/wavs/p340/p340_004r.wav|||We also need a small plastic snake and a big toy frog for the kids.|
-215976|093-en|en|english/VCTK-Corpus/wavs/p340/p340_105r.wav|||We believe it to be completely without merit.|
-215977|093-en|en|english/VCTK-Corpus/wavs/p340/p340_205r.wav|||That's my daughter acting.|
-215978|093-en|en|english/VCTK-Corpus/wavs/p340/p340_305r.wav|||We will not give up on the truth.|
-215979|093-en|en|english/VCTK-Corpus/wavs/p340/p340_405r.wav|||He said no survivors had been found.|
-215980|094-en|en|english/VCTK-Corpus/wavs/p341/p341_081r.wav|||Robert is a special talent.|
-215981|094-en|en|english/VCTK-Corpus/wavs/p341/p341_181r.wav|||That's how it worked in Bosnia.|
-215982|094-en|en|english/VCTK-Corpus/wavs/p341/p341_282r.wav|||I have been totally taken aback by this.|
-215983|094-en|en|english/VCTK-Corpus/wavs/p341/p341_382r.wav|||We have been working together for some years.|
-215984|095-en|en|english/VCTK-Corpus/wavs/p343/p343_074r.wav|||We are still suffering from that.|
-215985|095-en|en|english/VCTK-Corpus/wavs/p343/p343_176r.wav|||He will want to utilise the midfield.|
-215986|095-en|en|english/VCTK-Corpus/wavs/p343/p343_279r.wav|||We are talking about one family.|
-215987|095-en|en|english/VCTK-Corpus/wavs/p343/p343_384r.wav|||That is the theory.|
-215988|096-en|en|english/VCTK-Corpus/wavs/p345/p345_084r.wav|||All our futures will already have been decided.|
-215989|096-en|en|english/VCTK-Corpus/wavs/p345/p345_184r.wav|||That in itself is an erotic experience.|
-215990|096-en|en|english/VCTK-Corpus/wavs/p345/p345_285r.wav|||He's a joy to follow.|
-215991|096-en|en|english/VCTK-Corpus/wavs/p345/p345_385r.wav|||This is the last chance, and everyone knows it.|
-215992|097-en|en|english/VCTK-Corpus/wavs/p347/p347_088r.wav|||John Prescott is John Prescott, as the prime minister would say.|
-215993|097-en|en|english/VCTK-Corpus/wavs/p347/p347_188r.wav|||The boat was fully equipped with safety equipment.|
-215994|097-en|en|english/VCTK-Corpus/wavs/p347/p347_288r.wav|||I mean it happens.|
-215995|097-en|en|english/VCTK-Corpus/wavs/p347/p347_388r.wav|||It was a lot of hard work, but it wasn't difficult.|
-215996|098-en|en|english/VCTK-Corpus/wavs/p351/p351_064r.wav|||The devil is in the detail.|
-215997|098-en|en|english/VCTK-Corpus/wavs/p351/p351_165r.wav|||It is not an escape.|
-215998|098-en|en|english/VCTK-Corpus/wavs/p351/p351_265r.wav|||There he goes again.|
-215999|098-en|en|english/VCTK-Corpus/wavs/p351/p351_365r.wav|||I believe she was elected unopposed.|
-216000|099-en|en|english/VCTK-Corpus/wavs/p360/p360_041r.wav|||A similar exercise is expected in Scotland.|
-216001|099-en|en|english/VCTK-Corpus/wavs/p360/p360_141r.wav|||That was the theory.|
-216002|099-en|en|english/VCTK-Corpus/wavs/p360/p360_241r.wav|||It is all very upbeat.|
-216003|099-en|en|english/VCTK-Corpus/wavs/p360/p360_341r.wav|||There will be no backing down.|
-216004|100-en|en|english/VCTK-Corpus/wavs/p361/p361_017r.wav|||Others have tried to explain the phenomenon physically.|
-216005|100-en|en|english/VCTK-Corpus/wavs/p361/p361_117r.wav|||He was taken ill in his office.|
-216006|100-en|en|english/VCTK-Corpus/wavs/p361/p361_218r.wav|||But we were wrong.|
-216007|100-en|en|english/VCTK-Corpus/wavs/p361/p361_318r.wav|||It doesn't look good for her.|
-216008|100-en|en|english/VCTK-Corpus/wavs/p361/p361_418r.wav|||It is a result we should savour.|
-216009|101-en|en|english/VCTK-Corpus/wavs/p362/p362_094r.wav|||Instead they were openly attempting to be helpful.|
-216010|101-en|en|english/VCTK-Corpus/wavs/p362/p362_194r.wav|||Last year, it was won by Jack McConnell, the first minister.|
-216011|101-en|en|english/VCTK-Corpus/wavs/p362/p362_295r.wav|||So who is right?|
-216012|101-en|en|english/VCTK-Corpus/wavs/p362/p362_395r.wav|||I never got anything out of it.|
-216013|102-en|en|english/VCTK-Corpus/wavs/p363/p363_071r.wav|||This is a judgment issue.|
-216014|102-en|en|english/VCTK-Corpus/wavs/p363/p363_171r.wav|||He didn't know where to look.|
-216015|102-en|en|english/VCTK-Corpus/wavs/p363/p363_271r.wav|||That should not be their conclusion.|
-216016|102-en|en|english/VCTK-Corpus/wavs/p363/p363_374r.wav|||There is nothing to fear.|
-216017|103-en|en|english/VCTK-Corpus/wavs/p364/p364_053r.wav|||I can live with that.|
-216018|103-en|en|english/VCTK-Corpus/wavs/p364/p364_156r.wav|||Ferguson had done his homework.|
-216019|103-en|en|english/VCTK-Corpus/wavs/p364/p364_257r.wav|||That can happen so easily.|
-216020|104-en|en|english/VCTK-Corpus/wavs/p374/p374_051r.wav|||We have a problem.|
-216021|104-en|en|english/VCTK-Corpus/wavs/p374/p374_151r.wav|||They may differ on other issues.|
-216022|104-en|en|english/VCTK-Corpus/wavs/p374/p374_251r.wav|||It was not pretty.|
-216023|104-en|en|english/VCTK-Corpus/wavs/p374/p374_351r.wav|||I did not have a bet on myself.|
+215683|021-en|en|english/VCTK-Corpus/wavs/p248/p248_042r.wav|||I was scared.|
+215684|021-en|en|english/VCTK-Corpus/wavs/p248/p248_142r.wav|||He sees a difference in the style of the two teams.|
+215685|021-en|en|english/VCTK-Corpus/wavs/p248/p248_242r.wav|||I was ready to shoot the day I read the screenplay.|
+215686|021-en|en|english/VCTK-Corpus/wavs/p248/p248_342r.wav|||Rangers can expect a physical battle in the national stadium tonight.|
+215687|022-en|en|english/VCTK-Corpus/wavs/p249/p249_068r.wav|||I've spent a lot of time on buses.|
+215688|022-en|en|english/VCTK-Corpus/wavs/p249/p249_172r.wav|||Tell it like it was?|
+215689|022-en|en|english/VCTK-Corpus/wavs/p249/p249_281r.wav|||Russian officials have not determined the cause of the accident.|
+215690|023-en|en|english/VCTK-Corpus/wavs/p250/p250_032r.wav|||Nonetheless, the overall picture is healthy.|
+215691|023-en|en|english/VCTK-Corpus/wavs/p250/p250_135r.wav|||We have a team to reach the final.|
+215692|023-en|en|english/VCTK-Corpus/wavs/p250/p250_238r.wav|||I wouldn't even respond to that question.|
+215693|023-en|en|english/VCTK-Corpus/wavs/p250/p250_343r.wav|||I'm not making any specific attempt on the world record.|
+215694|023-en|en|english/VCTK-Corpus/wavs/p250/p250_445r.wav|||Everything in golf is a balance.|
+215695|024-en|en|english/VCTK-Corpus/wavs/p251/p251_051r.wav|||He had no enemies.|
+215696|024-en|en|english/VCTK-Corpus/wavs/p251/p251_152r.wav|||He seemed to lose his focus.|
+215697|024-en|en|english/VCTK-Corpus/wavs/p251/p251_253r.wav|||He also launched a new strategy for the agency.|
+215698|024-en|en|english/VCTK-Corpus/wavs/p251/p251_356r.wav|||In the early days, I was obsessed with working in the theatre.|
+215699|025-en|en|english/VCTK-Corpus/wavs/p252/p252_089r.wav|||It was exactly four months away.|
+215700|025-en|en|english/VCTK-Corpus/wavs/p252/p252_193r.wav|||We knew their goalkeeper would take a chance.|
+215701|025-en|en|english/VCTK-Corpus/wavs/p252/p252_299r.wav|||He followed the Italian route.|
+215702|025-en|en|english/VCTK-Corpus/wavs/p252/p252_402r.wav|||So what happens next ?|
+215703|026-en|en|english/VCTK-Corpus/wavs/p253/p253_096r.wav|||He's been hit by it.|
+215704|026-en|en|english/VCTK-Corpus/wavs/p253/p253_205r.wav|||We have an election in eight days.|
+215705|026-en|en|english/VCTK-Corpus/wavs/p253/p253_313r.wav|||We are in the end game.|
+215706|027-en|en|english/VCTK-Corpus/wavs/p254/p254_016r.wav|||The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.|
+215707|027-en|en|english/VCTK-Corpus/wavs/p254/p254_118r.wav|||Tony Blair's spokesman insisted the decision came from Dublin.|
+215708|027-en|en|english/VCTK-Corpus/wavs/p254/p254_219r.wav|||We played them off the pitch.|
+215709|027-en|en|english/VCTK-Corpus/wavs/p254/p254_320r.wav|||It was no secret that I wanted to sign him.|
+215710|028-en|en|english/VCTK-Corpus/wavs/p255/p255_019r.wav|||Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.|
+215711|028-en|en|english/VCTK-Corpus/wavs/p255/p255_120r.wav|||An announcement on his replacement is expected within three weeks.|
+215712|028-en|en|english/VCTK-Corpus/wavs/p255/p255_220r.wav|||It's been a good year.|
+215713|028-en|en|english/VCTK-Corpus/wavs/p255/p255_321r.wav|||There was some merit in that.|
+215714|029-en|en|english/VCTK-Corpus/wavs/p256/p256_040r.wav|||Two other men, including the taxi driver, were wounded in the attack.|
+215715|029-en|en|english/VCTK-Corpus/wavs/p256/p256_140r.wav|||It was very frightened and dirty.|
+215716|029-en|en|english/VCTK-Corpus/wavs/p256/p256_240r.wav|||He claimed the government had lost the plot.|
+215717|030-en|en|english/VCTK-Corpus/wavs/p257/p257_021r.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
+215718|030-en|en|english/VCTK-Corpus/wavs/p257/p257_121r.wav|||This is the first big idea of the Scottish Parliament election.|
+215719|030-en|en|english/VCTK-Corpus/wavs/p257/p257_221r.wav|||She really suffered for her art.|
+215720|030-en|en|english/VCTK-Corpus/wavs/p257/p257_321r.wav|||Three years ago he would have been.|
+215721|030-en|en|english/VCTK-Corpus/wavs/p257/p257_421r.wav|||It is marvellous.|
+215722|031-en|en|english/VCTK-Corpus/wavs/p258/p258_087r.wav|||Two other men, including the taxi driver, were wounded in the attack.|
+215723|031-en|en|english/VCTK-Corpus/wavs/p258/p258_187r.wav|||The procedure is the same in all cases.|
+215724|031-en|en|english/VCTK-Corpus/wavs/p258/p258_287r.wav|||The death toll included five children.|
+215725|031-en|en|english/VCTK-Corpus/wavs/p258/p258_387r.wav|||That's the name of the game, though.|
+215726|032-en|en|english/VCTK-Corpus/wavs/p260/p260_073r.wav|||Chris Smith, the culture secretary, said he was satisfied with the decision.|
+215727|032-en|en|english/VCTK-Corpus/wavs/p260/p260_173r.wav|||I've been in two finals, and I've got a medal.|
+215728|032-en|en|english/VCTK-Corpus/wavs/p260/p260_273r.wav|||His place in central defence was taken by John Anderson.|
+215729|033-en|en|english/VCTK-Corpus/wavs/p261/p261_017r.wav|||Others have tried to explain the phenomenon physically.|
+215730|033-en|en|english/VCTK-Corpus/wavs/p261/p261_117r.wav|||It's not a quick fix.|
+215731|033-en|en|english/VCTK-Corpus/wavs/p261/p261_217r.wav|||It was far from business as usual.|
+215732|033-en|en|english/VCTK-Corpus/wavs/p261/p261_317r.wav|||Holland won by five wickets.|
+215733|033-en|en|english/VCTK-Corpus/wavs/p261/p261_417r.wav|||Ms McNeill was killed on impact.|
+215734|034-en|en|english/VCTK-Corpus/wavs/p262/p262_043r.wav|||It's a crucial award.|
+215735|034-en|en|english/VCTK-Corpus/wavs/p262/p262_143r.wav|||Last night he was due to hold talks with Arafat.|
+215736|034-en|en|english/VCTK-Corpus/wavs/p262/p262_243r.wav|||Jock Brown is appointed as general manager.|
+215737|034-en|en|english/VCTK-Corpus/wavs/p262/p262_343r.wav|||It will be very, very tight.|
+215738|035-en|en|english/VCTK-Corpus/wavs/p263/p263_049r.wav|||I didn't think any player was a success on Saturday.|
+215739|035-en|en|english/VCTK-Corpus/wavs/p263/p263_149r.wav|||And the Farmer is worried about another aspect of farming life.|
+215740|035-en|en|english/VCTK-Corpus/wavs/p263/p263_250r.wav|||What was the matter for concern ?|
+215741|035-en|en|english/VCTK-Corpus/wavs/p263/p263_351r.wav|||Overall, we are very pleased.|
+215742|035-en|en|english/VCTK-Corpus/wavs/p263/p263_451r.wav|||It is a tough game but we have a chance.|
+215743|036-en|en|english/VCTK-Corpus/wavs/p265/p265_081r.wav|||Yesterday, he continued to keep a low profile.|
+215744|036-en|en|english/VCTK-Corpus/wavs/p265/p265_181r.wav|||Suddenly, the rugby world had changed.|
+215745|036-en|en|english/VCTK-Corpus/wavs/p265/p265_282r.wav|||Who did the recruiting?|
+215746|037-en|en|english/VCTK-Corpus/wavs/p266/p266_030r.wav|||They did not replace it with a conviction for culpable homicide.|
+215747|037-en|en|english/VCTK-Corpus/wavs/p266/p266_130r.wav|||We work well together.|
+215748|037-en|en|english/VCTK-Corpus/wavs/p266/p266_231r.wav|||It's quite nice.|
+215749|037-en|en|english/VCTK-Corpus/wavs/p266/p266_331r.wav|||Finally, he paid for the movie.|
+215750|038-en|en|english/VCTK-Corpus/wavs/p267/p267_008r.wav|||These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.|
+215751|038-en|en|english/VCTK-Corpus/wavs/p267/p267_109r.wav|||We have a training class.|
+215752|038-en|en|english/VCTK-Corpus/wavs/p267/p267_209r.wav|||I had relied on him.|
+215753|038-en|en|english/VCTK-Corpus/wavs/p267/p267_310r.wav|||It is a road of death.|
+215754|038-en|en|english/VCTK-Corpus/wavs/p267/p267_412r.wav|||My aim is a top six finish.|
+215755|039-en|en|english/VCTK-Corpus/wavs/p268/p268_093r.wav|||Final proposals will be published in February.|
+215756|039-en|en|english/VCTK-Corpus/wavs/p268/p268_195r.wav|||The Yugoslav army will still be there.|
+215757|039-en|en|english/VCTK-Corpus/wavs/p268/p268_296r.wav|||They need to be involved.|
+215758|039-en|en|english/VCTK-Corpus/wavs/p268/p268_396r.wav|||Defensive stocks attracted some interest.|
+215759|040-en|en|english/VCTK-Corpus/wavs/p269/p269_085r.wav|||That's the principal difference between an artist and a dog.|
+215760|040-en|en|english/VCTK-Corpus/wavs/p269/p269_188r.wav|||Four policemen were wounded.|
+215761|040-en|en|english/VCTK-Corpus/wavs/p269/p269_290r.wav|||You've got to have both sides.|
+215762|040-en|en|english/VCTK-Corpus/wavs/p269/p269_392r.wav|||In Scotland, we keep the faith.|
+215763|041-en|en|english/VCTK-Corpus/wavs/p270/p270_089r.wav|||They must be on commission.|
+215764|041-en|en|english/VCTK-Corpus/wavs/p270/p270_189r.wav|||They bought the property four years ago.|
+215765|041-en|en|english/VCTK-Corpus/wavs/p270/p270_289r.wav|||The manager's position was obviously included in that review.|
+215766|041-en|en|english/VCTK-Corpus/wavs/p270/p270_389r.wav|||The parties include the Scottish Executive.|
+215767|042-en|en|english/VCTK-Corpus/wavs/p271/p271_027r.wav|||Several other countries are also reported to be interested in the format.|
+215768|042-en|en|english/VCTK-Corpus/wavs/p271/p271_127r.wav|||The proposals are to be debated on Monday by city councillors.|
+215769|042-en|en|english/VCTK-Corpus/wavs/p271/p271_227r.wav|||Clearly, the stakes are high.|
+215770|042-en|en|english/VCTK-Corpus/wavs/p271/p271_327r.wav|||There was no time scale.|
+215771|042-en|en|english/VCTK-Corpus/wavs/p271/p271_427r.wav|||I'm very grateful.|
+215772|043-en|en|english/VCTK-Corpus/wavs/p272/p272_074r.wav|||But I've won both ways.|
+215773|043-en|en|english/VCTK-Corpus/wavs/p272/p272_174r.wav|||They might be broken, but they are not defeated.|
+215774|043-en|en|english/VCTK-Corpus/wavs/p272/p272_274r.wav|||There was a final revealing detail about the broadcast.|
+215775|043-en|en|english/VCTK-Corpus/wavs/p272/p272_374r.wav|||The Cabinet is split over the issue.|
+215776|044-en|en|english/VCTK-Corpus/wavs/p273/p273_063r.wav|||The spirit in the dressing room is tremendous.|
+215777|044-en|en|english/VCTK-Corpus/wavs/p273/p273_163r.wav|||For example, I supported the government on Afghanistan and Kosovo.|
+215778|044-en|en|english/VCTK-Corpus/wavs/p273/p273_264r.wav|||This will look at consumer attitudes.|
+215779|044-en|en|english/VCTK-Corpus/wavs/p273/p273_365r.wav|||That is a crazy situation.|
+215780|045-en|en|english/VCTK-Corpus/wavs/p275/p275_031r.wav|||There's a story, too.|
+215781|045-en|en|english/VCTK-Corpus/wavs/p275/p275_132r.wav|||I am now unemployed.|
+215782|045-en|en|english/VCTK-Corpus/wavs/p275/p275_236r.wav|||It would still have been a good film, but very different.|
+215783|045-en|en|english/VCTK-Corpus/wavs/p275/p275_340r.wav|||This is a friendly match?|
+215784|046-en|en|english/VCTK-Corpus/wavs/p276/p276_014r.wav|||To the Hebrews it was a token that there would be no more universal floods.|
+215785|046-en|en|english/VCTK-Corpus/wavs/p276/p276_114r.wav|||It is sometimes like that.|
+215786|046-en|en|english/VCTK-Corpus/wavs/p276/p276_214r.wav|||We did what we had to do.|
+215787|046-en|en|english/VCTK-Corpus/wavs/p276/p276_315r.wav|||It was horrible, that musical apartheid.|
+215788|046-en|en|english/VCTK-Corpus/wavs/p276/p276_416r.wav|||A succession of managers in the opera company resigned.|
+215789|047-en|en|english/VCTK-Corpus/wavs/p277/p277_052r.wav|||They said she was stable.|
+215790|047-en|en|english/VCTK-Corpus/wavs/p277/p277_152r.wav|||It will include the Black Watch, the Royal Highland regiment.|
+215791|047-en|en|english/VCTK-Corpus/wavs/p277/p277_254r.wav|||They want to shut the Scottish Office.|
+215792|047-en|en|english/VCTK-Corpus/wavs/p277/p277_355r.wav|||He could make it.|
+215793|047-en|en|english/VCTK-Corpus/wavs/p277/p277_455r.wav|||We're hopefully going to act as a catalyst for that.|
+215794|048-en|en|english/VCTK-Corpus/wavs/p278/p278_093r.wav|||It was some time before she found out he was safe.|
+215795|048-en|en|english/VCTK-Corpus/wavs/p278/p278_193r.wav|||But there's an upturn in the sector.|
+215796|048-en|en|english/VCTK-Corpus/wavs/p278/p278_293r.wav|||Similar measures are expected in England and Wales.|
+215797|048-en|en|english/VCTK-Corpus/wavs/p278/p278_393r.wav|||The marshall at the turn was great.|
+215798|049-en|en|english/VCTK-Corpus/wavs/p279/p279_084r.wav|||Is there a new way forward?|
+215799|049-en|en|english/VCTK-Corpus/wavs/p279/p279_184r.wav|||We knew nothing about it.|
+215800|049-en|en|english/VCTK-Corpus/wavs/p279/p279_284r.wav|||The attacker died in the crash.|
+215801|049-en|en|english/VCTK-Corpus/wavs/p279/p279_384r.wav|||I can lead by example.|
+215802|050-en|en|english/VCTK-Corpus/wavs/p280/p280_078r.wav|||The key to the whole project will be environmental concern.|
+215803|050-en|en|english/VCTK-Corpus/wavs/p280/p280_178r.wav|||Therefore, this type of aircraft is completely safe.|
+215804|050-en|en|english/VCTK-Corpus/wavs/p280/p280_278r.wav|||One letter from a teacher arrived at Christmas.|
+215805|050-en|en|english/VCTK-Corpus/wavs/p280/p280_378r.wav|||He had got himself into trouble with money and needed money.|
+215806|051-en|en|english/VCTK-Corpus/wavs/p281/p281_069r.wav|||He had been a singer.|
+215807|051-en|en|english/VCTK-Corpus/wavs/p281/p281_169r.wav|||Our position remains the same.|
+215808|051-en|en|english/VCTK-Corpus/wavs/p281/p281_269r.wav|||The capital costs are modest.|
+215809|051-en|en|english/VCTK-Corpus/wavs/p281/p281_369r.wav|||She said they would appeal.|
+215810|052-en|en|english/VCTK-Corpus/wavs/p282/p282_010r.wav|||People look, but no one ever finds it.|
+215811|052-en|en|english/VCTK-Corpus/wavs/p282/p282_111r.wav|||I was fighting for my life, I thought.|
+215812|052-en|en|english/VCTK-Corpus/wavs/p282/p282_211r.wav|||Work has started.|
+215813|052-en|en|english/VCTK-Corpus/wavs/p282/p282_311r.wav|||You may have a short memory.|
+215814|053-en|en|english/VCTK-Corpus/wavs/p283/p283_041r.wav|||She hopes to study in Britain one day.|
+215815|053-en|en|english/VCTK-Corpus/wavs/p283/p283_141r.wav|||But it is different in different regions.|
+215816|053-en|en|english/VCTK-Corpus/wavs/p283/p283_241r.wav|||The proposals are to be debated on Monday by city councillors.|
+215817|053-en|en|english/VCTK-Corpus/wavs/p283/p283_342r.wav|||The capital costs are modest.|
+215818|053-en|en|english/VCTK-Corpus/wavs/p283/p283_443r.wav|||I can almost pretend to be Scottish.|
+215819|054-en|en|english/VCTK-Corpus/wavs/p284/p284_072r.wav|||It was magic.|
+215820|054-en|en|english/VCTK-Corpus/wavs/p284/p284_172r.wav|||It is not either national standards or local control.|
+215821|054-en|en|english/VCTK-Corpus/wavs/p284/p284_272r.wav|||She looked so young.|
+215822|054-en|en|english/VCTK-Corpus/wavs/p284/p284_372r.wav|||For one veteran, the memories remain vivid.|
+215823|055-en|en|english/VCTK-Corpus/wavs/p285/p285_047r.wav|||No-one has appeared in court in relation to her death.|
+215824|055-en|en|english/VCTK-Corpus/wavs/p285/p285_147r.wav|||Crucially, though, United were still alive.|
+215825|055-en|en|english/VCTK-Corpus/wavs/p285/p285_247r.wav|||Now, suddenly, we have this new landscape.|
+215826|055-en|en|english/VCTK-Corpus/wavs/p285/p285_347r.wav|||There may be reasons for it.|
+215827|056-en|en|english/VCTK-Corpus/wavs/p286/p286_044r.wav|||Her body was found about four miles from the car.|
+215828|056-en|en|english/VCTK-Corpus/wavs/p286/p286_144r.wav|||The first half was depressing.|
+215829|056-en|en|english/VCTK-Corpus/wavs/p286/p286_244r.wav|||The output price index in December was unchanged on November.|
+215830|056-en|en|english/VCTK-Corpus/wavs/p286/p286_344r.wav|||It looks as though the issue with The Scotsman is too sensitive.|
+215831|056-en|en|english/VCTK-Corpus/wavs/p286/p286_444r.wav|||It's hard to make these decisions at my age.|
+215832|057-en|en|english/VCTK-Corpus/wavs/p287/p287_076r.wav|||By then, he was walking on water.|
+215833|057-en|en|english/VCTK-Corpus/wavs/p287/p287_176r.wav|||He is believed to live in Britain.|
+215834|057-en|en|english/VCTK-Corpus/wavs/p287/p287_276r.wav|||Is it in the right place ?|
+215835|057-en|en|english/VCTK-Corpus/wavs/p287/p287_376r.wav|||The hill farm is owned by the father of the young man.|
+215836|058-en|en|english/VCTK-Corpus/wavs/p288/p288_052r.wav|||Sadly, it can't.|
+215837|058-en|en|english/VCTK-Corpus/wavs/p288/p288_152r.wav|||Councillors are expected to take a decision within the next few weeks.|
+215838|058-en|en|english/VCTK-Corpus/wavs/p288/p288_252r.wav|||It's a source of deep concern.|
+215839|058-en|en|english/VCTK-Corpus/wavs/p288/p288_352r.wav|||That's the principal difference between an artist and a dog.|
+215840|059-en|en|english/VCTK-Corpus/wavs/p292/p292_053r.wav|||Fewer people are being killed in accidents.|
+215841|059-en|en|english/VCTK-Corpus/wavs/p292/p292_153r.wav|||Other forces were, however, at work.|
+215842|059-en|en|english/VCTK-Corpus/wavs/p292/p292_253r.wav|||He is an excellent defender, strong and quick.|
+215843|059-en|en|english/VCTK-Corpus/wavs/p292/p292_353r.wav|||Glasgow is about to enter a new era.|
+215844|060-en|en|english/VCTK-Corpus/wavs/p293/p293_030r.wav|||I couldn't really work outside Edinburgh.|
+215845|060-en|en|english/VCTK-Corpus/wavs/p293/p293_131r.wav|||Well, it was part of our ongoing discussions.|
+215846|060-en|en|english/VCTK-Corpus/wavs/p293/p293_231r.wav|||I think in three dimensions.|
+215847|060-en|en|english/VCTK-Corpus/wavs/p293/p293_332r.wav|||Detectives are waiting to interview the men.|
+215848|061-en|en|english/VCTK-Corpus/wavs/p294/p294_033r.wav|||The airport was even different.|
+215849|061-en|en|english/VCTK-Corpus/wavs/p294/p294_133r.wav|||I can lead by example.|
+215850|061-en|en|english/VCTK-Corpus/wavs/p294/p294_233r.wav|||We have seen the future, and it is different.|
+215851|061-en|en|english/VCTK-Corpus/wavs/p294/p294_334r.wav|||It's hard, but we have had so much to do.|
+215852|062-en|en|english/VCTK-Corpus/wavs/p295/p295_010r.wav|||People look, but no one ever finds it.|
+215853|062-en|en|english/VCTK-Corpus/wavs/p295/p295_113r.wav|||It offers a different viewpoint.|
+215854|062-en|en|english/VCTK-Corpus/wavs/p295/p295_214r.wav|||What happened in this instance is serious misconduct.|
+215855|062-en|en|english/VCTK-Corpus/wavs/p295/p295_315r.wav|||This year it will be Billy Crystal.|
+215856|062-en|en|english/VCTK-Corpus/wavs/p295/p295_416r.wav|||There is too much at stake for that.|
+215857|063-en|en|english/VCTK-Corpus/wavs/p297/p297_097r.wav|||I was doing well at the hustings.|
+215858|063-en|en|english/VCTK-Corpus/wavs/p297/p297_197r.wav|||Blood samples were taken.|
+215859|063-en|en|english/VCTK-Corpus/wavs/p297/p297_300r.wav|||However, they continued in their pursuit of victory.|
+215860|063-en|en|english/VCTK-Corpus/wavs/p297/p297_400r.wav|||She now lives in London.|
+215861|064-en|en|english/VCTK-Corpus/wavs/p298/p298_076r.wav|||It will be very useful for us.|
+215862|064-en|en|english/VCTK-Corpus/wavs/p298/p298_176r.wav|||A wide range of restrictions are in place.|
+215863|064-en|en|english/VCTK-Corpus/wavs/p298/p298_276r.wav|||Drugs and housebreaking are linked.|
+215864|064-en|en|english/VCTK-Corpus/wavs/p298/p298_376r.wav|||Charles Kennedy had an effective outing.|
+215865|065-en|en|english/VCTK-Corpus/wavs/p299/p299_071r.wav|||Both of those promises have already been honoured.|
+215866|065-en|en|english/VCTK-Corpus/wavs/p299/p299_171r.wav|||Was it a foul?|
+215867|065-en|en|english/VCTK-Corpus/wavs/p299/p299_271r.wav|||We do things in an appropriate way.|
+215868|065-en|en|english/VCTK-Corpus/wavs/p299/p299_371r.wav|||The plane was in flames|
+215869|066-en|en|english/VCTK-Corpus/wavs/p300/p300_066r.wav|||He also does not get along with Christina.|
+215870|066-en|en|english/VCTK-Corpus/wavs/p300/p300_166r.wav|||Running costs are not subsidised by public money.|
+215871|066-en|en|english/VCTK-Corpus/wavs/p300/p300_266r.wav|||His expulsion would not solve the problem.|
+215872|066-en|en|english/VCTK-Corpus/wavs/p300/p300_367r.wav|||They are also exploited by the markets.|
+215873|067-en|en|english/VCTK-Corpus/wavs/p301/p301_067r.wav|||I want my country to be a republic, not an empire.|
+215874|067-en|en|english/VCTK-Corpus/wavs/p301/p301_167r.wav|||Shyness has rarely sold in boxing terms.|
+215875|067-en|en|english/VCTK-Corpus/wavs/p301/p301_267r.wav|||I do not own the vessel in question.|
+215876|067-en|en|english/VCTK-Corpus/wavs/p301/p301_367r.wav|||Stock markets will be watching closely.|
+215877|068-en|en|english/VCTK-Corpus/wavs/p302/p302_057r.wav|||I wouldn't want to miss that chance.|
+215878|068-en|en|english/VCTK-Corpus/wavs/p302/p302_158r.wav|||A hospital spokeswoman described his condition as stable.|
+215879|068-en|en|english/VCTK-Corpus/wavs/p302/p302_260r.wav|||I started on a fire a couple of times.|
+215880|069-en|en|english/VCTK-Corpus/wavs/p303/p303_045r.wav|||Our dispute is with the company, not the travelling public.|
+215881|069-en|en|english/VCTK-Corpus/wavs/p303/p303_145r.wav|||But, clearly, it is crucial to understand that point.|
+215882|069-en|en|english/VCTK-Corpus/wavs/p303/p303_245r.wav|||She has a wonderful mind.|
+215883|069-en|en|english/VCTK-Corpus/wavs/p303/p303_346r.wav|||I can't blame the fans for getting frustrated.|
+215884|070-en|en|english/VCTK-Corpus/wavs/p304/p304_093r.wav|||But we are losing that connection.|
+215885|070-en|en|english/VCTK-Corpus/wavs/p304/p304_194r.wav|||Journalists should make him.|
+215886|070-en|en|english/VCTK-Corpus/wavs/p304/p304_294r.wav|||He met his wife and married in England.|
+215887|070-en|en|english/VCTK-Corpus/wavs/p304/p304_394r.wav|||He just attracted people.|
+215888|071-en|en|english/VCTK-Corpus/wavs/p305/p305_070r.wav|||However, consumers may take a different view.|
+215889|071-en|en|english/VCTK-Corpus/wavs/p305/p305_170r.wav|||I got off to a great start.|
+215890|071-en|en|english/VCTK-Corpus/wavs/p305/p305_270r.wav|||The breakdown was much later in her life.|
+215891|071-en|en|english/VCTK-Corpus/wavs/p305/p305_370r.wav|||There has been a big change in defence.|
+215892|072-en|en|english/VCTK-Corpus/wavs/p306/p306_048r.wav|||But all forms of the illness are treatable.|
+215893|072-en|en|english/VCTK-Corpus/wavs/p306/p306_150r.wav|||Again and again, at every level, he delivered the goods.|
+215894|072-en|en|english/VCTK-Corpus/wavs/p306/p306_253r.wav|||A management agreement, however, was conceded.|
+215895|072-en|en|english/VCTK-Corpus/wavs/p306/p306_357r.wav|||I've only met him three times.|
+215896|073-en|en|english/VCTK-Corpus/wavs/p307/p307_098r.wav|||Of course, on Tuesday, United were beaten despite this.|
+215897|073-en|en|english/VCTK-Corpus/wavs/p307/p307_198r.wav|||Her condition last night was described as critical.|
+215898|073-en|en|english/VCTK-Corpus/wavs/p307/p307_298r.wav|||We are aware of the tribunal case.|
+215899|073-en|en|english/VCTK-Corpus/wavs/p307/p307_399r.wav|||This is usually done by the space shuttle.|
+215900|074-en|en|english/VCTK-Corpus/wavs/p308/p308_077r.wav|||It is simple, really.|
+215901|074-en|en|english/VCTK-Corpus/wavs/p308/p308_177r.wav|||His name is Michael Owen.|
+215902|074-en|en|english/VCTK-Corpus/wavs/p308/p308_277r.wav|||This is not, however, a General Election reshuffle.|
+215903|074-en|en|english/VCTK-Corpus/wavs/p308/p308_377r.wav|||The Shadow Chancellor is away on holiday.|
+215904|075-en|en|english/VCTK-Corpus/wavs/p310/p310_054r.wav|||They were not defeated.|
+215905|075-en|en|english/VCTK-Corpus/wavs/p310/p310_154r.wav|||I felt the head was very like me.|
+215906|075-en|en|english/VCTK-Corpus/wavs/p310/p310_255r.wav|||We went on to become very successful.|
+215907|075-en|en|english/VCTK-Corpus/wavs/p310/p310_355r.wav|||Now it is measuring it in dollars.|
+215908|076-en|en|english/VCTK-Corpus/wavs/p311/p311_031r.wav|||Miller was every bit as happy.|
+215909|076-en|en|english/VCTK-Corpus/wavs/p311/p311_131r.wav|||Planning is a key issue.|
+215910|076-en|en|english/VCTK-Corpus/wavs/p311/p311_231r.wav|||They are just trying to cover up.|
+215911|076-en|en|english/VCTK-Corpus/wavs/p311/p311_331r.wav|||That is why we are here.|
+215912|077-en|en|english/VCTK-Corpus/wavs/p312/p312_009r.wav|||There is , according to legend, a boiling pot of gold at one end.|
+215913|077-en|en|english/VCTK-Corpus/wavs/p312/p312_109r.wav|||Hopefully, he will get a lucky break.|
+215914|077-en|en|english/VCTK-Corpus/wavs/p312/p312_209r.wav|||Of course he was right!|
+215915|077-en|en|english/VCTK-Corpus/wavs/p312/p312_309r.wav|||The casting of her husband was an accident.|
+215916|077-en|en|english/VCTK-Corpus/wavs/p312/p312_410r.wav|||He supported the decision to review the decision.|
+215917|078-en|en|english/VCTK-Corpus/wavs/p313/p313_091r.wav|||It's a very, very special day.|
+215918|078-en|en|english/VCTK-Corpus/wavs/p313/p313_191r.wav|||We have understood the problems for some time.|
+215919|078-en|en|english/VCTK-Corpus/wavs/p313/p313_291r.wav|||It's never over until it's over.|
+215920|078-en|en|english/VCTK-Corpus/wavs/p313/p313_393r.wav|||This is the last thing we ever expected.|
+215921|079-en|en|english/VCTK-Corpus/wavs/p314/p314_070r.wav|||These findings would be made public.|
+215922|079-en|en|english/VCTK-Corpus/wavs/p314/p314_170r.wav|||They've got to get better.|
+215923|079-en|en|english/VCTK-Corpus/wavs/p314/p314_270r.wav|||I'm not talking about his career.|
+215924|079-en|en|english/VCTK-Corpus/wavs/p314/p314_370r.wav|||This means a great deal to the families.|
+215925|080-en|en|english/VCTK-Corpus/wavs/p316/p316_048r.wav|||And they removed a Borderer.|
+215926|080-en|en|english/VCTK-Corpus/wavs/p316/p316_148r.wav|||Feel for five seconds.|
+215927|080-en|en|english/VCTK-Corpus/wavs/p316/p316_249r.wav|||We're just waiting for her reaction.|
+215928|080-en|en|english/VCTK-Corpus/wavs/p316/p316_349r.wav|||We have to open up.|
+215929|081-en|en|english/VCTK-Corpus/wavs/p317/p317_026r.wav|||There was a fine line to tread.|
+215930|081-en|en|english/VCTK-Corpus/wavs/p317/p317_126r.wav|||A decision is expected shortly.|
+215931|081-en|en|english/VCTK-Corpus/wavs/p317/p317_226r.wav|||Clubs can only do so much.|
+215932|081-en|en|english/VCTK-Corpus/wavs/p317/p317_326r.wav|||Scotland is one of the favourites, with Glasgow to the fore.|
+215933|082-en|en|english/VCTK-Corpus/wavs/p318/p318_005r.wav|||She can scoop these things into three red bags, and we can go meet her Wednesday at the train station.|
+215934|082-en|en|english/VCTK-Corpus/wavs/p318/p318_105r.wav|||The quality of work is very impressive.|
+215935|082-en|en|english/VCTK-Corpus/wavs/p318/p318_205r.wav|||So she told him.|
+215936|082-en|en|english/VCTK-Corpus/wavs/p318/p318_305r.wav|||SO now we know the secret.|
+215937|082-en|en|english/VCTK-Corpus/wavs/p318/p318_405r.wav|||The Open champion is back.|
+215938|083-en|en|english/VCTK-Corpus/wavs/p323/p323_081r.wav|||General, You didn't get a modified.|
+215939|083-en|en|english/VCTK-Corpus/wavs/p323/p323_181r.wav|||This is a mental challenge.|
+215940|083-en|en|english/VCTK-Corpus/wavs/p323/p323_281r.wav|||We all like to see forgiveness and redemption.|
+215941|083-en|en|english/VCTK-Corpus/wavs/p323/p323_381r.wav|||They could not ignore the will of parliament, he claimed.|
+215942|084-en|en|english/VCTK-Corpus/wavs/p326/p326_057r.wav|||You can feel at home in China.|
+215943|084-en|en|english/VCTK-Corpus/wavs/p326/p326_157r.wav|||I felt he was excellent.|
+215944|084-en|en|english/VCTK-Corpus/wavs/p326/p326_257r.wav|||We would expect it to disappear in time.|
+215945|084-en|en|english/VCTK-Corpus/wavs/p326/p326_357r.wav|||My husband was born in Zimbabwe.|
+215946|085-en|en|english/VCTK-Corpus/wavs/p329/p329_058r.wav|||I have had no social life at all.|
+215947|085-en|en|english/VCTK-Corpus/wavs/p329/p329_158r.wav|||His track record is not promising.|
+215948|085-en|en|english/VCTK-Corpus/wavs/p329/p329_258r.wav|||In the event, it proved a largely uplifting experience.|
+215949|085-en|en|english/VCTK-Corpus/wavs/p329/p329_358r.wav|||Just don't go looking to be shocked.|
+215950|086-en|en|english/VCTK-Corpus/wavs/p330/p330_034r.wav|||They could move in at any moment.|
+215951|086-en|en|english/VCTK-Corpus/wavs/p330/p330_134r.wav|||She goes to the opening of an envelope.|
+215952|086-en|en|english/VCTK-Corpus/wavs/p330/p330_234r.wav|||To a level which we consider appropriate.|
+215953|086-en|en|english/VCTK-Corpus/wavs/p330/p330_334r.wav|||What are you waiting for?|
+215954|087-en|en|english/VCTK-Corpus/wavs/p333/p333_011r.wav|||When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.|
+215955|087-en|en|english/VCTK-Corpus/wavs/p333/p333_112r.wav|||It is a serious offence of reckless conduct.|
+215956|087-en|en|english/VCTK-Corpus/wavs/p333/p333_212r.wav|||We still don't know.|
+215957|087-en|en|english/VCTK-Corpus/wavs/p333/p333_313r.wav|||I'm not blaming audiences.|
+215958|087-en|en|english/VCTK-Corpus/wavs/p333/p333_414r.wav|||A judicial review is also being considered.|
+215959|088-en|en|english/VCTK-Corpus/wavs/p334/p334_090r.wav|||Mr Miller is married with three children.|
+215960|088-en|en|english/VCTK-Corpus/wavs/p334/p334_191r.wav|||His English counterpart agreed.|
+215961|088-en|en|english/VCTK-Corpus/wavs/p334/p334_291r.wav|||We haven't actually considered it down here.|
+215962|088-en|en|english/VCTK-Corpus/wavs/p334/p334_391r.wav|||Golf is an expensive game for beginners.|
+215963|089-en|en|english/VCTK-Corpus/wavs/p335/p335_068r.wav|||I am delighted to hear this wonderful news.|
+215964|089-en|en|english/VCTK-Corpus/wavs/p335/p335_168r.wav|||However, Dundee deserved to win this game.|
+215965|089-en|en|english/VCTK-Corpus/wavs/p335/p335_268r.wav|||I have good memories of Glasgow.|
+215966|089-en|en|english/VCTK-Corpus/wavs/p335/p335_368r.wav|||Its people are inventive, talented and diligent.|
+215967|090-en|en|english/VCTK-Corpus/wavs/p336/p336_045r.wav|||That, though, was just the start of it.|
+215968|090-en|en|english/VCTK-Corpus/wavs/p336/p336_145r.wav|||He has been banned from the Salmon Inn.|
+215969|090-en|en|english/VCTK-Corpus/wavs/p336/p336_246r.wav|||It's time to say enough is enough.|
+215970|090-en|en|english/VCTK-Corpus/wavs/p336/p336_349r.wav|||People want to learn.|
+215971|091-en|en|english/VCTK-Corpus/wavs/p339/p339_027r.wav|||Glasgow is far from overload.|
+215972|091-en|en|english/VCTK-Corpus/wavs/p339/p339_128r.wav|||But it was not just the land.|
+215973|091-en|en|english/VCTK-Corpus/wavs/p339/p339_228r.wav|||I see it as my job.|
+215974|091-en|en|english/VCTK-Corpus/wavs/p339/p339_328r.wav|||Words are not enough.|
+215975|092-en|en|english/VCTK-Corpus/wavs/p340/p340_004r.wav|||We also need a small plastic snake and a big toy frog for the kids.|
+215976|092-en|en|english/VCTK-Corpus/wavs/p340/p340_105r.wav|||We believe it to be completely without merit.|
+215977|092-en|en|english/VCTK-Corpus/wavs/p340/p340_205r.wav|||That's my daughter acting.|
+215978|092-en|en|english/VCTK-Corpus/wavs/p340/p340_305r.wav|||We will not give up on the truth.|
+215979|092-en|en|english/VCTK-Corpus/wavs/p340/p340_405r.wav|||He said no survivors had been found.|
+215980|093-en|en|english/VCTK-Corpus/wavs/p341/p341_081r.wav|||Robert is a special talent.|
+215981|093-en|en|english/VCTK-Corpus/wavs/p341/p341_181r.wav|||That's how it worked in Bosnia.|
+215982|093-en|en|english/VCTK-Corpus/wavs/p341/p341_282r.wav|||I have been totally taken aback by this.|
+215983|093-en|en|english/VCTK-Corpus/wavs/p341/p341_382r.wav|||We have been working together for some years.|
+215984|094-en|en|english/VCTK-Corpus/wavs/p343/p343_074r.wav|||We are still suffering from that.|
+215985|094-en|en|english/VCTK-Corpus/wavs/p343/p343_176r.wav|||He will want to utilise the midfield.|
+215986|094-en|en|english/VCTK-Corpus/wavs/p343/p343_279r.wav|||We are talking about one family.|
+215987|094-en|en|english/VCTK-Corpus/wavs/p343/p343_384r.wav|||That is the theory.|
+215988|095-en|en|english/VCTK-Corpus/wavs/p345/p345_084r.wav|||All our futures will already have been decided.|
+215989|095-en|en|english/VCTK-Corpus/wavs/p345/p345_184r.wav|||That in itself is an erotic experience.|
+215990|095-en|en|english/VCTK-Corpus/wavs/p345/p345_285r.wav|||He's a joy to follow.|
+215991|095-en|en|english/VCTK-Corpus/wavs/p345/p345_385r.wav|||This is the last chance, and everyone knows it.|
+215992|096-en|en|english/VCTK-Corpus/wavs/p347/p347_088r.wav|||John Prescott is John Prescott, as the prime minister would say.|
+215993|096-en|en|english/VCTK-Corpus/wavs/p347/p347_188r.wav|||The boat was fully equipped with safety equipment.|
+215994|096-en|en|english/VCTK-Corpus/wavs/p347/p347_288r.wav|||I mean it happens.|
+215995|096-en|en|english/VCTK-Corpus/wavs/p347/p347_388r.wav|||It was a lot of hard work, but it wasn't difficult.|
+215996|097-en|en|english/VCTK-Corpus/wavs/p351/p351_064r.wav|||The devil is in the detail.|
+215997|097-en|en|english/VCTK-Corpus/wavs/p351/p351_165r.wav|||It is not an escape.|
+215998|097-en|en|english/VCTK-Corpus/wavs/p351/p351_265r.wav|||There he goes again.|
+215999|097-en|en|english/VCTK-Corpus/wavs/p351/p351_365r.wav|||I believe she was elected unopposed.|
+216000|098-en|en|english/VCTK-Corpus/wavs/p360/p360_041r.wav|||A similar exercise is expected in Scotland.|
+216001|098-en|en|english/VCTK-Corpus/wavs/p360/p360_141r.wav|||That was the theory.|
+216002|098-en|en|english/VCTK-Corpus/wavs/p360/p360_241r.wav|||It is all very upbeat.|
+216003|098-en|en|english/VCTK-Corpus/wavs/p360/p360_341r.wav|||There will be no backing down.|
+216004|099-en|en|english/VCTK-Corpus/wavs/p361/p361_017r.wav|||Others have tried to explain the phenomenon physically.|
+216005|099-en|en|english/VCTK-Corpus/wavs/p361/p361_117r.wav|||He was taken ill in his office.|
+216006|099-en|en|english/VCTK-Corpus/wavs/p361/p361_218r.wav|||But we were wrong.|
+216007|099-en|en|english/VCTK-Corpus/wavs/p361/p361_318r.wav|||It doesn't look good for her.|
+216008|099-en|en|english/VCTK-Corpus/wavs/p361/p361_418r.wav|||It is a result we should savour.|
+216009|100-en|en|english/VCTK-Corpus/wavs/p362/p362_094r.wav|||Instead they were openly attempting to be helpful.|
+216010|100-en|en|english/VCTK-Corpus/wavs/p362/p362_194r.wav|||Last year, it was won by Jack McConnell, the first minister.|
+216011|100-en|en|english/VCTK-Corpus/wavs/p362/p362_295r.wav|||So who is right?|
+216012|100-en|en|english/VCTK-Corpus/wavs/p362/p362_395r.wav|||I never got anything out of it.|
+216013|101-en|en|english/VCTK-Corpus/wavs/p363/p363_071r.wav|||This is a judgment issue.|
+216014|101-en|en|english/VCTK-Corpus/wavs/p363/p363_171r.wav|||He didn't know where to look.|
+216015|101-en|en|english/VCTK-Corpus/wavs/p363/p363_271r.wav|||That should not be their conclusion.|
+216016|101-en|en|english/VCTK-Corpus/wavs/p363/p363_374r.wav|||There is nothing to fear.|
+216017|102-en|en|english/VCTK-Corpus/wavs/p364/p364_053r.wav|||I can live with that.|
+216018|102-en|en|english/VCTK-Corpus/wavs/p364/p364_156r.wav|||Ferguson had done his homework.|
+216019|102-en|en|english/VCTK-Corpus/wavs/p364/p364_257r.wav|||That can happen so easily.|
+216020|103-en|en|english/VCTK-Corpus/wavs/p374/p374_051r.wav|||We have a problem.|
+216021|103-en|en|english/VCTK-Corpus/wavs/p374/p374_151r.wav|||They may differ on other issues.|
+216022|103-en|en|english/VCTK-Corpus/wavs/p374/p374_251r.wav|||It was not pretty.|
+216023|103-en|en|english/VCTK-Corpus/wavs/p374/p374_351r.wav|||I did not have a bet on myself.|
 216024|000-es|es|spanish/batalla_arapiles/batalla_arapiles_4561.wav|||Estás salvada. escóndete allí. pasa a tu alcoba. Déjame recoger estos vasos de valor, estos candelabros de plata.|
 216025|000-es|es|spanish/bailen/bailen_0010.wav|||Doña María, al escuchar esto, palideció, y luego las centellas de la ira brillaron en sus ojos.|
 216026|000-es|es|spanish/batalla_arapiles/batalla_arapiles_3085.wav|||¡Pedir perdón, pedirle perdón! Antes morir|
@@ -785,87 +785,87 @@
 216322|022-fr|fr|french/fr/wavs/22/common_voice_fr_18771293.wav|||Prends garde! jenny et GABRIELLE.|
 216323|025-fr|fr|french/fr/wavs/25/common_voice_fr_18493698.wav|||Je vais à table.|
 216324|026-fr|fr|french/fr/wavs/26/common_voice_fr_18408560.wav|||Disons que vous serez encore plus liée demain.|
-216325|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0100.wav|||Désormais elle devra faire des avances à l’État et à la Sécurité sociale.|
-216326|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0200.wav|||Un point donnera automatiquement lieu à deux points.|
-216327|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0300.wav|||Dans cette situation, les failles sont certaines et les espoirs, abîmés.|
-216328|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0400.wav|||Or il s’agit bien, à travers cet article, de nier la famille biologique.|
-216329|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0500.wav|||Je veux donc apporter tout mon soutien à David Habib.|
-216330|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0600.wav|||C’est chercher à réduire évasion et niches fiscales.|
-216331|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0700.wav|||Ils savent que votre politique, c’est payer, toujours payer et encore payer.|
-216332|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0069.wav|||Là où vous criez au succès il n’y a au fond que des échecs.|
-216333|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0169.wav|||Il y a donc, monsieur Vercamer, plus qu’une nuance entre les deux amendements.|
-216334|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0269.wav|||Ils sont le pendant du mandat d’arrêt européen.|
-216335|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0369.wav|||Celui du Royaume-Uni prône une durée de travail plus longue.|
-216336|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0469.wav|||Ce n’est pas un sujet qui tombe du ciel.|
-216337|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0569.wav|||Ce n’est pas ce que nous attendions.|
-216338|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0669.wav|||On compte sept cents cinquante branches professionnelles en France.|
-216339|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0011.wav|||Et les chasseurs ont un rôle à jouer.|
-216340|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0111.wav|||Un monologue, pas un débat !|
-216341|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0211.wav|||À cette fin, deux dispositifs cohabitent actuellement.|
-216342|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0311.wav|||Qu’elle soit au moins ouverte : c’est un acquis ancien.|
-216343|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0411.wav|||Comme nous le remarquions avec mes collègues lors de la pause, il y a tout dans ce texte…|
-216344|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0511.wav|||Il est temps d’écouter sa voix, notamment pour la gauche européenne.|
-216345|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0611.wav|||C’était en effet tout à fait judicieux.|
-216346|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0711.wav|||Elle a affaibli son influence en Europe et dans le monde.|
-216347|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0063.wav|||Ils l’ont fait volontairement, mais c’est nous qui aurions dû organiser ce débat…|
-216348|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0163.wav|||L’absence juridique vous salue !|
-216349|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0263.wav|||La réponse est-elle oui ou non ?|
-216350|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0363.wav|||Vous nous dites, monsieur le secrétaire d’État, que Madame Ségolène Royal va réfléchir.|
-216351|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0463.wav|||Ce n’est pas insignifiant.|
-216352|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0563.wav|||Comme flux annuel, c’est loin d’être négligeable.|
-216353|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0663.wav|||Dans certains abattoirs, les différences de coût horaire vont du simple au triple.|
-216354|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0018.wav|||C’est sur le taux intermédiaire que nous demandons un effort aux Français.|
-216355|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0118.wav|||Pour résoudre le problème des algues vertes, il faut désormais que les actes suivent.|
-216356|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0218.wav|||En tant que législateurs, nous devons défendre la langue française.|
-216357|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0318.wav|||Je suis saisi d’un amendement numéro deux mille cinq cents quatre-vingt huit.|
-216358|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0418.wav|||Monsieur Fabius a en partie répondu à cette question en commission élargie.|
-216359|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0518.wav|||Je rends hommage au ministère pour cette initiative.|
-216360|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0618.wav|||On ne peut pas dire que la droite, sur cette question, manque de cohérence.|
-216361|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0718.wav|||Essayons, par la loi, de les régler.|
-216362|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0080.wav|||Je dirais que c’est un texte d’empêchement.|
-216363|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0180.wav|||Il faut bien sûr renforcer les services en moyens humains.|
-216364|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0280.wav|||Soyez précis sur un point.|
-216365|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0380.wav|||La parole est à Monsieur Christian Jacob pour le groupe de l’Union pour un mouvement populaire.|
-216366|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0480.wav|||J’insiste toutefois, car ce que vient de préciser le rapporteur est important.|
-216367|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0580.wav|||Vous n’avez pas de vision globale.|
-216368|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0680.wav|||Pour Monsieur Le Roux, qui l’a déclaré publiquement, c’est tout le contraire.|
-216369|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0780.wav|||Enfin, c’est un encouragement pour l’avenir.|
-216370|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0100.wav|||L’important est que ces pirates aient été exterminés !|
-216371|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0200.wav|||À ce sujet, l’ingéniosité de Cyrus Smith fut en défaut.|
-216372|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0300.wav|||Mon agitation redoublait.|
-216373|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0023.wav|||Mais il était seul ! Ni son maître, ni Nab ne l’accompagnaient !|
-216374|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0123.wav|||Eh ! Pencroff, dit Nab d’un ton un peu sarcastique, si c’est là tout le gibier que vous avez promis de rapporter à mon maître, il ne faudra pas grand feu pour le faire rôtir !|
-216375|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0223.wav|||Il fallait donc ne s’aventurer qu’avec une certaine prudence.|
-216376|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0323.wav|||Et, n’ayant plus Bob Harvey pour manœuvrer, ils se sont échoués sur les roches, et l’embarcation a été entièrement brisée !|
-216377|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0054.wav|||Le mot  förlorad  revint encore à mon oreille ; puis ce roulement de tonnerre qui m’avait tiré de ma torpeur.|
-216378|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0154.wav|||Nous descendîmes rapidement la montagne.|
-216379|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0254.wav|||Il faut l’avouer, les choses jusqu’ici se passaient bien, et j’aurais eu mauvaise grâce à me plaindre.|
-216380|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0354.wav|||Mais, pour Dieu, qu’est-ce qu’il peut bien y avoir là dedans !|
-216381|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0092.wav|||C’est que l’aiguille, au lieu de s’incliner vers le pôle, comme elle le fait dans l’hémisphère boréal, se relève au contraire.|
-216382|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0192.wav|||L’air ne fut donc pas renouvelé à l’intérieur, mais les réservoirs, chargés à toute occurrence, fonctionnèrent à propos et lancèrent quelques mètres cubes d’oxygène dans l’atmosphère appauvrie du Nautilus.|
-216383|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0292.wav|||Le seul parti était de se soumettre ; mais ce qu’on ne devait plus attendre de la force ou de la ruse, j’aimais à penser qu’on pourrait l’obtenir par la persuasion.|
-216384|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0036.wav|||Le Canadien resta quelques instants sans répondre.|
-216385|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0136.wav|||Nab avait alors songé à ses compagnons.|
-216386|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0236.wav|||Je gagerais volontiers que tu te portes bien !|
-216387|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0336.wav|||Azora fit l’éloge du défunt ; mais elle avoua qu’il avait des défauts dont Cador était exempt.|
-216388|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0058.wav|||Même barrière de granit.|
-216389|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0158.wav|||Cador prouva aisément que l’armure appartenait à Zadig.|
-216390|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0258.wav|||Les baleines et moi, nous sommes de vieilles connaissances, et je ne me tromperais pas à leur allure.|
-216391|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0358.wav|||J’aurais voulu l’interroger.|
-216392|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0093.wav|||Ce fut ainsi pendant quelques jours.|
-216393|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0193.wav|||Hans me suivait, précédant mon oncle.|
-216394|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0293.wav|||Alors, que s’est-il passé ? demanda Harbert.|
-216395|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0024.wav|||Mon oncle faisait plus de bruit que de besogne, et le guide paraissait se soucier fort peu de ses recommandations.|
-216396|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0124.wav|||Deux heures plus tard, nous achevions d’en faire le tour.|
-216397|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0224.wav|||Je les interrogeai.|
-216398|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0324.wav|||Cloisons et épontilles étaient brisées comme si quelque formidable obus eût éclaté à l’intérieur du brick.|
-216399|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0072.wav|||L’Abraham Lincoln n’avait rien à se reprocher, ayant tout fait pour réussir.|
-216400|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0172.wav|||C’est ce que fit observer Harbert.|
-216401|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0272.wav|||Nous n’avons que du petit plomb dans nos fusils, et des bêtes qui rugissent si bien s’en soucieraient comme d’un grain de sel !|
-216402|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0053.wav|||Ils formaient des groupes distincts, mâles et femelles, le père veillant sur sa famille, la mère allaitant ses petits, quelques jeunes, déjà forts, s’émancipant à quelques pas.|
-216403|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0153.wav|||Voilà un navire qu’il sera difficile de renflouer !|
-216404|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0253.wav|||Cependant, tel il est, tel ce corps nous racontera sa propre histoire.|
-216405|027-fr|fr|french/siwis/wavs/part2/neut_sus_s11_0025.wav|||Utilisez la longueur ou l'exportation.|
+216325|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0100r.wav|||Désormais elle devra faire des avances à l’État et à la Sécurité sociale.|
+216326|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0200r.wav|||Un point donnera automatiquement lieu à deux points.|
+216327|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0300r.wav|||Dans cette situation, les failles sont certaines et les espoirs, abîmés.|
+216328|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0400r.wav|||Or il s’agit bien, à travers cet article, de nier la famille biologique.|
+216329|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0500r.wav|||Je veux donc apporter tout mon soutien à David Habib.|
+216330|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0600r.wav|||C’est chercher à réduire évasion et niches fiscales.|
+216331|027-fr|fr|french/siwis/wavs/part1/neut_parl_s01_0700r.wav|||Ils savent que votre politique, c’est payer, toujours payer et encore payer.|
+216332|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0069r.wav|||Là où vous criez au succès il n’y a au fond que des échecs.|
+216333|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0169r.wav|||Il y a donc, monsieur Vercamer, plus qu’une nuance entre les deux amendements.|
+216334|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0269r.wav|||Ils sont le pendant du mandat d’arrêt européen.|
+216335|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0369r.wav|||Celui du Royaume-Uni prône une durée de travail plus longue.|
+216336|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0469r.wav|||Ce n’est pas un sujet qui tombe du ciel.|
+216337|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0569r.wav|||Ce n’est pas ce que nous attendions.|
+216338|027-fr|fr|french/siwis/wavs/part1/neut_parl_s02_0669r.wav|||On compte sept cents cinquante branches professionnelles en France.|
+216339|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0011r.wav|||Et les chasseurs ont un rôle à jouer.|
+216340|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0111r.wav|||Un monologue, pas un débat !|
+216341|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0211r.wav|||À cette fin, deux dispositifs cohabitent actuellement.|
+216342|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0311r.wav|||Qu’elle soit au moins ouverte : c’est un acquis ancien.|
+216343|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0411r.wav|||Comme nous le remarquions avec mes collègues lors de la pause, il y a tout dans ce texte…|
+216344|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0511r.wav|||Il est temps d’écouter sa voix, notamment pour la gauche européenne.|
+216345|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0611r.wav|||C’était en effet tout à fait judicieux.|
+216346|027-fr|fr|french/siwis/wavs/part1/neut_parl_s03_0711r.wav|||Elle a affaibli son influence en Europe et dans le monde.|
+216347|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0063r.wav|||Ils l’ont fait volontairement, mais c’est nous qui aurions dû organiser ce débat…|
+216348|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0163r.wav|||L’absence juridique vous salue !|
+216349|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0263r.wav|||La réponse est-elle oui ou non ?|
+216350|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0363r.wav|||Vous nous dites, monsieur le secrétaire d’État, que Madame Ségolène Royal va réfléchir.|
+216351|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0463r.wav|||Ce n’est pas insignifiant.|
+216352|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0563r.wav|||Comme flux annuel, c’est loin d’être négligeable.|
+216353|027-fr|fr|french/siwis/wavs/part1/neut_parl_s04_0663r.wav|||Dans certains abattoirs, les différences de coût horaire vont du simple au triple.|
+216354|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0018r.wav|||C’est sur le taux intermédiaire que nous demandons un effort aux Français.|
+216355|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0118r.wav|||Pour résoudre le problème des algues vertes, il faut désormais que les actes suivent.|
+216356|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0218r.wav|||En tant que législateurs, nous devons défendre la langue française.|
+216357|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0318r.wav|||Je suis saisi d’un amendement numéro deux mille cinq cents quatre-vingt huit.|
+216358|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0418r.wav|||Monsieur Fabius a en partie répondu à cette question en commission élargie.|
+216359|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0518r.wav|||Je rends hommage au ministère pour cette initiative.|
+216360|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0618r.wav|||On ne peut pas dire que la droite, sur cette question, manque de cohérence.|
+216361|027-fr|fr|french/siwis/wavs/part1/neut_parl_s05_0718r.wav|||Essayons, par la loi, de les régler.|
+216362|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0080r.wav|||Je dirais que c’est un texte d’empêchement.|
+216363|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0180r.wav|||Il faut bien sûr renforcer les services en moyens humains.|
+216364|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0280r.wav|||Soyez précis sur un point.|
+216365|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0380r.wav|||La parole est à Monsieur Christian Jacob pour le groupe de l’Union pour un mouvement populaire.|
+216366|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0480r.wav|||J’insiste toutefois, car ce que vient de préciser le rapporteur est important.|
+216367|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0580r.wav|||Vous n’avez pas de vision globale.|
+216368|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0680r.wav|||Pour Monsieur Le Roux, qui l’a déclaré publiquement, c’est tout le contraire.|
+216369|027-fr|fr|french/siwis/wavs/part1/neut_parl_s06_0780r.wav|||Enfin, c’est un encouragement pour l’avenir.|
+216370|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0100r.wav|||L’important est que ces pirates aient été exterminés !|
+216371|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0200r.wav|||À ce sujet, l’ingéniosité de Cyrus Smith fut en défaut.|
+216372|027-fr|fr|french/siwis/wavs/part2/neut_book_s01_0300r.wav|||Mon agitation redoublait.|
+216373|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0023r.wav|||Mais il était seul ! Ni son maître, ni Nab ne l’accompagnaient !|
+216374|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0123r.wav|||Eh ! Pencroff, dit Nab d’un ton un peu sarcastique, si c’est là tout le gibier que vous avez promis de rapporter à mon maître, il ne faudra pas grand feu pour le faire rôtir !|
+216375|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0223r.wav|||Il fallait donc ne s’aventurer qu’avec une certaine prudence.|
+216376|027-fr|fr|french/siwis/wavs/part2/neut_book_s03_0323r.wav|||Et, n’ayant plus Bob Harvey pour manœuvrer, ils se sont échoués sur les roches, et l’embarcation a été entièrement brisée !|
+216377|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0054r.wav|||Le mot  förlorad  revint encore à mon oreille ; puis ce roulement de tonnerre qui m’avait tiré de ma torpeur.|
+216378|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0154r.wav|||Nous descendîmes rapidement la montagne.|
+216379|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0254r.wav|||Il faut l’avouer, les choses jusqu’ici se passaient bien, et j’aurais eu mauvaise grâce à me plaindre.|
+216380|027-fr|fr|french/siwis/wavs/part2/neut_book_s04_0354r.wav|||Mais, pour Dieu, qu’est-ce qu’il peut bien y avoir là dedans !|
+216381|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0092r.wav|||C’est que l’aiguille, au lieu de s’incliner vers le pôle, comme elle le fait dans l’hémisphère boréal, se relève au contraire.|
+216382|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0192r.wav|||L’air ne fut donc pas renouvelé à l’intérieur, mais les réservoirs, chargés à toute occurrence, fonctionnèrent à propos et lancèrent quelques mètres cubes d’oxygène dans l’atmosphère appauvrie du Nautilus.|
+216383|027-fr|fr|french/siwis/wavs/part2/neut_book_s05_0292r.wav|||Le seul parti était de se soumettre ; mais ce qu’on ne devait plus attendre de la force ou de la ruse, j’aimais à penser qu’on pourrait l’obtenir par la persuasion.|
+216384|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0036r.wav|||Le Canadien resta quelques instants sans répondre.|
+216385|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0136r.wav|||Nab avait alors songé à ses compagnons.|
+216386|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0236r.wav|||Je gagerais volontiers que tu te portes bien !|
+216387|027-fr|fr|french/siwis/wavs/part2/neut_book_s06_0336r.wav|||Azora fit l’éloge du défunt ; mais elle avoua qu’il avait des défauts dont Cador était exempt.|
+216388|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0058r.wav|||Même barrière de granit.|
+216389|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0158r.wav|||Cador prouva aisément que l’armure appartenait à Zadig.|
+216390|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0258r.wav|||Les baleines et moi, nous sommes de vieilles connaissances, et je ne me tromperais pas à leur allure.|
+216391|027-fr|fr|french/siwis/wavs/part2/neut_book_s07_0358r.wav|||J’aurais voulu l’interroger.|
+216392|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0093r.wav|||Ce fut ainsi pendant quelques jours.|
+216393|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0193r.wav|||Hans me suivait, précédant mon oncle.|
+216394|027-fr|fr|french/siwis/wavs/part2/neut_book_s08_0293r.wav|||Alors, que s’est-il passé ? demanda Harbert.|
+216395|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0024r.wav|||Mon oncle faisait plus de bruit que de besogne, et le guide paraissait se soucier fort peu de ses recommandations.|
+216396|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0124r.wav|||Deux heures plus tard, nous achevions d’en faire le tour.|
+216397|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0224r.wav|||Je les interrogeai.|
+216398|027-fr|fr|french/siwis/wavs/part2/neut_book_s09_0324r.wav|||Cloisons et épontilles étaient brisées comme si quelque formidable obus eût éclaté à l’intérieur du brick.|
+216399|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0072r.wav|||L’Abraham Lincoln n’avait rien à se reprocher, ayant tout fait pour réussir.|
+216400|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0172r.wav|||C’est ce que fit observer Harbert.|
+216401|027-fr|fr|french/siwis/wavs/part2/neut_book_s10_0272r.wav|||Nous n’avons que du petit plomb dans nos fusils, et des bêtes qui rugissent si bien s’en soucieraient comme d’un grain de sel !|
+216402|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0053r.wav|||Ils formaient des groupes distincts, mâles et femelles, le père veillant sur sa famille, la mère allaitant ses petits, quelques jeunes, déjà forts, s’émancipant à quelques pas.|
+216403|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0153r.wav|||Voilà un navire qu’il sera difficile de renflouer !|
+216404|027-fr|fr|french/siwis/wavs/part2/neut_book_s11_0253r.wav|||Cependant, tel il est, tel ce corps nous racontera sa propre histoire.|
+216405|027-fr|fr|french/siwis/wavs/part2/neut_sus_s11_0025r.wav|||Utilisez la longueur ou l'exportation.|
 216406|000-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0088.wav|||tīngshuō xīyáng shì bù hěn xǐhuān hēimāo de， bù zhīdào kěquè;|
 216407|000-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0825.wav|||dōngjīng yě wúfēi shì zhèyáng。 shàngyě de yīnghuā lànmàn de shíjié， wàngqù què yě xiàng fēihóng de qīngyún，|
 216408|000-zh|zh|chinese/call_to_arms/call_to_arms_0907.wav|||nà háizǐ què hàixīu， jǐnjǐn de zhǐ tiē zài tā bèihòu。 tā jìushì shǔishēng? dìwǔgè?|

@@ -110,7 +110,7 @@ for d, fs in siwis:
             for char in bad:
                 line[1] = line[1].replace(char, "")
             trans = line[1].strip()
-            new_stuff = [0, "027-fr", "fr", "french/siwis/wavs/part" + str(part) + "/" + line[0].split('.')[0] + ".wav", "", "", trans, ""]
+            new_stuff = [0, "027-fr", "fr", "french/siwis/wavs/part" + str(part) + "/" + line[0].split('.')[0] + "r.wav", "", "", trans, ""]
             if (cntr % 100 == 0):
                 metadata[1][2].append(new_stuff)
             else:
