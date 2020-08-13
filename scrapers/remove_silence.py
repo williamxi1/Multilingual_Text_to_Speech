@@ -44,7 +44,7 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
     return trimmed_sound
 
 
-os.chdir('../data/css10/spanish/slr75')
+os.chdir('../data/css10/french/siwis/wavs')
 
 speakers = str(subprocess.check_output(['ls']))
 speakers = speakers[2:-3].split('\\n')
