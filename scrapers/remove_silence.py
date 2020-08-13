@@ -44,19 +44,21 @@ def remove_silence(sound, silence_threshold=-40.0, chunk_size=150):
     return trimmed_sound
 
 
-#os.chdir('/mnt/c/Users/william.xi/Desktop/p316')
+os.chdir('../data/css10/english/VCTK-Corpus/wavs')
 
-os.chdir('data/css10/chinese/data_thchs30/data')
-wavs = str(subprocess.check_output(['ls']))
-wavs = wavs[2:-3].split('\\n')
-for wav in wavs:
-    print("Trimming: ", wav)
-    sound = AudioSegment.from_file(wav, format="wav")
-    trimmed_sound = remove_silence(sound)
-    trimmed_sound.export(wav, format="wav")
-    print(len(sound), len(trimmed_sound))
-
-
+speakers = str(subprocess.check_output(['ls']))
+speakers = speakers[2:-3].split('\\n')
+for speaker in speakers:
+    os.chdir(speaker)
+    wavs = str(subprocess.check_output(['ls']))
+    wavs = wavs[2:-3].split('\\n')
+    for wav in wavs:
+        print("Trimming: ", wav)
+        sound = AudioSegment.from_file(wav, format="wav")
+        trimmed_sound = remove_silence(sound)
+        trimmed_sound.export(wav, format="wav")
+        print(len(sound), len(trimmed_sound))
+    os.chdir('..')
 
 
 

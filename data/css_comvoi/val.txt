@@ -1,656 +1,458 @@
-003115|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0145.wav|||Dit boek was nog al in den smaak der geleerden gevallen, en verhief mij tot eene specialiteit in dat vrij onbekende deel der natuurlijke geschiedenis.|
-047685|09-ru|ru|../css10/russian/icemarch/icemarch_0302.wav|||Около нашего вагона подполковник К-ой. Его провожает молодая женщина с добрым, хорошим лицом.|
-002189|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0373.wav|||háizǐ men suǒ pànwàng de， guònián guòjié zhīwài， dàgài yàoshù yíngshénsàihùi de shíhòu le。 dàn wǒjiā de suǒzài hěn piānpì，|
-022201|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2400.wav|||Du reste je prends toujours la précaution de pousser le verrou de cette seconde porte, laquelle communique avec l'antichambre.|
-002321|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18705336.wav|||Sie wollen mich wohl auf die Schippe nehmen!|
-003003|26-de|de|../comvoi_clean/de/wavs/26/common_voice_de_18703363.wav|||Wenn die Herdplatte warm wird, sollte man die Finger davon lassen.|
-011356|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18853496.wav|||Когда я учился в университете, это было очень тяжелое время.|
-001833|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233008.wav|||Keine dieser Behauptungen lässt sich unabhängig überprüfen.|
-004659|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366121.wav|||Hält dieser Zug auch am Hauptbahnhof?|
-001555|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860715.wav|||Sogar ein chemisches Element wurde nach Darmstadt benannt.|
-004804|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18203375.wav|||Du meinst Heuschrecken und Mehlwürmer?|
-015183|00-fr|fr|../css10/french/lesmis/lesmis_0877.wav|||Les grilles fermées ne donnent pas congé aux inspecteurs, la surveillance est censée continuer, mais elle s'amollit et se repose;|
-001721|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1721.wav|||chīfàn zhīhòu， kànguò xì de shǎonián men yě dū jùlǒng lái le， gāogāoxīngxīng de láijiǎng xì。 zhǐyǒu wǒ bù kāikǒu;|
-003721|33-de|de|../comvoi_clean/de/wavs/33/common_voice_de_18360177.wav|||Kathmandu ist die Hauptstadt von Nepal.|
-000025|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0025.wav|||yīyáng shì qiángzhuàng de tǐgé， ér xiǎnchū mámù de shénqíng。|
-008893|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778371.wav|||L'alcool et le tabac, c’est un problème tout à fait différent.|
-024276|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1320.wav|||Nun wünsche du, mein Kind, was du gemalt haben willst! sagte der Kaiser zur zweitältesten Prinzessin.|
-021677|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1876.wav|||à l'extrémité d'un petit quai, au bord duquel s'allongeait un yacht sobre et robuste de lignes, et dont la cheminée lançait des volutes de fumée noire.|
-017500|00-fr|fr|../css10/french/lesmis/lesmis_3194.wav|||entièrement vêtu de noir et de neuf et en cravate blanche. Le portier était à mille lieues de reconnaítre dans ce bourgeois correct,|
-018425|00-fr|fr|../css10/french/lesmis/lesmis_4119.wav|||Vous n'oubliez pas que vous avez votre chambre ici. Nous ne voulons plus de la rue de l'Homme-Armé. Nous n'en voulons plus du tout.|
-014680|02-zh|zh|../comvoi_clean/zh/wavs/02/common_voice_zh-CN_18592905.wav|||yīxiē fùjìn de jūmín pá shàng jiào gāo de shùmù ér táoguò le hǎixiào。|
-029741|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_1076.wav|||kam ihm nicht wie sonst Ulla freundlich entgegen. Mit niedergeschlagenem Blick und,|
-049986|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_0687.wav|||Куда ж теперь идёшь? Не могу знать, ваше благородие. Как так, дурак, не можешь знать?|
-002090|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211934.wav|||Seither gibt es bei ihm nur noch Trennkost.|
-007627|10-fr|fr|../comvoi_clean/fr/wavs/10/common_voice_fr_18864540.wav|||Quel stupide animal!|
-010547|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906163.wav|||Mijn vader zijn haar is helemaal grijs geworden.|
-001831|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233006.wav|||Die Mission war ein kompletter Fehlschlag.|
-025894|00-de|de|../css10/german/meisterfloh/meisterfloh_0311.wav|||das Sie mit edlem Sinn, mit zartem innigem Gemüt frommen Kindern bereitet, lassen Sie mich auch etwas dazu beitragen.|
-009421|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_6451.wav|||Verschrikkelijker naam in vreeselijker toestand kon ons zeker niet in de ooren klinken. Waren wij dan op die gevaarlijke plek aan de kust van Noorwegen?|
-000979|11-de|de|../comvoi_clean/de/wavs/11/common_voice_de_18737574.wav|||Die Teufelsaustreibung hat nicht gewirkt.|
-005410|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771301.wav|||Als Linksfuß hat man im Sport oft Vorteile.|
-011069|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699811.wav|||Dat is mijn favoriete tijdschrift.|
-010678|07-nl|nl|../comvoi_clean/nl/wavs/07/common_voice_nl_17698970.wav|||Zij heeft twee honden thuis.|
-007207|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18295462.wav|||Taisez-vous, ma chère, vous me faites honte, répondait madame Josserand, l'air fâché.|
-003082|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520562.wav|||Diese Leute haben, vorsichtig ausgedrückt, ein nicht mehr zeitgemäßes Frauenbild.|
-052823|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3524.wav|||Солдаты стреляли в кусты, думая задеть его и заставить зареветь,|
-007486|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4516.wav|||naar boven kijkend, meende ik recht boven mijn hoofd een zekeren lichtenden schijn te zien, een soort van schemering, door een rond gat binnenvallend.|
-016889|00-fr|fr|../css10/french/lesmis/lesmis_2583.wav|||Le portier se montra à demi, bâillant, vaguement réveillé, une chandelle à la main. Tout dormait dans la maison.|
-002890|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_1074.wav|||wǒ xiànzài xuǎnqǔ le sānzhǒng bùtóng de biāoběn， héchéng dìèr tú。 shàngfāng de shì bǎixiàotú zhōng de yībùfēn， chéncūnhé yúntī huà de，|
-043877|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_0295.wav|||Люди трудились над украшением этого здания, а затем потрудилась и природа. А когда природа и люди соединяются,|
-009619|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408474.wav|||Tu joues tous les jours.|
-049289|09-ru|ru|../css10/russian/icemarch/icemarch_1906.wav|||строгим, красивым лицом глядя на ротмистра. Он кончил.|
-017444|00-fr|fr|../css10/french/lesmis/lesmis_3138.wav|||Tu avais fait ton petit complot, tu t'étais|
-026793|00-de|de|../css10/german/meisterfloh/meisterfloh_1210.wav|||natürliches weißes Haar und statt des dunkelgrauen Oberrocks einen schönen Zobelpelz,|
-008288|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143298.wav|||Il nous a payé la graine et pis le champagne, pas celui des touristes|
-001575|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1575.wav|||yòu jiāng dà de yě nà jìnxiāng lǐmiàn， lèlìng yīqù bǔrǔ。 sān tàitài cóngcǐ bùdàn shēnhèn hēimāo， érqiě pǒ bù yǐdàtù wèirán le。|
-008289|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143299.wav|||Il ouvrit en grand et s'effaça pour les laisser passer.|
-000928|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0928.wav|||zhè lǎowūlǐ de suǒyǒu pòjìu dàxiǎo cūxì dōngxī， yǐjīng yīsǎoérkōng le。 wǒmen de chuán xiàngqiánzǒu，|
-004581|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229612.wav|||Über Emotionen lassen sich Menschen viel zu leicht manipulieren.|
-010546|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906162.wav|||We hebben in dit land afgesproken dat de arts over het voorschrijven van medicijnen beslist en dat wil ik dat graag zo houden.|
-022526|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2725.wav|||comme pour en dégager le sens. Il insista. Oui. Voici les lettres employées sur ce bout de papier.|
-001036|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18560644.wav|||In einem speziellen Aquarium kann man die Stromstöße von Zitteraalen messen und hörbar machen.|
-009677|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695175.wav|||De treinrit richting Bern was genieten.|
-007624|10-fr|fr|../comvoi_clean/fr/wavs/10/common_voice_fr_18864537.wav|||Je lui écrivis une lettre.|
-027112|00-de|de|../css10/german/meisterfloh/meisterfloh_1529.wav|||widrigem Lächeln fort, sollten Sie, wertester Herr Tyß, denn nicht daß mir meine|
-026329|00-de|de|../css10/german/meisterfloh/meisterfloh_0746.wav|||den sie selbst auf der Guitarre begleitete, der Gesellschaft einen neuen Schwung zu geben. Ihre Stimme war nicht stark,|
-000001|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18362580.wav|||Manila ist die Hauptstadt der Philippinen.|
-008581|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428615.wav|||La fréquentation du restaurant a doublé ce mois-ci.|
-023165|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0209.wav|||sagten die Toten, und ich erwachte wieder. Ich weiß es, ich habe gefrevelt.|
-015008|06-zh|zh|../comvoi_clean/zh/wavs/06/common_voice_zh-CN_18846103.wav|||běijīng guójì túshū bólǎnhùi zǒnggōngsī chéngbàn， shì zhōngguó shíyīwǔ， shíèrwǔ de zhòngyào hùizhǎn xiàngmù。|
-052359|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3060.wav|||нечему было выдыхаться, а просто потеряли для него интерес, раз он понял их.|
-005294|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18639110.wav|||Die Seiten bieten Informationen zum Datenschutz und ein Impressum.|
-017989|00-fr|fr|../css10/french/lesmis/lesmis_3683.wav|||Ces carrossées font des montagnes d'allégresse au milieu de la cohue. Collé, Panard et Piron en découlent, enrichis d'argot.|
-046436|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_2854.wav|||Мне жаль тебя, я не хочу повторять! Ты ей физически противен! Когда ты садишься|
-002611|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0795.wav|||ná zhè piānwénzhāng qù kàn qù， chāoxiàlái qù kàn qù。 yīwèi běnjiā de lǎobèi yánsù dì dùi wǒ shuō，|
-014459|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920553.wav|||Соответственно, Пакистан был вынужден произвести свои испытания в целях восстановления стратегической стабильности в регионе.|
-010050|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18008097.wav|||Ze zeggen dat een duizendtal woorden voldoende is om je in een vreemde taal te behelpen.|
-001605|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1605.wav|||zhǐshì wǒ zǒngyǐwèi méiyǒu chūnhéqīu; dōngmò hé xiàchū xiánjiēqǐlái， xiàcái qù， dōng yòu kāishǐ le。|
-024475|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1519.wav|||Der Biwasee lag wie Öl so glatt, und auch die Luft war wie Öl.|
-008370|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5400.wav|||Ik zou geen woorden kunnen vinden om de prachtige uitwerking der lichtstralen op die grillig gevormde ijsblokken te beschrijven; elke hoek, elke spleet,|
-007034|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084701.wav|||Elle prononçait votre nom!|
-020058|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0257.wav|||Il s'éloignait lentement, le long des magasins, et regardait les étalages. Trop tranquille, le client, disait Ganimard.|
-008286|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143295.wav|||Vous n'avez pas des trucs de prévu, je sais pas, une partie de belote à jouer?|
-003557|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357970.wav|||Manila ist die Hauptstadt der Philippinen.|
-001846|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0030.wav|||jìushì pà yào húnshēn fārè zhīhòu， zuò yīfēngxìn dēng zài bàozhǐ shàng， guǎnggào dào:|
-002949|25-de|de|../comvoi_clean/de/wavs/25/common_voice_de_18629580.wav|||Singen und Wandern passen ideal zusammen.|
-009678|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695178.wav|||Ze heeft prachtige krullen.|
-045291|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1709.wav|||и вдобавок надо было подделываться под печатный курсив, чтобы добрые люди не узнали почерка;|
-007035|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084703.wav|||Chemin de la Melotterie au numéro vingt et un|
-044796|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1214.wav|||Синьор Черноконич был тоже очень доволен и заснул только в антракте.|
-011229|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267183.wav|||Hij had een hart van goud.|
-005562|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685627.wav|||Ich liebe das Feuer auf dem Teller!|
-000347|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0347.wav|||yīzhèn jiǎobù shēngxiǎng， yīzhǎyǎn， yǐjīng yǒngguò le yīdà cùrén。 nà sānsānliǎngliǎng de rén， yě hūrán hézuò yīdūi， cháo yībān xiàng qiánjìn;|
-002273|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0457.wav|||rényī jìnmén， tàzháo huóbǎn de zhè yīduān， sùzài nà yīduān de tà biàn pū guòlái， tiěsuǒ zhèngtào zài nǐ bózǐ shàng。|
-005878|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810154.wav|||Chemin du Houga, Barcelonne-du-Gers|
-049113|09-ru|ru|../css10/russian/icemarch/icemarch_1730.wav|||зовет Таня из крошечного оконца белой хаты. Зашел. Вы у квартирантов остановились, а мы у самой хозяйки,|
-046686|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_3104.wav|||Кадет означало тогда плута - А ты - гобелка,- отвечаю я. А что значит это ругательство, и по сей день не знаю.|
-045569|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1987.wav|||девицы вскипели, я выбежал в переднюю и наткнулся на Зиночку. Я богат!|
-044890|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1308.wav|||Побоялся бы? Отлично. Посмотрим.|
-019763|00-fr|fr|../css10/french/lesmis/lesmis_5457.wav|||Ah! vous aviez les mains rouges dans ce temps-là, mademoiselle, vous les avez bien blanches maintenant. Et la grande poupée! te rappelles-tu?|
-013281|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892570.wav|||Это была крошечная, сухая старушонка, лет шестидесяти.|
-006027|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573211.wav|||Quelle explication positive avez-vous engagée?|
-014945|05-zh|zh|../comvoi_clean/zh/wavs/05/common_voice_zh-CN_18682168.wav|||tā shìtú cóng zhéxué jiǎodù fǎnbó xiāngdùilùn， bìng yǐcǐ fābiǎo duōpiān lùnwén。|
-000417|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0417.wav|||huābái húzǐ de rén shuō， dǎ le zhèzhǒng dōngxī， yǒu shíyāo kělián ní? kāng dàshū xiǎnchū kàn tā bù shàng de yángzǐ， lěngxiào zháo shuō，|
-008159|14-fr|fr|../comvoi_clean/fr/wavs/14/common_voice_fr_18197048.wav|||Ah! les beaux camélias!|
-014627|01-zh|zh|../comvoi_clean/zh/wavs/01/common_voice_zh-CN_18754545.wav|||zài wèizhī chuánrǎnbìng bàofā de qíngkuàng xià， dìyī xiǎngyìngzhě tōngcháng zùixiān bèi chuánrǎn。|
-020631|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0830.wav|||prononça l'inspecteur avec une loyauté qui n'était pas sans quelque mérite, vous avez raison;|
-013771|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18914964.wav|||Из доклада Генерального секретаря видно, что в этом плане уже достигнут определенный прогресс.|
-052749|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3450.wav|||они порывисто метались на своих цепях или грызли их, глухо рыча. Старый Иван стоял возле своего огромного кривого медведя.|
-005651|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2681.wav|||misschien is het wel vergiftigde hagel! Ik zal den kapitein waarschuwen, zeide ik, naar binnengaande.|
-008954|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5984.wav|||ik heb te spreken over een zaak, die geen uitstel lijdt. Welke, mijnheer? vroeg hij op spottenden toon. Hebt gij een ontdekking gedaan, die mij nog ontgaan was?|
-007625|10-fr|fr|../comvoi_clean/fr/wavs/10/common_voice_fr_18864538.wav|||Carfor poussa un soupir et s'évanouit.|
-003006|26-de|de|../comvoi_clean/de/wavs/26/common_voice_de_18703366.wav|||Aufwand und Lerneffekt sollen in einem guten Verhältnis stehen.|
-048175|09-ru|ru|../css10/russian/icemarch/icemarch_0792.wav|||Это поймали молодых солдат, человек двадцать, расстрелять хотели, ну, а полковник тут был, кричит: всыпать им по пятьдесят плетей!|
-047139|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_3557.wav|||до того грустно, что я мысленно разбранил себя. Что такое? Как не стыдно? С одной стороны, мне все-таки пятьдесят два года, и не мог же я влюбиться в эту девочку;|
-000364|04-de|de|../comvoi_clean/de/wavs/04/common_voice_de_18372650.wav|||Dies machte sie noch reicher.|
-000561|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0561.wav|||wǒ zǎojīng shuō guò: tā shì cūbèn nv̌rén。 tā néng xiǎng chū shíyāo ní? tādān juédé zhè wūzǐ tàijìng，|
-008497|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845097.wav|||Il convient en effet de tenir compte des différents modèles d'organisation.|
-004660|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366122.wav|||Die zweite Brücke durfte von jedem überquert werden.|
-008584|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428625.wav|||Ceux-là.|
-013772|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18914965.wav|||А саблю лучше брось.|
-001241|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1241.wav|||tā chúquè gǎnjǐn qù hé jiǎyánggǔizǐ shāngliàng zhīwài， zài méiyǒu biéde dàolù le。 qiánfǔ de dàmén zhèngkāizháo，|
-017396|00-fr|fr|../css10/french/lesmis/lesmis_3090.wav|||Il ne savait ce que Cosette était devenue, toute l'affaire de la rue de la Chanvrerie était comme un nuage dans son souvenir;|
-052334|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3035.wav|||криво усмехнулся одним концом запёкшихся губ и остановился. Зачем трудиться?|
-011228|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267182.wav|||Ze trekken beiden aan het touw.|
-004071|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18208527.wav|||Herr Stolpe ist ein guter Musiklehrer.|
-005208|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2238.wav|||die zich daar bevond, en zeilde naar Vanikoro, dat hij twaalf Februari in het gezicht kreeg; hij zeilde langs de klippen tot den veertienden|
-025703|00-de|de|../css10/german/meisterfloh/meisterfloh_0120.wav|||als sei plötzlich Empfindung und Verstand in ihm erwacht, und zwar zu höherer Lebendigkeit,|
-010048|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18008095.wav|||Mijn ouders wonen dicht bij Hoofddorp.|
-003464|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0494.wav|||de matrozen ontveinsden hunne ontevredenheid niet, en de dienst leed er onder.|
-024634|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1678.wav|||Der König schlummerte ein, und seine Arme ließen im Schlaf die Königin los. Diese richtete sich auf,|
-004500|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432650.wav|||Das entscheiden nicht die Aufsichtsbehörden.|
-014466|00-fr|fr|../css10/french/lesmis/lesmis_0160.wav|||attacha à cette hampe l'habit troué et sanglant du vieillard tué. Aucun repas n'était plus possible. Il n'y avait ni pain ni viande.|
-030090|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_1425.wav|||der sie von ihrem Gemahl getrennt, aus ihrem entfernten Wohnort vertrieben,|
-002093|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211939.wav|||Das unverbrannte Öl wird als Ruß ausgestoßen.|
-009482|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493591.wav|||Ta fille est-elle prévenue?|
-002323|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18705338.wav|||Kalle will alles hinschmeißen und noch mal von vorn beginnen.|
-029963|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_1298.wav|||ja Spukhafte dieser Erscheinung nur im Äußern liege, keinesweges sich aber aus dem Innern heraus offenbare.|
-011285|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700292.wav|||Het is soms moeilijk om haar gedachtegang te volgen.|
-006160|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3190.wav|||Ja, zei ik, het is een treurig ambacht, en dat slechts dient om aan modegrillen te voldoen.|
-004502|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432652.wav|||Obwohl Flori die Route täglich fährt, weiß der die Straßennamen nicht aus dem Kopf.|
-004888|47-de|de|../comvoi_clean/de/wavs/47/common_voice_de_18529003.wav|||Aber im Urlaub kann man mal eine Ausnahme machen.|
-006252|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3282.wav|||Het spijt mij dat ik die dame niet tot vrouw heb, sprak de Amerikaan, terwijl hij zijn arm op weinig dubbelzinnige wijze heen en weer bewoog.|
-003558|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357971.wav|||Die Valenzschale eines Atoms beeinflusst dessen chemische Eigenschaften.|
-008095|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18153477.wav|||Trois quarts d'heure environ avant minuit|
-010676|07-nl|nl|../comvoi_clean/nl/wavs/07/common_voice_nl_17698968.wav|||Je mag niet liegen.|
-007702|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861229.wav|||Inès, la prétendue de votre fils le marquis?|
-000980|11-de|de|../comvoi_clean/de/wavs/11/common_voice_de_18737575.wav|||Versuch macht klug.|
-048516|09-ru|ru|../css10/russian/icemarch/icemarch_1133.wav|||ползет в окна. В комнате те же крики, стоны. Сестра, воды!|
-030280|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_1615.wav|||von der guten Bekanntschaft der Baronesse mit dem Scharfrichtersohn überzeugt worden sein sollten.|
-008895|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778373.wav|||C'est bien votre faute. vous l’avez chassé de chez vous.|
-023299|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0343.wav|||mit karmoisinroten Blumen bestickt, mal fünfzig in weißen Gewändern, mit regenbogenfarbigen Schmetterlingen bestickt,|
-000752|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0752.wav|||kànkè zhōngjiān， bāyī sǎoshì xīncháng zùihǎo de rén， bào zháo yī de liǎngzhōusùi de yífùzǐ， zhèngzài qījīn sǎo shēnbiān kànrènào;|
-008238|15-fr|fr|../comvoi_clean/fr/wavs/15/common_voice_fr_17747480.wav|||Maltenu C'est égal. tout cela est triste. très triste.|
-015561|00-fr|fr|../css10/french/lesmis/lesmis_1255.wav|||D'ailleurs, qu'on ne l'oublie pas, les intérêts sont là, peu amis de l'idéal et du sentimental.|
-047566|09-ru|ru|../css10/russian/icemarch/icemarch_0183.wav|||Заклинский вздрагивает, бледнеет и сам начинает вытаскивать из карманов бумаги.|
-008982|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_6012.wav|||hetzij dit komt van een vriend of van een vijand. Welnu, het is dit gevoel, dat wij vreemd zijn aan al wat u betreft,|
-002892|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_1076.wav|||zhōngjiān de yīxiǎokuài shì wǒ cóng zhíběi lǐxítóng huà de èrshísìxiào túshī hékān shàngmiáo xiàlái de，|
-007419|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4449.wav|||het vrome Eusebes uit, wier reusachtige inwoners eeuwen lang leefden en die kracht genoeg bezaten om deze rotsblokken op elkander te stapelen,|
-015958|00-fr|fr|../css10/french/lesmis/lesmis_1652.wav|||là, le trognon de pomme qui a eu des opinions littéraires redevient le trognon de pomme; l'effigie du gros sou se vert-de-grise franchement,|
-001034|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18560640.wav|||Herzlich willkommen!|
-005565|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685630.wav|||Eine Methodik und so weiter und so weiter, et cetera, et cetera.|
-022616|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2815.wav|||Alors il se jeta à genoux et tâcha de rattraper un des avirons afin de gagner le bord,|
-006821|05-fr|fr|../comvoi_clean/fr/wavs/05/common_voice_fr_18279392.wav|||quarante-quatre BIS rue Couleau, vingt-quatre mille six cents Ribérac|
-008660|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18072564.wav|||Toutefois, je conviens qu'il ne s’agit pas de tout concentrer à Strasbourg.|
-001249|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1249.wav|||wǒyào tóu gǔnchūqù! yáng xiānshēng yángqǐ kūsāngbàng lái le。|
-002947|25-de|de|../comvoi_clean/de/wavs/25/common_voice_de_18629578.wav|||Ich trage gerne meine Armbanduhr.|
-001884|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0068.wav|||yàoshuō dé kěkào yīdiǎn， huòzhě dǎobùrúshuō bùguò yīnwèi tāmen pèihé shíhòu de háojiào， shǒuxù jìngyǒu zhèyāo fánzhòng，|
-005292|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18639103.wav|||Magnetfeld und Atmosphäre schützen das Leben auf der Erde.|
-011358|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18853498.wav|||Это первое замечание.|
-003785|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0815.wav|||Koenraad, die langs den tegenovergestelden kant had rondgetast, kwam weder bij mij, waaruit het ons bleek dat de hut zoo wat twintig voet lang en tien voet breed zijn moest.|
-014692|00-fr|fr|../css10/french/lesmis/lesmis_0386.wav|||Citoyens, quoi qu'il arrive aujourd'hui, par notre défaite aussi bien que par notre victoire, c'est une révolution que nous allons faire.|
-025130|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2174.wav|||Wie ein langer weißer Kreideblock liegt dort ein weißer eiserner Orientdampfer|
-010737|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735415.wav|||Ze was onoverwinnelijk.|
-001892|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0076.wav|||bàiláibàiqù， jìu shízú bài le sāntiān， huán yìnyǒu yīběn hóng miànzǐ de hūnlǐ jiéwén，|
-001101|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1101.wav|||tā zuò qǐshēn， yīmiàn shuōdào， māmā de tā qǐlái zhīhòu， yě réngjìu zài jiēshàng guàng，|
-008094|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18153476.wav|||Il passa par la cour mais elle était défendue par une porte à code.|
-008287|16-fr|fr|../comvoi_clean/fr/wavs/16/common_voice_fr_18143297.wav|||Lui prenant le menton.|
-005080|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2110.wav|||Bij eene laatste stuiptrekking had zij haar kind nog opgeheven, doch het arme kleine wicht hield de armpjes om den hals der moeder geslagen.|
-006885|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863673.wav|||Il lui tendit la main en ajoutant: Il était à toi aussi bien qu'à moi.|
-004501|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432651.wav|||Hierbei handelt es sich um eine Angelegenheit der nationalen Sicherheit!|
-013415|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875158.wav|||Особое внимание в рамках нашей международной поддержки должно уделяться образованию.|
-000488|05-de|de|../comvoi_clean/de/wavs/05/common_voice_de_18689437.wav|||Was mit öffentlichen Geldern finanziert wurde, sollte auch öffentlich verfügbar sein.|
-005291|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18639102.wav|||Auf eine fruchtbare Zusammenarbeit!|
-010736|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735398.wav|||Zij heeft miljoenen verdient door op de beurs te spelen.|
-002970|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_1154.wav|||zhè yīdiǎn hòujì yě huò zuò huò chuòdì jīhū zuò le liǎnggè yuè。 tiānrè rúcǐ， hànlíujiábèi， shì yì bù kěyǐ yǐhū:|
-011284|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700291.wav|||Helaas is de dodo nu uitgestorven.|
-006365|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3395.wav|||Ik naderde dit bewonderenswaardig weekdier;|
-002091|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211936.wav|||Also erwarte keine Wunder.|
-000219|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18366781.wav|||Antarktika ist der südlichste Kontinent der Erde.|
-045077|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1495.wav|||я с детства пописывал; рассказ напечатали, потом повесть, потом я попал в нашу газету,|
-008582|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428617.wav|||Plus vite! On t'attend depuis dix minutes!|
-010119|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17708498.wav|||Ik woon liever op het platteland dan in stedelijk gebied.|
-023484|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0528.wav|||Wir sind auf der Höhe von Karasaki, Herr, antwortete das Mädchen.|
-049099|09-ru|ru|../css10/russian/icemarch/icemarch_1716.wav|||отвечает хозяйка каким-то безразличным голосом. Мужа? где же его?|
-005122|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18204884.wav|||Falls Sie ihr Fahrzeug verkaufen wollen, rufen Sie mich bitte an.|
-000708|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18423258.wav|||Vielleicht kommt Rosanna und ganz vielleicht bringt sie noch Lieselotte mit.|
-014457|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920551.wav|||Необходимо совершенно точно установить, кто несет ответственность за происходящее.|
-003632|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634027.wav|||Ja, wenn es um seine Gartenzwerge geht, ist Herr Scholz immer sehr empfindlich.|
-016555|00-fr|fr|../css10/french/lesmis/lesmis_2249.wav|||qui fait rentrer lentement l'homme dans la terre en lui laissant tout le temps de regarder l'horizon, les arbres, les campagnes vertes,|
-046785|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_3203.wav|||Однажды, в ранней юности, уже было собрались, даже денег скопили по сорока рублей в том возрасте этого хватило бы хоть на край света,|
-002867|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_1051.wav|||ǒuyǒu shāshēnchéngrén shèshēngqǔyì de， běnrén yěxǔ máng dé bùxiá jiǎndiǎn， ér huózháo de pángguānzhě zǒnghùi jiāyǐ miánmì de yánjīu。|
-006026|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573210.wav|||Il paraít que si l'on rêve assez fort, le songe déforme la réalité.|
-014630|01-zh|zh|../comvoi_clean/zh/wavs/01/common_voice_zh-CN_18754548.wav|||chéngbāng shì qián gēlúnbù shíqī yǔ xībānyá zhēngfú shíqī， āzītèkè wénmíng de zhèngzhì shítǐ。|
-023390|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0434.wav|||dann war immer Kiris trostlosester Tag gewesen. Auf ihrer Strandhütte zappelte nur ein einziger Fisch,|
-005117|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2147.wav|||Toen de Nautilus weder op de oppervlakte kwam, kon ik het lage en boschrijke eiland Clermont Tonnerre in zijn geheelen omvang zien.|
-005018|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293452.wav|||Bei der Hitze schwitzt man so stark, dass einem die Sonnencreme ins Auge läuft.|
-052781|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3482.wav|||И любил я тебя крепко и не бил больно, а если виноват в чём перед тобою, прости меня,|
-000550|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18357189.wav|||Tiflis ist die Hauptstadt von Georgien.|
-000910|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390594.wav|||In nur wenigen Städten sind so viele alte Gebäude erhalten geblieben.|
-045234|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1652.wav|||И я до сих пор слышу, как Нинка кричит мне, пока мой вагон приближается к ней. Скорей, папа, а то поезд стоит одну минуту!|
-009430|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771125.wav|||Il n'avait jamais vu pareille pancarte.|
-001436|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1436.wav|||wǒ xiǎng， guò le jié， dào le chūbā， wǒmen dǎobùrú qù mǎi yīzhāng cǎipiào|
-005606|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2636.wav|||Gedurende al den tijd, dat het lage tij duurde, zwierven de inboorlingen in de nabijheid van de Nautilus, maar zij maakten geen geraas.|
-051766|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_2467.wav|||Солнце заходит и бросает косую жёлтую полосу света сквозь пыльные стёкла на мольберт, завешенный холстом.|
-017471|00-fr|fr|../css10/french/lesmis/lesmis_3165.wav|||Mon père! Quoi? Pourquoi pas aujourd'hui? Eh bien, aujourd'hui. Va pour aujourd'hui.|
-013414|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875156.wav|||В моем списке еще есть ораторы.|
-048383|09-ru|ru|../css10/russian/icemarch/icemarch_1000.wav|||Ты какой комиссар был? спрашивает офицер одного из них. Я, товарищ.|
-000912|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390596.wav|||Zweitens mussten die Minen aufgegeben werden.|
-050983|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_1684.wav|||Что она чувствовала при виде этого человека, валявшегося у неё в ногах и просившего у неё любви? Жалость, презрение?|
-008719|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5749.wav|||Ik verzocht Ned dus mij eerst eens te laten nadenken, voordat ik handelde.|
-009432|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771127.wav|||Élodie s'essuyait la bouche à son mouchoir.|
-002802|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0986.wav|||dìyīgè wèntí shì: shōubùshōu? juéyì yuē: shōu。 dìèrgè wèntí shì: shōu le zhīhòu mà bù mà? juéyì yuē: mà。|
-000489|05-de|de|../comvoi_clean/de/wavs/05/common_voice_de_18689438.wav|||Mitbewohner mit Putzfimmel werden toleriert, solange sie nicht eben diesen von anderen erwarten.|
-003720|33-de|de|../comvoi_clean/de/wavs/33/common_voice_de_18360176.wav|||Gibt es einen Stau auf dem Weg zur Arbeit?|
-051870|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_2571.wav|||или, может быть, всё осталось в Вене. Правда, кутнули вчера порядочно; было очень весело; мы с Рябининым пили брудершафт.|
-000002|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18362581.wav|||In der Sonne trocknet nasse Kleidung besonders schnell.|
-002211|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0395.wav|||guò le xǔjǐu， gāozhào dào le， cháng zhúgān jiēqǐ yītiáo hěncháng de qí， yīgè hànlíujiábèi de pàng dàhàn yòng liǎngshǒu tuōzháo;|
-008092|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18153474.wav|||Eh ben, il ne se gêne guère, le voisin du second!|
-048304|09-ru|ru|../css10/russian/icemarch/icemarch_0921.wav|||с трудом положили мы тело поперек седла, и, поддерживая его, я повел коня к станице.|
-052168|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_2869.wav|||и жена, и тётка Парасковья, и ребятишки. И понимает он, что хотя они стоят вместе со всеми, но уже мёртвые,|
-011067|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699809.wav|||Zij gooit de handdoek in de ring.|
-009679|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695179.wav|||Het Nederlands telt behoorlijk wat spreekwoorden en uitdrukkingen.|
-005879|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810156.wav|||Le Prince, de Machiavel!|
-016831|00-fr|fr|../css10/french/lesmis/lesmis_2525.wav|||Jean Valjean reconnut Javert. Le lecteur a deviné sans doute que le traqueur de Thénardier n'était autre que Javert.|
-011153|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722677.wav|||Hij heeft niet veel gevoel voor humor maar hij probeert toch vaak grappen te maken.|
-029264|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0599.wav|||der ohne Ursache in das Kapitel von Klubs und Ressourcen gerät, sich über Gebühr ereifernd,|
-009117|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239422.wav|||Tout cela, c'est du temps de parole perdu! Je voudrais répondre à Sergio Coronado.|
-004362|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224269.wav|||Übergang zu allen U- und S-Bahnlinien sowie zum Regional- und Fernverkehr.|
-016100|00-fr|fr|../css10/french/lesmis/lesmis_1794.wav|||et, créant partout des lignes nouvelles, il poussait l'égout, en neuf, sous la rue Saint-Denis jusqu'à la fontaine des Innocents;|
-027469|00-de|de|../css10/german/meisterfloh/meisterfloh_1886.wav|||wie sie an den seligen Herrn Tyß, an das schöne Leben, das sonst im Hause geführt worden, gedacht,|
-013282|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892571.wav|||Она врет, бессовестная! бросая на Татьянку сердитый взгляд, воскликнул оскорбленный Коля.|
-014787|03-zh|zh|../comvoi_clean/zh/wavs/03/common_voice_zh-CN_18646942.wav|||kēdíěr shì yīgè wèiyú měiguó qiáozhìyàzhōu kèlǐsī pǔxiàn de chéngshì。|
-010117|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17708496.wav|||Heb jij ooit yoga gedaan?|
-011226|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267180.wav|||De typemachine werd eigenlijk nooit meer gebruikt.|
-002092|21-de|de|../comvoi_clean/de/wavs/21/common_voice_de_18211937.wav|||Bitte tu das nicht!|
-024016|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1060.wav|||Die große Harfe des Biwasees hat unter dem sonnigen Himmel ihre Wasserstimme eingetauscht gegen die Skala der Menschenstimme.|
-001825|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0009.wav|||kànkàn lvyè， biānbiān jìugǎo， zǒngsuàn yě zài zuò yīdiǎn shì。 zuò zháo zhè děng shì， zhēnshì sūishēng zhī rì， yóusǐ zhī nián，|
-001068|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1068.wav|||tā dùiyú yǐwèi yīdìng xiǎng yǐnyòu yě nánrén de nv̌rén， shícháng líuxīn kàn， ránér yībìng bù dùi tā xiào。|
-007036|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084704.wav|||Les preneurs y furent pris.|
-004890|47-de|de|../comvoi_clean/de/wavs/47/common_voice_de_18529005.wav|||Ihr beide schwebt ja regelrecht auf Wolke sieben.|
-044875|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1293.wav|||Мандрони поблагодарил его, а Ницца молча сидела на альмавиве поэта и смотрела на темно-синюю воду.|
-015134|07-zh|zh|../comvoi_clean/zh/wavs/07/common_voice_zh-CN_18775181.wav|||yīcì hùi shēng liǎnggè dàn。|
-002776|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0960.wav|||guānlì zài yīxiāng zhōng fānláifānqù， hūrán fān chū yīshuāng xìuhuā de gōngxié lái， biàn fàngxià gōngshì， ná zháo zǐ xìdì kàn。|
-010422|04-nl|nl|../comvoi_clean/nl/wavs/04/common_voice_nl_18646323.wav|||Hij liep op de puntjes van zijn tenen.|
-000982|11-de|de|../comvoi_clean/de/wavs/11/common_voice_de_18737577.wav|||Das Projekt kommt nur schleppend voran.|
-015010|06-zh|zh|../comvoi_clean/zh/wavs/06/common_voice_zh-CN_18846105.wav|||bājīsītǎnzhèngfǔ qiǎnzé xíjí， dàn fǒurèn yǔ xíjí shìjiàn yǒuguān。|
-014678|02-zh|zh|../comvoi_clean/zh/wavs/02/common_voice_zh-CN_18592903.wav|||hāsēn shì yīgè wèiyú měiguó ākěnsèzhōu pǔléilǐ xiàn de chéngshì。|
-008661|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18072565.wav|||Que Dieu soit bénit!|
-000996|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0996.wav|||ránhòu liànliàn de húidào tǔgǔcí， dìèrtiān， zhǒngzháo yǎnjīng qù gōngzuò。 dàn zhēn suǒwèi sāiwēngshīmǎ ānzhīfēifú bà，|
-014785|03-zh|zh|../comvoi_clean/zh/wavs/03/common_voice_zh-CN_18646940.wav|||zìcǐ kāishǐ zhōng miǎn biānjiè shǐ jiànyú guójì zhāngyuē。|
-005970|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3000.wav|||Het lijk in een wit kleed gehuld werd in zijn vochtig graf nedergelegd. De kapitein kruiste de armen over de borst|
-051938|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_2639.wav|||добродушно и звонко закатился полковник; потом, обратись к Никите, прибавил спокойным тоном: Через неделю явись. Следующий,|
-003773|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326525.wav|||Trink das nicht, der Typ da hat irgendetwas reingekippt.|
-022463|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2662.wav|||Nous verrons alors ce qui se passera. Ils montèrent. Une porte à deux battants s'offrait à gauche du palier. Ganimard sonna.|
-006884|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863672.wav|||La procédure judiciaire de recueil des témoignages se trouve ainsi sécurisée.|
-004073|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18208529.wav|||Ein Baum ist auf die Oberleitung gestürzt.|
-000222|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18366784.wav|||Hargeysa ist die Hauptstadt von Somaliland.|
-004657|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366119.wav|||Die Preise für Solarenergie sind in den letzten Jahren gesunken.|
-002637|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18765671.wav|||Du zuerst.|
-024971|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2015.wav|||Blitz um Blitz blendete sie, daß sie sich von der Türe weg gegen die Gesichter der Menschen wenden mußte,|
-010118|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17708497.wav|||De fotograaf heeft een pasfoto gemaakt.|
-029115|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0450.wav|||der Sitte Spiegel und der Bildung Muster, das Merkziel der Betrachter, ganz, ganz hin|
-014725|00-fr|fr|../css10/french/lesmis/lesmis_0419.wav|||Il n'y eut pas d'applaudissements; mais on chuchota longtemps. La parole étant souffle,|
-001554|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860714.wav|||Auf Grundnahrungsmittel zahlt man nur sieben Prozent Mehrwertsteuer.|
-005121|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18204883.wav|||Das Gebläse wird in der Regel von den ausströmenden Abgasen angetrieben.|
-003080|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520559.wav|||Jessica, das war spitze!|
-009115|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239420.wav|||Pourquoi pas?|
-000838|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717259.wav|||Nimm einfach diesen Stoffbeutel.|
-000287|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0287.wav|||bùnéng xiě bà? wǒ jiàogěi nǐ， jìzháo! zhèxiē zì yìnggāi jìzháo。 jiānglái zuò zhǎnggùide shíhòu， xiězhàng yào yòng。|
-005120|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18204882.wav|||Und schließlich gab es selbstlenkende Geschosse.|
-009116|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239421.wav|||Rue Heitzler René, cinquante-sept, trois cent quarante Morhange|
-021767|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1966.wav|||Tout est à recommencer, Dubreuil et sur un nouveau modèle, évidemment, car il ne faut jamais se répéter.|
-020291|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0490.wav|||et la grille ne s'ouvrait pas du dehors. D'autre part, il était inutile de sonner puisqu'il n'y avait personne dans l'hôtel.|
-002322|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18705337.wav|||Heute war ich unterwegs und habe Brennesseln gesucht.|
-007326|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652868.wav|||Lui-même, ne le viseraient-ils pas comme traítre?|
-000278|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0278.wav|||nǐ zěn de lián bàngè xìucái yě lāo bùdào ní?|
-007839|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4869.wav|||Wat mij aangaat, zei hij, ik heb ook eens een slag van een walvischstaart gehad, maar. in mijn sloep, dat spreekt.|
-004805|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18203399.wav|||Was man hier vorfindet, eignet sich höchstens dazu, die Speichen zu verbiegen.|
-010735|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735394.wav|||De ruwe OSB-platen waren afgewerkt met een laagje fineer.|
-008495|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845095.wav|||Il s'enfermait, forgeait des armes, battait le fer jusqu'à n'en pouvoir plus.|
-011355|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18853495.wav|||Пятьдесят семь миллиардов тридцать восемь миллионов триста двадцать три тысячи пятьсот девяносто один.|
-011456|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877246.wav|||Во дворе опять остался только один малыш.|
-006666|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3696.wav|||Een onderzeesche tunnel! riep hij uit, een gemeenschap tusschen de beide zee n! Wie heeft daar ooit van gehoord? Vriend Ned,|
-001474|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1474.wav|||zùixiān jìu jué le rénshēng， jiēzháo shì lùxù de xí le dēnghuǒ， dúyǒu yuèliàng， què huǎnhuǎnde chūxiàn zài hányè de kōngzhōng。|
-000913|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390597.wav|||Naypyidaw ist die Hauptstadt von Myanmar.|
-047748|09-ru|ru|../css10/russian/icemarch/icemarch_0365.wav|||Сел он сапоги снимать. Снял один сапог: Братцы,- говорит,- у меня мать-старуха, пожалейте!|
-004074|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18208531.wav|||Der Rennwagen rast auf die Steilkurve zu.|
-006192|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3222.wav|||zoo, zei ik, gij weet dus. Als mijnheer het niet kwalijk neemt, antwoordde Koenraad,|
-011068|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699810.wav|||Ik heb dat boek online besteld.|
-025821|00-de|de|../css10/german/meisterfloh/meisterfloh_0238.wav|||Außer denselben gab es aber noch für Peregrinus einen besondern Freudentag oder vielmehr Freudenabend im Jahre,|
-001985|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874283.wav|||Pah, ein Superheld, der nicht fliegen kann!|
-011459|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877249.wav|||Очень забавная девочка.|
-052969|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3670.wav|||фельдшер, свесив его, отметил в книге против его имени сто девять фунтов. На другой день было сто семь,|
-009431|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771126.wav|||Tu sais ce qu'il faudrait?|
-000000|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18362579.wav|||Wie lange ist der letzte Ölwechsel her?|
-001641|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1641.wav|||dài dào xiǎoyā tùn le huángmáo， àiluōxiān kē jūn què hūér kěniàn zháo tā de éluōsī mǔqīn le， biàn cōngcōng de xiàng chìtǎ qù。|
-001035|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18560641.wav|||Und zwar geht es um Folgendes.|
-007321|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4351.wav|||Onze weg werd langzamerhand lichter.|
-008093|13-fr|fr|../comvoi_clean/fr/wavs/13/common_voice_fr_18153475.wav|||Le courage ne craint pas le crime, et l'honnêteté ne craint pas l'autorité.|
-000745|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0745.wav|||qījīn sǎo tīngdào shūshàng xiě zháo， kě zhēnshì wánquán juéwàng le; zìjǐ jídé méifǎ， biàn hūrán yòu hèn dào qījīn。|
-005634|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2664.wav|||de mensch gebruikt liefst de rechterhand, zoodat allerlei werktuigen en inrichtingen als trappen, sloten, horlogeveeren, enzovoort enzovoort|
-010419|04-nl|nl|../comvoi_clean/nl/wavs/04/common_voice_nl_18646314.wav|||Kan je het eens opzoeken op Wikipedia?|
-015469|00-fr|fr|../css10/french/lesmis/lesmis_1163.wav|||on y est en famille; on y boit et on y mange; on y a peur, chose terrible!|
-005953|02-fr|fr|../comvoi_clean/fr/wavs/02/common_voice_fr_18814333.wav|||Allée des Bocages, soixante-dix-sept, trois cent soixante Vaires-sur-Marne|
-048193|09-ru|ru|../css10/russian/icemarch/icemarch_0810.wav|||а они лежали, как деревянные. К убитым подъехала телега. В телеге баба.|
-029135|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0470.wav|||Und du begrubst ihn mit Hilfe zweier Löwen! So unterbrach Ottmar den Freund. Wie?|
-011286|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700293.wav|||Onze poetsvrouw gebruikt een schoonmaakproduct op basis van azijn.|
-028703|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0038.wav|||Aber wen von uns hat indessen nicht der wilde Strudel von Ereignis zu Ereignis, ja von Tat zu Tat fortgerissen?|
-025043|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2087.wav|||Viele Tempelwände sind mit kopfgroßen Chrysanthemumblumen|
-016107|00-fr|fr|../css10/french/lesmis/lesmis_1801.wav|||cahoté par des coudes bizarres, montant et descendant sans logique, fétide, sauvage, farouche,|
-052266|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_2967.wav|||Не понимают? спросил седок, в это время думавший о том, как бы не впустить Дуняшу в кабинет.|
-007332|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4362.wav|||tegen het heldere water juist waren afgeteekend. Men stelle zich een woud in den Harz tegen een berghelling voor, doch in het water verzonken.|
-016651|00-fr|fr|../css10/french/lesmis/lesmis_2345.wav|||Il y a, dans les vieilles peintures du déluge, une mère qui fait ainsi de son enfant. Il enfonça encore,|
-009118|21-fr|fr|../comvoi_clean/fr/wavs/21/common_voice_fr_18239423.wav|||C'est pourquoi il nous paraít précipité de passer de quarante-deux pourcent à cinquante-cinq pourcent.|
-029501|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0836.wav|||Am vierten Tage stand Elis an dem Tore, durch welches der Weg nach Gefle führt.|
-018972|00-fr|fr|../css10/french/lesmis/lesmis_4666.wav|||entrer par la petite porte, monter par l'escalier dérobé,|
-002640|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18765674.wav|||Das kann man dem Marktführer nun wirklich nicht ankreiden.|
-003723|33-de|de|../comvoi_clean/de/wavs/33/common_voice_de_18360179.wav|||Amman ist die Hauptstadt von Jordanien.|
-048418|09-ru|ru|../css10/russian/icemarch/icemarch_1035.wav|||Чаще с злым визгом рвутся шрапнели, чаще падают идущие люди. Уже свистят пули, захлопали пулеметы.|
-022340|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2539.wav|||Mais tout à coup il se mit à courir après l'enfant dont la dernière phrase le frappait subitement. Il la rattrapa au haut de l'escalier et lui dit:|
-009391|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_6421.wav|||hij nam een bovenmenschelijke gedaante aan. Hij was niet meer mijns gelijke, het was de waterbewoner,|
-004891|47-de|de|../comvoi_clean/de/wavs/47/common_voice_de_18529006.wav|||Sobald die Hauptstadt eingenommen wird, gilt ein Land als besiegt.|
-019117|00-fr|fr|../css10/french/lesmis/lesmis_4811.wav|||C'est une terrible chose d'être heureux! Comme on s'en contente! Comme on trouve que cela suffit!|
-007329|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652872.wav|||Si je venais, il partirait.|
-002011|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0195.wav|||ránér tā jìnlái， yòu jiāng yīgè fújú fàngzài chuángtóu le。 gēér， nǐ láoláo jìzhù! tā jíqí zhèngzhòng dìshuō。|
-017446|00-fr|fr|../css10/french/lesmis/lesmis_3140.wav|||à ce Dorante devenu Géronte; il a eu ses légèretés aussi, lui, et ses amourettes, et ses grisettes, et ses Cosettes;|
-046051|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_2469.wav|||Он мне задал несколько вопросов о России, один за другим, не дожидаясь или не слушая ответов; потом приказал нам еще поговорить по русски, но не так быстро;|
-008586|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5616.wav|||wat is dat heerlijk, wat is die zuurstof goed! Mijnheer behoeft niet bang te zijn om adem te halen; er is genoeg voor ons allen.|
-001179|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18360563.wav|||Dies ist der letzte Aufruf für Passagier Meier, schallte es aus dem Lautsprecher.|
-014776|00-fr|fr|../css10/french/lesmis/lesmis_0470.wav|||Chacun choisit sa place comme au spectacle. On s'accote, on s'accoude, on s'épaule. Il y en a qui se font des stalles avec des pavés.|
-015875|00-fr|fr|../css10/french/lesmis/lesmis_1569.wav|||Chaque hoquet de nos cloaques nous coûte mille francs. cela deux résultats: la terre appauvrie et l'eau empestée.|
-027390|00-de|de|../css10/german/meisterfloh/meisterfloh_1807.wav|||daß Ihr glaubt, nur Dörtje könne Euch lieben? Geht, geht, Peregrinus, die Erfahrung wird Euch eines Bessern überzeugen.|
-013773|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18914966.wav|||Теперь я предоставляю слово представителю Шри-Ланки.|
-020439|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0638.wav|||Et cette lettre a suffi Pour me troubler, oui, sur le moment. Ganimard était là. Il avait assisté à la vente de la bague.|
-008494|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845094.wav|||trente-quatre rue Hippolyte Lètard, quatre-vingt-dix-sept, trois cent quinze à Sinnamary|
-014788|03-zh|zh|../comvoi_clean/zh/wavs/03/common_voice_zh-CN_18646943.wav|||yǐ chēzhàn zhànfáng shàng jùdà de tǔǒu ér rùxuǎn dōngběi chēzhàn bǎixuǎn。|
-005714|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2744.wav|||Men kon letterlijk zeggen dat hij tusschen zijne aanvallers en zich een elektriek net gespannen had, waar niemand ongestraft over heen kon.|
-014513|00-fr|fr|../css10/french/lesmis/lesmis_0207.wav|||Avec cette facilité de prophétie triomphante qui est une des forces du Français combattant,|
-001301|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1301.wav|||tā yìsī zhījiān， sìhū juédé rénshēng tiāndìjiān， dàyuē běnlái yǒushí yě wèimiǎn yào shātóu de。 tā huán rèndé lù，|
-011227|11-nl|nl|../comvoi_clean/nl/wavs/11/common_voice_nl_18267181.wav|||Als je aan deze ring draait wordt alles scherp.|
-003774|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326526.wav|||Ist das Wetter in Oberhausen besser als in Celle?|
-007704|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861231.wav|||Je ne vous laisserai pas sortir.|
-004578|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229609.wav|||Wenn auf Bilderkennung trainierte neuronale Netze träumen, erzeugen sie kunstvolle Bilder.|
-010544|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906160.wav|||De oplevering was eindelijk klaar, twee jaar na datum.|
-005409|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771300.wav|||Von dir lasse ich mir nicht den Mund verbieten.|
-015131|07-zh|zh|../comvoi_clean/zh/wavs/07/common_voice_zh-CN_18775178.wav|||gānlóng bānián， yīn shěnlǐ shǎnxī púchéngxiàn yòunv̌ mìngàn qījiān， yǔ xiōng chén dé huáyǒu mìzhé láiwǎng。|
-000221|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18366783.wav|||Cabrios gibt es mit Stoff- oder Metalldach.|
-000611|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0611.wav|||dāng zhèshíhòu， wǒ dàdǐ rèn tā zìyánzìyǔ， bùzàn yīcí; tā dúzì fā wán yìlùn， yě jìusuàn le。|
-002948|25-de|de|../comvoi_clean/de/wavs/25/common_voice_de_18629579.wav|||Sobald der Stift gezogen ist, muss man die Granate wegwerfen.|
-023813|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0857.wav|||Dieser Baum wurde in ferner Vorzeit aus China nach Japan herüber gebracht, als winziges Würzelein zuerst;|
-001475|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1475.wav|||kōngzhōng qīngbìdào rú yīpiàn hǎi， lvè yǒuxiē fúyún， fǎngfó yǒu shúi jiāng fěnbǐ xǐ zài bǐxǐ lǐ sìde yáoyè。|
-007208|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18295466.wav|||cinq place Georges Guérin, cinquante-cinq, cent à Verdun|
-011066|09-nl|nl|../comvoi_clean/nl/wavs/09/common_voice_nl_17699808.wav|||De gevoelens zitten goed.|
-006807|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3837.wav|||twaalf Februari, kwam de Nautilus bij het krieken van den dag weer boven. Ik haastte mij naar het plat.|
-007327|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652870.wav|||Nous sommes trahis!|
-044838|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1256.wav|||Он пришел в ее ложу в последнем антракте перед и взял с нее слово, что она будет миленькой с бедным Мандрони.|
-048837|09-ru|ru|../css10/russian/icemarch/icemarch_1454.wav|||Что-то носится неприятное, страшное. Как будто каждый что-то скрывает. Знакомый текинец понес из церкви аналой.|
-029543|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0878.wav|||Elis fühlte sich von tiefen Schauern durchbebt und, was dem Seemann noch niemals geschehen, ihn ergriff der Schwindel;|
-000836|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717254.wav|||Diese Formulierung ist mir noch zu verschwurbelt.|
-019558|00-fr|fr|../css10/french/lesmis/lesmis_5252.wav|||vous vouliez le perdre, vous n'avez réussi qu'à le glorifier. Et c'est vous qui êtes un voleur! Et c'est vous qui êtes un assassin! Je vous ai vu, Thénardier Jondrette,|
-008569|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5599.wav|||Ik wilde het toestel van mij afstooten, doch zij hielden mij de handen vast, en ik ademde eenige oogenblikken met het grootste genot.|
-049092|09-ru|ru|../css10/russian/icemarch/icemarch_1709.wav|||Теперь не беспокойтесь, и стар и мал за винтовку схватились, на себе испытали.|
-020697|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0896.wav|||la France contre l'Angleterre enfin, Trafalgar sera vengé! Ah! Le malheureux|
-020941|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1140.wav|||Mais alors, fit Wilson, commençant à entrevoir la vérité, la lettre n'est donc pas de vous? Hélas! non. De qui?|
-014456|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920550.wav|||Предотвращение преступлений не менее важно, чем отправление правосудия и оказание поддержки жертвам.|
-009620|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408475.wav|||Six.|
-005876|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810152.wav|||Donc, maintenant l'on me marie Sans seulement me consulter?|
-008496|17-fr|fr|../comvoi_clean/fr/wavs/17/common_voice_fr_17845096.wav|||Entrez! cria-t-il.|
-000706|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18423256.wav|||Keine falsche Bewegung!|
-010049|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18008096.wav|||De friet was onderweg naar huis koud geworden.|
-005563|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685628.wav|||Ich mag rote Rosen und Narzissen.|
-003775|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326527.wav|||Nur zu, entgegnet Fanny schnippisch.|
-001987|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874285.wav|||Lass uns raus gehen.|
-002536|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18388951.wav|||Tripolis ist die Hauptstadt von Libyen.|
-001976|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0160.wav|||zhè shì wǒ jìnjīnián de jìnbù。 jīngyàn jì duō， yīdàn dàwù，|
-050569|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_1270.wav|||вдруг присел к земле и молча оглянулся на меня большими испуганными глазами. Изо рта у него текла струя крови. Да,|
-006818|05-fr|fr|../comvoi_clean/fr/wavs/05/common_voice_fr_18279383.wav|||huit place Joseph Coutel|
-003081|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520560.wav|||Mein Gott, ist das Reißverschlussverfahren wirklich so schwer?|
-004072|37-de|de|../comvoi_clean/de/wavs/37/common_voice_de_18208528.wav|||Honiara ist die Hauptstadt der Salomonen.|
-025477|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2521.wav|||Es ist mir, als ginge ich bis zum Hals im gelben Lehm und erstickte, wenn ich unter den gelben Menschen bleiben muß.|
-002638|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18765672.wav|||Kaum etwas hatte so weitreichende Folgen wie die Erfindung des Transistors.|
-008795|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5825.wav|||Men zag duidelijk de tweehonderd zuignappen, die aan den binnenkant der voelarmen zaten en er als half bolvormige vliesjes of blaasjes uitzagen.|
-044753|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1171.wav|||Но, хотя Черноконич и был пройдоха, кормил он все-таки очень порядочно и давал хорошее вино. Милорд и его спутник|
-021294|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1493.wav|||Mais, à peine sur le trottoir opposé, il bifurqua vivement et d'un bond escalada le perron. Un coup de sifflet strident|
-030186|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_1521.wav|||ganz dunkel aus ihrer früheren Jugendzeit, daß eines Morgens, da sie eben aus dem Schlafe erwacht,|
-003492|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509389.wav|||Lassen Sie uns ein Gedankenexperiment machen.|
-021015|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1214.wav|||Eh bien, voilà un homme qui, en prévision d'une lutte possible avec nous, s'est procuré des spécimens de votre écriture et de la mienne,|
-000835|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717251.wav|||Bevor man andere belehrt, sollte man selbst etwas gelernt haben.|
-009621|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408476.wav|||Nous aimerions ta soeur.|
-005016|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293450.wav|||Brautkleider werden total überbewertet.|
-009484|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493593.wav|||C'est ça ta surprise Pacarel.|
-008758|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5788.wav|||Ik heb van dat schilderstuk hooren spreken; maar het tafereel is uit een legende genomen; en je weet wat men van die legenden uit de natuurlijke geschiedenis moet denken! Bovendien|
-015585|00-fr|fr|../css10/french/lesmis/lesmis_1279.wav|||Athènes et Rome ont et gardent, même à travers toute l'épaisseur nocturne des siècles, des auréoles de civilisation.|
-002539|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18388954.wav|||Verfügt das Fahrzeug über eine Wegfahrsperre?|
-000504|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0504.wav|||dānsì sǎozǐ， wǒ tì nǐ bàobóluō! sìhū shì lánpí āwǔ de shēngyīn。|
-005015|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293449.wav|||Haben Sie schon einmal den Keilriemen gewechselt?|
-003630|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634025.wav|||Aus Neugier beißen Haie hin und wieder Seekabel an.|
-019880|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0079.wav|||Est-ce qu'on sait! Est-ce qu'on sait! Cet homme doit être si fort! Il dispose de telles ressources! Souviens-toi l'affaire de ce meuble|
-028293|00-de|de|../css10/german/meisterfloh/meisterfloh_2710.wav|||Die übelgelaunte Distel hatte also ganz unrecht. O Pepusch, sprach Peregrinus zu sich selbst,|
-023428|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0472.wav|||Vielleicht war auch sein Körper jetzt Luft, bezaubert von dem fahlen Gesicht des Dämons, der nun erscheinen sollte.|
-003083|27-de|de|../comvoi_clean/de/wavs/27/common_voice_de_18520564.wav|||Wann werden wir aufhören, die Bevölkerung in Ossis und Wessis zu unterteilen?|
-000382|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0382.wav|||liǎngrén de yǎnguāng， dū fǎngfó yào zài tā shēnshàng zhùjìn shíyāo yòu yào qǔchū shíyāo sìde;|
-015427|00-fr|fr|../css10/french/lesmis/lesmis_1121.wav|||Javert eut un froncement de tige qui lui entrouvrit un coin de la bouche, et il murmura entre ses dents: Prends garde.|
-007205|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18295460.wav|||C'est la raison pour laquelle nous vous proposons aujourd’hui de retirer votre amendement.|
-003556|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357969.wav|||Eine Dampfbügelstation kann das Bügeln erheblich erleichtern.|
-002950|25-de|de|../comvoi_clean/de/wavs/25/common_voice_de_18629581.wav|||Mohn und Muskat sind sowohl in harmlosen Lebensmitteln, als auch in Drogen enthalten.|
-005952|02-fr|fr|../comvoi_clean/fr/wavs/02/common_voice_fr_18814331.wav|||C'est ton avis, Keinec? Oui.|
-008044|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5074.wav|||Ik wil u gelooven, kapitein, hernam ik op eenigszins spottenden toon. Ik geloof u!|
-019770|00-fr|fr|../css10/french/lesmis/lesmis_5464.wav|||Ces Thénardier ont été méchants. Il faut leur pardonner. Cosette, voici le moment venu de te dire le nom de ta mère.|
-009680|01-nl|nl|../comvoi_clean/nl/wavs/01/common_voice_nl_17695180.wav|||Mijn vriend is knap.|
-009433|22-fr|fr|../comvoi_clean/fr/wavs/22/common_voice_fr_18771128.wav|||Vous devrez l'assumer! Je le dis comme je le pense.|
-000553|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18357195.wav|||Zudem werden die nächsten zwei Tage nicht benötigt.|
-001177|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18360561.wav|||Dann kann ich jetzt ja die Wäsche aufhängen.|
-002499|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0683.wav|||zhè jìushì zhōngguó rén de mìng， lián míngyì yě wúcóng yìzhì de。|
-024566|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1610.wav|||Aber damit, daß man das Weib gefangen hatte, war nicht die größte Sorge vom König genommen.|
-014946|05-zh|zh|../comvoi_clean/zh/wavs/05/common_voice_zh-CN_18682169.wav|||shǐjūn mù zuòběizhāonán， yóu mùdào， tiānjǐng， guòdòng， yǒngdào jí mùshì zǔchéng。|
-014629|01-zh|zh|../comvoi_clean/zh/wavs/01/common_voice_zh-CN_18754547.wav|||cǐshí， tiáncūn dùiwài xuānbù sīxià yǐjīng yǒu yīgè érzǐ， tóngshí biǎomíng zìjǐ shì dānqīn māmā。|
-005879|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2909.wav|||Tegen twee uur was ik in de salon bezig om aanteekeningen te maken, toen de deur openging en de kapitein verscheen. Ik groette hem;|
-013770|05-ru|ru|../comvoi_clean/ru/wavs/05/common_voice_ru_18914963.wav|||Стратегия будет осуществляться в тесном сотрудничестве с Экономическим сообществом западноафриканских государств и Африканским союзом.|
-007170|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4200.wav|||Manin, de Italiaansche patriot; Lincoln, door den dolk van een voorstander der slavernij gevallen,|
-001198|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1198.wav|||wánghú běnlái huán kělíu， dàn yě bùyào le。 dōngxī，|
-004365|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224273.wav|||Die Antwort liegt doch auf der Hand.|
-026790|00-de|de|../css10/german/meisterfloh/meisterfloh_1207.wav|||Wer hereintrat, war niemand anders, als der Mietsmann des Herrn Peregrinus. Der alte Herr Swammer, sonst ein|
-025086|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2130.wav|||und hinter langen Glaswänden lagen in seidenen Futteralen die Schwerter verstorbener japanischer Helden und Könige,|
-002842|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_1026.wav|||dàn zhèzhǒng yìjiàn， kǒngpà shì huáibào zhě bùfáqírén， érqiě yóuláiyǐjǐu de， bùguò dàdǐ bùgǎn yìrán shāngǎi， bǐzhīyú shū。|
-049539|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_0240.wav|||что я решилась высказать свои убеждения. И она была совершенно права.|
-002101|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0285.wav|||zhǐyào dùiyú báihuà lái jiāyǐ móuhài zhě， dū yìnggāi mièwáng!|
-003491|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509388.wav|||Sachte, sachte, rief Maren.|
-004254|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532773.wav|||Es ist von Vorteil, wenn man beidfüßig schießen kann.|
-018763|00-fr|fr|../css10/french/lesmis/lesmis_4457.wav|||Il y avait, vraisemblablement, haine entre cet espion et ce galérien. L'un gênait l'autre.|
-052886|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3587.wav|||и проклятия. Он кричал, пока не выбился из сил, и, наконец, тихо, с горячими слезами, проговорил фразу,|
-007705|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861232.wav|||Nous avons évoqué ce sujet en commission spéciale.|
-008844|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5874.wav|||Een enkele nog zwaaide het slachtoffer als een veertje heen en weder, en kronkelde in de hoogte;|
-010545|06-nl|nl|../comvoi_clean/nl/wavs/06/common_voice_nl_17906161.wav|||De politie onderzoekt momenteel nog waar hij zijn vaste verblijfplaats had.|
-008896|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778374.wav|||soixante-dix-neuf rue Armand Gobert|
-018447|00-fr|fr|../css10/french/lesmis/lesmis_4141.wav|||Je n'y ai jamais rien eu, reprit Jean Valjean. Il n'y avait en effet aucune trace de blessure. Jean Valjean poursuivit:|
-044069|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_0487.wav|||и лишится ради него жизни. Ты возьмешь этот эдельвейс.|
-002450|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0634.wav|||zhèyáng， zhǔrén jìu shōu le yàofāng， hěn kèqì dìsòng tā chūlái le。 wǒ céngjīng hé zhè míngyì zhōuxuán guò liǎng zhěngnián，|
-003631|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634026.wav|||Was hat das mit den Bronchien zu tun?|
-045431|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1849.wav|||просто и искренно позволю себе напомнить вам, что, какова бы ни была эта сумма, ее роковым образом хватает студенту не на месяц,|
-001134|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1134.wav|||tiānsè jiāng hēi， tā shùiyǎnménglóng de zài jǐudiàn ménqián chūxiàn le，|
-005965|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2995.wav|||op den bodem van den ontoegankelijken Oceaan! Neen, nimmer was mijn geest zoo ontroerd!|
-005877|01-fr|fr|../comvoi_clean/fr/wavs/01/common_voice_fr_17810153.wav|||Que ce drôle de grand seigneur ne maltraite pas mes filles.|
-008158|14-fr|fr|../comvoi_clean/fr/wavs/14/common_voice_fr_18197047.wav|||Elle l'aime, elle est aimée de lui.|
-013416|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875159.wav|||Битое стекло - это к счастью.|
-004889|47-de|de|../comvoi_clean/de/wavs/47/common_voice_de_18529004.wav|||Karotten sind gut für die Augen.|
-001637|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1637.wav|||guò le bàntiān， chéngqīng le， zhǐjiàn nílǐ lùchū jītiáo xìǒulái; érqiě zàiyě xúnbùchū yīgè yǐjīng shēng le jiǎo de kēdǒu le。|
-001077|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1077.wav|||nǐ fǎn le， nǐ zhè dà zhúgāng yòu xiàng tā pī xiàlái le。|
-001552|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860712.wav|||Hältst du es noch aus mit den Blagen?|
-029137|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0472.wav|||es ist nicht anders. Schon im Walde, noch ehe du Serapions Hütte erreicht hattest, begegneten dir seltsame Ungeheuer, mit denen du sprachst.|
-000981|11-de|de|../comvoi_clean/de/wavs/11/common_voice_de_18737576.wav|||Was man uns dort aufgetischt hat, setzt der Sache die Krone auf!|
-004967|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_1997.wav|||Die zeelieden behoorden oogenschijnlijk tot verschillende natien, hoewel zij allen duidelijk van Europeesche afkomst waren.|
-049150|09-ru|ru|../css10/russian/icemarch/icemarch_1767.wav|||Я посмотрел на лихого пограничника и ушел к своим раненым. Сегодня великий четверг,|
-001935|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0119.wav|||yī zhēngyǎn què yǐjīng tiānmíng， dào le dēngjié le。|
-050950|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_1651.wav|||Он, очевидно, недоумевал: подобный случай представился ему в первый раз за всё время его долголетней практики.|
-000551|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18357191.wav|||Die Sahara ist die größte Wüste der Welt.|
-000911|10-de|de|../comvoi_clean/de/wavs/10/common_voice_de_18390595.wav|||Sie umringten die Stadt mit dicken Steinmauern.|
-017298|00-fr|fr|../css10/french/lesmis/lesmis_2992.wav|||Où diable ai-je vu quelque chose comme cet homme-là? se demanda-t-il.|
-007703|11-fr|fr|../comvoi_clean/fr/wavs/11/common_voice_fr_17861230.wav|||Il me plaít beaucoup, ce garçon. et s'il est d’une bonne famille.|
-000490|05-de|de|../comvoi_clean/de/wavs/05/common_voice_de_18689439.wav|||Du musst das Ergebnis noch in Pfund umrechnen.|
-010420|04-nl|nl|../comvoi_clean/nl/wavs/04/common_voice_nl_18646315.wav|||'s Ochtends zit het gras vol dauw.|
-000709|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18423259.wav|||Eine völlig neue Schnittstelle muss her.|
-025316|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2360.wav|||wo violette Steingebirge in Nubien dastehen und gegenüber in Arabien solche, die silbernen Aschenhaufen gleichen,|
-021067|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1266.wav|||Le lendemain, programme identique. Ils s'assirent sur le même banc de l'avenue Henri-Martin,|
-000363|04-de|de|../comvoi_clean/de/wavs/04/common_voice_de_18372649.wav|||Die Kobaltmine ist vor Jahrzehnten aufgegeben worden.|
-029110|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0445.wav|||Indem mich sein Zustand, sein methodischer Wahnsinn, in dem er das Heil seines Lebens fand, mit tiefem Schauer erfüllte,|
-028031|00-de|de|../css10/german/meisterfloh/meisterfloh_2448.wav|||ja feierlich schwörst, daß du alle deine Kräfte anwenden willst|
-014786|03-zh|zh|../comvoi_clean/zh/wavs/03/common_voice_zh-CN_18646941.wav|||xúshùlán。|
-004580|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229611.wav|||Ein Marder hat wohl an den Bremsschläuchen geknabbert.|
-049749|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_0450.wav|||вот чудо-то! Знают ли они, что это придумала я, а не утки? подумала квакушка.|
-051128|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_1829.wav|||Ещё только час! Ещё семь часов до света!|
-000108|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0108.wav|||tāmen nà shíhòu de liǎnsè， quán méiyǒu zuótiān zhèyāo pà， yě méiyǒu zhèyāo xiōng。 zùi qíguàideshì zuótiān jiēshàng de nàgè nv̌rén，|
-026028|00-de|de|../css10/german/meisterfloh/meisterfloh_0445.wav|||in dir wohnt kein menschliches Herz - du bist unerbittlich - du willst meinen Tod, mein Verderben - du gibst ihn mir nicht wieder!|
-005564|52-de|de|../comvoi_clean/de/wavs/52/common_voice_de_18685629.wav|||Ein Mann mit zerzauster Frisur bettelt um Almosen.|
-009483|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493592.wav|||Un morceau de sucre.|
-015007|06-zh|zh|../comvoi_clean/zh/wavs/06/common_voice_zh-CN_18846098.wav|||hántiān yīchū yīshí jìnrù shànghǎishì shìběi zhōngxué jìudú， bìng kāishǐ liànxí dǎ páiqíu。|
-049782|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_0483.wav|||Начал протопоп книгу читать и дошёл он до того места, где написано: богатые обнищают,|
-022052|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_2251.wav|||Ah pensa Ganimard, qui s'effondra sur un canapé de la loge, quel beau coup nous avons manqué! Toute la bande occupait ce pâté de maisons.|
-004579|44-de|de|../comvoi_clean/de/wavs/44/common_voice_de_18229610.wav|||Wenn man schon Pfand zahlt, dann sollte man auch eine Mehrwegflasche bekommen.|
-053179|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3880.wav|||Лицо его было спокойно и светло; истощённые черты с тонкими губами и глубоко впавшими закрытыми глазами|
-020266|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_0465.wav|||et, l'ayant touchée, il s'aperçut qu'elle était renversée. Et tout de suite sa main rencontra par terre d'autres objets, un guéridon,|
-029437|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0772.wav|||ohne Elis weiter zu grüßen oder sich nach ihm umzuschauen. Bald war er seinem Blick entschwunden.|
-011357|01-ru|ru|../comvoi_clean/ru/wavs/01/common_voice_ru_18853497.wav|||Я предоставляю слово представителю Армении для выступления по порядку ведения заседания.|
-023000|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0044.wav|||Aber die drei Boote hoben sich wieder. Geschickte Hände regierten die Segel. Doch dieses sah Hanake nicht mehr.|
-008170|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5200.wav|||om elf uur was de zon nog niet doorgekomen; ik maakte mij daar ongerust over, want zonder zon waren geen waarnemingen mogelijk;|
-000362|04-de|de|../comvoi_clean/de/wavs/04/common_voice_de_18372647.wav|||Im Trockenkeller waren viele Wäscheleinen gespannt.|
-003004|26-de|de|../comvoi_clean/de/wavs/26/common_voice_de_18703364.wav|||Hunde können außer an den Pfoten nicht schwitzen.|
-004803|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18203372.wav|||Oder waren es vielleicht Werwölfe?|
-024904|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1948.wav|||Als die Frau eines Tages wieder im Gebetstaumel die Halle verließ, sah sie draußen auf dem Bretterweg, der an der hundert Fuß langen Halle entlangführt,|
-004364|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224271.wav|||Kannst du mich nach Düsseldorf mitnehmen?|
-022990|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0034.wav|||Die aufgepflanzten Segel wurden größer und kamen näher: Hanake fühlte eine Bangigkeit,|
-005013|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2043.wav|||dat zooals men zegt, voor den mensch een element des doods is, maar dat het element des levens is voor millioenen dieren|
-000114|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0114.wav|||qián jītiān， lángzǐ cūn de diànhù lái gàohuāng， dùi wǒ dàgē shuō， tāmen cūnlǐ de yīgè dà èrén， gěi dàjiā dǎsǐ le;|
-024033|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1077.wav|||so daß man über den Bootrand wie von der Schwelle eines Hauses hinaustreten|
-047332|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_3750.wav|||содержащую в себе микрокосм питательных веществ, и отправить ее в рот.|
-011458|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877248.wav|||Время для дипломатии еще есть.|
-002377|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0561.wav|||xiānqián， yǒu yīgè dúshūrén zhù zài gǔmiào lǐ yònggōng， wǎnjiān， zài yuànzǐ lǐ nàliáng de shíhòu， tūrán tīngdào yǒurén zài jiào tā。|
-005954|02-fr|fr|../comvoi_clean/fr/wavs/02/common_voice_fr_18814334.wav|||Je suis saisi de plusieurs amendements portant articles additionnels après l'article dix-neuf.|
-004324|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_1354.wav|||Wij hebben nog niet gedaan, mijnheer Aronnax, zeide kapitein Nemo, terwijl hij opstond; als gij mij wilt volgen, zullen wij den achtersteven bezoeken.|
-027068|00-de|de|../css10/german/meisterfloh/meisterfloh_1485.wav|||weitläuftig mit ihm verwandt. Ei, rief die eine lachend, ei, Vetterchen, trifft man Sie einmal?|
-018257|00-fr|fr|../css10/french/lesmis/lesmis_3951.wav|||il avait coutume de venir tous les jours de la rue de l'Homme-Armé à la rue des Filles-du-Calvaire, avec Cosette.|
-008236|15-fr|fr|../comvoi_clean/fr/wavs/15/common_voice_fr_17747478.wav|||Route de Marambat au numéro six|
-001178|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18360562.wav|||Bei schwachem Empfang kann die Verbindung auch schon mal abreißen.|
-008160|14-fr|fr|../comvoi_clean/fr/wavs/14/common_voice_fr_18197049.wav|||Certains sont accolés à une surface commerciale traditionnelle, d'autres sont totalement indépendants.|
-029086|00-de|de|../css10/german/serapionsbruederauswahl/serapionsbruederauswahl_0421.wav|||im Innern auf eigne Hand und überläßt jene Funktionen einem andern, uns inwohnenden Prinzip? Wie ungereimt!|
-000003|01-de|de|../comvoi_clean/de/wavs/01/common_voice_de_18362582.wav|||Bei einigen Fluggesellschaften muss das Aufgabegepäck extra bezahlt werden.|
-024714|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1758.wav|||und das Liebesglück ward nicht gestört. Aber schon in der zweiten Nacht verschob der junge Ehemann erst zufällig,|
-014948|05-zh|zh|../comvoi_clean/zh/wavs/05/common_voice_zh-CN_18682171.wav|||zhǔrèn pānhànnián。|
-010421|04-nl|nl|../comvoi_clean/nl/wavs/04/common_voice_nl_18646322.wav|||Ze was nogal stellig over haar overtuigingen.|
-043615|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_0033.wav|||девицу Тамару, жилище которой лежит за пределами Иерусалима. И я хочу знать, правду ли говорит Авиноам?|
-004503|43-de|de|../comvoi_clean/de/wavs/43/common_voice_de_18432653.wav|||Lara beherrscht praktisch alle lateinamerikanischen Tänze.|
-015294|00-fr|fr|../css10/french/lesmis/lesmis_0988.wav|||Les coups de fusil vont pleuvoir. Il regarda le nuage. Et peut-être aussi la pluie elle-même va pleuvoir; le ciel s'en mêle;|
-010047|02-nl|nl|../comvoi_clean/nl/wavs/02/common_voice_nl_18008094.wav|||De meningen over dat onderwerp zijn niet onverdeeld.|
-024162|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1206.wav|||Ich bin aus Eifersucht um deinen Besitz mit Amagata vor Jahren auf der Seehöhe in Streit geraten,|
-008161|14-fr|fr|../comvoi_clean/fr/wavs/14/common_voice_fr_18197050.wav|||Encore heureux! Il pourra toujours m'apporter des fleurs quand je serai dans le trou|
-006025|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573209.wav|||L'inconnu ne se présenta pas. Il l’interrogea longuement sur son identité.|
-001333|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1333.wav|||zhōngyú qiānchě dào xuéshēng hé guānliáo shēnshàng， dàfā qí yìlùn dào: xiànzài shèhùi shàng shímáo de dū tōngxíng mà guānliáo，|
-008386|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5416.wav|||er was eenige tijd noodig voordat onze oogen aan de duisternis gewend waren. Eindelijk namen wij de handen voor de oogen weg. Zoo iets|
-024755|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1799.wav|||die wie ein Götterbild regungslos im Mondschein saß und sich Liebe und Haare wünschte.|
-000552|06-de|de|../comvoi_clean/de/wavs/06/common_voice_de_18357194.wav|||Washington, D.C. ist die Hauptstadt der Vereinigten Staaten von Amerika.|
-008659|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18072562.wav|||Je mets aux voix l'amendement numéro mille trente-trois.|
-003422|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0452.wav|||hij hield zich zelfs alsof hij nooit naar de zee keek, behalve als hij de wacht had-ten minste als er geen walvisch in het gezicht was.|
-025770|00-de|de|../css10/german/meisterfloh/meisterfloh_0187.wav|||Dieser Brief hätte Herrn Tyß und seine Ehegattin nicht wenig in Bestürzung gesetzt, wäre nicht mit derselben Post ein Brief von dem verlornen Sohne|
-004154|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_1184.wav|||zij is 'het levende oneindige,' zooals een uwer dichters eens zeide. En|
-005411|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771302.wav|||Leider kann ich die Folgen nicht ohne Werbung genießen.|
-024859|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1903.wav|||Das Abendrot zu Seta Ein japanischer Winter am Biwasee ist nicht so kalt und nicht so schneereich wie die meisten deutschen Winter,|
-004255|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532774.wav|||Setze Löskaffee auf die Einkaufsliste!|
-045135|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_1553.wav|||то есть перенес бы жизнь в литературу.|
-008237|15-fr|fr|../comvoi_clean/fr/wavs/15/common_voice_fr_17747479.wav|||Je vous y forcerai, car vous ne m'avez pas convaincu.|
-015182|00-fr|fr|../css10/french/lesmis/lesmis_0876.wav|||Ceux-ci étaient là, grâce aux grilles fermées. Ils étaient en contravention. Ils s'étaient glissés dans le jardin, et ils y étaient restés.|
-011287|12-nl|nl|../comvoi_clean/nl/wavs/12/common_voice_nl_17700294.wav|||Zij had prachtige foto's getrokken van de dieren in de dierentuin.|
-014628|01-zh|zh|../comvoi_clean/zh/wavs/01/common_voice_zh-CN_18754546.wav|||dúyè shì yīzhǒng yóu dòngwù fēnmì chūlái de dúsù， mùde shì dùi qítā dòngwù zàochéng shānghài。|
-024357|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1401.wav|||Die Götter von Katata kennen keinen Zufall, murmelte Graswürzelein und blies in das Feuer.|
-006887|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863675.wav|||Sais-tu comment ils font pour grimper là-haut?|
-023141|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0185.wav|||unsere Männer, die zur Nachtzeit aus Yabase herüberkamen,|
-008239|15-fr|fr|../comvoi_clean/fr/wavs/15/common_voice_fr_17747481.wav|||Rue Balthazar Gérard, Vuillafans|
-013284|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892573.wav|||Однако не удивительно, что сохраняются проблемы, касающиеся предоставления таких услуг соответствующим группам населения.|
-006533|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3563.wav|||kriskoralen als fluiten, slechts wachtende op den adem van Pan, schulpen die men elders niet aantreft,|
-016292|00-fr|fr|../css10/french/lesmis/lesmis_1986.wav|||Mais le boyau de la Petite-Truanderie dont l'entrée était près du cabaret de Corinthe n'a jamais communiqué avec le souterrain de la rue Saint-Denis;|
-045769|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_2187.wav|||Веселые годы, Прекрасные дни,Как вешние воды Промчались они. Это|
-010120|03-nl|nl|../comvoi_clean/nl/wavs/03/common_voice_nl_17708499.wav|||Zet je even het vuilnis buiten?|
-006886|06-fr|fr|../comvoi_clean/fr/wavs/06/common_voice_fr_18863674.wav|||Ils étaient frais et langoureux.|
-007328|09-fr|fr|../comvoi_clean/fr/wavs/09/common_voice_fr_18652871.wav|||Elle appelle parfois à la rébellion, à la révolte.|
-011457|02-ru|ru|../comvoi_clean/ru/wavs/02/common_voice_ru_18877247.wav|||Лишнего мне не надо.|
-047107|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_3525.wav|||сноска: немецкий. избави Бог.|
-005955|02-fr|fr|../comvoi_clean/fr/wavs/02/common_voice_fr_18814335.wav|||Je le sais bien.|
-000365|04-de|de|../comvoi_clean/de/wavs/04/common_voice_de_18372651.wav|||Cabrios gibt es mit Stoff- oder Metalldach.|
-015037|00-fr|fr|../css10/french/lesmis/lesmis_0731.wav|||Sa compagnie, celle-là même qui avait fusillé le poète Jean Prouvaire, était la première du bataillon posté à l'angle de la rue.|
-024264|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1308.wav|||Die Maler begannen ihr Werk.|
-001627|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1627.wav|||cóngcǐ mài xiǎojī de xiāngxiàrén yě shícháng lái， lái yīhúi biàn mǎi jīzhǐ， yīnwèi xiǎojī shì róngyì jīshí， fāshā， hěn nándé chángshòu de;|
-044277|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_0695.wav|||Мы шли ужасно долго,- продолжала Гуальберта. Когда мальчик наконец остановился, мы были в какой-то узенькой и темной улице.|
-015133|07-zh|zh|../comvoi_clean/zh/wavs/07/common_voice_zh-CN_18775180.wav|||yuán gōngsī shèyuán zhīyī， xiàn shècháng yǔ èrrén tuōlí zhīhòu chénglì le xīn gōngsī， shèjìshī yǔ wǎngyè zhìzuò de xiāngguān gōngzuò。|
-000837|09-de|de|../comvoi_clean/de/wavs/09/common_voice_de_18717257.wav|||Die Wahrheit ist, dass manche Ausländer willkommener sind als andere.|
-014458|06-ru|ru|../comvoi_clean/ru/wavs/06/common_voice_ru_18920552.wav|||Мы признательны Вам за умелое руководство работой Совета.|
-025988|00-de|de|../css10/german/meisterfloh/meisterfloh_0405.wav|||mit zärtlicher Sorgfalt auf den Sofa legte. Geschwind, rief er dann, geschwind, Aline, Feuer in den Kamin|
-015977|00-fr|fr|../css10/french/lesmis/lesmis_1671.wav|||L'observateur social doit entrer dans ces ombres. Elles font partie de son laboratoire. La philosophie est le microscope de la pensée.|
-052639|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_3340.wav|||не похожую на песни московских цыган и опереточных певиц, своеобразную, дикую, заунывную,|
-014947|05-zh|zh|../comvoi_clean/zh/wavs/05/common_voice_zh-CN_18682170.wav|||yì céng rènshěng xùnliàntuán zhǐdǎo kēkēcháng。|
-011155|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722680.wav|||Zet de luchtbevochtiger aan.|
-014677|02-zh|zh|../comvoi_clean/zh/wavs/02/common_voice_zh-CN_18592902.wav|||lìshǐxuéjiā chēng tāmen wèi qiǎ níkè。|
-002971|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0001.wav|||Het jaar achttienhonderdzesenzestig werd gekenmerkt door eene zonderlinge gebeurtenis, namelijk eene onverklaarbare verschijning, welke niemand zeker vergeten heeft.|
-028204|00-de|de|../css10/german/meisterfloh/meisterfloh_2621.wav|||Georges Ton und ganzes Betragen grenzte an renommistische Brutalität, und Peregrinus wurde von dem tiefsten Unmut erfüllt,|
-010738|08-nl|nl|../comvoi_clean/nl/wavs/08/common_voice_nl_18735418.wav|||Een cirkel heeft geen hoeken.|
-005655|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2685.wav|||doch ik geloof dat gij ernstige redenen hebt om bij mij te komen!|
-004533|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_1563.wav|||het zijn bijzondere stroomen, kenbaar aan hun warmtegraad, aan hunne kleur, en van welke de merkwaardigste den naam van Golfstroom draagt.|
-025399|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2443.wav|||Aber lassen Sie jetzt auch den Abendschnee auf dem Hirayama zu Ihnen sprechen; das heißt:|
-003490|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509387.wav|||Wenn das Geld nichts mehr Wert ist, gewinnen Tauschgeschäfte mit Naturalien an Bedeutung.|
-016203|00-fr|fr|../css10/french/lesmis/lesmis_1897.wav|||C'étaient d'énormes hiatus de pierre à cagnards, quelquefois entourés de bornes, avec une effronterie monumentale.|
-000491|05-de|de|../comvoi_clean/de/wavs/05/common_voice_de_18689440.wav|||Wie viel Gramm Mehl muss ich nehmen?|
-007600|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4630.wav|||Drie kwartier daarna hadden wij onzen tocht om het meer ge indigd, en waren wij weer aan boord.|
-051115|00-ru|ru|../css10/russian/shortstories_childrenadults/shortstories_childrenadults_1816.wav|||и даёт себя знать всякому бедному люду, дворникам, городовым всем, кто не может спрятать нос в тёплое место.|
-008662|19-fr|fr|../comvoi_clean/fr/wavs/19/common_voice_fr_18072566.wav|||Il est donc temps de la rectifier en votant ces deux amendements.|
-002636|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0820.wav|||wǒ kàn zhǐpiào yě bùhǎo， nǐmen dàiqù de qián bùrú dū huàn le tāmen de xiànyín。 sìgè rén dū shuō zūnmìng。|
-004802|46-de|de|../comvoi_clean/de/wavs/46/common_voice_de_18203368.wav|||Dieser Anblick zog zahlreiche Neugierige an.|
-007037|07-fr|fr|../comvoi_clean/fr/wavs/07/common_voice_fr_18084705.wav|||Nous souhaitons qu'ils soient pourtant adoptés afin de nous permettre de voter les amendements.|
-046382|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_2800.wav|||Я успел взять себя в руки и сообразил, что лучшее оружие против него уклончивость и отмалчивание, как до сих пор.|
-014679|02-zh|zh|../comvoi_clean/zh/wavs/02/common_voice_zh-CN_18592904.wav|||lìzǐ de chǐcùn kěyǐ cóng háomǐ dào nàmǐ biànhuà。|
-002324|22-de|de|../comvoi_clean/de/wavs/22/common_voice_de_18705339.wav|||Falsche Diäten gibt es nicht nur bei Politikern.|
-004363|41-de|de|../comvoi_clean/de/wavs/41/common_voice_de_18224270.wav|||Mit einem Satz landete der Jaguar vor uns und fauchte uns an.|
-002538|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18388953.wav|||In der Schengen-Zone reicht es, wenn man seinen Personalausweis dabei hat.|
-046249|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_2667.wav|||и все они еще глубже остальных римлян знают цену папству и монархии, и всей тщете земной, и не веруют ни в сон, ни в чох,|
-006650|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3680.wav|||Door toeval en redeneering, of eigenlijk nog meer door de laatste dan door het eerste. Ik luister, kapitein, doch kan het haast niet gelooven.|
-007308|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4338.wav|||Die steenhoopen, waarvan ik zooeven sprak, waren op den zeebodem met een zekere regelmaat verspreid, waarvan ik mij geen verklaring wist te geven.|
-006087|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_3117.wav|||Ik zag duidelijk hun spieraalvormige schelp, door Cuvier bij een netgevormde sloep vergeleken; het was inderdaad een schuitje, dat het dier draagt|
-001553|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1553.wav|||yuánlái yǒu yīgè xiǎotù， zài yuànzǐ lǐ tiàoyuè le。|
-008894|20-fr|fr|../comvoi_clean/fr/wavs/20/common_voice_fr_17778372.wav|||trois rue de Damigny, soixante et un, deux cent cinquante, Lonrai|
-004913|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_1943.wav|||Het was een prachtige zeeotter, het eenige viervoetige dier dat bepaald de zee bewoont.|
-015132|07-zh|zh|../comvoi_clean/zh/wavs/07/common_voice_zh-CN_18775179.wav|||dìfāng bùníngshí chángjiàn yíngqǐng wángyé fèngsì， yìhuò zhènyā bìxié， sòngyíng wángchuán děng xísú， zài suǒ duō yǒu。|
-002537|23-de|de|../comvoi_clean/de/wavs/23/common_voice_de_18388952.wav|||Grönland ist die größte Insel der Erde.|
-000773|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0773.wav|||cūn rénmen dāidāi zhàn zháo， xīnlǐ jìsuàn， dū juédé zìjǐ quèhū dǐbùzhù zhāngyìdé， yīncǐ yě juédìng qījīn biàn yào méiyǒu xìngmìng。|
-025239|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_2283.wav|||Du darfst also viele Frauen lieben, wenn es dich zum Manne macht? Und ich soll keinen Schmerz empfinden, wenn du deine Nächte mit anderen Frauen teilst|
-027072|00-de|de|../css10/german/meisterfloh/meisterfloh_1489.wav|||Ich wollte ihn recht in Furcht und Angst setzen. Sonst lief er vor mir, vor jedem Frauenzimmer,|
-017693|00-fr|fr|../css10/french/lesmis/lesmis_3387.wav|||je ne dis pas de mal du peuple, tu vois, j'en ai plein la bouche de ton peuple, mais trouve bon que je flanque un peu une pile à la bourgeoisie.|
-007273|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4303.wav|||Eenige zeilen aan den gezichteinder, zeker van schepen die tot kaap San-Roque varen om een gunstigen wind te zoeken, die hen om de Kaap de Goede Hoop voert.|
-001180|13-de|de|../comvoi_clean/de/wavs/13/common_voice_de_18360564.wav|||Bei der Montage von Antennen auf dem Dach ist der Blitzschutz zu beachten.|
-011152|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722676.wav|||Het hout was rot, hierdoor moesten er een hoop kosten gemaakt worden.|
-001832|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233007.wav|||Geteiltes Leid ist halbes Leid.|
-001037|12-de|de|../comvoi_clean/de/wavs/12/common_voice_de_18560646.wav|||Gibt es eigentlich einen Tag der offenen Himmelspforte?|
-002639|24-de|de|../comvoi_clean/de/wavs/24/common_voice_de_18765673.wav|||Die meisten Chorsänger haben keine Ahnung, was der Text bedeutet.|
-010677|07-nl|nl|../comvoi_clean/nl/wavs/07/common_voice_nl_17698969.wav|||Het Parlementspaleis in Bucharest is het grootste gebouw in Europa en waarschijnlijk het derde grootste gebouw in de wereld.|
-006819|05-fr|fr|../comvoi_clean/fr/wavs/05/common_voice_fr_18279390.wav|||Entre elle et Dacoma lui-même, leur choix n'eût pas été douteux.|
-019072|00-fr|fr|../css10/french/lesmis/lesmis_4766.wav|||et pourquoi il n'était pas venu la veille. Nicolette rapporta la réponse de monsieur Jean. Il n'était point malade. Il était occupé.|
-006820|05-fr|fr|../comvoi_clean/fr/wavs/05/common_voice_fr_18279391.wav|||Excusez-moi, je n'ai pas de crayon.|
-003633|32-de|de|../comvoi_clean/de/wavs/32/common_voice_de_18634028.wav|||Verschlüsselt zu kommunizieren sollte niemanden verdächtig machen.|
-024211|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_1255.wav|||Und das Gemurmel um sie verging allmählich, und die vielen Füße um sie gingen aus dem Zimmer.|
-018700|00-fr|fr|../css10/french/lesmis/lesmis_4394.wav|||Il y avait dans ce personnage un on ne sait quoi énigmatique dont son instinct l'avertissait.|
-005293|50-de|de|../comvoi_clean/de/wavs/50/common_voice_de_18639104.wav|||Das ist der amerikanische Lebenstraum.|
-002695|00-zh|zh|../css10/chinese/chao_hua_si_she/chao_hua_si_she_0879.wav|||jiěpōu shíxí le dàgài yī xīngqī， tā yòu jiào wǒ qù le， hěn gāoxīng dì， réngyòng le jí yǒu yìyáng de shēngdiào dùi wǒ shuōdào:|
-003005|26-de|de|../comvoi_clean/de/wavs/26/common_voice_de_18703365.wav|||Ups, das war das falsche Passwort.|
-008583|18-fr|fr|../comvoi_clean/fr/wavs/18/common_voice_fr_18428620.wav|||Elle achète du pain frais tous les matins.|
-003772|36-de|de|../comvoi_clean/de/wavs/36/common_voice_de_18326524.wav|||Yvonne wurde in eine Talkshow eingeladen.|
-001482|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_1482.wav|||yīshuō shì céngjīng tīngdé yī de zǔmǔ shuō， chénshì de zǔzōng shì jùfù de， zhè wūzǐ biànshì zǔjī，|
-000707|07-de|de|../comvoi_clean/de/wavs/07/common_voice_de_18423257.wav|||Er war gestern nicht so gut drauf.|
-001834|17-de|de|../comvoi_clean/de/wavs/17/common_voice_de_18233009.wav|||Meine Nachbarn sind derzeit im Harz.|
-005017|48-de|de|../comvoi_clean/de/wavs/48/common_voice_de_18293451.wav|||Juba ist die Hauptstadt vom Südsudan.|
-004256|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532775.wav|||Hört bitte auf, von Wikipedia zu kopieren!|
-007626|10-fr|fr|../comvoi_clean/fr/wavs/10/common_voice_fr_18864539.wav|||Il y a du monde dans la salle.|
-000284|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0284.wav|||nǐ dúguò shū yāo? wǒ lvèlvè diǎn yī diǎntóu。 tā shuō， dúguò shū， wǒ biàn kǎo nǐ yīkǎo。|
-003706|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0736.wav|||en toen zonk ik in de diepte. Op dit oogenblik stiet ik op een hard voorwerp; ik klampte mij er aan vast;|
-005228|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2258.wav|||Nemo zeide verder niets doch wenkte mij om hem naar het salon te volgen. De Nautilus zonk eenige meters onder water en de wanden openden zich.|
-007728|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4758.wav|||Zou het u aangenaam zijn, vroeg de kapitein, er iets meer van mee te nemen dan alleen de herinnering? Wat wilt gij daarmee zeggen?|
-001986|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874284.wav|||Nach dem Login kommt immer eine Fehlermeldung.|
-001988|19-de|de|../comvoi_clean/de/wavs/19/common_voice_de_18874287.wav|||Außer einem Schraubenzieher und etwas Geschick brauchst du nichts.|
-043933|08-ru|ru|../css10/russian/early_short_stories/early_short_stories_0351.wav|||они не стали бы сечь его и запрещать ему лежать вот так на траве, сколько угодно. И Норти твердо решил остаться с ними навеки.|
-013283|03-ru|ru|../comvoi_clean/ru/wavs/03/common_voice_ru_18892572.wav|||Для таких государств, как Соединенное Королевство, односторонних действий по расщепляющемуся материалу недостаточно.|
-011154|10-nl|nl|../comvoi_clean/nl/wavs/10/common_voice_nl_17722679.wav|||Er mogen nog wat kruiden in de puree.|
-003489|29-de|de|../comvoi_clean/de/wavs/29/common_voice_de_18509386.wav|||Molly krallte sich sogleich eine Schachtel Zigaretten.|
-003722|33-de|de|../comvoi_clean/de/wavs/33/common_voice_de_18360178.wav|||Zudem werden die nächsten zwei Tage nicht benötigt.|
-005119|49-de|de|../comvoi_clean/de/wavs/49/common_voice_de_18204881.wav|||Da hat der Regisseur aber gepennt.|
-010679|07-nl|nl|../comvoi_clean/nl/wavs/07/common_voice_nl_17698971.wav|||Hij was niet zo goed in tennis, maar zijn opslag werd altijd gevreesd.|
-015129|00-fr|fr|../css10/french/lesmis/lesmis_0823.wav|||Sous les plis de ce voile de fumée, et grâce à sa petitesse, il put s'avancer assez loin dans la rue sans être vu.|
-023696|00-de|de|../css10/german/achtgesichterambiwasse/achtgesichterambiwasse_0740.wav|||Aber so lange Kiri nicht vom See heimkehrte, war er für seine Mutter unsterblich. Endlich war der Krieg zu Ende.|
-003126|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0156.wav|||of wij kennen ze niet. Indien wij ze niet allen kennen, indien de natuur nog geheimen voor ons heeft op het gebied der ichthyologie,|
-013417|04-ru|ru|../comvoi_clean/ru/wavs/04/common_voice_ru_18875160.wav|||Как все знают, Мексика не разделяет этих взглядов.|
-005412|51-de|de|../comvoi_clean/de/wavs/51/common_voice_de_18771303.wav|||Auch Teppichfußboden dämpft den Schall.|
-003559|31-de|de|../comvoi_clean/de/wavs/31/common_voice_de_18357972.wav|||Monaco ist die Hauptstadt von Monaco.|
-003845|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0875.wav|||Maar niettegenstaande de fraaie volzinnen en het schoone stemgeluid van den verteller, slaagde het Duitsch evenmin.|
-006028|04-fr|fr|../comvoi_clean/fr/wavs/04/common_voice_fr_18573212.wav|||Une seule porte ne suffit pas.|
-009618|26-fr|fr|../comvoi_clean/fr/wavs/26/common_voice_fr_18408473.wav|||Des gens bizarres.|
-004658|45-de|de|../comvoi_clean/de/wavs/45/common_voice_de_18366120.wav|||Wirtschaftlich geht es dem Land sehr gut.|
-004253|40-de|de|../comvoi_clean/de/wavs/40/common_voice_de_18532772.wav|||Ich wollte eigentlich beides in einem Abwasch erledigen.|
-001553|14-de|de|../comvoi_clean/de/wavs/14/common_voice_de_18860713.wav|||Na, wenigstens etwas.|
-005925|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_2955.wav|||dit was geheel verschillend van de streek, welke wij bij onzen eersten tocht gezien hadden.|
-009485|25-fr|fr|../comvoi_clean/fr/wavs/25/common_voice_fr_18493594.wav|||Le docteur aimait, il essaya de lutter.|
-007206|08-fr|fr|../comvoi_clean/fr/wavs/08/common_voice_fr_18295461.wav|||Il convient aussi de mettre en oeuvre le concept très important de citoyenneté connectée.|
-000014|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0014.wav|||shēnglǐxué bìng bùjiào， dàn wǒmen què kàndào xiē mùbǎn de quántǐ xīnlùn hé huàxué wèishēng lùn zhīlèi le。|
-008209|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_5239.wav|||Zijn die dieren niet gevaarlijk? vroeg Koenraad. Neen, antwoordde ik, behalve als men ze aanvalt.|
-000220|02-de|de|../comvoi_clean/de/wavs/02/common_voice_de_18366782.wav|||Neben der Bürgermeisterin war auch der Künstler anwesend.|
-020834|00-fr|fr|../css10/french/lupincontresholme/lupincontresholme_1033.wav|||Et Lupin me saisissant le bras, m'entraína dehors. Qu'en dites-vous, mon cher?|
-007548|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_4578.wav|||wij stuitten op zwarte basaltblokken; soms lagen zij met zwavel bedekt over een vlakte neergeworpen,|
-003901|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_0931.wav|||Dit vooruitzicht scheen mij des te onaangenamer toe, omdat, al was mijn hoofd helderder dan den vorigen dag, ik eene zonderlinge gedruktheid op de borst voelde.|
-000004|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0004.wav|||jīhū shì měitiān， chūrù yúzhí pū hé yàodiàn lǐ，|
-000447|00-zh|zh|../css10/chinese/call_to_arms/call_to_arms_0447.wav|||zìyánzìyǔ de shuō， zhè méiyǒu gēn， bùxiàng zìjǐ kāi de。-zhè dìfāng yǒu shúi lái ní? háizǐ bùhùi lái wán;|
-009320|00-nl|nl|../css10/dutch/20000_mijlen/20000_mijlen_6350.wav|||Kapitein Nemo zag ze eenige oogenblikken aan, stak toen de armen er naar uit, en barstte in snikken uit,|
-015009|06-zh|zh|../comvoi_clean/zh/wavs/06/common_voice_zh-CN_18846104.wav|||tài suǒní luò guójiā gōngyuán shì yīzuò wèiyú yìndùníxīyà sūméndálàdǎo liào nèishěng de guójiā gōngyuán。|
+068796|00-en|en|english/wavs/LJ003-0053.wav|||At one time the whole of these different categories were thrown together pell-mell, young and old, the untried with the convicted.|
+068797|00-en|en|english/wavs/LJ003-0245.wav|||preparatory to their appearance in the Old Bailey. Irons were seldom removed from the convicted until discharge;|
+068798|00-en|en|english/wavs/LJ004-0090.wav|||Again, the twenty-two Charles the second c twenty ordered the jailer to keep felons and debtors "separate and apart from one another,|
+068799|00-en|en|english/wavs/LJ005-0032.wav|||no weavers' looms or carpenters' benches. There must be a great deal of solitude, coarse food, a dress of shame,|
+068803|00-en|en|english/wavs/LJ007-0194.wav|||the fixing of "inspection holes" in the doors and walls, so as to insure more supervision; of windows opening into the well-holes,|
+068804|00-en|en|english/wavs/LJ008-0143.wav|||This was notably the case at the execution of Holloway and Haggerty|
+068805|00-en|en|english/wavs/LJ009-0017.wav|||For this the chaplain was a few days later summoned before the jail committee of aldermen,|
+068806|00-en|en|english/wavs/LJ009-0209.wav|||which was dressed in blue trousers and a blue-and-white striped waistcoat, but without a coat, as when found in the cell.|
+068810|00-en|en|english/wavs/LJ012-0063.wav|||By-and-by the turnkeys, sobered by their loss, returned to Newgate alone, and pleaded in excuse that they had been drugged.|
+068811|00-en|en|english/wavs/LJ012-0255.wav|||These were the missing members of the same mutilated trunk,|
+068812|00-en|en|english/wavs/LJ013-0151.wav|||Forrester, the detective who had pursued and captured Burgess at Boston, tracked Ker to France, and following him there, eventually captured him|
+068813|00-en|en|english/wavs/LJ014-0075.wav|||He was dressed with particular care, as he was to dine at the Mannings and meet friends, one a young lady.|
+068817|00-en|en|english/wavs/LJ016-0194.wav|||Calcraft thought no more of what had occurred till the next sessions at the Old Bailey, when the sheriffs sent for him,|
+068818|00-en|en|english/wavs/LJ016-0390.wav|||and was arrested on board ship just as he was about to leave the country, had a little spare cash, which he devoted entirely to the purchase of extra food.|
+068819|00-en|en|english/wavs/LJ017-0137.wav|||In the latter hope he was happily disappointed. But as this case is beyond my subject, I merely mention it as one of the group already referred to.|
+068820|00-en|en|english/wavs/LJ018-0047.wav|||He adhered to this almost to the very last. His case had been warmly espoused by the Society for the Protection of Germans in this country,|
+068824|00-en|en|english/wavs/LJ020-0018.wav|||Throw a cloth over the bowl and set by for five or six hours to rise.|
+068825|00-en|en|english/wavs/LJ021-0103.wav|||if they have gone too far in such matters as price fixing and limitation of production,|
+068826|00-en|en|english/wavs/LJ022-0085.wav|||I have set up a Division of Applications and Information|
+068827|00-en|en|english/wavs/LJ023-0074.wav|||But a little later the Court itself admitted|
+068831|00-en|en|english/wavs/LJ028-0037.wav|||It was about twenty-two fifty B.C., when the great Hammurabi made it his capital, that it became the chief city of Babylonia.|
+068832|00-en|en|english/wavs/LJ028-0230.wav|||A battle was fought at a short distance from the city, in which the Babylonians were defeated by the Persian King,|
+068833|00-en|en|english/wavs/LJ028-0422.wav|||Among the later visitors to Babylon was the great Niebuhr.|
+068834|00-en|en|english/wavs/LJ029-0095.wav|||Even before the Trade Mart had been definitely selected, Lawson and Sorrels began to consider the best motorcade route from Love Field to the Trade Mart.|
+068838|00-en|en|english/wavs/LJ032-0162.wav|||Stombaugh testified that the colors, shades, and twist of the fibers found in the tuft on the rifle matched those in Oswald's shirt.|
+068839|00-en|en|english/wavs/LJ033-0079.wav|||sister of the man with whom Oswald drove to work -- Buell Wesley Frazier.|
+068840|00-en|en|english/wavs/LJ034-0057.wav|||In evaluating the significance of these fingerprint and palmprint identifications,|
+068841|00-en|en|english/wavs/LJ035-0031.wav|||He shouted twice, quote, Turn loose the elevator, end quote,|
+068845|00-en|en|english/wavs/LJ038-0102.wav|||Oswald also denied owning a rifle and said that since leaving the Marine Corps he had fired only a small bore twenty-two rifle.|
+068846|00-en|en|english/wavs/LJ038-0296.wav|||Marina Oswald also testified that her husband had used a bus to return home.|
+068847|00-en|en|english/wavs/LJ039-0182.wav|||Five of the six shots hit the third target where the angle of movement of the weapon was small.|
+068848|00-en|en|english/wavs/LJ040-0126.wav|||Oswald was remanded for psychiatric observation to Youth House, an institution in which children are kept for psychiatric observation|
+068852|00-en|en|english/wavs/LJ044-0014.wav|||the New Orleans branch of the Fair Play for Cuba Committee.|
+068853|00-en|en|english/wavs/LJ044-0207.wav|||the economic embargo against that country, and the general policy of the United States with regard to Cuba.|
+068854|00-en|en|english/wavs/LJ045-0161.wav|||He was upset over the fact that I would not answer him.|
+068855|00-en|en|english/wavs/LJ046-0103.wav|||In this connection the information available to Federal agencies about Lee Harvey Oswald|
+068859|00-en|en|english/wavs/LJ049-0079.wav|||Many changes have already been made and others are contemplated, some of them in response to the Commission's questions and informal suggestions.|
+068860|00-en|en|english/wavs/LJ050-0042.wav|||its inability to process large amounts of data, and its failure to provide specific descriptions of the kind of information it sought.|
+068861|00-en|en|english/wavs/LJ050-0234.wav|||It has used other Treasury law enforcement agents on special experiments in building and route surveys in places to which the President frequently travels.|
+068862|01-en|en|english/VCTK-Corpus/wavs/p225/p225_149r.wav|||Shareholders will be asked to approve a new replacement scheme.|
+068866|02-en|en|english/VCTK-Corpus/wavs/p226/p226_283r.wav|||He looked very sharp.|
+068867|03-en|en|english/VCTK-Corpus/wavs/p227/p227_014r.wav|||To the Hebrews it was a token that there would be no more universal floods.|
+068868|03-en|en|english/VCTK-Corpus/wavs/p227/p227_114r.wav|||But we could only help a handful of people.|
+068869|03-en|en|english/VCTK-Corpus/wavs/p227/p227_218r.wav|||The move follows a review of the Singapore|
+068873|04-en|en|english/VCTK-Corpus/wavs/p232/p232_226r.wav|||Mental health is a massive issue.|
+068874|04-en|en|english/VCTK-Corpus/wavs/p232/p232_327r.wav|||My view has now completely changed.|
+068875|05-en|en|english/VCTK-Corpus/wavs/p233/p233_013r.wav|||Some have accepted it as a miracle without physical explanation.|
+068876|05-en|en|english/VCTK-Corpus/wavs/p233/p233_119r.wav|||My office is bare.|
+068880|06-en|en|english/VCTK-Corpus/wavs/p236/p236_146r.wav|||He could do nothing about it.|
+068881|06-en|en|english/VCTK-Corpus/wavs/p236/p236_250r.wav|||That wasn't an outstanding performance from Celtic.|
+068882|06-en|en|english/VCTK-Corpus/wavs/p236/p236_351r.wav|||He had no previous convictions.|
+068883|06-en|en|english/VCTK-Corpus/wavs/p236/p236_451r.wav|||Miss Jackson was not present to put her case.|
+068887|07-en|en|english/VCTK-Corpus/wavs/p243/p243_353r.wav|||The executive has so far not offered any immediate prospect of major change.|
+068888|08-en|en|english/VCTK-Corpus/wavs/p244/p244_056r.wav|||It has been a horrible, horrible time.|
+068889|08-en|en|english/VCTK-Corpus/wavs/p244/p244_156r.wav|||One letter from a teacher arrived at Christmas.|
+068890|08-en|en|english/VCTK-Corpus/wavs/p244/p244_257r.wav|||It was really good in the first week.|
+068894|09-en|en|english/VCTK-Corpus/wavs/p252/p252_242r.wav|||When I was training.|
+068895|09-en|en|english/VCTK-Corpus/wavs/p252/p252_349r.wav|||Maybe she is right.|
+068896|10-en|en|english/VCTK-Corpus/wavs/p254/p254_041r.wav|||It is not for any other purpose.|
+068897|10-en|en|english/VCTK-Corpus/wavs/p254/p254_143r.wav|||I was the last man to touch the ball.|
+068901|11-en|en|english/VCTK-Corpus/wavs/p301/p301_143r.wav|||All things are possible if you believe.|
+068902|11-en|en|english/VCTK-Corpus/wavs/p301/p301_243r.wav|||His son is a local legend.|
+068903|11-en|en|english/VCTK-Corpus/wavs/p301/p301_343r.wav|||Bob Dylan is getting old.|
+068904|12-en|en|english/VCTK-Corpus/wavs/p302/p302_033r.wav|||I've taken to the hills.|
+068908|13-en|en|english/VCTK-Corpus/wavs/p303/p303_121r.wav|||They will know they deserve to be there.|
+068909|13-en|en|english/VCTK-Corpus/wavs/p303/p303_221r.wav|||We have our supporters and our enemies.|
+068910|13-en|en|english/VCTK-Corpus/wavs/p303/p303_322r.wav|||It is too early to speculate.|
+068911|14-en|en|english/VCTK-Corpus/wavs/p305/p305_069r.wav|||Donald Dewar was passionate about his politics.|
+068915|15-en|en|english/VCTK-Corpus/wavs/p306/p306_047r.wav|||But the law is very clear on this.|
+068916|15-en|en|english/VCTK-Corpus/wavs/p306/p306_149r.wav|||I feel my life to be at risk.|
+068917|15-en|en|english/VCTK-Corpus/wavs/p306/p306_252r.wav|||I just saw them for a few minutes.|
+068918|15-en|en|english/VCTK-Corpus/wavs/p306/p306_356r.wav|||No person was charged.|
+068922|16-en|en|english/VCTK-Corpus/wavs/p307/p307_398r.wav|||What other retailer would do this?|
+068923|17-en|en|english/VCTK-Corpus/wavs/p308/p308_076r.wav|||You do have a way out.|
+068924|17-en|en|english/VCTK-Corpus/wavs/p308/p308_176r.wav|||It should have a health warning - it is addictive.|
+068925|17-en|en|english/VCTK-Corpus/wavs/p308/p308_276r.wav|||We've turned the corner.|
+068929|18-en|en|english/VCTK-Corpus/wavs/p310/p310_254r.wav|||We've got no plans with regard to recording, but who knows?|
+068930|18-en|en|english/VCTK-Corpus/wavs/p310/p310_354r.wav|||I could have been offended.|
+068931|19-en|en|english/VCTK-Corpus/wavs/p311/p311_030r.wav|||Strictly speaking, it shouldn't be like this.|
+068932|19-en|en|english/VCTK-Corpus/wavs/p311/p311_130r.wav|||Still, some additions are inspired.|
+068936|20-en|en|english/VCTK-Corpus/wavs/p312/p312_108r.wav|||Then there was her childhood.|
+068937|20-en|en|english/VCTK-Corpus/wavs/p312/p312_208r.wav|||She looked very settled.|
+068938|20-en|en|english/VCTK-Corpus/wavs/p312/p312_308r.wav|||Chris Paterson was outstanding.|
+068939|20-en|en|english/VCTK-Corpus/wavs/p312/p312_409r.wav|||I put pressure on him.|
+068943|21-en|en|english/VCTK-Corpus/wavs/p316/p316_392r.wav|||It will benefit a lot of people.|
+068944|22-en|en|english/VCTK-Corpus/wavs/p329/p329_069r.wav|||What happens when the funding is exhausted.|
+068945|22-en|en|english/VCTK-Corpus/wavs/p329/p329_169r.wav|||We couldn't go very fast.|
+068946|22-en|en|english/VCTK-Corpus/wavs/p329/p329_269r.wav|||Top-up fees are not on the agenda.|
+068950|23-en|en|english/VCTK-Corpus/wavs/p330/p330_245r.wav|||He loved his job and working in newspapers.|
+068951|23-en|en|english/VCTK-Corpus/wavs/p330/p330_345r.wav|||Hopefully we can use this as a platform.|
+068952|24-en|en|english/VCTK-Corpus/wavs/p333/p333_022r.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+068953|24-en|en|english/VCTK-Corpus/wavs/p333/p333_123r.wav|||Martin Johnson, the England captain, was back, and commanding.|
+068957|25-en|en|english/VCTK-Corpus/wavs/p334/p334_101r.wav|||I would never even consider it.|
+068958|25-en|en|english/VCTK-Corpus/wavs/p334/p334_202r.wav|||We welcome this increase in the minimum wage.|
+068959|25-en|en|english/VCTK-Corpus/wavs/p334/p334_302r.wav|||I just need a bit of luck.|
+068960|25-en|en|english/VCTK-Corpus/wavs/p334/p334_402r.wav|||The report is due out next month.|
+068964|26-en|en|english/VCTK-Corpus/wavs/p339/p339_379r.wav|||It decided to blame the media.|
+068965|27-en|en|english/VCTK-Corpus/wavs/p341/p341_055r.wav|||I've just got to do this.|
+068966|27-en|en|english/VCTK-Corpus/wavs/p341/p341_155r.wav|||We would welcome a greater emphasis on carcasses.|
+068967|27-en|en|english/VCTK-Corpus/wavs/p341/p341_256r.wav|||Mind you, who wouldn't?|
+068971|28-en|en|english/VCTK-Corpus/wavs/p343/p343_252r.wav|||Of course, it is a tough assignment.|
+068972|28-en|en|english/VCTK-Corpus/wavs/p343/p343_356r.wav|||It comes down to the police in England.|
+068973|29-en|en|english/VCTK-Corpus/wavs/p345/p345_058r.wav|||I've never seen anything like it.|
+068974|29-en|en|english/VCTK-Corpus/wavs/p345/p345_158r.wav|||We are trying to clarify the issues.|
+068978|30-en|en|english/VCTK-Corpus/wavs/p360/p360_161r.wav|||I told them they shouldn't say that.|
+068979|30-en|en|english/VCTK-Corpus/wavs/p360/p360_261r.wav|||The distinction is also supported by doctors.|
+068980|30-en|en|english/VCTK-Corpus/wavs/p360/p360_361r.wav|||That would be very good for Rangers.|
+068981|31-en|en|english/VCTK-Corpus/wavs/p361/p361_037r.wav|||This decision is folly.|
+068985|32-en|en|english/VCTK-Corpus/wavs/p362/p362_014r.wav|||To the Hebrews it was a token that there would be no more universal floods.|
+068986|32-en|en|english/VCTK-Corpus/wavs/p362/p362_114r.wav|||He had returned to die.|
+068987|32-en|en|english/VCTK-Corpus/wavs/p362/p362_215r.wav|||We are not a retailer, we provide a service.|
+068988|32-en|en|english/VCTK-Corpus/wavs/p362/p362_315r.wav|||So other options had to be explored.|
+068992|33-en|en|english/VCTK-Corpus/wavs/p363/p363_292r.wav|||It was an achievement all right.|
+068993|33-en|en|english/VCTK-Corpus/wavs/p363/p363_394r.wav|||The whole thing has been a nightmare.|
+068994|00-es|es|spanish/batalla_arapiles/batalla_arapiles_4561.wav|||Estás salvada. escóndete allí. pasa a tu alcoba. Déjame recoger estos vasos de valor, estos candelabros de plata.|
+068995|00-es|es|spanish/bailen/bailen_0010.wav|||Doña María, al escuchar esto, palideció, y luego las centellas de la ira brillaron en sus ojos.|
+068999|00-es|es|spanish/19demarzo/19demarzo_0368.wav|||El piquete de guardias de a caballo trató de conducir al Príncipe al cuartel,|
+069000|00-es|es|spanish/bailen/bailen_0779.wav|||Aquella y esta eran de las que tienen el privilegio de no ser nunca olvidadas, pues su curva nariz, sus cabellos entrecanos,|
+069001|00-es|es|spanish/19demarzo/19demarzo_0523.wav|||Pero en resumen -dijo al fin- ¿qué es lo que mi señor sacristán espera? ¿Cuenta, sin duda, con ordenarse de menores para|
+069002|00-es|es|spanish/bailen/bailen_2491.wav|||entramos en Portugal, y aunque al poco tiempo tuvimos que volvernos, porque el inglés se nos puso por delante, se dieron unas batallas.|
+069006|00-es|es|spanish/batalla_arapiles/batalla_arapiles_1272.wav|||A casa, a casa. Te mandaré mañana con un regalito para el señor Molichard. Dame tu carta.|
+069007|00-es|es|spanish/19demarzo/19demarzo_0052.wav|||y muchos de los que se alojaban en las casas de aquella calle debieron la vida a la tenacidad con que sus patronos les impidieron la salida.|
+069008|00-es|es|spanish/batalla_arapiles/batalla_arapiles_1735.wav|||Ven al instante, trazado en caracteres que reconocí al momento.|
+069009|00-es|es|spanish/batalla_arapiles/batalla_arapiles_1220.wav|||Bien decía mistress Mitchell, que este animal no sirve para nada. A mí, sin embargo, me pareció digno del carro de Faetonte.|
+069013|00-es|es|spanish/batalla_arapiles/batalla_arapiles_0116.wav|||estoy decidida a ir a la corte.|
+069014|00-es|es|spanish/19demarzo/19demarzo_1379.wav|||si sigues trabajando, a vuelta de diez años tendrás reunidos sesenta duros, y si siempre persistes en tan buenas ideas, llegarás al fin de tu vida.|
+069015|00-es|es|spanish/bailen/bailen_0342.wav|||Habían pasado quinientos noventa y seis años. La coincidencia del lugar y la fecha nos inflamaba más,|
+069016|00-es|es|spanish/19demarzo/19demarzo_1649.wav|||y Dios sabe que hasta hoy no he salido de pobre. Mucho romper de zapatos para andar en las actuaciones y nada más.|
+069020|00-es|es|spanish/batalla_arapiles/batalla_arapiles_2370.wav|||arde en el deseo fogoso de una vida grandiosa, de lucha, de peligro, y no quiere asociar su existencia a la menguada medianía de un hogar pacífico,|
+069021|00-es|es|spanish/batalla_arapiles/batalla_arapiles_0638.wav|||cosas ambas bonísimas, y a las cuales deberemos el triunfo al fin y a la postre.|
+069022|00-es|es|spanish/batalla_arapiles/batalla_arapiles_2735.wav|||ni daba ella al viento la cabellera, cual llama de fuego simbolizando el pensamiento,|
+069023|00-es|es|spanish/19demarzo/19demarzo_0406.wav|||aquí no servís más que de estorbo. Idos a jugar. Vaya, para que os quitéis de en medio, os permito que toquéis un poquito las campanas, picarones.|
+069027|00-es|es|spanish/bailen/bailen_3073.wav|||Al mover la mano me lastimé un dedo|
+069028|00-es|es|spanish/bailen/bailen_3000.wav|||¡Dios mío! ¡Esas mujeres que pasan corriendo! Sin duda los muy tunantes intentan deshonrarlas. Me voy.|
+069029|00-es|es|spanish/bailen/bailen_1163.wav|||y como el ruido no me dejaba pensar, busqué la soledad de aquel lugar recogido y pacífico,|
+069030|00-es|es|spanish/bailen/bailen_0677.wav|||Para concertarse de nuevo y formar otra vez sus columnas tuvieron que retroceder al otro lado del puente del Herrumblar.|
+069034|00-es|es|spanish/bailen/bailen_3068.wav|||me preguntó con perplejidad. Yo haré lo que deba, Inesilla.|
+069035|00-es|es|spanish/batalla_arapiles/batalla_arapiles_2121.wav|||Te lo regalaré con albarda y todo. mas no busques ya nada en ella. Lo que merezcas te lo daré cuando nos hallemos sin peligro fuera de las puertas de la ciudad|
+069036|00-es|es|spanish/batalla_arapiles/batalla_arapiles_4443.wav|||El dominio de aquella hermosa y excelente criatura sobre su padre era tan grande que Santorcaz pareció creerlo todo tal como ella lo decía.|
+069037|00-es|es|spanish/19demarzo/19demarzo_1181.wav|||cuando estamos perplejos sin saber qué dirección tomar, si el cuerpo se abandona a su instinto, se inclinará hacia la derecha,|
+069041|00-es|es|spanish/19demarzo/19demarzo_0556.wav|||para que refrescando en ella nos contemos nuestras vidas. Lopito era un chicuelo de esos que prematuramente se quieren hacer pasar por hombres,|
+069042|00-es|es|spanish/bailen/bailen_1370.wav|||Estas conversaciones me enamoran -dijo el condesito de Rumblar-. Me estaría toda la noche oyendo a este hombre, sin cansarme.|
+069043|00-es|es|spanish/batalla_arapiles/batalla_arapiles_2105.wav|||Excelencia, la mesonera me dijo que estabais aquí, y he venido a deciros. ¿Qué?|
+069044|00-es|es|spanish/19demarzo/19demarzo_2786.wav|||También conozco a dos oficiales franceses. ¿Podrán hacer algo por ella? Vamos: las diez. ¡Ay! ¿No oíste una descarga?|
+069048|00-es|es|spanish/bailen/bailen_2343.wav|||las cuales personas eran los vecinos más adictos a la simpática persona del Gran Capitán, y además entusiastas creyentes de sus noticias,|
+069049|00-es|es|spanish/19demarzo/19demarzo_0975.wav|||y la longanimidad de los Requejos. Pero sigamos la descripción de la casa.|
+069050|00-es|es|spanish/batalla_arapiles/batalla_arapiles_0440.wav|||No había acabado el capítulo hermosísimo que se titula, Descripción de la miseria humana y origen de su fragilidad, cuando sentí un calofrío muy intenso en todo mi cuerpo,|
+069051|00-es|es|spanish/bailen/bailen_1200.wav|||Dictábalas el entusiasmo y las devoraba la credulidad, y como nadie las discutía, el efecto era inmenso. Según la Gaceta Ministerial,|
+069055|00-es|es|spanish/batalla_arapiles/batalla_arapiles_2932.wav|||Llamando a mi asistente que estaba en la calle, le di orden de que proporcionase a Inés cuanto fuese preciso y existiera en el lugar.|
+069056|00-es|es|spanish/batalla_arapiles/batalla_arapiles_1461.wav|||Uno, dos, tres, cuatro. allí traen otro. Son cinco. Y esa tierra, mi sargento, ¿para qué es? No he visto un animal semejante.|
+069057|00-es|es|spanish/batalla_arapiles/batalla_arapiles_4212.wav|||Padre -dijo Inés sin dar gran importancia al frenesí del anciano-. ¿No me has dicho que esta casa es mía? ¿No me has entregado las llaves?|
+069058|01-es|es|spanish/slr72/wavsfemale/cof_00610_00558869711r.wav|||¿Te gustan los chocolates?|
+069059|02-es|es|spanish/slr72/wavsfemale/cof_01523_00162566952r.wav|||¿Quieres que yo compre los boletos o quieres bajar la aplicación para que los compres tu?|
+069060|02-es|es|spanish/slr72/wavsfemale/cof_01523_00176362672r.wav|||Frida Kahlo estipula en su diario que Diego Rivera era muy promiscuo|
+069061|03-es|es|spanish/slr72/wavsfemale/cof_02436_00073935569r.wav|||Hay varias agencias de carros que venden carros usados en muy buen estado.|
+069062|04-es|es|spanish/slr72/wavsfemale/cof_02484_00542062876r.wav|||Es que soñé con este actor, este actor que sale en la película ésta del Petróleo Sangriento|
+069063|05-es|es|spanish/slr72/wavsfemale/cof_03034_00104324646r.wav|||Los cabecillas de la banda huyeron a caballo|
+069064|05-es|es|spanish/slr72/wavsfemale/cof_03034_00037205672r.wav|||Recomiéndame un libro de gastronomía.|
+069065|06-es|es|spanish/slr72/wavsfemale/cof_03349_01534210919r.wav|||¿Has volado en helicóptero?|
+069066|07-es|es|spanish/slr72/wavsfemale/cof_03397_00123924069r.wav|||Me parece muy interesante el libro de Rafael sobre fotografía digital|
+069067|07-es|es|spanish/slr72/wavsfemale/cof_03397_02090736623r.wav|||Mañana va a llover en la tarde después de las cuatro y media|
+069068|08-es|es|spanish/slr72/wavsfemale/cof_04310_01286052054r.wav|||Resérvame una mesa en el restaurante de aquí al lado y diles que quiero comer merluza al horno|
+069069|09-es|es|spanish/slr72/wavsfemale/cof_05223_00495290213r.wav|||¿Cuál es la pizza que tiene menos calorías?|
+069070|09-es|es|spanish/slr72/wavsfemale/cof_05223_00407364298r.wav|||Voy a llevar a mi sobrino a Disney World y quería saber los horarios del parque para planearlo todo muy bien|
+069071|10-es|es|spanish/slr72/wavsfemale/cof_06136_01866882559r.wav|||La mermelada de zarzamora es muy fácil de hacer|
+069072|11-es|es|spanish/slr72/wavsfemale/cof_07049_00645257110r.wav|||Oye, quiero invitar a unos profesores a cenar y los quiero impresionar.|
+069073|11-es|es|spanish/slr72/wavsfemale/cof_07049_01392932352r.wav|||Acabo de ver unas estadísticas impactantes|
+069074|12-es|es|spanish/slr72/wavsfemale/cof_07508_01432323661r.wav|||Tengo muchísimas ganas de ver una película|
+069075|13-es|es|spanish/slr72/wavsfemale/cof_08421_00540681329r.wav|||No te entiendo nada|
+069076|13-es|es|spanish/slr72/wavsfemale/cof_08421_01887055337r.wav|||¿Sabes de electricidad?, necesito cambiar un enchufe y no se como|
+069077|14-es|es|spanish/slr72/wavsfemale/cof_08784_01406740186r.wav|||¿En qué calle está la casa?|
+069078|15-es|es|spanish/slr72/wavsfemale/cof_09334_00220654375r.wav|||La mermelada de zarzamora es muy fácil de hacer|
+069079|15-es|es|spanish/slr72/wavsfemale/cof_09334_01691228557r.wav|||¿Me ayudas a buscar una tienda dónde pueda comprarle un regalo a mi abuela?|
+069080|16-es|es|spanish/slr72/wavsfemale/cof_09697_00675335120r.wav|||Nuria podrías ponerme alguna obra de teatro para hoy en la noche|
+069081|17-es|es|spanish/slr72/wavsmale/com_00610_01485382013r.wav|||La pijama de rayas es azul|
+069082|18-es|es|spanish/slr72/wavsmale/com_01523_00993397923r.wav|||¿A qué hora termina el espectáculo?|
+069083|19-es|es|spanish/slr72/wavsmale/com_02121_01523018450r.wav|||Los zapatos se estropearon con la lluvia torrencial de ayer|
+069084|19-es|es|spanish/slr72/wavsmale/com_02121_01932101056r.wav|||Para que el sabor de la comida mediterránea realmente resalte se recomienda un vino más seco|
+069085|20-es|es|spanish/slr72/wavsmale/com_02436_00797152815r.wav|||Los sandwiches están fríos|
+069086|21-es|es|spanish/slr72/wavsmale/com_02484_01137326833r.wav|||Resérvame tres boletos por favor para la función de las nueve menos cuarto|
+069087|21-es|es|spanish/slr72/wavsmale/com_02484_01508339593r.wav|||La calle está llena de huecos|
+069088|22-es|es|spanish/slr72/wavsmale/com_03034_01367139437r.wav|||La actividad física es buena para el mejor funcionamiento del cerebro|
+069089|23-es|es|spanish/slr72/wavsmale/com_03349_02041756502r.wav|||Necesito que me ayudes con mi tarea.|
+069090|23-es|es|spanish/slr72/wavsmale/com_03349_00335818362r.wav|||Ando un poco pensativo.|
+069091|24-es|es|spanish/slr72/wavsmale/com_03397_00219430604r.wav|||Según mis datos este lunes quince de Abril no hay partidos de bádminton|
+069092|25-es|es|spanish/slr72/wavsmale/com_04310_01066632473r.wav|||En tu zona hay tres paradas de bicicleta urbana|
+069093|25-es|es|spanish/slr72/wavsmale/com_04310_00699672972r.wav|||¿Cómo se alimenta a un hurón?|
+069094|26-es|es|spanish/slr72/wavsmale/com_05223_01274585254r.wav|||¿Quieres algún dato en específico?|
+069095|27-es|es|spanish/slr72/wavsmale/com_06136_01603776550r.wav|||La obra se va a presentar todos los fines de semana de enero a marzo|
+069096|27-es|es|spanish/slr72/wavsmale/com_06136_02032510783r.wav|||Las tejas rojas del tejado no son de México, son de Texas|
+069097|28-es|es|spanish/slr72/wavsmale/com_07049_01017853622r.wav|||¿Quieres que te recomiende algo en particular?|
+069098|29-es|es|spanish/slr72/wavsmale/com_07508_00350008159r.wav|||Vientos y tormentas todo el día, lleve un buen paraguas, por ahí un impermeable|
+069099|29-es|es|spanish/slr72/wavsmale/com_07508_00060372624r.wav|||Mis hijos me están pidiendo que les baje unos podcasts|
+069100|30-es|es|spanish/slr72/wavsmale/com_08421_01186001329r.wav|||La mayoría de los televisores ahora tienen acceso a Youtube.|
+069101|31-es|es|spanish/slr72/wavsmale/com_08784_00897538358r.wav|||Los corazones de pollo son una delicia|
+069102|31-es|es|spanish/slr72/wavsmale/com_08784_00324113477r.wav|||De postre voy a servir plátanos a la crema de cafe|
+069103|32-es|es|spanish/slr72/wavsmale/com_09334_00144346144r.wav|||Los murales de Diego Rivera son muy famosos.|
+069104|33-es|es|spanish/slr72/wavsmale/com_09697_01656734268r.wav|||Los boletos cuestan alrededor de trescientos yenes japoneses|
+069105|33-es|es|spanish/slr72/wavsmale/com_09697_02037437262r.wav|||¿Usted se considera una persona de playa o de montaña?|
+069106|00-fr|fr|french/lesmis/lesmis_1379.wav|||sans faire de brèche praticable, avait assez largement échancré le milieu de la redoute; là,|
+069107|00-fr|fr|french/lupincontresholme/lupincontresholme_3029.wav|||Sholmès se courba vivement et couvrit son visage de ses deux mains afin de masquer sa rougeur.|
+069111|00-fr|fr|french/lesmis/lesmis_3440.wav|||aucune des impressions humaines, ni les impressions plaisantes, ni les impressions|
+069112|00-fr|fr|french/lupincontresholme/lupincontresholme_0393.wav|||Jamais Ganimard n'oserait violer la demeure d'un citoyen français. Nous aurions le temps de faire un excellent bridge.|
+069113|00-fr|fr|french/lesmis/lesmis_0126.wav|||Barthélemy, maigre, chétif, pâle, taciturne,|
+069114|00-fr|fr|french/lesmis/lesmis_4206.wav|||ni à faire taire quelqu'un qui me parle bas quand je suis seul. C'est pourquoi je suis venu vous avouer tout ce matin. Tout, ou à peu près tout.|
+069118|00-fr|fr|french/lesmis/lesmis_1495.wav|||Grâce à lui, partout présent dans le carnage comme une providence, ceux qui tombaient étaient relevés, transportés dans la salle basse, et pansés.|
+069119|00-fr|fr|french/lesmis/lesmis_2171.wav|||Il sentait entre ses jambes le glissement rapide des rats. Un d'eux fut effaré au point de le mordre.|
+069120|00-fr|fr|french/lupincontresholme/lupincontresholme_0782.wav|||Je ne puis croire une pareille erreur est inadmissible Monsieur d'Hautrec, vous reconnaissez bien Antoinette Bréhat?|
+069121|00-fr|fr|french/lupincontresholme/lupincontresholme_0965.wav|||Il me manque les éléments, les indices sur lesquels j'ai l'habitude d'appuyer mes enquêtes.|
+069125|00-fr|fr|french/lesmis/lesmis_1145.wav|||le souffle des masses armées mises en mouvement dans des rues qu'on ne voyait pas, le galop intermittent de la cavalerie,|
+069126|00-fr|fr|french/lupincontresholme/lupincontresholme_1770.wav|||En l'absence de cette personne, il a dû se jeter sur vous, et c'est au cours de la lutte, pour défendre votre vie, que vous l'avez frappé.|
+069127|00-fr|fr|french/lesmis/lesmis_2176.wav|||deux autres galeries souterraines, celle de la rue de Provence et celle de l'Abattoir, viennent faire un carrefour.|
+069128|00-fr|fr|french/lesmis/lesmis_5003.wav|||Ancien ambassadeur, et une note que nous transcrivons également:|
+069132|00-fr|fr|french/lesmis/lesmis_1275.wav|||La génuflexion devant l'idole ou devant l'écu atrophie le muscle qui marche et la volonté qui va.|
+069133|00-fr|fr|french/lesmis/lesmis_5099.wav|||car c'était bien lui, était étrangement surpris; il eût été troublé s'il avait pu l'être.|
+069134|00-fr|fr|french/lesmis/lesmis_5030.wav|||au centre une cour intérieure où sont les provisions et les munitions, pas de fenêtres, des meurtrières, pas de porte, des échelles,|
+069135|00-fr|fr|french/lesmis/lesmis_5414.wav|||C'est plus joli, meilleur, et moins cher. Vous comprenez tout l'argent qu'on peut gagner. La fortune de Cosette est donc bien à elle.|
+069139|00-fr|fr|french/lesmis/lesmis_1926.wav|||le plongeur peut y disparaítre. La transition était inouíe. Au milieu même de la ville,|
+069140|00-fr|fr|french/lesmis/lesmis_3283.wav|||L'homme aperçu un soir une première fois par Boulatruelle, c'était Jean Valjean. Plus tard,|
+069141|00-fr|fr|french/lupincontresholme/lupincontresholme_0991.wav|||Maintenant, parlons du diamant bleu. Aviez-vous essayé de vous l'approprier depuis que le Baron d'Hautrec le possédait? Non.|
+069142|00-fr|fr|french/lupincontresholme/lupincontresholme_0486.wav|||Il n'avait pas repoussé la grille que, frappé par le grand air, le visage rafraíchi par la pluie, il s'arrêta.|
+069146|00-fr|fr|french/lesmis/lesmis_5035.wav|||c'est que ce pays est dangereux; il est plein d'anthropophages. Alors pourquoi y va-t-on? c'est que ce pays est merveilleux;|
+069147|00-fr|fr|french/lesmis/lesmis_0786.wav|||Quand on est amoureux comme un tigre, c'est bien le moins qu'on se batte comme un lion. C'est une façon de nous venger des traits que nous font mesdames nos grisettes.|
+069148|00-fr|fr|french/lupincontresholme/lupincontresholme_0118.wav|||Toute la presse se rua chez Maítre Detinan,|
+069149|00-fr|fr|french/lupincontresholme/lupincontresholme_0299.wav|||Et Suzanne? Où est ma fille? Arsène Lupin ferma la porte soigneusement|
+069153|00-fr|fr|french/lesmis/lesmis_2021.wav|||et s'il trouvait l'ouverture qui s'offrait moins large que le corridor où il était, il n'entrait pas et continuait sa route,|
+069154|00-fr|fr|french/lupincontresholme/lupincontresholme_1327.wav|||Victoire! Victoire! s'écria Sholmès, je tiens une extrémité du fil. De quel fil? Celui qui me mènera au but!|
+069155|00-fr|fr|french/lupincontresholme/lupincontresholme_1904.wav|||Mais elles sont inutiles. D'accord. Cependant vous ne m'en voudrez pas de les prendre. C'est votre devoir.|
+069156|00-fr|fr|french/lupincontresholme/lupincontresholme_2859.wav|||ils ont frété un superbe canot, un vrai navire de guerre, et les voilà qui font force rames. Avant cinq minutes, ce sera l'abordage et je suis perdu.|
+069160|00-fr|fr|french/lesmis/lesmis_0583.wav|||Voilà un fusil qui ne fait rien. l'ordre donné par Enjolras, il se leva.|
+069161|00-fr|fr|french/lesmis/lesmis_0532.wav|||Gavroche n'était point sans quelque remords à l'endroit de cette lettre. Dans sa hâte de revenir à la barricade, il s'en était défait plutôt qu'il ne l'avait remise.|
+069162|00-fr|fr|french/lesmis/lesmis_5193.wav|||Je dis assassinat et vol, monsieur le baron. Et je répète que je parle de faits actuels.|
+069163|00-fr|fr|french/lupincontresholme/lupincontresholme_0248.wav|||sinon bonsoir: il rejoint Lupin au rendez-vous qu'ils ont dû fixer,|
+069167|00-fr|fr|french/lupincontresholme/lupincontresholme_1018.wav|||Il n'y a pas d'obstacle invincible, Monsieur Lupin. Le regard qu'ils échangèrent fut profond,|
+069168|00-fr|fr|french/lesmis/lesmis_0165.wav|||On avait trouvé dans la cave une quinzaine de bouteilles pleines, hermétiquement cachetées. Enjolras et Combeferre les examinèrent.|
+069169|00-fr|fr|french/lesmis/lesmis_4823.wav|||il avait eu, sans les chercher, de mystérieux renseignements qu'il n'avait pu, à la vérité, approfondir,|
+069170|02-fr|fr|french/fr/wavs/02/common_voice_fr_18814368.wav|||six rue des Imbergères, quatre-vingt-douze mille trois cent trente Sceaux|
+069171|04-fr|fr|french/fr/wavs/04/common_voice_fr_18573287.wav|||C'est ce qu'on appelle l'apostrophe de Mirabeau.|
+069172|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576258.wav|||Pierre Leroux et Michel Chrestien revendiquèrent le droit de lire un programme de réformes.|
+069173|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576391.wav|||Le long des magasins, une bande affolée creusa les rangs à l'inverse.|
+069174|04-fr|fr|french/fr/wavs/04/common_voice_fr_18576693.wav|||Une andouille a tort de penser à la plupart des oligarques accoutumés au luxe.|
+069175|04-fr|fr|french/fr/wavs/04/common_voice_fr_18602425.wav|||Elle était sur la place, contre la grille qu'empoignaient ses gants rouges.|
+069176|04-fr|fr|french/fr/wavs/04/common_voice_fr_18602833.wav|||Sa face aquiline laurée de grosses mèches grises aspirait l'odeur du triomphe.|
+069177|04-fr|fr|french/fr/wavs/04/common_voice_fr_18603238.wav|||Je lui ai fait part de ma proposition.|
+069178|04-fr|fr|french/fr/wavs/04/common_voice_fr_18603370.wav|||Elles ne grognent pas.|
+069179|05-fr|fr|french/fr/wavs/05/common_voice_fr_18444699.wav|||Dubourg continuait à vivre en maítre dans son hôtel vendu.|
+069180|06-fr|fr|french/fr/wavs/06/common_voice_fr_18863914.wav|||Léopardin sort par la droite, troisième plan.|
+069181|07-fr|fr|french/fr/wavs/07/common_voice_fr_18084791.wav|||un chemin du Moulin de Razès-Bas, quatre-vingt-sept mille six cent quarante Razès|
+069182|07-fr|fr|french/fr/wavs/07/common_voice_fr_18085063.wav|||Le voisin ne rentre jamais avant onze heures.|
+069183|08-fr|fr|french/fr/wavs/08/common_voice_fr_18648481.wav|||Il y a trop de touristes de nos jours.|
+069184|09-fr|fr|french/fr/wavs/09/common_voice_fr_18652940.wav|||Les mentalistes impatients grimpent étrangement sur les sonorités en Suisse.|
+069185|09-fr|fr|french/fr/wavs/09/common_voice_fr_18653084.wav|||Plus il tentait de surveiller ses arrières, plus il se persuadait être suivi.|
+069186|09-fr|fr|french/fr/wavs/09/common_voice_fr_18653219.wav|||Il est bien gentil, mais il est un peu trop dans les nuages.|
+069187|10-fr|fr|french/fr/wavs/10/common_voice_fr_18877970.wav|||Je reconnus que c'étaient des yeux.|
+069188|11-fr|fr|french/fr/wavs/11/common_voice_fr_17861557.wav|||Rue du Rivraud au numéro vingt-trois|
+069189|11-fr|fr|french/fr/wavs/11/common_voice_fr_17861658.wav|||Je partage évidemment l'avis du rapporteur et du garde des sceaux.|
+069190|11-fr|fr|french/fr/wavs/11/common_voice_fr_17863373.wav|||L'Océan Pacifique.|
+069191|11-fr|fr|french/fr/wavs/11/common_voice_fr_17872480.wav|||Au ministre de la guerre.|
+069192|14-fr|fr|french/fr/wavs/14/common_voice_fr_18197093.wav|||cinq rue du Pousadou, zéro neuf, trois cent cinquante à Campagne-sur-Arize|
+069193|15-fr|fr|french/fr/wavs/15/common_voice_fr_17747549.wav|||C'est ce qui, finalement, nous différencie.|
+069194|16-fr|fr|french/fr/wavs/16/common_voice_fr_18143612.wav|||Je le conçois.|
+069195|16-fr|fr|french/fr/wavs/16/common_voice_fr_18143885.wav|||C'est cela, les petits salariés dont vous parlez.|
+069196|17-fr|fr|french/fr/wavs/17/common_voice_fr_18130661.wav|||La parole est à Monsieur Dominique Tian, pour soutenir l'amendement numéro cent trente-quatre.|
+069197|19-fr|fr|french/fr/wavs/19/common_voice_fr_18088578.wav|||Cet également a également été rédigé par notre collègue Bernard Accoyer.|
+069198|19-fr|fr|french/fr/wavs/19/common_voice_fr_18096575.wav|||Quel est le code du secteur?|
+069199|19-fr|fr|french/fr/wavs/19/common_voice_fr_18103636.wav|||Quelle bavarde!|
+069200|20-fr|fr|french/fr/wavs/20/common_voice_fr_17778478.wav|||Moi. Défends-toi, Cadio.|
+069201|20-fr|fr|french/fr/wavs/20/common_voice_fr_17778708.wav|||Sa maison de Châtillon fut prise et pillée.|
+069202|21-fr|fr|french/fr/wavs/21/common_voice_fr_18239818.wav|||Ton oncle a refusé de le voir. et il a bien fait.|
+069203|21-fr|fr|french/fr/wavs/21/common_voice_fr_18240216.wav|||Nous avons bien cru au narwal de monsieur.|
+069204|21-fr|fr|french/fr/wavs/21/common_voice_fr_18240434.wav|||De l'éther! vite, apporte de l’éther!|
+069205|22-fr|fr|french/fr/wavs/22/common_voice_fr_18771293.wav|||Prends garde! jenny et GABRIELLE.|
+069206|25-fr|fr|french/fr/wavs/25/common_voice_fr_18493698.wav|||Je vais à table.|
+069207|26-fr|fr|french/fr/wavs/26/common_voice_fr_18408560.wav|||Disons que vous serez encore plus liée demain.|
+069209|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0825.wav|||dōngjīng yě wúfēi shì zhèyáng。 shàngyě de yīnghuā lànmàn de shíjié， wàngqù què yě xiàng fēihóng de qīngyún，|
+069210|00-zh|zh|chinese/call_to_arms/call_to_arms_0907.wav|||nà háizǐ què hàixīu， jǐnjǐn de zhǐ tiē zài tā bèihòu。 tā jìushì shǔishēng? dìwǔgè?|
+069211|00-zh|zh|chinese/call_to_arms/call_to_arms_1706.wav|||qícì biànshì yītóng qù fàngníu， dàn huòzhě yīnwèi gāoděngdòngwù le de yuángù bà， huángníu shǔiníu dū qīshēng， gǎnyú qīwǔ wǒ，|
+069212|00-zh|zh|chinese/call_to_arms/call_to_arms_1619.wav|||cóng zhè héchí lǐ， sūirán cónglái méiyǒu jiàn guòyǎng chūbànduǒ héhuā lái， ránér yǎng xiāmá què shízài shì yīgè jí héshì de chùsuǒ。|
+069213|00-zh|zh|chinese/call_to_arms/call_to_arms_0146.wav|||tāmen zhèqúnrén， yòu xiǎng chī rén， yòu shì gǔigǔisùisùi， xiǎngfǎzǐ zhēyǎn， bùgǎn zhíjié xiàshǒu， zhēnyào lìng wǒ xiào sǐ。|
+069216|00-zh|zh|chinese/call_to_arms/call_to_arms_1655.wav|||ránér tā nà zuòbǎn bǐ wǒ de shàng tǔi yào xiádào sìfēnzhīsān， tā de jiǎo bǐ wǒ de xià tǔi yào chángguò sānfēnzhīèr。|
+069217|00-zh|zh|chinese/call_to_arms/call_to_arms_1550.wav|||dàyuē xiǎotù shì shēng xiàlái yòu dū sǐ diào le， yīnwèi cí de yīpǐ de nǎi fēicháng duō， què bìng bùjiàn yǒu jìnqù bǔyǎng háizǐ de xíngjī。|
+069218|00-zh|zh|chinese/call_to_arms/call_to_arms_1279.wav|||zhāobà! chángshān rénwù yě dàshēng shuō。 wǒ běnlái yàolái tóu|
+069219|00-zh|zh|chinese/call_to_arms/call_to_arms_0339.wav|||tā biàn tùi le jībù， xún dào yījiā guānzháo mén de pūzǐ， biéjìn yánxià， kàoménlì zhù le。|
+069220|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0478.wav|||fányǒu yīchù dìfāng， rúguǒ chū le wénshì xuézhě huò mínglíu， tā jiāng bǐtóu yīnǐu， jìu hěn róngyì biànchéng mófànxiàn。|
+069223|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0965.wav|||lián huǒchē shàng de zuòwèi， tāmen yě yào fēnchū zūnbēi lái。 zìjǐ bù zhùyì， yěxǔ yòu yáo le yáotóu。|
+069224|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0379.wav|||xiànzài kànkàn táoānmèng yì， juédé nàshí de sàihùi， zhēnshì háoshē jíle，|
+069225|00-zh|zh|chinese/call_to_arms/call_to_arms_0911.wav|||dōngtiān méiyǒu shíyāo dōngxī le。 zhè yīdiǎn gān qīngdòu dǎo shì zìjiā shài zài nàlǐ de， qǐng lǎoyé wǒ wènwèn tā de jǐngkuàng。|
+069226|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0211.wav|||ránér wǒ yǒu yīshí yě dùi tā fāshēng guò kōngqián de jìngyì。 tā chángcháng dùiwǒjiǎng chángmáo。|
+069227|00-zh|zh|chinese/call_to_arms/call_to_arms_0676.wav|||nv̌rén háizǐ men dū zài zìjǐ ménkǒu de tǔ chángshàng bōxiē shǔi， fàngxià xiǎozhuōzǐ hé ǎidèng;|
+069230|00-zh|zh|chinese/call_to_arms/call_to_arms_0647.wav|||zhèwèi bóshì shì bù dǒng zhōngguó hé mǎláiyǔ de， rénwèn tā， nǐ bù dǒng huà， zěnyāo zǒulù ní?|
+069231|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0104.wav|||xiǎnglái cǎoxí dìng yǐ wēiliáng， tǎng zháo yě bùzhìyú fándé fānláifùqù le。|
+069232|00-zh|zh|chinese/call_to_arms/call_to_arms_1179.wav|||chuán de shǐmìng， zhàojiā běnlái shì hěn mìmì de，|
+069233|00-zh|zh|chinese/call_to_arms/call_to_arms_1618.wav|||kuānyǒu èrchǐ， shì zhòngmì suǒjué， yǐzhǒng héhuā de héchí。|
+069234|00-zh|zh|chinese/call_to_arms/call_to_arms_0053.wav|||xǔduōnián， wǒ biàn yù zài zhè wūlǐ chāogǔbēi。 kèzhōngshǎo yǒurén lái， gǔbēi zhōng yě yùbùdào shíyāo wèntí hé zhǔyì，|
+069237|00-zh|zh|chinese/call_to_arms/call_to_arms_1353.wav|||zhào lǎolì sūirán yě kěyǐ jiào tàitài dàn tā yòu bù yuànyì tàishǒu jìu， yúshì jìu fāmíng le yīgè wèi zì。 tàitài dùi tā què lián wèi zì yě méiyǒu，|
+069238|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0803.wav|||èr tāmen juédé kāi méikuàng bìng bùnán。|
+069239|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0238.wav|||huányǒu xǔduō míngmù hěnshēng de shūjí。 wǒ nàshí zùi àikàn de shì huājìng， shàngmiàn yǒu xǔduō tú。|
+069240|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0107.wav|||zǔmǔ tāmen sūirán chánghèn shǔzǐmen nièpò le xiānggùi， tōuchī le dōngxī， wǒ què yǐwèi zhè yě suànbùdé shíyāo dàzùi， yě hé wǒ bùxiānggān，|
+069241|00-zh|zh|chinese/call_to_arms/call_to_arms_1201.wav|||zōuqīsǎo de nv̌ér guò jīnián zàishuō。 jiǎyánggǔizǐ de lǎopó hùi hé méiyǒu biànzǐ de nánrén shùijué， xià， bùshì hǎo dōngxī!|
+069244|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0787.wav|||báizhǐ shíyìn de yīhòuběn， jià wǔbǎiwén zhèng。 fānkāi yīkàn， shì xiě dé hěn hǎo de zì， kāishǒu biàn dào:|
+069245|00-zh|zh|chinese/call_to_arms/call_to_arms_1311.wav|||sìnián zhīqián， tā céng zài shānjiǎoxià yùjiàn yīzhǐ èláng， yǒngshì bùjìn bùyuǎn de gēndìng tā， yào chī tā de ròu。 tā nàshí xià dé jīhū yàosǐ，|
+069246|00-zh|zh|chinese/call_to_arms/call_to_arms_1425.wav|||fāng tàitài jiàn tā qiánghéng dào chūhū qínglǐ zhīwài le， yě zànshí kāi bùdé kǒu。|
+069247|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0330.wav|||zìrán， bìxū bùgù xìngmìng， zhècái xiàogǎn shénmíng， hùi yǒu chūhūyìliào zhīwài de qíjī，|
+069248|00-zh|zh|chinese/call_to_arms/call_to_arms_0963.wav|||zhào tàiyé tiàoguòqù， gěi le tā yīgè zǔibā。 nǐ zěnyāo hùixìng zhào! - nǐ nàlǐ pèixìng zhào!|
+069251|00-zh|zh|chinese/call_to_arms/call_to_arms_1071.wav|||tǎngzài biéjiā， chī guò wǎnfàn běn kěyǐ húiqù de le，|
+069252|00-zh|zh|chinese/call_to_arms/call_to_arms_1457.wav|||zhǐ shèngxià yīdūi sùipiàn le。 tā bù zìjué de xuánzhuǎn le juédé huànsàn le shēnqū， wǎngwǎng de zǒuxiàng gūijiā de lù。|
+069253|00-zh|zh|chinese/call_to_arms/call_to_arms_0539.wav|||dàn dānsì sǎozǐ dài tā de bǎoér， shízài yǐjīng jǐn le xīn， zài méiyǒu shíyāo quēxiàn。|
+069254|00-zh|zh|chinese/call_to_arms/call_to_arms_1209.wav|||dàn ān mén zhǐ kāi le yītiáo féng， bìng wú hēigǒu cóngzhōng chōngchū， wàng jìnqù zhǐyǒu yīgè lǎo nígū。|
+069255|00-zh|zh|chinese/call_to_arms/call_to_arms_1426.wav|||wǒ xiǎng， zhè móyáng shì nào bù xiàqù de， jiānglái zǒngdé xiǎngdiǎnfǎ， zuòdiǎn shíyāo biéde shì yī zhōngyú xúndào le biéde lù， shuō。|
+069258|00-zh|zh|chinese/call_to_arms/call_to_arms_0964.wav|||tǎngshǐ tā hào yuè tíng， huòzhě zài bāyuè jiān zuò guòshēngrì， nà yīdìng shì āgùi le; ér tā jì méiyǒu hào-yěxǔ yǒu hào， zhǐshì méiyǒu rén zhīdào tā，|
+069259|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0154.wav|||qíshí bìngfēi bèi māo suǒhài， dǎo shì tā yuán zháo cháng māmā de tǔi yào páshàngqù， bèi tā yī jiǎotà sǐ le。|
+069260|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0725.wav|||huài de shì méiyǒu yàocā， huán tiān jīgè lìzáo hé yītōng mà。|
+069261|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0343.wav|||shījué shòu xiàozǐ chuán yún，|
+069262|00-zh|zh|chinese/call_to_arms/call_to_arms_0453.wav|||nǐ rúguǒ zhēn zài zhèlǐ， tīngdào wǒ dehuà，-biànjiào zhè wūyā fēishàng nǐ de fén dǐng， gěi wǒ kàn bà。|
+069265|00-zh|zh|chinese/call_to_arms/call_to_arms_1088.wav|||zhèshí tā měngránjiān kànjiàn zhào dàyé xiàng tā bēn lái， érqiě shǒulǐ niē zháo yīzhī dà zhúgāng。|
+069266|00-zh|zh|chinese/call_to_arms/call_to_arms_0174.wav|||zùi kělián de shì wǒ de dàgē， tā yě shì rén， héyǐ háobù hàipà; érqiě héhuǒ chī wǒ ní? huánshì lìlái guàn le， bù yǐwèi fēi ní?|
+069267|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0173.wav|||wǒ de mǔqīn hé xǔduō biéde rén dū zhèyáng chēnghū tā， sìhū lvèdài xiē kèqì de yìsī。 zhǐyǒu zǔmǔ jiào tā ācháng。|
+069268|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0973.wav|||shíyāo tiělù gǔdōng shì xíngzhèng sīcháng， qiándiàn zhǎnggùi shì jūnxiè sīcháng。 zhè jūnzhèngfǔ yě dàodǐ bù chángjǐu， jīgè shǎonián yīrǎng，|
+069269|00-zh|zh|chinese/chao_hua_si_she/chao_hua_si_she_0048.wav|||ránér yuányīn yě zǒng kěyǐ suànzuò yīgè yuányīn。 wǒ de chóu māo， shì hé zhè dàdà liǎngyáng de。|
+069272|02-zh|zh|chinese/zh/wavs/02/common_voice_zh-CN_18594850.wav|||wǒ yě bù zhīdào zài nǎlǐ|
+069273|03-zh|zh|chinese/zh/wavs/03/common_voice_zh-CN_18650547.wav|||shèng luòlúnzuǒ shì wèiyú měiguó jiālìfúníyàzhōu ālāmǐ dáxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|
+069274|03-zh|zh|chinese/zh/wavs/03/common_voice_zh-CN_18660163.wav|||línquánmǐn， zì。|
+069275|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18848613.wav|||cècí jí bù fù。|
+069276|06-zh|zh|chinese/zh/wavs/06/common_voice_zh-CN_18849212.wav|||yīncǐ， qí zhíyèshēngyá zhǔyào zhuānzhù yú xùnliàn hé dùi wàiguó gǎngkǒu de yǒuhǎofǎngwèn。|
+069277|07-zh|zh|chinese/zh/wavs/07/common_voice_zh-CN_18776291.wav|||yětián zhūměi， rìběn zúqíu yùndòngyuán， rìběn guójiā nv̌zǐ zúqíudùi chéngyuán。|
+069278|08-zh|zh|chinese/data_thchs30/data/A11_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069279|08-zh|zh|chinese/data_thchs30/data/A11_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069280|08-zh|zh|chinese/data_thchs30/data/B11_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
+069281|08-zh|zh|chinese/data_thchs30/data/B11_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
+069282|08-zh|zh|chinese/data_thchs30/data/B11_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
+069283|08-zh|zh|chinese/data_thchs30/data/D11_756r.wav|||xuǎn yīběn hǎoshū shǐ nǐ lí xiǎo yàng ér dùn yù chù nìjìng ér bù něi chāng rú xiàhuā chūncǎo shèng ruò jǐnduàn lièhuǒ|
+069284|08-zh|zh|chinese/data_thchs30/data/D11_857r.wav|||tándào dìèrjiēduàn táotàisài wáng dàyǒng xīwàng xiān pèng rùi fǎ dé děng ōuzhōu dùi yīnwèi tā hěn shúxī zhèxiē dùi|
+069285|08-zh|zh|chinese/data_thchs30/data/D11_957r.wav|||xiāngchuán jìn zhāo sōngjiāng rén zhānghàn zài luòyáng zuòguān yīn xiǎngniàn jiāxiāng jùn wù gū cài chún gēng lúyú kuài ér gàolǎohuánxiāng|
+069286|09-zh|zh|chinese/data_thchs30/data/A12_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069287|09-zh|zh|chinese/data_thchs30/data/A12_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069288|09-zh|zh|chinese/data_thchs30/data/B12_317r.wav|||sūn cǎiyún súijí yàoqíu jiāng hénggān shēngdào sì mǐ èrqī yěshì yī cì qǐtiào chénggōng bāěr tuō wá wèinéng guò gān|
+069289|09-zh|zh|chinese/data_thchs30/data/B12_417r.wav|||dìfāng yìng yǔ bùdùi liánhé jǔbàn yīxiē zhuānyè wényì réncái de péixùn yǐ péiyǎng gèngduō de wényì réncái|
+069290|09-zh|zh|chinese/data_thchs30/data/C12_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069291|09-zh|zh|chinese/data_thchs30/data/C12_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069292|09-zh|zh|chinese/data_thchs30/data/D12_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069293|09-zh|zh|chinese/data_thchs30/data/D12_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069294|10-zh|zh|chinese/data_thchs30/data/A13_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069295|10-zh|zh|chinese/data_thchs30/data/A13_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069296|10-zh|zh|chinese/data_thchs30/data/C13_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069297|10-zh|zh|chinese/data_thchs30/data/C13_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069298|10-zh|zh|chinese/data_thchs30/data/C13_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069299|10-zh|zh|chinese/data_thchs30/data/D13_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
+069300|10-zh|zh|chinese/data_thchs30/data/D13_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
+069301|10-zh|zh|chinese/data_thchs30/data/D13_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
+069302|11-zh|zh|chinese/data_thchs30/data/A14_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069303|11-zh|zh|chinese/data_thchs30/data/A14_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069304|11-zh|zh|chinese/data_thchs30/data/A14_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069305|11-zh|zh|chinese/data_thchs30/data/C14_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069306|11-zh|zh|chinese/data_thchs30/data/C14_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069307|12-zh|zh|chinese/data_thchs30/data/A19_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069308|12-zh|zh|chinese/data_thchs30/data/A19_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069309|12-zh|zh|chinese/data_thchs30/data/C19_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069310|12-zh|zh|chinese/data_thchs30/data/C19_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069311|12-zh|zh|chinese/data_thchs30/data/C19_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069312|13-zh|zh|chinese/data_thchs30/data/A22_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069313|13-zh|zh|chinese/data_thchs30/data/A22_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069314|13-zh|zh|chinese/data_thchs30/data/A22_99r.wav|||hóngniángzǐ chā jīnzān dài yínhuā bǐ mǔdān sháoyào shèng wǔ bèi cóngróng chūgé wǎnruò yúnmǔ tiānxiān|
+069315|13-zh|zh|chinese/data_thchs30/data/B22_298r.wav|||yītiān yèlǐ pīngpāng luàn xiǎng hòu wū yījiǎo shǔi rú kuáng pù wǒ jiēlián cóng chuāngkǒu wǎng wài qīng dǎochū shíjī tǒng yǔshǔi|
+069316|13-zh|zh|chinese/data_thchs30/data/B22_398r.wav|||shuōdào èrmáo qǐyè yìnggāi xiàng èrmáo nàyáng yǒu zījīn yǒu jìzhú yǒu yuánliào bǎozhèng yǒu xiāoshòuqúdào yǒu qǐyèxíngxiàng|
+069317|13-zh|zh|chinese/data_thchs30/data/B22_498r.wav|||zhōngwén wénběn wàiwén wénběn fāshēng qíyì shí yǐ zhōngwén wénběn wèizhǔn|
+069318|13-zh|zh|chinese/data_thchs30/data/C22_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069319|13-zh|zh|chinese/data_thchs30/data/C22_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069320|14-zh|zh|chinese/data_thchs30/data/A23_188r.wav|||bùjǐu cáo zhēn wú tóngzhì yòu duōfāng bēnzǒu wèi tā liánxì diào wǎng tiáojiàn yōuyuè de nèidì mǒu yìyuàn|
+069321|14-zh|zh|chinese/data_thchs30/data/A23_53r.wav|||yúshìhū hēibái diāndǎo jīyā yúròu shòu lěngluò yěcài wōtóu què chéngle cān zhuōshàng de chǒngér|
+069322|14-zh|zh|chinese/data_thchs30/data/C23_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069323|14-zh|zh|chinese/data_thchs30/data/C23_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069324|14-zh|zh|chinese/data_thchs30/data/C23_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069325|15-zh|zh|chinese/data_thchs30/data/A2_142r.wav|||dàn bùyào dùimǎ dǎo yīyǒngérshàng luàn chǎo luànshuō fángzhǐ jīhuà máodùn fāshēngyìwài chōngtū|
+069326|15-zh|zh|chinese/data_thchs30/data/A2_232r.wav|||xiáojuàn chōng wán hòu réng líuzài ànhé zhōng gùkè dédào yī fèn hé dǐpiàn tóngyáng dàxiǎo de zhàopiàn gōng kuòyìn xuǎnzé yòng|
+069327|15-zh|zh|chinese/data_thchs30/data/B2_348r.wav|||ránhòu sījī kànzháo xīnniáng gěi tā cā liǎn tā gǎndào bùkěsīyì de shì xīnniáng gěi tā cā liǎn de dòngzuò wèihé yě rúcǐ wēnróu|
+069328|15-zh|zh|chinese/data_thchs30/data/B2_448r.wav|||guówài yǒuguān zhuānjiā diàochá le sānbǎi duōmíng chángshòu zhě rènwèi qínyú yòng nǎo kě yánhuǎn shuāilǎo ér lǎnduò kě shǐrén zǎoshuāi|
+069329|16-zh|zh|chinese/data_thchs30/data/A32_0r.wav|||lv̀ shì yángchūn yān jǐng dàkuài wénzhāng de dǐsè sìyuè de lín luán gèngshì lv̀ dé xiānhuó xìumèi shīyì àngrán|
+069330|16-zh|zh|chinese/data_thchs30/data/A32_189r.wav|||gēnjù cūn gūi mín yuē ōudǎ nvèdài lǎorén de wángmǒu érxí bèi chù èrbǎi yuán fákuǎn bìng jiāo yìliáofèi wǔbǎi yuán|
+069331|16-zh|zh|chinese/data_thchs30/data/A32_54r.wav|||zhèzhǒng wěi háng pái diànzǐ miè wényíng dēng cǎiyòng mǒuzhǒng guāngpǔ néng de guāng xiàoyìng yòushā wényíng hé fēichóng dùi réntǐ wúhài|
+069332|16-zh|zh|chinese/data_thchs30/data/B32_349r.wav|||zǒngsuàn nǐ yùnqìhǎo wǒ zuótiān gānggāng bǎ huò mài le fǒuzé kǒngpà yīwén qián yě jiè bù chūlái ní|
+069333|16-zh|zh|chinese/data_thchs30/data/B32_449r.wav|||nánguài měiguó zhùmíng zuòjiā suōluō yào bǎ wǎ ěr téng húpàn de xīnxiān kōngqì zhuāng jìn píngzǐ màigěi nàxiē shùi zǎo jué de rén le|
+069334|16-zh|zh|chinese/data_thchs30/data/C32_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
+069335|16-zh|zh|chinese/data_thchs30/data/C32_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
+069336|16-zh|zh|chinese/data_thchs30/data/D32_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069337|16-zh|zh|chinese/data_thchs30/data/D32_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069338|17-zh|zh|chinese/data_thchs30/data/A33_45r.wav|||lìngwài jiāgōng xīulǐ hé xīupèi yèwù bù shǔyú yíngyèshùi de yìng shùi láowù bù jiǎonà yíngyèshùi|
+069339|17-zh|zh|chinese/data_thchs30/data/B33_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
+069340|17-zh|zh|chinese/data_thchs30/data/B33_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
+069341|17-zh|zh|chinese/data_thchs30/data/B33_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
+069342|18-zh|zh|chinese/data_thchs30/data/A34_134r.wav|||fǎ jì zànchéng běiyuē dōngkuò yòu tóngyì jiāqiáng ōu ān zǔzhī de zuòyòng cóngér hé měiguó yǒusuǒ qūbié|
+069343|18-zh|zh|chinese/data_thchs30/data/A34_225r.wav|||xiěyè xúnhuánxìtǒng yǒu yánzhòng zhàngài tè biéshì nàxiē yóuyú nǎoxiěguǎn biàn zhǎi ér jīngcháng tóuyūn tóuhūn de rén|
+069344|18-zh|zh|chinese/data_thchs30/data/A34_91r.wav|||xī āndōng nán běichéng ménqián yǒuxǔduō xuānchuánpái guà yīkuài pái yīnián yào huā liǎng wànyuán wǒmen yě guà le yīkuài|
+069345|20-zh|zh|chinese/data_thchs30/data/A36_174r.wav|||liándùi zhǐ líuxià yīmíng zhíbānyuán chūishìyuán sìyǎngyuán wèishēngyuán děng yě lièdùi pǎobù gǎnwǎng zāiqū|
+069346|20-zh|zh|chinese/data_thchs30/data/A36_4r.wav|||tā kànkàn yè jǐ hěn shēn báitiān de yánrè yǐ gěi yè liáng chūisàn fēnfù dàjiā gèzì ānxī míngtiān jìxù wánlè|
+069347|21-zh|zh|chinese/data_thchs30/data/A4_129r.wav|||tā huànyǒu fēngshī xìng yāoténg bìng yī nián cháoshī láolèi jìu téngtòng nánrěn dàn zhuāng jǐngkǒu yòu bìxū wānyāo gōng bèi zuànjìn mǎn shì níshǔi de zuàn tái xiàbiān gānhuó|
+069348|21-zh|zh|chinese/data_thchs30/data/A4_219r.wav|||zhè péngyǒu yě xiàng tánliànài yīyáng dé jiǎng yuánfèn yǒu yuánfèn shì bùyòng kèyì qù zhūiqíu de|
+069349|21-zh|zh|chinese/data_thchs30/data/A4_85r.wav|||húyàobāng yǔ yángyǒng què xì díqīn yí biǎoxiōngdì yàobāng de mǔqīn líu mínglún yǔ yángyǒng de mǔqīn líu shìzhēn shì tóngbāo jiěmèi|
+069350|21-zh|zh|chinese/data_thchs30/data/B4_342r.wav|||xióng xiā xìngxiàn dāngnián chéngshú jí yǔ cí xiā jiāopèi cí xiā xìngxiàn chéngshú jiào chí suǒyǐ yào dào dìèrnián cáinéng huáiyùn chǎn zǐ|
+069351|21-zh|zh|chinese/data_thchs30/data/B4_442r.wav|||qí ěr kē xiānshēng wūkèlán zú nián jiè qīxún yòu sì yínsī mǎntóu jīngshén juéshuò mùguāng níngzhòng ānxiáng|
+069352|21-zh|zh|chinese/data_thchs30/data/C4_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069353|21-zh|zh|chinese/data_thchs30/data/C4_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069354|21-zh|zh|chinese/data_thchs30/data/C4_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069355|21-zh|zh|chinese/data_thchs30/data/D4_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
+069356|21-zh|zh|chinese/data_thchs30/data/D4_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
+069357|21-zh|zh|chinese/data_thchs30/data/D4_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
+069358|23-zh|zh|chinese/data_thchs30/data/A6_17r.wav|||wǔyuè èrshíjǐurì yèwǎn àodàlìyà shǒudū kānpéilā de huángjiā jùyuàn rèliè ér chōngmǎn zháo zhēnqíng|
+069359|23-zh|zh|chinese/data_thchs30/data/A6_35r.wav|||dàole yǒu qìng tí zháo yī lán cǎo húilái shàngxué yě kuài chí dàole jímáng wǎng zǔilǐ sāi yīwǎn fàn biān jiáo biān wǎng chénglǐ pǎo|
+069360|23-zh|zh|chinese/data_thchs30/data/B6_292r.wav|||zhè piàn zhǒngzhí qū de zhǒngzǐ shì dàtóng tángchǎng fāshòu de yòu dìng le hétóng wèi càinóng fúwù yěshì dàtóng tángchǎng zuò de|
+069361|23-zh|zh|chinese/data_thchs30/data/B6_394r.wav|||hé nǐ liànài yǔ hé biéde rén liànài dùiyú tā láishuō yǒu shíyāo qūbié nǐ piē piēzǔi èdú dì zhèyáng xiǎng|
+069362|23-zh|zh|chinese/data_thchs30/data/B6_494r.wav|||dànshì mòníqiǎ yàoqíu luōmǎlǐào měiyuè xiàng tā zhīfù wǔwànwǔqiānwǔbǎiwǔshíwǔ měiyuán de shēnghuó fèiyòng|
+069363|23-zh|zh|chinese/data_thchs30/data/C6_555r.wav|||yǒude dānwèi ànnián rénjūn yuèshōurù jiǎnqù fèiyòng bābǎi yuán hòu de yúé wèi yìng nàshùi suǒdé é|
+069364|23-zh|zh|chinese/data_thchs30/data/C6_655r.wav|||wèi jīnnián yāngtián chú bài yǒu shíyāo hǎo yào yī wèi yìxià jiā gēn yāntǒng gān de lǎonóng qiǎngxiān wèndào|
+069365|23-zh|zh|chinese/data_thchs30/data/D6_810r.wav|||duǎntú kèchē hé bùfēn wòpū bù mǎnyuán yě bù děngyú tiělù yùnlì bùzài jǐnzhāng tiělù jiànshè bùfá sīháo bùkě fàngmàn|
+069366|23-zh|zh|chinese/data_thchs30/data/D6_910r.wav|||zài hénánshěng línyǐngxiàn tíqǐ xiàn gōngānjú júcháng nǐu sùi cháng rénmen wú bù chēngzàn ér fànzùifēnzǐ zé wénfēngsāngdǎn|
+069367|24-zh|zh|chinese/data_thchs30/data/A7_124r.wav|||lìngwài nv̌dān zhōngguódùi huányǒu hánjīng nuó hé yáo yàn àoyùn páimíng dìlìu qīwèi yě kě yǔ gāoshǒu yī bó|
+069368|24-zh|zh|chinese/data_thchs30/data/A7_214r.wav|||jīntiān péi yǐ méng zhǎo féng bāng zhǎo dé yòu lèi yòu è dàn kànjiàn yǐ méng nà fù zháojí yáng wǒ yīdiǎn yě chībùxià|
+069369|24-zh|zh|chinese/data_thchs30/data/A7_81r.wav|||yìnggǔtóu lìu lián lìrèn zhǔguǎn zhàndǒu yīngxióng hé zhuǎnyè tùiwǔ gānbù zhànshì dàibiǎo yìngyāo zuò zài jiābīn xí shàng|
+069370|24-zh|zh|chinese/data_thchs30/data/B7_344r.wav|||tā yǒuyīgè fāngfǎ ào táng nàiěr yòng yī zhǒng jìngyǎng de kǒuqì shuō xiǎnrán tā zìjǐ cónglái méi xiǎngchū guò shíyāo fāngfǎ|
+069371|24-zh|zh|chinese/data_thchs30/data/B7_444r.wav|||qīn yīng de běiàiěrlán xīn jiàopài wǔzhuāng shíèrrì wǎn fābiǎo shēngmíng wēixié yào bàofù àiěrlán gònghé jūn|
+069372|24-zh|zh|chinese/data_thchs30/data/C7_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069373|24-zh|zh|chinese/data_thchs30/data/C7_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069374|24-zh|zh|chinese/data_thchs30/data/C7_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069375|24-zh|zh|chinese/data_thchs30/data/D7_760r.wav|||yóu lǎobànfǎ zhǒng yùmǐ gǎiwèi dìmò yùmǐ hé féi qíu yùmiáo bā mǔ chǎnliáng liǎngqiānwǔbǎi gōngjīn yīnián tuōpín|
+069376|24-zh|zh|chinese/data_thchs30/data/D7_860r.wav|||jiézhì jīnnián wǔyuè quánqū liángmián yóu shōugòu qǐyè gòng nuóyòng húilóng zījīn sānqiānsìbǎiwǔshí wànyuán yòngyú fù yíng yèwù|
+069377|24-zh|zh|chinese/data_thchs30/data/D7_960r.wav|||éfāng jiānchí sāi wǎ sītuō bōěr jīdì yóu é jiàndùi dāndú shǐyòng wū fāng zé jiānchí sāi shì jīdì yóu shuāngfāng jūndùi gòngtóng zhùzhā|
+069378|25-zh|zh|chinese/data_thchs30/data/A8_170r.wav|||jù yìndù guānyuán tòulù shuāngfāng tǎolùn le yìndù kòngzhì de kèshímǐěr dìqū mùqián de jǐnzhāng júshì wèntí|
+069379|25-zh|zh|chinese/data_thchs30/data/A8_36r.wav|||dài yèwǎn jiàn shēn yuè chūyú dōngshān róngróng yuèhuá cāliàng xiǎohú yìngrù shǔizhōng de yuè hūi rúyù pán xiǎohú biàn xiàng jìng yuè|
+069380|25-zh|zh|chinese/data_thchs30/data/B8_295r.wav|||ā pǒ rùitè kànzháo hēiàn jiàng línle zhè sāo chuán tīngjiàn nà yáoyuǎn ér róuhé de yuánzǐ fādòngjī de gūlū shēng tūrán tíngzhǐ|
+069381|25-zh|zh|chinese/data_thchs30/data/B8_395r.wav|||zhèng zāo rìwěi sǎodàng de guómíndǎng wán jūn hán déqín pàirén yǔ wǒ liánxì yàoqíu lv̀ qí bùdùi zhuǎn yídào wǒ huáiān gēnjùdì|
+069382|25-zh|zh|chinese/data_thchs30/data/B8_495r.wav|||cǐwài běiyuē huán biǎoshìzhīchí é zài ōuzhōu ānquán zǔzhī fànwéi nèi tǎolùn èrshíyīshìjì ōuzhōu jí quánqíu ānquánmóshì de tíyì|
+069383|25-zh|zh|chinese/data_thchs30/data/C8_556r.wav|||yīngxióng céng zhào gāng wúkùiyú zhè guāngróng de chēnghào wúkùiyú wǒmen de shídài|
+069384|25-zh|zh|chinese/data_thchs30/data/C8_656r.wav|||tā qīng rú ěryǔ dì wèn tā shìfǒu yǒukōng néngbùnéng qūzūn péi tā shàngjiē mǎi xiē pípá wàimiàn hēi tā pà yùshàng dǎirén|
+069385|25-zh|zh|chinese/data_thchs30/data/D8_811r.wav|||yùnyòng zhèzhǒng yíqì xīnhuáyìyuàn yòu qiǎngjìu le liǎng lì wèiái hé shíèrzhǐcháng kùiyáng dàliàng yǒng xiě bìngrén jūn huòdé chénggōng|
+069386|25-zh|zh|chinese/data_thchs30/data/D8_911r.wav|||gēwǔjù yuèyá wǔgèng bèi zhuānjiā men yùwèi yìzhú jīngpǐn shòudào guónèiwài guānzhòng qīnglài jǐu yǎn bùshuāi|
+069387|27-zh|zh|chinese/data_thchs30/data/B15_267r.wav|||zhèxiē sìmiào cuòluòyǒuzhì dì yǎnyìng zài yùyù cāngcāng de zhòng luán diézhàng zhījiān shífēn gǔyǎ zhuàngguān|
+069388|27-zh|zh|chinese/data_thchs30/data/B15_367r.wav|||zhìyú hóngdūlāsī kúiěr shì zǎoyǐ dìng hǎo yīyuè èrshíqīrì yào qù cānjiā gāi guóxīn zǒngtǒng de jìuzhí yíshì|
+069389|27-zh|zh|chinese/data_thchs30/data/B15_467r.wav|||běijīng fùwài yìyuàn xīn wàikē zhuānjiā hánxù de jiěshì biǎomíng huànér mǔqīn tǐzhí jíchà zhíjiē yǐngxiǎng le hòudài de jiànkāng|
+069390|28-zh|zh|chinese/data_thchs30/data/C21_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069391|28-zh|zh|chinese/data_thchs30/data/C21_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069392|28-zh|zh|chinese/data_thchs30/data/C21_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069393|28-zh|zh|chinese/data_thchs30/data/D21_809r.wav|||tóngshí fěnzhuàng sìliào yě yǐ bèi kē lìzhuàng suǒ tìdài ér wǒguó nóngcūn réng zài shǐyòng yíngyǎngjiàzhí jiào dī de hùnhé sìliào|
+069394|28-zh|zh|chinese/data_thchs30/data/D21_909r.wav|||tóngshí yě jiějué le réngōng pāo yāng jūnyún dù chà de wèntí pāo yāng jī pāochū de yāngmiáo luò tián jūnyún yǒulìyú fángbìng shǐ pāo yāng jìzhú chōngfēnfāhūi zuòyòng|
+069395|29-zh|zh|chinese/data_thchs30/data/B31_299r.wav|||zài tāmen de dàidòng xià quáncūn hěnkuài xīngqǐ zāi sāng yǎng cán rècháo yuánxiān wǔ lìubǎi mǔ huāngpō huāng dī bèi kěn zhí yī kōng|
+069396|29-zh|zh|chinese/data_thchs30/data/B31_399r.wav|||tāmen àn dìqū bǎ cánchóng gōngyìng gěi sāo sīchǎng sāo sīchǎng dùijiē zhī chóu chǎng zhī chóu chǎng dùikǒu yìnrǎnchǎng|
+069397|29-zh|zh|chinese/data_thchs30/data/B31_499r.wav|||tāmen yǐ shǒuzhǎng pínpín pāi shǔi dànzhǐ zhījiān liǎng tiáo yǐ xiōngè zhùchēng de fēizhōu è ángshǒu bǎi wěi xīnrán xiàng ànbiān yóu lái|
+069398|29-zh|zh|chinese/data_thchs30/data/C31_505r.wav|||xīu dé ānmín yúnyún shuō dé guòyú tánghuáng ér dǎo kōng shíjìshàng tā yǒu yìng de yīshǒu hé ruǎn de yīshǒu|
+069399|29-zh|zh|chinese/data_thchs30/data/C31_605r.wav|||zhè shì quánshěng gèjí nóngzī gōngsī zhuānmén xiàpài de zhīnóng sòng féi chē sònghuò xiàxiāng bāngzhù nóngmín chǔbèi chūngēng yòng féi|
+069400|29-zh|zh|chinese/data_thchs30/data/C31_705r.wav|||tiānjīn gǎngqū bǎoshùiqū kāifāqū tánggūqū jùyǒu tǒngyī jiànlì zìyóu gǎngqū huò zìyóu guānshùi qū de kěnéngxìng|
+069401|29-zh|zh|chinese/data_thchs30/data/D31_759r.wav|||wèi bǎolíu yìndìānrén de wénhuà kēkè zhākè zài tā zhù de fángzǐ pángbiān jiàn le yīgè yìndìān wénhuà bówùguǎn|
+069402|29-zh|zh|chinese/data_thchs30/data/D31_859r.wav|||fēngléi jiāojiā de yánhán lǐ wǒjūn yīngyǒng pàn shā yǒu sìgè yíng gōng rù bāotóu chéngnèi tóng díjūn zhǎnkāi bái rèn xiàngzhàn|
+069403|29-zh|zh|chinese/data_thchs30/data/D31_959r.wav|||shāndǐng yǒu shèshēn yá zhōngwǔ yǐhòu wǎngwǎng kěyǐ jiàndào shǔizhēngqì zhéshè érchéng de wǔsè guānghuán chēngwèi fóguāng|
+069404|30-zh|zh|chinese/data_thchs30/data/C17_545r.wav|||zài qián yángxiàn nóngmín quánguó láomó qīn wàn yǒude yuányì cháng kàndào sìqiān mǔ gānjié lín zài yànyáng xià lv̀ zhī yáoyè xú bùcháng zànbùjuékǒu|
+069405|30-zh|zh|chinese/data_thchs30/data/C17_645r.wav|||quánguó shuāngyǒng mófàn chéng xúzhōushì xiāngjì tūichū yǒngjūn yōu shǔ tèbié fúwùxiàngmù zhùjūn guānbīng yě kāizhǎn yìwù biànmín fúwù|
+069406|30-zh|zh|chinese/data_thchs30/data/C17_745r.wav|||qián xuán tóng chìzé yīwèi nǐ gǔ de piánwén sànwén wèi xuǎnxué yāoniè tóngchéng mìu zhǒng|
+069407|31-zh|zh|chinese/data_thchs30/data/C18_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069408|31-zh|zh|chinese/data_thchs30/data/C18_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|
+069409|32-zh|zh|chinese/data_thchs30/data/C20_595r.wav|||diànlú liàngāng jiàgé chéngběn dīyú zhuǎnlú liàngāng érqiě hélǐ jīngjì gūimó xiǎo dūn gāng tóuzī jiào dī shì dāngjīn shìjiè gāngtiě gōngyè fāzhǎn cháolíu|
+069410|32-zh|zh|chinese/data_thchs30/data/C20_695r.wav|||guónèi yǒuguān zhuānjiā de yánjīu yě biǎomíng jìnqī wǒguó xìnyòngqiǎ de yìngyòng zhìshǎo zài wǔdà lǐngyù yǒuzháo yòurén de qiánjǐng|

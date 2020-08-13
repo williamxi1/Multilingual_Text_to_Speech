@@ -48,7 +48,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-194-0.139"
+tacotron_chpt = "GENERATED-SWITCHING_loss-239-0.139"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
