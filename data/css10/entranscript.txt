@@ -7756,7 +7756,7 @@ p246_358.txt|Their time has gone.
 p246_359.txt|All the investment is possible through the public sector.
 p246_360.txt|We have to create a climate of trust, which is not easy.
 p246_361.txt|For one veteran, the memories remain vivid.
-p247p248_001.txt|Please call Stella.
+p248_001.txt|Please call Stella.
 p248_002.txt|Ask her to bring these things with her from the store.
 p248_003.txt|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
 p248_004.txt|We also need a small plastic snake and a big toy frog for the kids.
