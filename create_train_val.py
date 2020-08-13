@@ -216,12 +216,24 @@ metadata[1][2].sort(key=lambda data: (data[2], data[1]))
 
 
 cntr = 0
+lang_max = {'zh' : 50, 'fr': 100, 'es': 100, 'en': 100}
 for d, fs, m in metadata:
     valid_data = []
     with open(os.path.join(d, "new"+fs), 'w', encoding='utf-8') as f:
+        speaker_cnt = {}
+        good_speakers = ['000-en', '000-fr', '027-fr', '000-es', '000-zh']
         for i in m:
             idx, s, l, a, _, _, raw_text, ph = i
-            print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            if s not in speaker_cnt:
+                speaker_cnt[s] = 0
+            if s in good_speakers:
+                if speaker_cnt[s] < 4000:
+                    speaker_cnt[s] += 1
+                    print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
+            else:
+                if speaker_cnt[s] < lang_max[l]:
+                    speaker_cnt[s] += 1
+                    print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
             # if(s[0:2] == '00' and cntr % 7 < 4 and l != 'zh' and l != 'en'):
             #     print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
             # elif((s[0:2] != '00' and l != 'en') or (l == 'zh' and cntr % 7 < 5)):
