@@ -5,6 +5,7 @@ import torch
 
 def getSpeakerEmbeddings(speaker_ids):
     print("Obtaining Embeddings")
+
     if os.path.exists('speakerEmbeddings.npy'):
         print("Loading Pre-existing Embeddings")
         speakerEmbeddings = np.load('speakerEmbeddings.npy')
@@ -12,6 +13,7 @@ def getSpeakerEmbeddings(speaker_ids):
         return speakerEmbeddings
 
     numSpeakers = len(speaker_ids)
+    print(numSpeakers)
     speakerEmbeddings = [np.zeros(256) for i in range(numSpeakers)]
     speakerUtterances = [[] for i in range(numSpeakers)]
     with open(os.path.join("data/css10", "train.txt"), 'r', encoding='utf-8') as f:
@@ -24,8 +26,10 @@ def getSpeakerEmbeddings(speaker_ids):
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
 
+    print("hello")
     wavs = [[] for i in range(numSpeakers)]
     for i, speaker in enumerate(speaker_ids):
+        print(speaker)
         for utterance in speakerUtterances[i]:
             print("Preprocessing ", utterance)
             wavs[i].append(preprocess_wav(os.path.join(os.path.join(os.getcwd(), "data/css10"), utterance)))
