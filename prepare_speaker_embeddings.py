@@ -16,7 +16,7 @@ def getSpeakerEmbeddings(speaker_ids):
     print(numSpeakers)
     speakerEmbeddings = [np.zeros(256) for i in range(numSpeakers)]
     speakerUtterances = [[] for i in range(numSpeakers)]
-    with open(os.path.join("data/css10", "train.txt"), 'r', encoding='utf-8') as f:
+    with open(os.path.join("data/css10", "newtrain.txt"), 'r', encoding='utf-8') as f:
         for line in f:
             line = line.rstrip().split("|")
             speaker = line[1]
@@ -25,7 +25,8 @@ def getSpeakerEmbeddings(speaker_ids):
                 if len(speakerUtterances[speaker_index]) < 50:
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
-    print(speakerUtterances[0])
+
+
     wavs = [[] for i in range(numSpeakers)]
     for i, speaker in enumerate(speaker_ids):
         for utterance in speakerUtterances[i]:
