@@ -147,14 +147,14 @@ class Decoder(torch.nn.Module):
     def _add_conditional_embedding(self, encoded, layer, condition):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
         # print(encoded.shape)
-        embedded = torch.tensor(np.load('speaker_embeds/obama.npy'))
+        #embedded = torch.tensor(np.load('speaker_embeds/obama.npy'))
         # print(embedded)
-        embedded = torch.reshape(embedded, (1,1,256))
-        embedded = embedded.repeat(1, encoded.shape[1], 1)
+        #embedded = torch.reshape(embedded, (1,1,256))
+        #embedded = embedded.repeat(1, encoded.shape[1], 1)
         # print(embedded)
         # print(encoded.shape, embedded.shape)
 
-        #embedded = layer(encoded if condition is None else condition)
+        embedded = layer(encoded if condition is None else condition)
         # print(embedded)
         # print(embedded.shape)
 
