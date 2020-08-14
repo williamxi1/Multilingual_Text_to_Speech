@@ -4,7 +4,7 @@ import numpy as np
 import torch
 
 def getSpeakerEmbeddings(speaker_ids):
-
+    print("Obtaining Embeddings")
     if os.path.exists('speakerEmbeddings.npy'):
         print("Loading Pre-existing Embeddings")
         speakerEmbeddings = np.load('speakerEmbeddings.npy')
