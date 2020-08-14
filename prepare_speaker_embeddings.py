@@ -6,6 +6,7 @@ import torch
 def getSpeakerEmbeddings(speaker_ids):
 
     if os.path.exists('speakerEmbeddings.npy'):
+        print("Loading Pre-existing Embeddings")
         speakerEmbeddings = np.load('speakerEmbeddings.npy')
         speakerEmbeddings = torch.tensor(speakerEmbeddings, dtype = torch.float)
         return speakerEmbeddings
