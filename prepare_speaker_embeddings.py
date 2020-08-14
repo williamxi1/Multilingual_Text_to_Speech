@@ -25,11 +25,9 @@ def getSpeakerEmbeddings(speaker_ids):
                 if len(speakerUtterances[speaker_index]) < 50:
                     wavpath = line[3]
                     speakerUtterances[speaker_index].append(wavpath)
-
-    print("hello")
+    print(speakerUtterances[0])
     wavs = [[] for i in range(numSpeakers)]
     for i, speaker in enumerate(speaker_ids):
-        print(speaker)
         for utterance in speakerUtterances[i]:
             print("Preprocessing ", utterance)
             wavs[i].append(preprocess_wav(os.path.join(os.path.join(os.getcwd(), "data/css10"), utterance)))
