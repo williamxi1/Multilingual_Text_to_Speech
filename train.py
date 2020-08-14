@@ -305,7 +305,7 @@ if __name__ == '__main__':
     # training loop
     best_eval = float('inf')
     print("Beginning Training...")
-    print(hp.unique_speakers)
+   # print(hp.unique_speakers)
     for epoch in tqdm(range(initial_epoch, hp.epochs)):
         #print("Epoch: ", epoch)
         train(args.logging_start, epoch, train_data, model, criterion, optimizer)
