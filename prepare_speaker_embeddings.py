@@ -60,7 +60,7 @@ if __name__ == '__main__':
     wav1 = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/penelope.wav"))
     encoder = VoiceEncoder()
     speakerEmbeddings1 = encoder.embed_utterance(wav1)
-    np.save('speaker_embeds/penelope.npy', speakerEmbeddings1)
+
 
 
 

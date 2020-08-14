@@ -154,7 +154,14 @@ class Decoder(torch.nn.Module):
         # print(embedded)
         # print(encoded.shape, embedded.shape)
 
-        embedded = layer(encoded if condition is None else condition)
+        if condition in hp.unique_speakers:
+            embedded = layer(encoded if condition is None else condition)
+        else:
+            embedded = torch.tensor(np.load('speaker_embeds/' + condition + '.npy'))
+            embedded = torch.reshape(embedded, (1, 1, 256))
+            embedded = embedded.repeat(1, encoded.shape[1], 1)
+
+
         # print(embedded)
         # print(embedded.shape)
 
