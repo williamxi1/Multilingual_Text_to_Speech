@@ -130,7 +130,7 @@ for d, fs in entranscript:
                 en_speakers[speaker] = str(speaker_id).zfill(3)
             new_stuff = [0, en_speakers[speaker] + "-en", "en", "english/VCTK-Corpus/wavs/" + speaker + \
                          "/" + line[0].split('.')[0] + "r.wav", "", "", line[1], ""]
-            if cntr % 100 == 0:
+            if cntr % 50 == 0:
                 metadata[1][2].append(new_stuff)
             else:
                 metadata[0][2].append(new_stuff)
@@ -150,7 +150,7 @@ for d, fs in zhtranscript:
                 speaker_id += 1
                 zh_speakers[speaker] = str(speaker_id).zfill(3)
             new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/data_thchs30/data" + "/" + line[0] + "r.wav", "", "", pinyin.get(line[1]) + "。", ""]
-            if cntr % 100 == 0:
+            if cntr % 30 == 0:
                 metadata[1][2].append(new_stuff)
             else:
                 metadata[0][2].append(new_stuff)
@@ -202,7 +202,7 @@ for d, fs in slr:
         cntr += 1
         wav_path = "spanish/" + "slr" + slrver + "/wavs" + gender + "/" + line[0] + "_" + line[1]  + "r.wav"
         new_stuff = [0,   slr_speakers[line[0]] + "-es", "es", wav_path, "", "", line[2], ""]
-        if cntr % 100 == 0:
+        if cntr % 30 == 0:
             metadata[1][2].append(new_stuff)
         else:
             metadata[0][2].append(new_stuff)
