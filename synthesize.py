@@ -69,10 +69,12 @@ def synthesize(model, input_data, force_cpu=False):
     else:
         l = None
 
-    if item[2] in hp.unique_speakers:
-        s = torch.LongTensor([hp.unique_speakers.index(item[2])]) if hp.multi_speaker else None
-    else:
-        s = item[2]
+    s = torch.LongTensor([hp.unique_speakers.index(item[2])]) if hp.multi_speaker else None
+    #if item[2] in hp.unique_speakers:
+
+    #else:
+    #    s = torch.LongTensor([-1])
+   # s = item[2] #speaker
 
     if torch.cuda.is_available() and not force_cpu: 
         t = t.cuda(non_blocking=True)

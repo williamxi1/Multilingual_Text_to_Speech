@@ -5,10 +5,11 @@ import os
 
 
 inputs = [
-  #"Tā zhù zài gōngyuán pángbiān de jiē shàng|00-zh|zh",
-   "wǒ xiànzài bù dǎsuàn cānjiā hěnduō xuǎnjǔ yīnwèi wǒ bù bì zàicì jìng xuǎn gōng zhí |02-zh|zh",
-   # "Hello I am speaking very good words|00-zh|en",
-  #"|02-zh|fr" #No me gusta comer en un lugar con mucha gente.
+#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén。|000-fr|zh",
+#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén。|000-zh|zh",
+"Ese fuego por dentro me está enloqueciendo, me va saturando.|000-zh|es",
+#"I'm not planning to get involved in many elections.|012-en|en",
+#"|02-zh|fr" #No me gusta comer en un lugar con mucha gente.
 ]
 #inputs = [
      #"The fact that I am speaking english does not mean anything to me|02-en|en"
@@ -48,7 +49,7 @@ inputs = [
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "GENERATED-SWITCHING_loss-239-0.139"
+tacotron_chpt = "newGENERATED-SWITCHING_loss-124-0.132"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -94,5 +95,5 @@ for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('test' + str(idx+2) + '_194.wav', hp.sample_rate, w_scaled)
+  write('NEWtest' + str(idx) + '_84.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))

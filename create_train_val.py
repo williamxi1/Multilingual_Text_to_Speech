@@ -39,9 +39,9 @@ entranscript = [
     ("data/css10", "entranscript.txt")
 ]
 
-STCMDS = [
-    ("data/css10", "STCMDStrans.txt")
-]
+#STCMDS = [
+#    ("data/css10", "STCMDStrans.txt")
+#]
 
 siwis = [
     ("data/css10", "all_prompts_part1.txt"),
@@ -155,27 +155,27 @@ for d, fs in zhtranscript:
             else:
                 metadata[0][2].append(new_stuff)
 
-zh_speakers = {}
-for d, fs in STCMDS:
-    with open(os.path.join(d, fs), 'r', encoding='utf-8') as f:
-        cntr = 0
-        for line in f:
-            cntr += 1
-            line = line.rstrip().split('|')
-            speaker = line[0][8:14]
-            if speaker not in zh_speakers:
-                speaker_id += 1
-                zh_speakers[speaker] = str(speaker_id).zfill(3)
-            seglist = jieba.cut(line[1])
-            trans = ""
-            for seg in seglist:
-                trans += pinyin.get(seg)
-                trans += " "
-            new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/STCMDS" + "/" + line[0] + "r.wav", "", "", trans[:-1] +  "。", ""]
-            if cntr % 100 == 0:
-                metadata[1][2].append(new_stuff)
-            else:
-                metadata[0][2].append(new_stuff)
+# zh_speakers = {}
+# for d, fs in STCMDS:
+#     with open(os.path.join(d, fs), 'r', encoding='utf-8') as f:
+#         cntr = 0
+#         for line in f:
+#             cntr += 1
+#             line = line.rstrip().split('|')
+#             speaker = line[0][8:14]
+#             if speaker not in zh_speakers:
+#                 speaker_id += 1
+#                 zh_speakers[speaker] = str(speaker_id).zfill(3)
+#             seglist = jieba.cut(line[1])
+#             trans = ""
+#             for seg in seglist:
+#                 trans += pinyin.get(seg)
+#                 trans += " "
+#             new_stuff = [0, zh_speakers[speaker] + "-zh", "zh", "chinese/STCMDS" + "/" + line[0] + "r.wav", "", "", trans[:-1] +  "。", ""]
+#             if cntr % 100 == 0:
+#                 metadata[1][2].append(new_stuff)
+#             else:
+#                 metadata[0][2].append(new_stuff)
 
 slr_speakers = {}
 speaker_id = 0
@@ -216,7 +216,8 @@ metadata[1][2].sort(key=lambda data: (data[2], data[1]))
 
 
 cntr = 0
-lang_max = {'zh' : 50, 'fr': 100, 'es': 100, 'en': 100}
+lang_max = {'zh' : 100000, 'fr': 200000, 'es': 200000, 'en': 200000}
+good_max = {'zh' : 100000, 'fr': 100000, 'es': 200000, 'en': 2500}
 for d, fs, m in metadata:
     valid_data = []
     with open(os.path.join(d, "new"+fs), 'w', encoding='utf-8') as f:
@@ -227,7 +228,7 @@ for d, fs, m in metadata:
             if s not in speaker_cnt:
                 speaker_cnt[s] = 0
             if s in good_speakers:
-                if speaker_cnt[s] < 4000:
+                if speaker_cnt[s] < good_max[l]:
                     speaker_cnt[s] += 1
                     print(f'{str(cntr).zfill(6)}|{s}|{l}|{a}|||{raw_text}|{ph}', file=f)
             else:
