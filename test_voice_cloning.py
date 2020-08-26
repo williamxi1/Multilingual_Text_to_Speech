@@ -5,47 +5,9 @@ import os
 
 
 inputs = [
-#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén。|000-fr|zh",
-#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén。|000-zh|zh",
-"Ese fuego por dentro me está enloqueciendo, me va saturando.|000-zh|es",
-#"I'm not planning to get involved in many elections.|012-en|en",
-#"|02-zh|fr" #No me gusta comer en un lugar con mucha gente.
+"Hello.|000-zh|newsom|en",
 ]
-#inputs = [
-     #"The fact that I am speaking english does not mean anything to me|02-en|en"
-    #"Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
-     #"Quiero respirar tu cuello despacito|00-en|es",
-    # "Quiero respirar tu cuello despacito|00-sp|sp",
-     # "But what I appreciate the most is that you have never.|00-fr|en",
-     #"Quiero respirar tu cuello despacito.|00-zh|es"
-    #"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh",
-    #"One two three four.|00-zh|en",
-  #"The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied.|00-en|en"
-     # "Ese fuego por dentro me está enloqueciendo, me va saturando|00-es|es",
-    #"The bars at the end of the street are quite loud and unfriendly.|00-en|en",
-#"The bars at the end of the street are quite loud and unfriendly.|05-en|en",
-#"The bars at the end of the street are quite loud and unfriendly.|00-es|en",
-#"I used to be president of the united states|00-es|en",
-#"The bars at the end of the street are quite loud and unfriendly.|00-zh|en",
-#"The bars at the end of the street are quite loud and unfriendly.|02-zh|en",
-     # "wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh",
-  #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es",
-   #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-zh|es",
-   #  "Ese fuego por dentro me está enloqueciendo, me va saturando|00-en|es"
-#"wǒ de zhōngwén hěn zāogāo dànshì wǒ yào xué zhōngwén|25-zh|zh"
-#]
 
-
-
-
-#inputs = [
-    # "There is a time and place for everything|english|english",
-    # "There is a time and place for everything|french|english",
-    # "There is a time and place for everything|chinese|english",
-    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|chinese|chinese",
-    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|french|chinese",
-    # "Wǒ xǐhuān pǎo lái pǎo qù chīfàn|english|chinese"
-#]
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
@@ -90,10 +52,10 @@ waveforms = [generate(model, s, hp.voc_gen_batched, hp.voc_target, hp.voc_overla
 from scipy.io.wavfile import write
 import numpy as np
 
-os.chdir(os.path.join(os.path.join(os.path.dirname(os.getcwd()), "audiofiles")))
+
 for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('NEWtest' + str(idx) + '_84.wav', hp.sample_rate, w_scaled)
+  write('NEWtest' + str(idx + 2) + '_84.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))

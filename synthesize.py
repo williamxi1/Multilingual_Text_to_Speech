@@ -51,7 +51,7 @@ def synthesize(model, input_data, force_cpu=False):
     t = torch.LongTensor(text.to_sequence(clean_text, use_phonemes=hp.use_phonemes))
 
     if hp.multi_language:     
-        l_tokens = item[3].split(',')
+        l_tokens = item[4].split(',')
         t_length = len(clean_text) + 1
         l = []
         for token in l_tokens:
@@ -69,19 +69,20 @@ def synthesize(model, input_data, force_cpu=False):
     else:
         l = None
 
-    s = torch.LongTensor([hp.unique_speakers.index(item[2])]) if hp.multi_speaker else None
-    #if item[2] in hp.unique_speakers:
 
-    #else:
-    #    s = torch.LongTensor([-1])
-   # s = item[2] #speaker
+    s_name = item[3]
+    if item[2] in hp.unique_speakers:
+        s = torch.LongTensor([hp.unique_speakers.index(item[2])]) if hp.multi_speaker else None
+    else:
+        s = torch.LongTensor([-1])
+
 
     if torch.cuda.is_available() and not force_cpu: 
         t = t.cuda(non_blocking=True)
         if l is not None: l = l.cuda(non_blocking=True)
         if s is not None: s = s.cuda(non_blocking=True)
 
-    s = model.inference(t, speaker=s, language=l).cpu().detach().numpy()
+    s = model.inference(t, speaker=s, speaker_name=s_name, language=l).cpu().detach().numpy()
     s = audio.denormalize_spectrogram(s, not hp.predict_linear)
     return s
 

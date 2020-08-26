@@ -57,10 +57,11 @@ if __name__ == '__main__':
     #print(speakerEmbeddings[4])
 
     print(os.path.dirname(os.getcwd()))
-    wav1 = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/penelope.wav"))
+    wav = preprocess_wav(os.path.join(os.path.dirname(os.getcwd()), "audiodata/newsom.wav"))
     encoder = VoiceEncoder()
-    speakerEmbeddings1 = encoder.embed_utterance(wav1)
+    speakerEmbeddings = encoder.embed_utterance(wav)
 
+    np.save('speaker_embeds/newsom.npy', speakerEmbeddings)
 
 
 

@@ -144,30 +144,19 @@ class Decoder(torch.nn.Module):
         c_gen = torch.zeros(batch_size, self._decoder_dim, device=device)
         return h_att, c_att, h_gen, c_gen
 
-    def _add_conditional_embedding(self, encoded, layer, condition):
+    def _add_conditional_embedding(self, encoded, layer, condition, speaker_name=None):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
-        # print(encoded.shape)
-        #embedded = torch.tensor(np.load('speaker_embeds/obama.npy'))
-        # print(embedded)
-        ##embedded = torch.reshape(embedded, (1,1,256))
-        #embedded = embedded.repeat(1, encoded.shape[1], 1)
-        # print(embedded)
-        # print(encoded.shape, embedded.shape)
-        embedded = layer(encoded if condition is None else condition)
-        # if condition in hp.unique_speakers:
-        #
-        # else:
-        #     embedded = torch.tensor(np.load('speaker_embeds/' + condition + '.npy'))
-        #     embedded = torch.reshape(embedded, (1, 1, 256))
-        #     embedded = embedded.repeat(1, encoded.shape[1], 1)
 
-
-        # print(embedded)
-        # print(embedded.shape)
+        if condition in hp.unique_speakers:
+            embedded = layer(encoded if condition is None else condition)
+        else:
+            embedded = torch.tensor(np.load('speaker_embeds/' + speaker_name + '.npy'))
+            embedded = torch.reshape(embedded, (1, 1, 256))
+            embedded = embedded.repeat(1, encoded.shape[1], 1)
 
         return torch.cat((encoded, embedded), dim=-1)
 
-    def _decode(self, encoded_input, mask, target, teacher_forcing_ratio, speaker, language):
+    def _decode(self, encoded_input, mask, target, teacher_forcing_ratio, speaker, speaker_name, language):
         """Perform decoding of the encoded input sequence."""
 
         batch_size = encoded_input.size(0)
@@ -178,7 +167,7 @@ class Decoder(torch.nn.Module):
 
         # obtain speaker and language embeddings (or a dummy tensor)
         if hp.multi_speaker and self._speaker_embedding is not None:
-            encoded_input = self._add_conditional_embedding(encoded_input, self._speaker_embedding, speaker)
+            encoded_input = self._add_conditional_embedding(encoded_input, self._speaker_embedding, speaker, speaker_name)
         if hp.multi_language and self._language_embedding is not None:
             encoded_input = self._add_conditional_embedding(encoded_input, self._language_embedding, language)
         
@@ -235,9 +224,9 @@ class Decoder(torch.nn.Module):
         mask = utils.lengths_to_mask(encoded_lenghts, max_length=ml)
         return self._decode(encoded_input, mask, target, teacher_forcing_ratio, speaker, language)
 
-    def inference(self, encoded_input, speaker, language):
+    def inference(self, encoded_input, speaker, speaker_name=None, language):
         mask = utils.lengths_to_mask(torch.LongTensor([encoded_input.size(1)]))
-        spectrogram, _, _ = self._decode(encoded_input, mask, None, 0.0, speaker, language)
+        spectrogram, _, _ = self._decode(encoded_input, mask, None, 0.0, speaker, speaker_name, language)
         return spectrogram
      
 
