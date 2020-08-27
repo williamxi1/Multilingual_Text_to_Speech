@@ -5,13 +5,13 @@ import os
 
 
 inputs = [
-"Hello.|000-zh|newsom|en",
+"fǎmíngdùn zhènqū wèi měiguó kānsàsīzhōu sītǎfúdé xiàn xiáxià de zhènqū|000-zh|000-zh|zh",
 ]
 
 
 tacotron_dir = "Multilingual_Text_to_Speech"
 wavernn_dir = "WaveRNN"
-tacotron_chpt = "newGENERATED-SWITCHING_loss-124-0.132"
+tacotron_chpt = "newGENERATED-SWITCHING_loss-19-0.117"
 wavernn_chpt = "wavernn_weight.pyt"
 
 
@@ -52,10 +52,11 @@ waveforms = [generate(model, s, hp.voc_gen_batched, hp.voc_target, hp.voc_overla
 from scipy.io.wavfile import write
 import numpy as np
 
+os.chdir('../audiofiles')
 
 for idx, w in enumerate(waveforms):
   print(inputs[idx])
   print(w)
   w_scaled = np.int16(w/np.max(np.abs(w)) * 32767)
-  write('NEWtest' + str(idx + 2) + '_84.wav', hp.sample_rate, w_scaled)
+  write('NEWtest' + str(idx + 2) + '_14.wav', hp.sample_rate, w_scaled)
   #IPython.display.display(IPython.display.Audio(data=w, rate=hp.sample_rate))

@@ -146,8 +146,8 @@ class Decoder(torch.nn.Module):
 
     def _add_conditional_embedding(self, encoded, layer, condition, speaker_name=None):
         """Compute speaker (lang.) embedding and concat it to the encoder output."""
-
-        if condition in hp.unique_speakers:
+        print(condition)
+        if speaker_name in hp.unique_speakers:
             embedded = layer(encoded if condition is None else condition)
         else:
             embedded = torch.tensor(np.load('speaker_embeds/' + speaker_name + '.npy'))
@@ -224,7 +224,7 @@ class Decoder(torch.nn.Module):
         mask = utils.lengths_to_mask(encoded_lenghts, max_length=ml)
         return self._decode(encoded_input, mask, target, teacher_forcing_ratio, speaker, language)
 
-    def inference(self, encoded_input, speaker, speaker_name=None, language):
+    def inference(self, encoded_input, speaker, speaker_name, language):
         mask = utils.lengths_to_mask(torch.LongTensor([encoded_input.size(1)]))
         spectrogram, _, _ = self._decode(encoded_input, mask, None, 0.0, speaker, speaker_name, language)
         return spectrogram
@@ -395,7 +395,7 @@ class Tacotron(torch.nn.Module):
 
         return post_prediction, pre_prediction, stop_token, alignment, speaker_prediction, encoder_output
 
-    def inference(self, text, speaker=None, language=None):
+    def inference(self, text, speaker=None, speaker_name=None, language=None):
         # pretend having a batch of size 1
         text.unsqueeze_(0)
 
@@ -411,7 +411,7 @@ class Tacotron(torch.nn.Module):
         # decode with respect to speaker and language embeddings
         if language is not None and language.dim() == 3:
             language = torch.argmax(language, dim=2) # convert one-hot into indices
-        prediction = self._decoder.inference(encoded, speaker, language)
+        prediction = self._decoder.inference(encoded, speaker, speaker_name, language)
 
         # post process generated spectrogram
         prediction = prediction.transpose(1,2)
